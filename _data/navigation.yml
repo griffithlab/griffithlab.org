@@ -1,0 +1,53 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Research"
+  url: "/research/"
+  side: left
+
+- title: "News"
+  url: "/news/"
+  side: left
+
+- title: Software
+  url: "/software/"
+  side: left
+  dropdown:
+  - title: "CIViC"
+    url: "/software/civic/"
+  - title: "DoCM"
+    url: "/software/docm/"
+  - title: "DGIdb"
+    url: "/software/dgidb/"
+  - title: "GenVisR"
+    url: "/software/genvisr/"
+  - title: "regtools"
+    url: "/software/regtools/"
+  - title: "CWL Pipelines"
+    url: "/software/cwl/"
+
+- title: Publications
+  url: "/publications/"
+  side: left
+
+- title: Team
+  url: "/team/"
+  side: left
+  dropdown:
+  - title: "Current"
+    url: "/team/current/"
+  - title: "Former"
+    url: "/team/former/"
+
+- title: Teaching
+  url: "/teaching/"
+  side: left
+
+- title: Funding
+  url: "/funding/"
+  side: left
+
+- title: Contact
+  url: "/contact/"
+  side: right
