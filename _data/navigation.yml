@@ -14,18 +14,10 @@
   url: "/software/"
   side: left
   dropdown:
-  - title: "CIViC"
-    url: "/software/civic/"
-  - title: "DoCM"
-    url: "/software/docm/"
-  - title: "DGIdb"
-    url: "/software/dgidb/"
-  - title: "GenVisR"
-    url: "/software/genvisr/"
-  - title: "regtools"
-    url: "/software/regtools/"
-  - title: "CWL Pipelines"
-    url: "/software/cwl/"
+  - title: "Active"
+    url: "/software/active/"
+  - title: "Retired"
+    url: "/software/retired/"
 
 - title: Publications
   url: "/publications/"

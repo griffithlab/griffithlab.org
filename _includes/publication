@@ -1,0 +1,18 @@
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div class="publication">
+    <div class="row">
+        <div class="small-10 columns">
+            <p>
+                {{ include.authors }}
+                <b>{{ include.title }}</b>
+                {{ include.journal }}
+                <br>
+                <a href="{{ 'https://www.ncbi.nlm.nih.gov/pubmed/' | append: include.pmid }}">abstract</a>
+            </p>
+        </div>
+        <div class="small-2 columns">
+            <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ include.doi }}" data-hide-no-mentions="false" class="altmetric-embed"></div>
+        </div>
+    </div>
+</div>
