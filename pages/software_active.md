@@ -6,8 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/software/active/"
 header:
-  image: "VICC_color_combo_v2.png"
-  background-color: "#18252B"
+    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
 ### Coming soon...

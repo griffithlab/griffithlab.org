@@ -6,6 +6,5 @@ subheadline: ""
 teaser: ""
 permalink: "/funding/"
 header:
-  image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
-  background-color: "#18252B"
+    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
