@@ -7,6 +7,7 @@ teaser: ""
 permalink: "/team/former/"
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+breadcrumb: true
 ---
 
 ### Staff

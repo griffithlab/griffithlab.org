@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Join"
+title: "Software"
 meta_title: ""
 subheadline: ""
 teaser: ""

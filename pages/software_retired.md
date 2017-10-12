@@ -7,6 +7,7 @@ teaser: ""
 permalink: "/software/retired/"
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+breadcrumb: true
 ---
 
 ### Coming soon...
