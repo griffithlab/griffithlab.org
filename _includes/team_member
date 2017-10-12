@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="small-4 columns">
+    <img src="{{include.image}}">
+  </div>
+  <div class="small-8 columns">
+    <h5>Bio:</h5>
+    <p>{{ include.bio }}</p>
+  </div>
+</div>
+
+<div class="row">
+<div class="small-3 small-centered columns">
+<ul class="inline-list social-icons">
+{% for social_item in site.data.socialmedia %}
+  {% if social_item.member_name == include.member_name %}
+    {% for social_item in social_item.social %}
+        <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+</div>
