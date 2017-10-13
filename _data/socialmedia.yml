@@ -14,10 +14,14 @@
       url: https://github.com/genome/vicc
       class: icon-github
       title: Github repo for site.
-    - name: YouTube
+    - name: Twitter
       url: http://www.youtube.com/PhlowMedia
-      class: icon-youtube
+      class: icon-twitter
       title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+    - name: User
+      url: https://malachigriffith.org
+      class: icon-user
+      title: personal website
 
 #- name: Twitter
 #  url: http://twitter.com/phlow

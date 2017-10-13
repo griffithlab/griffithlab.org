@@ -77,7 +77,11 @@
 .icon-vimeo:before,
 .icon-warning:before,
 .icon-xing:before,
-.icon-youtube:before {
+.icon-youtube:before,
+.icon-user:before,
+.icon-link:before,
+.icon-info:before,
+.icon-info-with-circle:before {
   display: inline-block;
   font-family: "iconfont";
   font-style: normal;
@@ -147,3 +151,7 @@
 .icon-warning:before { content: "\f131"; }
 .icon-xing:before { content: "\f135"; }
 .icon-youtube:before { content: "\f132"; }
+.icon-user:before { content: "\f138"; }
+.icon-link:before { content: "\f139"; }
+.icon-info:before { content: "\f13a"; }
+.icon-info-with-circle:before { content: "\f13b"; }
