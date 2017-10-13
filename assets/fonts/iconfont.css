@@ -6,6 +6,7 @@
   font-family: "iconfont";
   src: url("./iconfont.eot");
   src: url("./iconfont.eot?#iefix") format("embedded-opentype"),
+       url("./iconfont.woff2") format("woff2"),
        url("./iconfont.woff") format("woff"),
        url("./iconfont.ttf") format("truetype"),
        url("./iconfont.svg#iconfont") format("svg");
@@ -47,13 +48,15 @@
 .icon-feather:before,
 .icon-github:before,
 .icon-globe:before,
-.icon-googleplus:before,
 .icon-heart:before,
 .icon-heart-outlined:before,
 .icon-home:before,
+.icon-info:before,
+.icon-info-with-circle:before,
 .icon-instagram:before,
 .icon-lab-flask:before,
 .icon-leaf:before,
+.icon-link:before,
 .icon-linkedin:before,
 .icon-mail:before,
 .icon-message:before,
@@ -73,15 +76,12 @@
 .icon-tumblr:before,
 .icon-twitter:before,
 .icon-upload-to-cloud:before,
+.icon-user:before,
 .icon-video:before,
 .icon-vimeo:before,
 .icon-warning:before,
 .icon-xing:before,
-.icon-youtube:before,
-.icon-user:before,
-.icon-link:before,
-.icon-info:before,
-.icon-info-with-circle:before {
+.icon-youtube:before {
   display: inline-block;
   font-family: "iconfont";
   font-style: normal;
@@ -120,13 +120,15 @@
 .icon-feather:before { content: "\f114"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
-.icon-googleplus:before { content: "\f136"; }
 .icon-heart:before { content: "\f117"; }
 .icon-heart-outlined:before { content: "\f118"; }
 .icon-home:before { content: "\f119"; }
+.icon-info:before { content: "\f13a"; }
+.icon-info-with-circle:before { content: "\f13b"; }
 .icon-instagram:before { content: "\f11a"; }
 .icon-lab-flask:before { content: "\f11b"; }
 .icon-leaf:before { content: "\f11c"; }
+.icon-link:before { content: "\f139"; }
 .icon-linkedin:before { content: "\f11d"; }
 .icon-mail:before { content: "\f11e"; }
 .icon-message:before { content: "\f11f"; }
@@ -146,12 +148,9 @@
 .icon-tumblr:before { content: "\f12c"; }
 .icon-twitter:before { content: "\f12d"; }
 .icon-upload-to-cloud:before { content: "\f12e"; }
+.icon-user:before { content: "\f138"; }
 .icon-video:before { content: "\f12f"; }
 .icon-vimeo:before { content: "\f130"; }
 .icon-warning:before { content: "\f131"; }
 .icon-xing:before { content: "\f135"; }
 .icon-youtube:before { content: "\f132"; }
-.icon-user:before { content: "\f138"; }
-.icon-link:before { content: "\f139"; }
-.icon-info:before { content: "\f13a"; }
-.icon-info-with-circle:before { content: "\f13b"; }

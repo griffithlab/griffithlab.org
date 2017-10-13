@@ -18,9 +18,9 @@
       url: http://www.youtube.com/PhlowMedia
       class: icon-twitter
       title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-    - name: User
+    - name: Link
       url: https://malachigriffith.org
-      class: icon-user
+      class: icon-link
       title: personal website
 
 #- name: Twitter
