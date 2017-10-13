@@ -3,62 +3,36 @@
   class: icon-github
   title: Github repo for site.
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
 - member_name: Zach
   social:
     - name: GitHub
-      url: https://github.com/genome/vicc
+      url: https://github.com/zlskidmore
       class: icon-github
-      title: Github repo for site.
+      title: github repo
     - name: Twitter
-      url: http://www.youtube.com/PhlowMedia
+      url: https://twitter.com/zlskidmore
       class: icon-twitter
-      title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+      title: "Professional twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/zachary-skidmore-0799653a/
+      class: icon-linkedin
+      title: "Professional linkedin account"
+
+- member_name: Malachi
+  social:
+    - name: GitHub
+      url: https://github.com/malachig
+      class: icon-github
+      title: github repo
+    - name: Twitter
+      url: https://twitter.com/malachigriffith
+      class: icon-twitter
+      title: "Professional twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/malachigriffith/
+      class: icon-linkedin
+      title: "Professional linkedin account"
     - name: Link
       url: https://malachigriffith.org
       class: icon-link
       title: personal website
-
-#- name: Twitter
-#  url: http://twitter.com/phlow
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
-
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
-
-#- name: Phlow YouTube Google+
-#  url: https://plus.google.com/u/0/+Phlow
-#  class: icon-googleplus
-#  title: "YouTube Google+"
-
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil

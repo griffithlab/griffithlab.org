@@ -3,8 +3,10 @@
     <img src="{{include.image}}">
   </div>
   <div class="small-8 columns">
-    <h5>Bio:</h5>
-    <p>{{ include.bio }}</p>
+    <b>Role:</b>
+      <p>{{ include.role }}</p>
+    <b>Bio:</b>
+      <p>{{ include.bio }}</p>
   </div>
 </div>
 
