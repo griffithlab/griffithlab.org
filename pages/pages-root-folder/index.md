@@ -30,7 +30,7 @@ header:
 ## Research Overview
 Our research is committed to development of open access and open source resources for cancer genome analysis. Research projects cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA and protein) to identify markers for diagnosis, prognosis and drug response prediction in cancer. We have contributed to the early development of methods for analysis of transcriptional regulation (ORegAnno) and RNA-seq analysis and visualization (Alexa Platform).
 
-## Prinicple Investigators
+## Principal Investigators
 
 <div class="row">
   <div class="small-6 columns">
