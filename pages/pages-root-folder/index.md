@@ -54,9 +54,9 @@ Our research is committed to development of open access and open source resource
   <div class="small-6 columns">
     <p>
     Dr. Malachi Griffith is an Assistant Director of the McDonnell Genome Institute and an Assistant Professor in the Department of Medicine. Dr. Griffith's research is focused on the development of genomics, bioinformatics and statistical methods as they apply to the study of cancer biology and medicine. A particular focus of his work is in the translation of genomics data from whole genome, exome and transcriptome sequencing into clinically actionable observations and personalized cancer therapies.
-    <br>
+    <br><br>
     Dr. Griffith has developed and instructs bioinformatics workshops for the Canadian Bioinformatics Workshops organization, Cold Spring Harbor Laboratories, and others. He is currently funded by an NIH R00 career development award. He has also received numerous awards from from the Natural Sciences and Engineering Research Council, the Michael Smith Foundation for Health Research, and British Columbia Cancer Agency. He also received a Research Studentship from the National Cancer Institute of Canada and Terry Fox Foundation and was ranked #2 nationally in the Biomedical Research Category.
-    <br>
+    <br><br>
     Before coming to Washington University Dr. Griffith was a bioinformatics post-doctoral fellow at the BC Cancer Agency Genome Sciences center in Vancouver, British Columbia. He received his Ph.D. (Medical Genetics, 2009) from the University of British Columbia and B.S. (Biochemistry and Biology with Honors, 2002) from the University of Winnipeg.
     </p>
   </div>
