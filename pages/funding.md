@@ -9,11 +9,13 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
+The Griffith Lab is located at the The McDonnell Genome Institute at Washington University in St Louis. The McDonnell Genome Institute is one of four large-scale sequencing centers in the United States funded by the National Institutes of Health (NIH) and National Human Genome Research Institute (NHGRI).
+
 ### Malachi Griffith
-My research is supported by a Pathway to Independence Award from the National Institutes of Health (NIH), National Human Genome Research Institute (NHGRI) (Award: K99 HG007940). The McDonnell Genome Institute, of Washington University School of Medicine also supports my research. I have an academic appointment in the Department of Genetics and I am a member of the Siteman Cancer Center
+Dr. Malachi Griffith is currently supported by a Pathway to Independence Award from the National Institutes of Health (NIH), National Human Genome Research Institute (NHGRI) (Award: R00 HG007940). His primary academic appointment at Washington University is in the Department of Medicine and he has a secondary appointment in the Department of Genetics. The McDonnell Genome Institute supports the computational and sequence data production aspects of his research. He is also a member of the Siteman Cancer Center.
 
 ### Obi Griffith
-The McDonnell Genome Institute at Washington University in St Louis is one of four large-scale sequencing centers in the United States funded by the National Institutes of Health (NIH) and National Human Genome Research Institute (NHGRI). I am currently supported by a Young Investigator Award from the Cancer Research Foundation, a Translation Grant from the V Foundation, a Transition Career Development Award (K22) from the National Cancer Institute (NCI), and an Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01) award from the NCI.
+Dr. Obi Griffith is currently supported by a Young Investigator Award from the Cancer Research Foundation, a Translation Grant from the V Foundation, a Transition Career Development Award (K22) from the National Cancer Institute (NCI), and an Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01) award from the NCI.
 
 {% include gallery %}
 
