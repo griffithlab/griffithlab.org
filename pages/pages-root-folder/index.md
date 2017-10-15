@@ -28,9 +28,15 @@ header:
 ---
 
 ## Research Overview
-Our research is committed to development of open access and open source resources for cancer genome analysis. Research projects cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA and protein) to identify markers for diagnosis, prognosis and drug response prediction in cancer. We have contributed to the early development of methods for analysis of transcriptional regulation (ORegAnno) and RNA-seq analysis and visualization (Alexa Platform).
+The Griffith Lab is an interdisciplinary team of biologists, bioinformaticians, computer scientists, and software engineers. Each member of the lab is trained to use computational biology approaches to address research questions relating to cancer biology and precision cancer medicine. We train students and post-docs with a biology background that would like to develop bioinformatics skills. We are equally interested in trainees with a computer science background that would like to apply these skills to studying cancer and improving patient outcomes.
 
-## principal Investigators
+Our research projects cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA and protein) to identify markers for diagnosis, prognosis and drug response prediction in cancer.
+
+In addition to many ongoing large scale cancer genome/transcriptome data analysis projects, clinical trial data analyses, and Genomics Tumor Board case studies, the Griffith Lab actively develops methods, algorithms and tools to help others perform these analyses. We have made substantial contributions to open source and open access resources for the scientific community including creation of platforms for alternative expression analysis (www.alexaplatform.org), regulatory region annotation (www.oreganno.org), mining drug-gene interactions (www.dgidb.org), curation of functional mutations (www.docm.info), the clinical interpretation of variants in cancer (www.civicdb.org) the design of personalized cancer vaccines (github.com/griffithlab/pVAC-Seq), integration of whole genome and RNA-seq data in a regulatory and splicing context (github.com/griffithlab/regtools), and GenVisR for genomic data visualization (github.com/griffithlab/GenVisR).
+
+We have published over 100 papers with major areas of focus in precision medicine, cancer, genomics, immunogenomics, biomarker discovery, sequence analysis, gene regulation and alternative RNA splicing.
+
+## Principal Investigators
 
 <div class="row">
   <div class="small-6 columns">
@@ -55,9 +61,9 @@ Our research is committed to development of open access and open source resource
     <p>
     Dr. Malachi Griffith is an Assistant Director of the McDonnell Genome Institute and an Assistant Professor in the Department of Medicine. Dr. Griffith's research is focused on the development of genomics, bioinformatics and statistical methods as they apply to the study of cancer biology and medicine. A particular focus of his work is in the translation of genomics data from whole genome, exome and transcriptome sequencing into clinically actionable observations and personalized cancer therapies.
     <br><br>
-    Dr. Griffith has developed and instructs bioinformatics workshops for the Canadian Bioinformatics Workshops organization, Cold Spring Harbor Laboratories, and others. He is currently funded by an NIH R00 career development award. He has also received numerous awards from from the Natural Sciences and Engineering Research Council, the Michael Smith Foundation for Health Research, and British Columbia Cancer Agency. He also received a Research Studentship from the National Cancer Institute of Canada and Terry Fox Foundation and was ranked #2 nationally in the Biomedical Research Category. He has also been profiled as an 'up and coming investigator' by Genome Technology Magazine and as an emerging talent in Wired Magazine's Annual 'Smart List'.
+    Dr. Griffith has developed and instructs bioinformatics workshops for the Canadian Bioinformatics Workshops organization, Cold Spring Harbor Laboratories, and others. He is currently funded by an NIH NHGRI R00 career development award. He has also received numerous awards from from the Natural Sciences and Engineering Research Council, the Michael Smith Foundation for Health Research, the British Columbia Cancer Agency, the University of British Columbia, and the University of Winnipeg. Dr. Griffith received a Research Studentship from the National Cancer Institute of Canada and Terry Fox Foundation and was ranked #2 nationally in the Biomedical Research Category. He has also been profiled as an 'up and coming investigator' by Genome Technology Magazine and as an emerging talent in Wired Magazine's Annual 'Smart List'.
     <br><br>
-    Before coming to Washington University Dr. Griffith was a bioinformatics post-doctoral fellow at the BC Cancer Agency Genome Sciences center in Vancouver, British Columbia. He received his Ph.D. (Medical Genetics, 2009) from the University of British Columbia and B.S. (Biochemistry and Biology with Honors, 2002) from the University of Winnipeg.
+    Before coming to Washington University, Dr. Griffith was a bioinformatics post-doctoral fellow at the BC Cancer Agency Genome Sciences center in Vancouver, British Columbia. He received his Ph.D. (Medical Genetics, 2009) from the University of British Columbia and B.S. (Biochemistry and Biology with Honors, 2002) from the University of Winnipeg.
     </p>
   </div>
 </div>
