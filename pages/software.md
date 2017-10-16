@@ -11,7 +11,9 @@ header:
 
 <div class="row">
     <div class="small-4 columns">
-        <img src="/assets/img/software/CIViC_logo.png">
+        <a href="https://civic.genome.wustl.edu/home">
+            <img src="/assets/img/software/CIViC_logo.png">
+        </a>
     </div>
     <div class="small-8 columns">
         <h5>Description:</h5>
@@ -34,7 +36,9 @@ header:
 
 <div class="row">
     <div class="small-4 columns">
-        <img src="/assets/img/software/docm.png">
+        <a href="http://docm.genome.wustl.edu/">
+            <img src="/assets/img/software/docm.png">
+        </a>
     </div>
     <div class="small-8 columns">
         <h5>Description:</h5>
