@@ -6,10 +6,6 @@
   url: "/research/"
   side: left
 
-- title: "News"
-  url: "/news/"
-  side: left
-
 - title: Software
   url: "/software/"
   side: left
@@ -43,3 +39,10 @@
 - title: Contact
   url: "/contact/"
   side: right
+
+- title: News
+  url: "/news/"
+  side: left
+  dropdown:
+  - title: "News Archive"
+    url: "/news/archive/"
