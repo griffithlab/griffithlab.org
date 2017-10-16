@@ -213,6 +213,22 @@
     "youtube": {
       "codepoint": 61706,
       "source": "./youtube.svg"
+    },
+    "user": {
+      "codepoint": 61752,
+      "source": "svg-files-for-custom-font/user.svg"
+    },
+    "link": {
+      "codepoint": 61753,
+      "source": "svg-files-for-custom-font/link.svg"
+    },
+    "info": {
+      "codepoint": 61754,
+      "source": "svg-files-for-custom-font/info.svg"
+    },
+    "info-with-circle": {
+      "codepoint": 61755,
+      "source": "svg-files-for-custom-font/info-with-circle.svg"
     }
   },
   "options": {

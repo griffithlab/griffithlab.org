@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf",
-    "current": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf"
+    "previous": "d8b52c887af05646e38eea174a8a01d059caa57d1ad0503450dfad8bee1f911c",
+    "current": "d8b52c887af05646e38eea174a8a01d059caa57d1ad0503450dfad8bee1f911c"
   },
   "fonts": [
     "./iconfont.ttf",
     "./iconfont.svg",
     "./iconfont.woff",
-    "./iconfont.eot"
+    "./iconfont.eot",
+    "./iconfont.woff2"
   ],
   "glyphs": {
     "archive": {
@@ -106,10 +107,6 @@
       "codepoint": 61718,
       "source": "svg-files-for-custom-font/globe.svg"
     },
-    "googleplus": {
-      "codepoint": 61750,
-      "source": "svg-files-for-custom-font/googleplus.svg"
-    },
     "heart": {
       "codepoint": 61719,
       "source": "svg-files-for-custom-font/heart.svg"
@@ -122,6 +119,14 @@
       "codepoint": 61721,
       "source": "svg-files-for-custom-font/home.svg"
     },
+    "info": {
+      "codepoint": 61754,
+      "source": "svg-files-for-custom-font/info.svg"
+    },
+    "info-with-circle": {
+      "codepoint": 61755,
+      "source": "svg-files-for-custom-font/info-with-circle.svg"
+    },
     "instagram": {
       "codepoint": 61722,
       "source": "svg-files-for-custom-font/instagram.svg"
@@ -133,6 +138,10 @@
     "leaf": {
       "codepoint": 61724,
       "source": "svg-files-for-custom-font/leaf.svg"
+    },
+    "link": {
+      "codepoint": 61753,
+      "source": "svg-files-for-custom-font/link.svg"
     },
     "linkedin": {
       "codepoint": 61725,
@@ -210,6 +219,10 @@
       "codepoint": 61742,
       "source": "svg-files-for-custom-font/upload-to-cloud.svg"
     },
+    "user": {
+      "codepoint": 61752,
+      "source": "svg-files-for-custom-font/user.svg"
+    },
     "video": {
       "codepoint": 61743,
       "source": "svg-files-for-custom-font/video.svg"
@@ -234,6 +247,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
