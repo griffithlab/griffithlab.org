@@ -20,7 +20,13 @@ header:
 
 {% include publication authors="Zolkind P, Dunn GP, Lin T, Griffith M, Griffith OL, Uppaluri R." title="Neoantigens in immunotherapy and personalized vaccines: Implications for head and neck squamous cell carcinoma." journal="Oral Oncology. 2016 Oct 14. pii: S1368-8375(16)30175-0." doi="10.1016/j.oraloncology.2016.09.010" pmid="27751760"%}
 
+{% include publication authors="Fu X, Jeselsohn R, Pereira R, Hollingsworth EF, Creighton CJ, Li F, Shea M, Nardone A, De Angelis C, Heiser LM, Anur P, Wang N, Grasso CS, Spellman P, Griffith OL, Tsimelzon A, Gutierrez C, Huang S, Edwards DP, Trivedi MV, Rimawi MF, Lopez-Terrada D, Hilsenbeck SG, Gray JW, Brown M, Osborne CK, Schiff R." title="FOXA1 overexpression mediates endocrine resistance by altering the ER transcriptome and IL-8 expression in ER-positive breast cancer." journal="Proceedings of the National Academy of Sciences. 2016 113(43):E6600-E6609." doi="10.1073/pnas.1612835113" pmid="27791031"%}
+
 {% include publication authors="Skidmore ZL, Wagner AH, Lesurf R, Campbell KM, Kunisaki J, Griffith OL, Griffith M." title="GenVisR: Genomic Visualizations in R." journal="Bioinformatics. 2016 Oct 1;32(19):3012-4." doi="10.1093/bioinformatics/btw325" pmid="27288499"%}
+
+{% include publication authors="Xin J, Mark A, Afrasiabi1 C, Tsueng G, Juchler M, Gopal N, Stupp GS, Putman TE, Ainscough BJ, Griffith OL, Torkamani A, Whetzel PL, Mungall CJ, Mooney SD, Su AI, Wu C." title="MyGene.info and MyVariant.info: Gene and Variant Annotation Query Services." journal=Genome Biology. 2016 17(1):91. " doi="10.1186/s13059-016-0953-9" pmid="27154141"%}
+
+{% include publication authors="Turpin J, Ling C, Crosby EJ, Hartman ZC, Simond AM, Chodosh LA, Rennhack JP, Andrechek ER, Ozcelik J, Hallett M, Mills GB, Cardiff RD, Gray JW, Griffith OL, Muller WJ." title="The ErbB2ΔEx16 splice variant is a major oncogenic driver in breast cancer that promotes a pro-metastatic tumor microenvironment." journal="Oncogene. 2016 35(47):6053-6064" doi="10.1038/onc.2016.129" pmid="27157621"%}
 
 {% include publication authors="Ainscough BJ, Griffith M, Coffman AC, Wagner AH, Kunisaki J, Choudhary MN, McMichael JF, Fulton RS, Wilson RK, Griffith OL, Mardis ER." title="DoCM: a database of curated mutations in cancer." journal=" Nature Methods. 2016 Sep 29;13(10):806-7." doi="10.1038/nmeth.4000" pmid="27684579"%}
 
