@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Join"
+title: "Members"
 meta_title: ""
 subheadline: ""
 teaser: ""
@@ -15,6 +15,8 @@ breadcrumb: true
 {% include team_member member_name="Malachi" bio="I am an Assistant Professor of Medicine and Assistant Director of the McDonnell Genome Institute at Washington University School of Medicine. I have more than 13 years of experience in the fields of genomics, bioinformatics, data mining, and cancer research. My research is focused on improving our understanding of cancer biology and the development of personalized medicine strategies for cancer using genomics and informatics technologies. I develop bioinformatics and statistical methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction." image="/assets/img/team/MG14.jpg" role="Principle Investigator" %}
 
 ### Graduate Students
+
+{% include team_member member_name="Yang" bio="I am a medical student at Washington University in St. Louis, currently conducting a year of research in the Griffith Lab. I completed my undegraduate at Yale University in 2016, where I obtained a B.S. in Molecular Biophysics and Biochemistry. Broadly speaking, I am interested in applying mathematical and computational techniques to investigating the fundamental principles of cancer immunology and translating these discoveries into novel immmunotherapies. More specifically, I am involved in a diverse set of projects in the lab, including CIViC, DGIdb, pVACTools, Regtools, and various collaborative clinical efforts." image="/assets/img/team/yangyang_feng.png" role="Graduate Student/MD" %}
 
 ### Postdoctoral Researchers
 
