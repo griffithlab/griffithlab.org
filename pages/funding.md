@@ -21,23 +21,35 @@ Dr. Obi Griffith is currently supported by a Young Investigator Award from the C
 
 <div class="row">
   <div class="small-3 columns">
-    <img src="/assets/img/funding/mgi_logo_shadow.png">
+    <a href="http://genome.wustl.edu/">
+      <img src="/assets/img/funding/mgi_logo_shadow.png">
+    </a>
   </div>
   <div class="small-3 columns">
-    <img src="/assets/img/funding/NIH_Master_Logo_Vertical_2Color.png">
+    <a href="https://www.nih.gov/">
+      <img src="/assets/img/funding/NIH_Master_Logo_Vertical_2Color.png">
+    </a>
   </div>
   <div class="small-3 columns">
-    <img src="/assets/img/funding/WUSTL_Medicine.png">
+    <a href="https://medicine.wustl.edu/">
+      <img src="/assets/img/funding/WUSTL_Medicine.png">
+    </a>
   </div>
   <div class="small-3 columns">
-    <img src="/assets/img/funding/US-NIH-NCI-Logo.png">
+    <a href="https://www.cancer.gov/">
+      <img src="/assets/img/funding/US-NIH-NCI-Logo.png">
+    </a>
   </div>
 </div>
 <div class="row">
   <div class="small-3 columns">
-    <img src="/assets/img/funding/V_foundation.png">
+    <a href="https://www.jimmyv.org/">
+      <img src="/assets/img/funding/V_foundation.png">
+    </a>
   </div>
   <div class="small-3 columns">
-    <img src="/assets/img/funding/US-NIH-NHGRI-Logo.png">
+    <a href="https://www.genome.gov/">
+      <img src="/assets/img/funding/US-NIH-NHGRI-Logo.png">
+    </a>
   </div>
 </div>

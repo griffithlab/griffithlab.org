@@ -52,17 +52,13 @@
       class: icon-linkedin
       title: "Professional linkedin account"
 
-- member_name: Yang
+- member_name: Kelsy
   social:
     - name: GitHub
-      url: https://github.com/yanyangfeng
+      url: https://github.com/kcotto
       class: icon-github
       title: github repo
-    - name: Twitter
-      url: https://twitter.com/yanyangf
-      class: icon-twitter
-      title: "Professional twitter account"
     - name: linkedin
-      url: https://www.linkedin.com/in/yang-yang-feng-0903bb31/
+      url: https://www.linkedin.com/in/kelsy-cotto-94b9018b
       class: icon-linkedin
       title: "Professional linkedin account"
