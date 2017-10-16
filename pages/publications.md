@@ -24,7 +24,7 @@ header:
 
 {% include publication authors="Skidmore ZL, Wagner AH, Lesurf R, Campbell KM, Kunisaki J, Griffith OL, Griffith M." title="GenVisR: Genomic Visualizations in R." journal="Bioinformatics. 2016 Oct 1;32(19):3012-4." doi="10.1093/bioinformatics/btw325" pmid="27288499"%}
 
-{% include publication authors="Xin J, Mark A, Afrasiabi1 C, Tsueng G, Juchler M, Gopal N, Stupp GS, Putman TE, Ainscough BJ, Griffith OL, Torkamani A, Whetzel PL, Mungall CJ, Mooney SD, Su AI, Wu C." title="MyGene.info and MyVariant.info: Gene and Variant Annotation Query Services." journal=Genome Biology. 2016 17(1):91. " doi="10.1186/s13059-016-0953-9" pmid="27154141"%}
+{% include publication authors="Xin J, Mark A, Afrasiabi1 C, Tsueng G, Juchler M, Gopal N, Stupp GS, Putman TE, Ainscough BJ, Griffith OL, Torkamani A, Whetzel PL, Mungall CJ, Mooney SD, Su AI, Wu C." title="MyGene.info and MyVariant.info: Gene and Variant Annotation Query Services." journal="Genome Biology. 2016 17(1):91." doi="10.1186/s13059-016-0953-9" pmid="27154141"%}
 
 {% include publication authors="Turpin J, Ling C, Crosby EJ, Hartman ZC, Simond AM, Chodosh LA, Rennhack JP, Andrechek ER, Ozcelik J, Hallett M, Mills GB, Cardiff RD, Gray JW, Griffith OL, Muller WJ." title="The ErbB2ΔEx16 splice variant is a major oncogenic driver in breast cancer that promotes a pro-metastatic tumor microenvironment." journal="Oncogene. 2016 35(47):6053-6064" doi="10.1038/onc.2016.129" pmid="27157621"%}
 
