@@ -3,8 +3,8 @@
     <img src="{{include.image}}">
   </div>
   <div class="small-8 columns">
-    <p> <b>Role:</b> {{ include.role }}</p>
-    <p> <b>Bio:</b> {{ include.bio }}</p>
+    <p class="small-gap"> <b>Role:</b> {{ include.role }}</p>
+    <p class="small-gap"> <b>Bio:</b> {{ include.bio }}</p>
   </div>
 </div>
 
