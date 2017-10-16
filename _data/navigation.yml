@@ -16,11 +16,6 @@
 - title: Software
   url: "/software/"
   side: left
-  dropdown:
-  - title: "Active"
-    url: "/software/active/"
-  - title: "Retired"
-    url: "/software/retired/"
 
 - title: Publications
   url: "/publications/"
@@ -29,11 +24,6 @@
 - title: Team
   url: "/team/"
   side: left
-  dropdown:
-  - title: "Current"
-    url: "/team/current/"
-  - title: "Former"
-    url: "/team/former/"
 
 - title: Teaching
   url: "/teaching/"

@@ -51,3 +51,18 @@
       url: https://www.linkedin.com/in/yang-yang-feng-0903bb31/
       class: icon-linkedin
       title: "Professional linkedin account"
+
+- member_name: Yang
+  social:
+    - name: GitHub
+      url: https://github.com/yanyangfeng
+      class: icon-github
+      title: github repo
+    - name: Twitter
+      url: https://twitter.com/yanyangf
+      class: icon-twitter
+      title: "Professional twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/yang-yang-feng-0903bb31/
+      class: icon-linkedin
+      title: "Professional linkedin account"
