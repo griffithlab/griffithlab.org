@@ -8,57 +8,76 @@
     - name: GitHub
       url: https://github.com/zlskidmore
       class: icon-github
-      title: github repo
+      title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/zlskidmore
       class: icon-twitter
-      title: "Professional twitter account"
+      title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/zachary-skidmore-0799653a/
       class: icon-linkedin
-      title: "Professional linkedin account"
+      title: "Professional LinkedIn account"
+
+- member_name: Alex
+  social:
+    - name: GitHub
+      url: https://github.com/ahwagner
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/handlerwagner
+      class: icon-twitter
+      title: "Personal Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/alexphd
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: https://malachigriffith.org
+      class: icon-link
+      title: "Personal Website"
 
 - member_name: Malachi
   social:
     - name: GitHub
       url: https://github.com/malachig
       class: icon-github
-      title: github repo
+      title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/malachigriffith
       class: icon-twitter
-      title: "Professional twitter account"
+      title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/malachigriffith/
       class: icon-linkedin
-      title: "Professional linkedin account"
+      title: "Professional LinkedIn account"
     - name: Link
       url: https://malachigriffith.org
       class: icon-link
-      title: personal website
+      title: "Personal Website"
 
 - member_name: Yang
   social:
     - name: GitHub
       url: https://github.com/yanyangfeng
       class: icon-github
-      title: github repo
+      title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/yanyangf
       class: icon-twitter
-      title: "Professional twitter account"
+      title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/yang-yang-feng-0903bb31/
       class: icon-linkedin
-      title: "Professional linkedin account"
+      title: "Professional LinkedIn account"
 
 - member_name: Kelsy
   social:
     - name: GitHub
       url: https://github.com/kcotto
       class: icon-github
-      title: github repo
+      title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/kelsy-cotto-94b9018b
       class: icon-linkedin
-      title: "Professional linkedin account"
+      title: "Professional LinkedIn account"
