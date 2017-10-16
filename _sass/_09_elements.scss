@@ -71,8 +71,8 @@
     border-bottom: 1px solid #fff;
   }
   .alert-box.terminal {
-    background: $grey-12; 
-    color: #fff; 
+    background: $grey-12;
+    color: #fff;
     border-color: scale-color($grey-12, $lightness: -14%);
     font-family: $font-family-monospace;
   }
@@ -147,4 +147,32 @@ img.lazy {
     -o-transition: opacity 0.7s;
     transition: opacity 0.7s;
     opacity: 1;
+}
+
+/* map
+------------------------------------------------------------------- */
+
+/*
+ * https://github.com/daviddarnes/alembic
+ * Licensed under MIT */
+
+.map {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.map {
+  padding-bottom: 70%;
+}
+
+.map {
+  margin-bottom: .8rem;
 }
