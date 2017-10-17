@@ -78,3 +78,23 @@ header:
         </p>
     </div>
 </div>
+
+<div class="row">
+    <div class="small-4 columns">
+        <img src="/assets/img/software/dgidb.png">
+    </div>
+    <div class="small-8 columns">
+        <h5>Description:</h5>
+        <p>
+            Alex to do
+        </p>
+        <h5>Team members:</h5>
+        <p>
+            Alex Wagner
+        </p>
+        <h5>Citation:</h5>
+        <p>
+            Coming Soon!
+        </p>
+    </div>
+</div>
