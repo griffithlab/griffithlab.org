@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="small-4 columns">
+      <a href="{{ include.link }}">
+        <img src="{{ include.logo }}">
+      </a>
+    </div>
+    <div class="small-8 columns">
+        <h5>Description:</h5>
+        <p>
+            {{ include.description }}
+        </p>
+        <h5>Team members:</h5>
+        <p>
+            {{ include.team }}
+        </p>
+        <h5>Citation:</h5>
+        <p>
+          <a href="{{ include.citation_link }}">
+            {{ include.citation }}
+          </a>
+        </p>
+    </div>
+</div>
