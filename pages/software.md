@@ -79,6 +79,8 @@ header:
     </div>
 </div>
 
+<hr>
+
 <div class="row">
     <div class="small-4 columns">
         <img src="/assets/img/software/dgidb.png">
