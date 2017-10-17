@@ -9,7 +9,6 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-
 ### 2017
 
 {% include publication authors="Griffith M*, Spies NC*, Krysiak K*, McMichael JF, Coffman AC, Danos AM, Ainscough BJ, Ramirez CA, Rieke DT, Kujan L, Barnell EK, Wagner AH, Skidmore ZL, Wollam A, Liu CJ, Jones MR, Bilski RL, Lesurf R, Feng YY, Shah NM, Bonakdar M, Trani L, Matlock M, Ramu A, Campbell KM, Spies GC, Graubert AP, Gangavarapu K, Eldred JM, Larson DE, Walker JR, Good BM, Wu C, Su AI, Dienstmann R, Margolin AA, Tamborero D, Lopez-Bigas N, Jones SJ, Bose R, Spencer DH, Wartman LD, Wilson RK, Mardis ER, Griffith OL." title="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." journal=" Nature Genetics. 2017 Jan 31;49(2):170-174." doi="10.1038/ng.3774" pmid="28138153"%}
