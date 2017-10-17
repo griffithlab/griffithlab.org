@@ -21,7 +21,7 @@ header:
 
 <hr>
 
-{% include software logo="/assets/img/software/dgidb.png" link="" description="TODO" team="TODO" citation="TODO" citation="coming soon!" citation_link="" %}
+{% include software logo="/assets/img/software/dgidb.png" link="" description="TODO" team="TODO" citation="TODO" citation="DGIdb 2.0: mining clinically relevant drug-gene interactions" citation_link="https://www.ncbi.nlm.nih.gov/pubmed/26531824" citation2="DGIdb: mining the druggable genome" citation_link2="https://www.ncbi.nlm.nih.gov/pubmed/24122041" %}
 
 <hr>
 

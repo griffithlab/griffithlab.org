@@ -13,10 +13,13 @@
         <p>
             {{ include.team }}
         </p>
-        <h5>Citation:</h5>
+        <h5>Citation(s):</h5>
         <p>
           <a href="{{ include.citation_link }}">
             {{ include.citation }}
+          </a>
+          <br><a href="{{ include.citation_link2 }}">
+            {{ include.citation2 }}
           </a>
         </p>
     </div>
