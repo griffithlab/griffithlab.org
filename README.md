@@ -1,6 +1,6 @@
 ## Overview
 
-This is the github repo for the griffith lab [website](http://griffithlab.org). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). Development occurs on the master branch, the live site is located on the live branch.
+This is the github repo for the griffith lab [website](http://griffithlab.org). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). Development occurs on the dev branch, the live site is located on the master branch.
 
 ## Installation
 
