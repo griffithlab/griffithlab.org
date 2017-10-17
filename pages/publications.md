@@ -11,11 +11,22 @@ header:
 
 ### 2017
 
+{% include publication authors="Ma CX, Suman V, Goetz MP, Northfelt DW, Burkard ME, Ademuyiwa F, Naughton MJ, Margenthaler J, Aft R, Gray RJ, Tevaarwerk AJ, Wilke LG, Haddad TC, Moynihan T, Loprenzi C, Hieken T, Barnell EK, Skidmore ZL, Feng YY, Krysiak K, Hoog J, Guo Z, Nehring L, Wisinski KB, Mardis ER, Hagemann IS, Vij K, Sanati S, Al-Kateb H, Griffith OL, Griffith M, Doyle A, Erlichman C, Ellis MJ." title="A Phase II trial of neoadjuvant MK2206, an AKT inhibitor, with anastrozole in clinical stage 2 or 3 PIK3CA mutant ER positive and HER2 negative breast cancer." journal="Clin Cancer Res. 2017 Sep 5. pii: clincanres.1260.2017." doi="10.1158/1078-0432.CCR-17-1260" pmid="28874413"%}
+
+{% include publication authors="Feng YY, Griffith OL, Griffith M." title="Clinical implications of neoepitope landscapes for adult and pediatric cancers." journal="Genome Med. 2017 Aug 31;9(1):77." doi="10.1186/s13073-017-0470-9" pmid="28854952"%}i
+
+{% include publication authors="Ma CX, Gao F, Luo J, Northfelt DW, Goetz M, Forero A, Hoog J, Naughton M, Ademuyiwa F, Suresh R, Anderson KS, Margenthaler J, Aft R, Hobday T, Moynihan T, Gillanders W, Cyr A, Eberlein TJ, Hieken T, Krontiras H, Guo Z, Lee MV, Spies NC, Skidmore ZL, Griffith OL, Griffith M, Thomas S, Bumb C, Vij K, Bartlett CH, Koehler M, Al-Kateb H, Sanati S, Ellis MJ." title="NeoPalAna: Neoadjuvant Palbociclib, a Cyclin-Dependent Kinase 4/6 Inhibitor, and Anastrozole for Clinical Stage 2 or 3 Estrogen Receptor-Positive Breast Cancer." journal="Clinical Cancer Research. 2017 Aug 1;23(15):4055-4065." doi="10.1158/1078-0432.CCR-16-3206." pmid="28270497"%}
+
+{% include publication authors="Whyte MP, Griffith M, Trani L, Mumm S, Gottesman GS, McAlister WH, Krysiak K, Lesurf R, Skidmore ZL, Campbell KM, Rosman IS, Bayliss S, Bijanki VN, Nenninger A, Van Tine BA, Griffith OL, Mardis ER.
+" title="Melorheostosis: Exome sequencing of an associated dermatosis implicates postzygotic mosaicism of mutated KRAS." journal="Bone. 2017 Aug;101:145-155." doi="10.1016/j.bone.2017.04.010. " pmid="28434888"%}
+
+{% include publication authors="Lesurf R, Griffith OL, Griffith M, Hundal J, Trani L, Watson MA, Aft R, Ellis MJ, Ota D, Suman VJ, Meric-Bernstam F, Leitch AM, Boughey JC, Unzeitig G, Buzdar AU, Hunt KK, Mardis ER." title="Genomic characterization of HER2-positive breast cancer and response to neoadjuvant trastuzumab and chemotherapy-results from the ACOSOG Z1041 (Alliance) trial." journal="Annals of Oncology. 2017 May 1;28(5):1070-1077." doi="10.1093/annonc/mdx048" pmid="28453704"%}
+
 {% include publication authors="Griffith M*, Spies NC*, Krysiak K*, McMichael JF, Coffman AC, Danos AM, Ainscough BJ, Ramirez CA, Rieke DT, Kujan L, Barnell EK, Wagner AH, Skidmore ZL, Wollam A, Liu CJ, Jones MR, Bilski RL, Lesurf R, Feng YY, Shah NM, Bonakdar M, Trani L, Matlock M, Ramu A, Campbell KM, Spies GC, Graubert AP, Gangavarapu K, Eldred JM, Larson DE, Walker JR, Good BM, Wu C, Su AI, Dienstmann R, Margolin AA, Tamborero D, Lopez-Bigas N, Jones SJ, Bose R, Spencer DH, Wartman LD, Wilson RK, Mardis ER, Griffith OL." title="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." journal=" Nature Genetics. 2017 Jan 31;49(2):170-174." doi="10.1038/ng.3774" pmid="28138153"%}
 
-### 2016
+{% include publication authors="Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA." title="Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma" journal="Blood. 2017 Jan 26;129(4):473-483." doi="10.1182/blood-2016-07-729954" pmid="28064239"%}
 
-{% include publication authors="Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA." title="Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma" journal="Blood. 2016 Nov 14. pii: blood-2016-07-729954." doi="10.1182/blood-2016-07-729954" pmid="28064239"%}
+### 2016
 
 {% include publication authors="Zolkind P, Dunn GP, Lin T, Griffith M, Griffith OL, Uppaluri R." title="Neoantigens in immunotherapy and personalized vaccines: Implications for head and neck squamous cell carcinoma." journal="Oral Oncology. 2016 Oct 14. pii: S1368-8375(16)30175-0." doi="10.1016/j.oraloncology.2016.09.010" pmid="27751760"%}
 
