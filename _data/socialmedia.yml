@@ -92,3 +92,14 @@
       url: http://www.linkedin.com/in/susannakiwala
       class: icon-linkedin
       title: "Professional LinkedIn account"
+
+- member_name: Jason_K
+  social:
+    - name: GitHub
+      url: https://github.com/jkunisak
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/jason-kunisaki-09b7978a/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
