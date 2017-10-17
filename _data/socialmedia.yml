@@ -103,3 +103,32 @@
       url: https://www.linkedin.com/in/jason-kunisaki-09b7978a/
       class: icon-linkedin
       title: "Professional LinkedIn account"
+
+- member_name: Erica
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/erica-barnell-72b16a60/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+
+- member_name: Katie
+  social:
+    - name: GitHub
+      url: https://twitter.com/CampKatiee?lang=en
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: http://www.linkedin.com/in/katie-campbell-811b5373
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+
+- member_name: Ben
+  social:
+    - name: GitHub
+      url: https://github.com/bainscou
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/benainscough/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"

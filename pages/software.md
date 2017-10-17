@@ -22,7 +22,7 @@ header:
         </p>
         <h5>Team members:</h5>
         <p>
-            Malachi Griffith, Nicholas Spies, Kilannin Kyrisiak, Josh McMichael, Adam Coffman, Arpod Danos, Benjamin Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell,  Obi Griffith
+            Malachi Griffith, Nicholas Spies, Kilannin Kyrisiak, Josh McMichael, Adam Coffman, Arpod Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell,  Obi Griffith
         </p>
         <h5>Citation:</h5>
         <p>
@@ -43,11 +43,11 @@ header:
     <div class="small-8 columns">
         <h5>Description:</h5>
         <p>
-            Discover supported clinical interpretations of mutations related to cancer and collaborate with colleagues to add variants and support for cancer-related mutations.
+            The Database of Curated Mutations (DoCM) is an open access resource that outlines literature supported somatic mutations that are clinically or biologically relevant. Learn more(Link to DoCM about page)
         </p>
         <h5>Team members:</h5>
         <p>
-            Benjamin Ainscough, Malachi Griffith, Adam Coffman, Alex Wagner, Jason Kunisaki, Joshua McMichael, Obi Griffith
+            Ben Ainscough, Malachi Griffith, Adam Coffman, Alex Wagner, Jason Kunisaki, Joshua McMichael, Obi Griffith
         </p>
         <h5>Citation:</h5>
         <p>
