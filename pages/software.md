@@ -22,3 +22,11 @@ header:
 <hr>
 
 {% include software logo="/assets/img/software/dgidb.png" link="" description="TODO" team="TODO" citation="TODO" citation="coming soon!" citation_link="" %}
+
+<hr>
+
+{% include software logo="" link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" description="GenVisR is a bioconductor package designed to allow users to produce highly customizable publication quality graphics for genomic data primarily at the cohort level." team="Zachary Skidmore, Alex Wagner, Katie Campbell, Jason Kunisaki, Obi Griffith, Malachi Griffith." citation="GenVisR: Genomic Visualizations in R." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/27288499" %}
+
+<hr>
+
+{% include software logo="" link="https://github.com/griffithlab/regtools" description="Integrate DNA-seq and RNA-seq data to identify mutations that are associated with regulatory effects on gene expression." team="TODO" citation="TODO" citation_link="" %}
