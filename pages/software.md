@@ -9,7 +9,7 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-{% include software logo="/assets/img/software/CIViC_logo.png" link="https://civic.genome.wustl.edu/home" description="Discover supported clinical interpretations of mutations related to cancer and collaborate with colleagues to add variants and support for cancer-related mutations." team="Malachi Griffith, Nicholas Spies, Kilannin Kyrisiak, Josh McMichael, Adam Coffman, Arpod Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell,  Obi Griffith" citation="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/28138153" %}
+{% include software logo="/assets/img/software/CIViC_logo.png" link="https://civic.genome.wustl.edu/home" description="Discover supported clinical interpretations of mutations related to cancer and collaborate with colleagues to add variants and support for cancer-related mutations." team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell,  Obi Griffith" citation="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/28138153" %}
 
 <hr>
 
@@ -17,7 +17,7 @@ header:
 
 <hr>
 
-{% include software logo="/assets/img/software/pvaqtools.png" link="" description="A computational toolkit for aiding design of personalized cancer vaccines." team="Jasreet Hundal, Joshua McMichael, Malachi Griffith" citation="DoCM: a database of curated mutations in cancer." citation="coming soon!" citation_link="" %}
+{% include software logo="/assets/img/software/pvaqtools.png" link="" description="A computational toolkit for aiding design of personalized cancer vaccines." team="Jasreet Hundal, Joshua McMichael, Malachi Griffith" citation="DoCM: a database of curated mutations in cancer." citation="pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens" citation_link="https://www.ncbi.nlm.nih.gov/pubmed/26825632" %}
 
 <hr>
 
