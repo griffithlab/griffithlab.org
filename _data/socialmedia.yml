@@ -139,3 +139,11 @@
       url: https://github.com/kkrysiak
       class: icon-github
       title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/kilannin-krysiak-69047819/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Twitter
+      url: https://twitter.com/KilanninK
+      class: icon-twitter
+      title: "Professional Twitter account"
