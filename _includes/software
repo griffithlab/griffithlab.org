@@ -5,6 +5,7 @@
       </a>
     </div>
     <div class="small-8 columns">
+        <h4><a href="{{ include.link }}"> {{ include.title }} </a></h4>
         <h5>Description:</h5>
         <p>
             {{ include.description }}
@@ -13,6 +14,17 @@
         <p>
             {{ include.team }}
         </p>
+
+        <h5>Source code:</h5>
+        <p>
+          <a href="{{ include.source_link }}">
+            {{ include.source }}
+          </a>
+          <br><a href="{{ include.source_link2 }}">
+            {{ include.source2 }}
+          </a>
+        </p>
+
         <h5>Citation(s):</h5>
         <p>
           <a href="{{ include.citation_link }}">
