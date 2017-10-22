@@ -21,7 +21,7 @@ header:
     <p>
       <b>phone:</b> +1 314-747-9248<br>
       <b>fax:</b> +1 314-286-1810<br>
-      <b>email:</b> ogriffit@wustl.edu<br>
+      <b>email:</b> obigriffith@wustl.edu<br>
       <b>address:</b> Campus Box 8501<br>
     </p>
     </div>

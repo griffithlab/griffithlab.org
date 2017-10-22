@@ -3,6 +3,7 @@
     <img src="{{include.image}}">
   </div>
   <div class="small-8 columns">
+    <p class="small-gap"> <b> {{ include.full_name }} </b></p>
     <p class="small-gap"> <b>Role:</b> {{ include.role }}</p>
     <p class="small-gap"> <b>Bio:</b> {{ include.bio }}</p>
   </div>

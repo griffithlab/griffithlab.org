@@ -52,7 +52,26 @@
       class: icon-linkedin
       title: "Professional LinkedIn account"
     - name: Link
-      url: https://malachigriffith.org
+      url: http://malachigriffith.org
+      class: icon-link
+      title: "Personal Website"
+
+- member_name: Obi
+  social:
+    - name: GitHub
+      url: https://github.com/obigriffith
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/obigriffith
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/obigriffith/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: http://obigriffith.org
       class: icon-link
       title: "Personal Website"
 
@@ -154,3 +173,22 @@
       url: https://github.com/CodyRamirez
       class: icon-github
       title: "GitHub Profile"
+
+- member_name: Robert
+  social:
+    - name: GitHub
+      url: https://github.com/rlesurf
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/roblesurf
+      class: icon-twitter
+      title: "Professional Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/robertlesurf/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: http://lesurf.org
+      class: icon-link
+      title: "Personal Website"

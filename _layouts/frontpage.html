@@ -52,10 +52,20 @@ format: frontpage
 {% endif %}
 
 
+{% comment %}
+*
+* Next, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 
 {% comment %}
 *
-* First check, if there are any posts at all
+* Last check, if there are any posts at all
 *
 {% endcomment %}
 
@@ -101,13 +111,3 @@ format: frontpage
     </div><!-- /.row -->
 {% endunless %}
 
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
