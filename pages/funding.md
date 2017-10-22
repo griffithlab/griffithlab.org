@@ -15,7 +15,7 @@ The Griffith Lab is located at the The McDonnell Genome Institute at Washington 
 Dr. Malachi Griffith is currently supported by a Pathway to Independence Award from the National Institutes of Health (NIH), National Human Genome Research Institute (NHGRI) (Award: R00 HG007940). His primary academic appointment at Washington University is in the Department of Medicine and he has a secondary appointment in the Department of Genetics. The McDonnell Genome Institute supports the computational and sequence data production aspects of his research. He is also a member of the Siteman Cancer Center.
 
 ### Obi Griffith
-Dr. Obi Griffith is currently supported by a Young Investigator Award from the Cancer Research Foundation, a Translation Grant from the V Foundation, a Transition Career Development Award (K22) from the National Cancer Institute (NCI), and an Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01) award from the NCI.
+Dr. Obi Griffith is currently supported by a Young Investigator Award from the Cancer Research Foundation, a Translation Grant from the V Foundation, a Transition Career Development Award (K22) from the National Cancer Institute (NCI), and an Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01) award from the NCI. His primary academic appointment at Washington University is in the Department of Medicine and he has a secondary appointment in the Department of Genetics. The McDonnell Genome Institute supports the computational and sequence data production aspects of his research. He is also a member of the Siteman Cancer Center.
 
 {% include gallery %}
 
