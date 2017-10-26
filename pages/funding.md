@@ -42,17 +42,17 @@ Dr. Obi Griffith is currently supported by a Young Investigator Award from the C
   </div>
 </div>
 <div class="row">
-  <div class="small-3 columns">
+  <div class="small-4 columns">
     <a href="https://www.jimmyv.org/">
       <img src="/assets/img/funding/V_foundation.png">
     </a>
   </div>
-  <div class="small-3 columns">
+  <div class="small-4 columns">
     <a href="https://cancerresearchfoundation.org/">
       <img src="/assets/img/funding/CRF_logo.png">
     </a>
   </div>
-  <div class="small-3 columns">
+  <div class="small-4 columns">
     <a href="https://www.genome.gov/">
       <img src="/assets/img/funding/US-NIH-NHGRI-Logo.png">
     </a>
