@@ -57,7 +57,6 @@ header:
 
 ## Past Members
 
-</div>
 <div class="row">
   <div class="small-4 columns">
     <ul>
