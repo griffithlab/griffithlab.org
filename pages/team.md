@@ -59,22 +59,16 @@ header:
 
 <div class="row">
   <div class="small-4 columns">
-    <ul>
-      <li>Lei Chen</li>
-      <li>Shou Han</li>
-      <li>Shaopeng Liu</li>
-    </lu>
+      <h5>Lei Chen</h5>
+      <h5>Shou Han</h5>
+      <h5>Shaopeng Liu</h5>
   </div>
   <div class="small-4 columns">
-  <ul>
-    <li>Ju Heon Maeng</li>
-    <li>Alex Wollam</li>
-  </lu>
+      <h5>Rachel Bilski</h5>
+      <h5>Greg Spies</h5>
   </div>
   <div class="small-4 columns">
-  <ul>
-    <li>Rachel Bilski</li>
-    <li>Greg Spies</li>
-  </lu>
+      <h5>Ju Heon Maeng</h5>
+      <h5>Alex Wollam</h5>
   </div>
 </div>
