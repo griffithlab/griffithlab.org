@@ -54,3 +54,28 @@ header:
 ## Alumni
 
 {% include team_member member_name="Robert" full_name="Robert Lesurf, PhD" bio="Dr Lesurf was a Postdoc with Obi Griffith and Elaine Mardis at the McDonnell Genome Institute of Washington University where he led several investigations into the genomic architecture of cancer. In one project, he focused on studying genomic features associated with response to trastuzumab in HER2-positive breast cancer. In a series of other projects, he worked to identify highly validated regulatory sites within the human genome to update the ORegAnno database and design a novel regulome capture reagent. He initiated ongoing studies with this reagent in conjunction with targeted sequencing of TCGA breast cancer samples to identify recurrent alterations in the regulatory regions of the disease. Robert is now a Data Scientist at the Ontario Institute of Cancer Research." image="/assets/img/team/robert_lesurf.jpg" role="Postdoctoral Researcher" %}
+
+## Past Members
+
+</div>
+<div class="row">
+  <div class="small-4 columns">
+    <ul>
+      <li>Lei Chen</li>
+      <li>Shou Han</li>
+      <li>Shaopeng Liu</li>
+    </lu>
+  </div>
+  <div class="small-4 columns">
+  <ul>
+    <li>Ju Heon Maeng</li>
+    <li>Alex Wollam</li>
+  </lu>
+  </div>
+  <div class="small-4 columns">
+  <ul>
+    <li>Rachel Bilski</li>
+    <li>Greg Spies</li>
+  </lu>
+  </div>
+</div>
