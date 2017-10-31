@@ -199,3 +199,18 @@
       url: https://github.com/fgomez02
       class: icon-github
       title: "GitHub Profile"
+
+- member_name: Jason_W
+  social:
+    - name: GitHub
+      url: https://github.com/jasonwalker80
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/jason-walker-2a091528/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Twitter
+      url: https://twitter.com/jasonwalker80
+      class: icon-twitter
+      title: "Professional Twitter account"
