@@ -9,7 +9,7 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-{% include software title="CIViC: Clinical Interpretation of Variants in Cancer" logo="/assets/img/software/CIViC_logo.png" link="http://civicdb.org" description="CIViC provides a knowledgebase and curation system for expert crowdsourcing the clinical interpretation of variants in cancer." team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell, Obi Griffith" source="civic-client (GitHub)" source_link="https://github.com/griffithlab/civic-client" source2="civic-server (GitHub)" source_link2="https://github.com/griffithlab/civic-server" citation="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/28138153" %}
+{% include software title="CIViC: Clinical Interpretations of Variants in Cancer" logo="/assets/img/software/CIViC_logo.png" link="http://civicdb.org" description="CIViC provides a knowledgebase and curation system for expert crowdsourcing the clinical interpretation of variants in cancer." team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell, Obi Griffith" source="civic-client (GitHub)" source_link="https://github.com/griffithlab/civic-client" source2="civic-server (GitHub)" source_link2="https://github.com/griffithlab/civic-server" citation="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/28138153" %}
 
 <hr>
 
@@ -25,7 +25,7 @@ header:
 
 <hr>
 
-{% include software title="GenVisR: Genomic Visualizations in R" logo="" link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" description="GenVisR is a bioconductor package designed to allow users to produce highly customizable publication quality graphics for genomic data primarily at the cohort level." team="Zachary Skidmore, Alex Wagner, Katie Campbell, Jason Kunisaki, Obi Griffith, Malachi Griffith." source="GenVisR (BioConductor)" source_link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" source2="GenVisR (GitHub)" source_link2="https://github.com/griffithlab/GenVisR" citation="GenVisR: Genomic Visualizations in R." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/27288499" %}
+{% include software title="GenVisR: Genomic Visualizations in R" logo="" link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" description="GenVisR is a bioconductor package designed to allow users to produce highly customizable publication quality graphics for genomic data primarily at the cohort level." team="Zachary Skidmore, Alex Wagner, Katie Campbell, Jason Kunisaki, Obi Griffith, Malachi Griffith." source="GenVisR (Bioconductor)" source_link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" source2="GenVisR (GitHub)" source_link2="https://github.com/griffithlab/GenVisR" citation="GenVisR: Genomic Visualizations in R." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/27288499" %}
 
 <hr>
 
