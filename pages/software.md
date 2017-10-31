@@ -9,7 +9,7 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-{% include software title="CIViC: Clinical Interpretation of Variants in Cancer" logo="/assets/img/software/CIViC_logo.png" link="http://civicdb.org" description="CIViC provides a knowledgebase and curation system for expert crowdsourcing the clinical interpretation of variants in cancer." team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell,  Obi Griffith" source="civic-client (GitHub)" source_link="https://github.com/griffithlab/civic-client" source2="civic-server (GitHub)" source_link2="https://github.com/griffithlab/civic-server" citation="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/28138153" %}
+{% include software title="CIViC: Clinical Interpretation of Variants in Cancer" logo="/assets/img/software/CIViC_logo.png" link="http://civicdb.org" description="CIViC provides a knowledgebase and curation system for expert crowdsourcing the clinical interpretation of variants in cancer." team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Ben Ainscough, Erica Barnell, Alex Wagner, Zachary Skidmore, Robert Lesurf, Lee Trani, Avinash Ramu, Katie Campbell, Obi Griffith" source="civic-client (GitHub)" source_link="https://github.com/griffithlab/civic-client" source2="civic-server (GitHub)" source_link2="https://github.com/griffithlab/civic-server" citation="CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/28138153" %}
 
 <hr>
 
@@ -29,4 +29,4 @@ header:
 
 <hr>
 
-{% include software title="regtools" logo="" link="http://regtools.org" description="regtools is a set of tools that integrate DNA-seq and RNA-seq data to help interpret mutations in a regulatory and splicing context." team="TO DO" source="regtools (GitHub)" source_link="https://github.com/griffithlab/regtools"  citation="" citation_link="" %}
+{% include software title="regtools" logo="" link="http://regtools.org" description="regtools is a set of tools that integrate DNA-seq and RNA-seq data to help interpret mutations in a regulatory and splicing context." team="Yang-Yang Feng, Avinash Ramu, Kelsi Cotto, Jason Kunisaki, Zachary Skidmore, Obi Griffith, Malachi Griffith" source="regtools (GitHub)" source_link="https://github.com/griffithlab/regtools"  citation="" citation_link="" %}
