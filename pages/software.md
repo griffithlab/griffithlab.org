@@ -21,7 +21,7 @@ header:
 
 <hr>
 
-{% include software title="pVACtools: Tools for Personalized Cancer Vaccine Design" logo="/assets/img/software/pvaqtools.png" link="http://pvactools.org" description="A computational toolkit for aiding design of personalized cancer vaccines." team="Jasreet Hundal, Susanna Kiwala, Joshua McMichael, Yan-Yang Feng, Christopher Miller, Aaron Graubert, Amber Wollam, Connor Liu, Jason Walker, Obi Griffith, Malachi Griffith" source="pVACtools (GitHub)" source_link="https://github.com/griffithlab/pVACtools" citation="pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens" citation_link="https://www.ncbi.nlm.nih.gov/pubmed/26825632" %}
+{% include software title="pVACtools: Tools for Personalized Cancer Vaccine Design" logo="/assets/img/software/pvaqtools.png" link="http://pvactools.org" description="A computational toolkit for aiding design of personalized cancer vaccines." team="Jasreet Hundal, Susanna Kiwala, Joshua McMichael, Yang-Yang Feng, Christopher Miller, Aaron Graubert, Amber Wollam, Connor Liu, Jason Walker, Obi Griffith, Malachi Griffith" source="pVACtools (GitHub)" source_link="https://github.com/griffithlab/pVACtools" citation="pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens" citation_link="https://www.ncbi.nlm.nih.gov/pubmed/26825632" %}
 
 <hr>
 
@@ -29,4 +29,4 @@ header:
 
 <hr>
 
-{% include software title="regtools" logo="" link="http://regtools.org" description="regtools is a set of tools that integrate DNA-seq and RNA-seq data to help interpret mutations in a regulatory and splicing context." team="Yang-Yang Feng, Avinash Ramu, Kelsi Cotto, Jason Kunisaki, Zachary Skidmore, Obi Griffith, Malachi Griffith" source="regtools (GitHub)" source_link="https://github.com/griffithlab/regtools"  citation="" citation_link="" %}
+{% include software title="regtools" logo="" link="http://regtools.org" description="regtools is a set of tools that integrate DNA-seq and RNA-seq data to help interpret mutations in a regulatory and splicing context." team="Yang-Yang Feng, Avinash Ramu, Kelsy Cotto, Jason Kunisaki, Zachary Skidmore, Obi Griffith, Malachi Griffith" source="regtools (GitHub)" source_link="https://github.com/griffithlab/regtools"  citation="" citation_link="" %}
