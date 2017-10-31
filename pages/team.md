@@ -45,7 +45,7 @@ header:
 
 ## Staff
 
-{% include team_member member_name="Zach" full_name="Zachary Skidmore, MEng" bio='Zach is a staff scientist at the McDonnell Genome Institute at Washington University in Saint Louis. His undergraduate work was completed at the Ohio State University where he obtained a B.Sc. in molecular biology. His Graduate work was performed at the University of Illinois where he obtained a M.eng in bioinformatics. His research focus is in the realm of cancer biology where he uses and develops tools and techniques to aid in the analysis and interpretation of cancer sequencing data. He leads maintenance/development on the bioconductor package <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">GenVisR</a>, a graphics program designed to visualize cohort level genomic data. He is the creator and a primary instructor for the <a href="http://genviz.org/">Genomic Data Visualization and Interpretation</a> workshop course and is the webmaster for many of the griffith lab websites. Currently his primary research project is the genomic evaluation of non-cirrhotic hepatocellular carcinoma.' image="/assets/img/team/zachary_skidmore.jpg" role="Staff Scientist/Bioinformatician" %}
+{% include team_member member_name="Zach" full_name="Zachary L. Skidmore, MEng" bio='Zach is a staff scientist at the McDonnell Genome Institute at Washington University in Saint Louis. His undergraduate work was completed at the Ohio State University where he obtained a B.Sc. in molecular biology. His Graduate work was performed at the University of Illinois where he obtained a M.eng in bioinformatics. His research focus is in the realm of cancer biology where he uses and develops tools and techniques to aid in the analysis and interpretation of cancer sequencing data. He leads maintenance/development on the bioconductor package <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">GenVisR</a>, a graphics program designed to visualize cohort level genomic data. He is the creator and a primary instructor for the <a href="http://genviz.org/">Genomic Data Visualization and Interpretation</a> workshop course and is the webmaster for many of the griffith lab websites. Currently his primary research project is the genomic evaluation of non-cirrhotic hepatocellular carcinoma.' image="/assets/img/team/zachary_skidmore.jpg" role="Staff Scientist/Bioinformatician" %}
 
 {% include team_member member_name="Susanna" full_name="Susanna Kiwala, MEng" bio='Susanna is a Programmer Analyst at the McDonnell Genome Institute at Washington University in St. Louis. She obtained her M.eng in Computer Science from Southern Illinois University in Edwardsville. She is the lead software developer for the <a href="https://civic.genome.wustl.edu/home">Clinical Interpretations of Variants in Cancer project</a>, the <a href="http://dgidb.org/">Drug Gene Interaction Database</a>, and <a href="https://github.com/griffithlab/pVAC-Tools">pVACtools</a>.' image="/assets/img/team/susanna_kiwala.jpeg" role="Programmer Analyst" %}
 
@@ -55,9 +55,17 @@ header:
 
 {% include team_member member_name="Jason_W" full_name="Jason Walker, Bsc, Ba, Meng (summer 2018)" bio='Jason Walker is a Biomedical Informatics Project Manager at the McDonnell Genome Institute. He works with the Griffith Lab to translate grant objectives and analysis goals into well defined development milestones for software engineers to iterate on projects, achieving consistent progress while maintaining best practices in software development methodologies. His responsibilities include overseeing the integration and adaptation of numerous bioinformatics tools for cancer genomics automated analysis of high-throughput DNA and RNA sequence data. In addition to large-scale research projects, he works with a CLIA licensed laboratory on clinical-grade, CAP-accredited analysis workflows for reporting somatic variants in cancer patient genomes.' image='/assets/img/team/jason_walker.jpg' role='Biomedical Informatics Project Manager' %}
 
+{% include team_member member_name="Lynzey" full_name="Lynzey Kujan" bio='' image="/assets/img/team/lynzey_kujan.jpg" role="" %}
+
+{% include team_member member_name="Joshua" full_name="Joshua McMichael" bio='' image="/assets/img/team/joshua_mcmichael.jpg" role="" %}
+
+{% include team_member member_name="Adam" full_name="Adam Coffman" bio='' image="/assets/img/team/adam_coffman.jpg" role="" %}
+
 ## Students
 
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
+
+{% include team_member member_name="Kaitlina" full_name="Kaitlina Clark" bio='' image="/assets/img/team/kaitlina_clark.png" role="" %}
 
 ## Alumni
 
