@@ -11,6 +11,8 @@ header:
 
 ### 2017
 
+{% include publication authors="Bartlett NL, Costello BA, LaPlant BR, Ansell SM, Kuruvilla JG, Reeder CB, Thye LS, Anderson DM, Krysiak K, Ramirez C, Qi J, Siegel BA, Griffith M, Griffith OL, Gomez F and Fehniger TA." title="Single-Agent Ibrutinib in Relapsed or Refractory Follicular Lymphoma: A Phase 2 Consortium Trial." journal="Blood. 2017 Oct 26. pii: blood-2017-09-804641." doi="10.1182/blood-2017-09-804641" pmid="29074501"%}
+
 {% include publication authors="Ma CX, Suman V, Goetz MP, Northfelt DW, Burkard ME, Ademuyiwa F, Naughton MJ, Margenthaler J, Aft R, Gray RJ, Tevaarwerk AJ, Wilke LG, Haddad TC, Moynihan T, Loprenzi C, Hieken T, Barnell EK, Skidmore ZL, Feng YY, Krysiak K, Hoog J, Guo Z, Nehring L, Wisinski KB, Mardis ER, Hagemann IS, Vij K, Sanati S, Al-Kateb H, Griffith OL, Griffith M, Doyle A, Erlichman C, Ellis MJ." title="A Phase II trial of neoadjuvant MK2206, an AKT inhibitor, with anastrozole in clinical stage 2 or 3 PIK3CA mutant ER positive and HER2 negative breast cancer." journal="Clin Cancer Res. 2017 Sep 5. pii: clincanres.1260.2017." doi="10.1158/1078-0432.CCR-17-1260" pmid="28874413"%}
 
 {% include publication authors="Feng YY, Griffith OL, Griffith M." title="Clinical implications of neoepitope landscapes for adult and pediatric cancers." journal="Genome Med. 2017 Aug 31;9(1):77." doi="10.1186/s13073-017-0470-9" pmid="28854952"%}
