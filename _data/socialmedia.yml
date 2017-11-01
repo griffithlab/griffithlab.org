@@ -214,3 +214,17 @@
       url: https://twitter.com/jasonwalker80
       class: icon-twitter
       title: "Professional Twitter account"
+
+- member_name: Arpad
+  social:
+    - name: GitHub
+      url: https://github.com/arpaddanos
+      class: icon-github
+      title: "GitHub Profile"
+
+- member_name: Kaitlina
+  social:
+    - name: GitHub
+      url: https://github.com/kaitlinaclark
+      class: icon-github
+      title: "GitHub Profile"
