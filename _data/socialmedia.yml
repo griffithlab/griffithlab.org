@@ -228,3 +228,10 @@
       url: https://github.com/kaitlinaclark
       class: icon-github
       title: "GitHub Profile"
+
+- member_name: Lynzey
+  social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/lynzey-kujan-135a03a3
+      class: icon-linkedin
+      title: "Professional linkedin account"

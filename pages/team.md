@@ -55,7 +55,7 @@ header:
 
 {% include team_member member_name="Jason_W" full_name="Jason Walker, BSc, BA, MEng (summer 2018)" bio='Jason Walker is a Biomedical Informatics Project Manager at the McDonnell Genome Institute. He works with the Griffith Lab to translate grant objectives and analysis goals into well defined development milestones for software engineers to iterate on projects, achieving consistent progress while maintaining best practices in software development methodologies. His responsibilities include overseeing the integration and adaptation of numerous bioinformatics tools for cancer genomics automated analysis of high-throughput DNA and RNA sequence data. In addition to large-scale research projects, he works with a CLIA licensed laboratory on clinical-grade, CAP-accredited analysis workflows for reporting somatic variants in cancer patient genomes.' image='/assets/img/team/jason_walker.jpg' role='Biomedical Informatics Project Manager' %}
 
-{% include team_member member_name="Lynzey" full_name="Lynzey Kujan" bio='' image="/assets/img/team/lynzey_kujan.png" role="" %}
+{% include team_member member_name="Lynzey" full_name="Lynzey Kujan" bio='Lynzey Kujan is a Staff Curator at the McDonnell Genome Institute at Washington University in Saint Louis. She obtained her BS in Biomedical and Mechanical Engineering from Saint Louis University. She is the lead curator for the Clinical Interpretations of Variants in Cancer project (CIViC). She has also contributed to the CyclinE project as well.' image="/assets/img/team/lynzey_kujan.png" role="Lab Assistant/Staff Curator" %}
 
 {% include team_member member_name="Joshua" full_name="Joshua McMichael" bio='' image="/assets/img/team/joshua_mcmichael.jpg" role="" %}
 
