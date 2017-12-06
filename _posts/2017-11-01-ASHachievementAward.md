@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "ASH Abstract Achievement Awards - Cody Ramirez and Felicia Gomez"
-teaser: "Cody Ramirez and Felicia Gomez were honored with an abstract achievement award for the 2017 American Society of Hematology Annual Meeting."
+teaser: "Cody Ramirez and Felicia Gomez were honored with abstract achievement awards for the 2017 American Society of Hematology Annual Meeting."
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
