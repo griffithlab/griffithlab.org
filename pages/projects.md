@@ -4,7 +4,7 @@ title: "Projects"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/research/projects"
+permalink: "/research/projects/"
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 breadcrumb: true
