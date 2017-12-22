@@ -5,6 +5,9 @@
 - title: "Research"
   url: "/research/"
   side: left
+  dropdown:
+  - title: "Research Projects"
+    url: "/research/projects/"
 
 - title: News
   url: "/news/"

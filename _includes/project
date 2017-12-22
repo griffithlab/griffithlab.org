@@ -1,0 +1,11 @@
+<div class="project">
+    <h3>{{ include.project }}</h3>
+    <h5>Description:</h5>
+        <p>
+            {{ include.description }}
+        </p>
+    <h5>Team members:</h5>
+        <p>
+            {{ include.team }}
+        </p>
+</div>
