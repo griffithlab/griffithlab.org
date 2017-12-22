@@ -6,7 +6,7 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "Research Projects"
+  - title: "Projects"
     url: "/research/projects/"
 
 - title: News
