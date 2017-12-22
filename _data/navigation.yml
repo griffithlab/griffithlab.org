@@ -5,16 +5,6 @@
 - title: "Research"
   url: "/research/"
   side: left
-  dropdown:
-  - title: "Projects"
-    url: "/research/projects/"
-
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
 
 - title: Software
   url: "/software/"
@@ -35,6 +25,13 @@
 - title: Funding
   url: "/funding/"
   side: left
+
+- title: News
+  url: "/news/"
+  side: left
+  dropdown:
+  - title: "News Archive"
+    url: "/news/archive/"
 
 - title: Contact
   url: "/contact/"
