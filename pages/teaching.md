@@ -16,6 +16,7 @@ Drs Griffith guest lecture regularly for a number of courses at Washington Unive
 2. [Genomic Visualizations](http://genviz.org/) in-depth tutorial in the interpretation and visualization of omic data. Among the topics we will cover are: “Genome Browsing and Interpretation”, “Differential Expression and Pathway Analysis”, “Best in Class tools for visualization”, and others. Students should have a background in biology and a basic knowledge of the R programming language and linux.
 
 ### Recent and Upcoming Workshops
-1. Cold Spring Harbor Laboratory Courses - [Advanced Sequencing Technologies & Applications, New York, Nov 7-18, 2017](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=17)
-2. Physalia Courses - [Genomic Data Visualization and Interpretation, Berlin, Sept 11-15, 2017](https://www.physalia-courses.org/courses-workshops/course14/)
-3. Canadian Bioinformatics Workshops - [Informatics for RNA-Seq Analysis, Toronto, July 10-12, 2017](https://bioinformatics.ca/workshops/2017/informatics-rna-seq-analysis-2017)
+1. PR Informatics - [Precision Medicine Bioinformatics: From raw genome and transcriptome data to clinical interpretation, Glasgow, Scotland, United Kingdom](https://www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/)
+2. Cold Spring Harbor Laboratory Courses - [Advanced Sequencing Technologies & Applications, New York, Nov 7-18, 2017](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=17)
+3. Physalia Courses - [Genomic Data Visualization and Interpretation, Berlin, Sept 11-15, 2017](https://www.physalia-courses.org/courses-workshops/course14/)
+4. Canadian Bioinformatics Workshops - [Informatics for RNA-Seq Analysis, Toronto, July 10-12, 2017](https://bioinformatics.ca/workshops/2017/informatics-rna-seq-analysis-2017)
