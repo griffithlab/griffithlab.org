@@ -73,7 +73,7 @@ header:
 
 {% include team_member member_name="Connor" full_name="Connor Liu, BSc" bio='Connor completed his first two years of medical school at Washington University in St. Louis and is currently pursuing a year of research as a Howard Hughes medical fellow. He graduated from Washington University in 2013 where he obtained a B.A. in Biology and Biochemistry. As a medical student, his scientific and clinical interests in oncology led him to join the Griffith lab in 2016 where he has contributed to a number of projects including CIVIC and pVACtools. His current focus is on using bioinformatic strategies to develop personalized treatments for glioblastoma.' image='/assets/img/team/connor_liu.jpg' role='Medical Student/MA' %}
 
-{% include team_member member_name="Avi" full_name="Avinash Ramu, MSc" bio='Avi was a software developer at the McDonnell Genome Institute. He made major contributions to the Genome Modeling System, regtools, and others. He is currently a PhD student at Washington University.' image='/assets/img/team/avi_ramu.jpg' role='' %}
+{% include team_member member_name="Avi" full_name="Avinash Ramu, MSc" bio='Avi was a Bioinformatician at the McDonnell Genome Institute. He made major contributions to the Genome Modeling System, regtools, and others. He is currently a PhD student at Washington University.' image='/assets/img/team/avi_ramu.jpg' role='Bioinformatician' %}
 
 ## Past Members (Interns, Rotation Students, etc)
 
