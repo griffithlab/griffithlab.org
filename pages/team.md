@@ -9,7 +9,7 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-## Principal Investigator
+## Principal Investigators
 
 {% include team_member member_name="Malachi" full_name="Malachi Griffith, PhD" bio='Dr. Griffith is an Assistant Professor of Medicine and Assistant Director of the McDonnell Genome Institute at Washington University School of Medicine. He has more than 13 years of experience in the fields of genomics, bioinformatics, data mining, and cancer research. His research is focused on improving our understanding of cancer biology and the development of personalized medicine strategies for cancer using genomics and informatics technologies. He develops bioinformatics and statistical methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction.' image="/assets/img/team/MG14.jpg" role="Principle Investigator" %}
 
