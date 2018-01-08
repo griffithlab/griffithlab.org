@@ -17,7 +17,7 @@ $include-html-nav-classes: $include-html-classes !default;
 
 // We use these to control margin and padding
 $sub-nav-list-margin: rem-calc(-4 0 18) !default;
-$sub-nav-list-padding-top: rem-calc(4) !default;
+$sub-nav-list-padding-top: rem-calc(1) !default;
 
 // We use this to control the definition
 $sub-nav-font-family: $body-font-family !default;
@@ -26,7 +26,7 @@ $sub-nav-font-color: $aluminum !default;
 $sub-nav-font-weight: $font-weight-normal !default;
 $sub-nav-text-decoration: none !default;
 $sub-nav-padding: rem-calc(3 16) !default;
-$sub-nav-border-radius: 3px !default;
+$sub-nav-border-radius: 10px !default;
 $sub-nav-font-color-hover: scale-color($sub-nav-font-color, $lightness: -25%) !default;
 
 
@@ -56,13 +56,14 @@ $sub-nav-item-divider-margin: rem-calc(12) !default;
 @mixin sub-nav(
   $font-color: $sub-nav-font-color,
   $font-size: $sub-nav-font-size,
-  $active-bg: $sub-nav-active-bg,
-  $active-bg-hover: $sub-nav-active-bg-hover) {
+  $active-bg: $primary-color,
+  $active-bg-hover: $secondary-color) {
   display: block;
   width: auto;
   overflow: hidden;
   margin: $sub-nav-list-margin;
   padding-top: $sub-nav-list-padding-top;
+  background: #ffffff;
 
   dt {
     text-transform: uppercase;
@@ -81,6 +82,7 @@ $sub-nav-item-divider-margin: rem-calc(12) !default;
     color: $font-color;
 
     a {
+      background: #ffffff;
       text-decoration: $sub-nav-text-decoration;
       color: $sub-nav-font-color;
       padding: $sub-nav-padding;
@@ -98,6 +100,7 @@ $sub-nav-item-divider-margin: rem-calc(12) !default;
       color: $sub-nav-active-color;
       &:hover {
         background: $active-bg-hover;
+        color: #000000;
       }
     }
     @if $sub-nav-item-divider != "" {
