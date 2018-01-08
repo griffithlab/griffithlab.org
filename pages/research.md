@@ -9,6 +9,20 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
+<div data-magellan-expedition="fixed">
+  <ul class="sub-nav">
+    <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer genomics</a></li>
+    <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer genomics</a></li>
+    <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer genomics</a></li>
+    <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma genomics</a></li>
+    <li data-magellan-arrival="Head_and_neck_cancer_genomics"><a href="#Head_and_neck_cancer_genomics">Head and neck cancer</a></li>
+    <li data-magellan-arrival="Models_of_cancer_genomics"><a href="#Models_of_cancer_genomics">Models of cancer genomics</a></li>
+    <li data-magellan-arrival="Immunogenomics"><a href="#Immunogenomics">Immunogenomics</a></li>
+    <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
+    <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
+  </ul>
+</div>
+
 ## Overview
 
 The Griffith lab is a combined research group driven by the interests of twin scientists [Malachi Griffith](http://malachigriffith.org/) and [Obi Griffith](http://obigriffith.org/). The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
@@ -19,21 +33,27 @@ The group is engaged in a large number of tumor sequencing projects for AML, bre
 
 In addition to our basic and clinical research interests, we are also passionate about the scholarship of teaching and learning. We have made substantial contributions to the training and education of tomorrow's bioinformaticians through our involvement in [CBW](https://bioinformatics.ca/), [CSHL](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18) workshops and the [BioStars](https://www.biostars.org/) forum. We have developed online courses for [RNA sequence analysis](http://rnaseq.wiki) and [Genomic Visualization in R](http://genviz.org). We are currently developing a bioinformatics and clinical informatics training program that takes a practical, hands-on approach to cancer genome analysis for personalized medicine.
 
-## Research Projects
+<a name="Breast_cancer_genomics"></a>
+<h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
 
-{% include project 
-  title="Genomic analysis of the Stat1-/- mouse model of ER+ breast cancer" 
+{% include project
+  title="Genomic analysis of the Stat1-/- mouse model of ER+ breast cancer"
 
-  description="ER+ luminal tumors are the most frequent subtype of breast cancer. Stat1−/− mice develop mammary tumors that closely resemble this cancer subtype. To identify transforming events that contribute to tumorigenesis, we performed whole genome sequencing of Stat1−/− primary mammary tumors and matched normal tissues. This investigation identified somatic truncating mutations affecting the prolactin receptor (Prlr) in all tumor samples. Targeted sequencing confirmed the presence of these mutations in precancerous lesions, indicating this is an early event in tumorigenesis. Functional evaluation showed that co-expression of truncated and wild type Prlr led to aberrant Stat3 and Stat5 activation downstream of the receptor, cellular transformation in vitro and tumor formation in vivo." 
+  description="ER+ luminal tumors are the most frequent subtype of breast cancer. Stat1−/− mice develop mammary tumors that closely resemble this cancer subtype. To identify transforming events that contribute to tumorigenesis, we performed whole genome sequencing of Stat1−/− primary mammary tumors and matched normal tissues. This investigation identified somatic truncating mutations affecting the prolactin receptor (Prlr) in all tumor samples. Targeted sequencing confirmed the presence of these mutations in precancerous lesions, indicating this is an early event in tumorigenesis. Functional evaluation showed that co-expression of truncated and wild type Prlr led to aberrant Stat3 and Stat5 activation downstream of the receptor, cellular transformation in vitro and tumor formation in vivo."
 
-  team="Obi Griffith, Malachi Griffith, Kilannin Krysiak, Zachary Skidmore, Jasreet Hundal, Lee Trani" 
+  team="Obi Griffith, Malachi Griffith, Kilannin Krysiak, Zachary Skidmore, Jasreet Hundal, Lee Trani"
 
-  image="/assets/img/research/Stat1_slider_image.png" 
+  image="/assets/img/research/Stat1_slider_image.png"
 
-  citation="Griffith et al. 2016. Truncating Prolactin Receptor Mutations Promote Tumor Growth in Murine Estrogen Receptor-Alpha Mammary Carcinomas. Cell Reports. 17(1):249-60." 
+  citation="Griffith et al. 2016. Truncating Prolactin Receptor Mutations Promote Tumor Growth in Murine Estrogen Receptor-Alpha Mammary Carcinomas. Cell Reports. 17(1):249-60."
 
-  pmid="27681435" 
+  pmid="27681435"
 %}
+
+
+
+<a name="Liver_cancer_genomics"></a>
+<h2 data-magellan-destination="Liver_cancer_genomics">Liver cancer genomics</h2>
 
 {% include project
   title="A genomic case study of mixed fibrolamellar hepatocellular carcinoma"
@@ -49,3 +69,17 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid="27029710"
 %}
 
+<a name="Lung_cancer_genomics"></a>
+<h2 data-magellan-destination="Lung_cancer_genomics">Lung cancer genomics</h2>
+<a name="Lymphoma_genomics"></a>
+<h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
+<a name="Head_and_neck_cancer"></a>
+<h2 data-magellan-destination="Head_and_neck_cancer">Head and neck cancer</h2>
+<a name="Models_of_cancer_genomics"></a>
+<h2 data-magellan-destination="Models_of_cancer_genomics">Models of cancer genomics</h2>
+<a name="Variant_interpretation"></a>
+<h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
+<a name="Immunogenomics"></a>
+<h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
+<a name="Precision_medicine"></a>
+<h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
