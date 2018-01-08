@@ -11,7 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="Principle_Investigators"><a href="#Principle_Investigators">Principle Investigators</a></li>
+    <li data-magellan-arrival="Principal_Investigators"><a href="#Principal_Investigators">Principal Investigators</a></li>
     <li data-magellan-arrival="Faculty"><a href="#Faculty">Faculty</a></li>
     <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Postdoctoral Researchers</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
@@ -22,12 +22,12 @@ header:
   </ul>
 </div>
 
-<h2 data-magellan-destination="Principle_Investigators">Principle Investigators</h2>
-<a name="Principle_Investigators"></a>
+<h2 data-magellan-destination="Principal_Investigators">Principal Investigators</h2>
+<a name="Principal_Investigators"></a>
 
-{% include team_member member_name="Malachi" full_name="Malachi Griffith, PhD" bio='Dr. Griffith is an Assistant Professor of Medicine and Assistant Director of the McDonnell Genome Institute at Washington University School of Medicine. He has more than 13 years of experience in the fields of genomics, bioinformatics, data mining, and cancer research. His research is focused on improving our understanding of cancer biology and the development of personalized medicine strategies for cancer using genomics and informatics technologies. He develops bioinformatics and statistical methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction.' image="/assets/img/team/MG14.jpg" role="Principle Investigator" %}
+{% include team_member member_name="Malachi" full_name="Malachi Griffith, PhD" bio='Dr. Griffith is an Assistant Professor of Medicine and Assistant Director of the McDonnell Genome Institute at Washington University School of Medicine. He has more than 13 years of experience in the fields of genomics, bioinformatics, data mining, and cancer research. His research is focused on improving our understanding of cancer biology and the development of personalized medicine strategies for cancer using genomics and informatics technologies. He develops bioinformatics and statistical methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction.' image="/assets/img/team/MG14.jpg" role="Principal Investigator" %}
 
-{% include team_member member_name="Obi" full_name="Obi L. Griffith, PhD" bio='Dr. Griffith is Assistant Professor of Medicine (Oncology) and Assistant Director of the McDonnell Genome Institute at Washington University. Dr. Griffith’s research is focused on the development of personalized medicine strategies for cancer. He develops bioinformatics tools and methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction. Dr Griffith is on the board of directors for the Cancer Genomics Committee, Steering Committee for the Global Alliance for Genomic Health, co-chair of the Variant Interpretation for Cancer Consortium, and editorial board for Cell Reports. He has published over 85 studies, received numerous research awards and honors and held several large grants from the NIH including a K22 Transition Career Development Award and U01 for Development of Informatics Technologies for Cancer Research. He has mentored more than 30 bioinformatics trainees and taught hundreds more as an instructor for Cold Spring Harbor Laboratories and the Canadian Bioinformatics Workshops.' image="/assets/img/team/obi_griffith.jpg" role="Principle Investigator" %}
+{% include team_member member_name="Obi" full_name="Obi L. Griffith, PhD" bio='Dr. Griffith is Assistant Professor of Medicine (Oncology) and Assistant Director of the McDonnell Genome Institute at Washington University. Dr. Griffith’s research is focused on the development of personalized medicine strategies for cancer. He develops bioinformatics tools and methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction. Dr Griffith is on the board of directors for the Cancer Genomics Committee, Steering Committee for the Global Alliance for Genomic Health, co-chair of the Variant Interpretation for Cancer Consortium, and editorial board for Cell Reports. He has published over 85 studies, received numerous research awards and honors and held several large grants from the NIH including a K22 Transition Career Development Award and U01 for Development of Informatics Technologies for Cancer Research. He has mentored more than 30 bioinformatics trainees and taught hundreds more as an instructor for Cold Spring Harbor Laboratories and the Canadian Bioinformatics Workshops.' image="/assets/img/team/obi_griffith.jpg" role="Principal Investigator" %}
 
 <h2 data-magellan-destination="Faculty">Faculty</h2>
 <a name="Faculty"></a>
