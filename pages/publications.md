@@ -17,8 +17,8 @@ header:
   </ul>
 </div>
 
-<a name="2017"></a>
 <h2 data-magellan-destination="2017">2017</h2>
+<a name="2017"></a>
 
 {% include publication authors="Cotto KC, Wagner AH, Feng YY, Kiwala S, Coffman AC, Spies G, Wollam A, Spies NC, Griffith OL, Griffith M." title="DGIdb 3.0: a redesign and expansion of the drug-gene interaction database." journal="Nucleic Acids Res. 2017 Nov 16." doi="10.1093/nar/gkx1143" pmid="29156001"%}
 
@@ -39,8 +39,8 @@ header:
 
 {% include publication authors="Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA." title="Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma" journal="Blood. 2017 Jan 26;129(4):473-483." doi="10.1182/blood-2016-07-729954" pmid="28064239"%}
 
-<a name="2016"></a>
 <h2 data-magellan-destination="2016">2016</h2>
+<a name="2016"></a>
 
 {% include publication authors="Zolkind P, Dunn GP, Lin T, Griffith M, Griffith OL, Uppaluri R." title="Neoantigens in immunotherapy and personalized vaccines: Implications for head and neck squamous cell carcinoma." journal="Oral Oncology. 2017 Aug;71:169-176." doi="10.1016/j.oraloncology.2016.09.010" pmid="27751760"%}
 
@@ -62,8 +62,8 @@ header:
 
 {% include publication authors="Krysiak K, Christopher MJ, Skidmore ZL, Demeter RT, Magrini V, Kunisaki J, O'Laughlin M, Duncavage EJ, Miller CA, Ozenberger BA, Griffith M, Wartman LD, and Griffith OL." title="A genomic analysis of Philadelphia chromosome-negative AML arising in patients with CML." journal="Blood Cancer Journal. 2016 Apr 8;6:e413" doi="10.1038/bcj.2016.18" pmid="27058228"%}
 
-<a name="2015"></a>
 <h2 data-magellan-destination="2015">2015</h2>
+<a name="2015"></a>
 
 {% include publication authors="Ma CX, Luo J, Naughton M, Ademuyiwa FO, Suresh R, Griffith M, Griffith OL, Skidmore Z, Spies NC, Ramu A, Trani L, Pluard T, Nagaraj G, Thomas SN, Guo Z, Hoog J, Han J, Mardis ER, Lockhart AC, Ellis MJ." title="A phase 1 trial of BKM120 (Buparlisib) in combination with fulvestrant in postmenopausal women with estrogen receptor positive metastatic breast cancer." journal="Clinical Cancer Research. 2015 Nov 12. pii: clincanres.1745.2015." doi="10.1158/1078-0432.CCR-15-1745" pmid="26563128"%}
 

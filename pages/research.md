@@ -33,8 +33,8 @@ The group is engaged in a large number of tumor sequencing projects for AML, bre
 
 In addition to our basic and clinical research interests, we are also passionate about the scholarship of teaching and learning. We have made substantial contributions to the training and education of tomorrow's bioinformaticians through our involvement in [CBW](https://bioinformatics.ca/), [CSHL](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18) workshops and the [BioStars](https://www.biostars.org/) forum. We have developed online courses for [RNA sequence analysis](http://rnaseq.wiki) and [Genomic Visualization in R](http://genviz.org). We are currently developing a bioinformatics and clinical informatics training program that takes a practical, hands-on approach to cancer genome analysis for personalized medicine.
 
-<a name="Breast_cancer_genomics"></a>
 <h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
+<a name="Breast_cancer_genomics"></a>
 
 {% include project
   title="Genomic analysis of the Stat1-/- mouse model of ER+ breast cancer"
@@ -50,10 +50,8 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid="27681435"
 %}
 
-
-
-<a name="Liver_cancer_genomics"></a>
 <h2 data-magellan-destination="Liver_cancer_genomics">Liver cancer genomics</h2>
+<a name="Liver_cancer_genomics"></a>
 
 {% include project
   title="A genomic case study of mixed fibrolamellar hepatocellular carcinoma"
@@ -69,17 +67,17 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid="27029710"
 %}
 
-<a name="Lung_cancer_genomics"></a>
 <h2 data-magellan-destination="Lung_cancer_genomics">Lung cancer genomics</h2>
-<a name="Lymphoma_genomics"></a>
+<a name="Lung_cancer_genomics"></a>
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
-<a name="Head_and_neck_cancer"></a>
+<a name="Lymphoma_genomics"></a>
 <h2 data-magellan-destination="Head_and_neck_cancer">Head and neck cancer</h2>
-<a name="Models_of_cancer_genomics"></a>
+<a name="Head_and_neck_cancer"></a>
 <h2 data-magellan-destination="Models_of_cancer_genomics">Models of cancer genomics</h2>
-<a name="Variant_interpretation"></a>
+<a name="Models_of_cancer_genomics"></a>
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
-<a name="Immunogenomics"></a>
+<a name="Variant_interpretation"></a>
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
-<a name="Precision_medicine"></a>
+<a name="Immunogenomics"></a>
 <h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
+<a name="Precision_medicine"></a>
