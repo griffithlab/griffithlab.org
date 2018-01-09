@@ -32,5 +32,10 @@
           {% if include.citation2 %}
           2. <a href="{{ include.citation_link2 }}">{{ include.citation2 }}</a>
           {% endif %}
+
+          {% if include.citation2 %}
+          3. <a href="{{ include.citation_link3 }}">{{ include.citation3 }}</a>
+          {% endif %}
+ 
     </div>
 </div>
