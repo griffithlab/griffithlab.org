@@ -17,24 +17,24 @@
 
         <h5>Source code:</h5>
           {% if include.source %}
-          <a href="{{ include.source_link }}">{{ include.source }}</a><br>
+          <a href="{{ include.source_link }}">{{ include.source }}</a>
           {% endif %}
 
           {% if include.source2 %}
-          <a href="{{ include.source_link2 }}">{{ include.source2 }}</a>
+          <br><a href="{{ include.source_link2 }}">{{ include.source2 }}</a>
           {% endif %}
 
         {% if include.citation %}
         <h5>Citation(s):</h5>
-          1. <a href="{{ include.citation_link }}">{{ include.citation }}</a><br>
+          1. <a href="{{ include.citation_link }}">{{ include.citation }}</a>
         {% endif %}
 
           {% if include.citation2 %}
-          2. <a href="{{ include.citation_link2 }}">{{ include.citation2 }}</a>
+          <br>2. <a href="{{ include.citation_link2 }}">{{ include.citation2 }}</a>
           {% endif %}
 
           {% if include.citation2 %}
-          3. <a href="{{ include.citation_link3 }}">{{ include.citation3 }}</a>
+          <br>3. <a href="{{ include.citation_link3 }}">{{ include.citation3 }}</a>
           {% endif %}
  
     </div>
