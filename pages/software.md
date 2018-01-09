@@ -17,7 +17,7 @@ header:
 
 <hr>
 
-{% include software title="DGIdb: The Drug-Gene Interaction Database" logo="/assets/img/software/dgidb.png" link="http://dgidb.org" description="DGIdb offers user-friendly browsing, searching, and filtering of information on drug-gene interactions and the druggable genome, mined from over thirty trusted sources." team="Kelsy Cotto, Alex Wagner, Yang-Yang Feng, Susanna Kiwala, Adam Coffman, Gregory Spies, Alex Wollam, Nicholas Spies, Obi Griffith, Malachi Griffith" source="dgi-db (GitHub)" source_link="https://github.com/griffithlab/dgi-db" citation="DGIdb 2.0: mining clinically relevant drug-gene interactions" citation_link="https://www.ncbi.nlm.nih.gov/pubmed/26531824" citation2="DGIdb: mining the druggable genome" citation_link2="https://www.ncbi.nlm.nih.gov/pubmed/24122041" %}
+{% include software title="DGIdb: The Drug-Gene Interaction Database" logo="/assets/img/software/dgidb.png" link="http://dgidb.org" description="DGIdb offers user-friendly browsing, searching, and filtering of information on drug-gene interactions and the druggable genome, mined from over thirty trusted sources." team="Kelsy Cotto, Alex Wagner, Yang-Yang Feng, Susanna Kiwala, Adam Coffman, Gregory Spies, Alex Wollam, Nicholas Spies, Obi Griffith, Malachi Griffith" source="dgi-db (GitHub)" source_link="https://github.com/griffithlab/dgi-db" citation2="DGIdb 2.0: mining clinically relevant drug-gene interactions" citation_link2="https://www.ncbi.nlm.nih.gov/pubmed/26531824" citation="DGIdb: mining the druggable genome" citation_link="https://www.ncbi.nlm.nih.gov/pubmed/24122041" citation3="DGIdb 3.0: a redesign and expansion of the drug-gene interaction database" citation_link3="https://www.ncbi.nlm.nih.gov/pubmed/29156001"%}
 
 <hr>
 
