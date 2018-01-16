@@ -79,5 +79,19 @@ In addition to our basic and clinical research interests, we are also passionate
 <a name="Variant_interpretation"></a>
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
 <a name="Immunogenomics"></a>
+
 <h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
 <a name="Precision_medicine"></a>
+
+{% include project
+  title="Genome analysis of relapsed adult ALL case reveals personalized therapeutic strategy"
+
+  description="Extensive genomic analyses were performed in an adult with post-allo relapsed B-ALL. Mutations were found in EP300, NF1, IKZF1, SETD2, RB1, PAX5, NF1, ETV6, and ZNF384. Transcriptome analysis identified aberrant overexpression of the FLT3 gene. Treatment with the FLT3 inhibitor sunitinib induced a rapid clinical and molecular response. This study demonstrates a powerful proof-of-principle that comprehensive genomic studies can sometimes reveal unexpected clinically actionable therapeutic targets."
+
+  team="Malachi Griffith, Obi Griffith, Kilannin Krysiak, Zachary Skidmore, Avinash Ramu, Alex Wagner, Katie Campbell, Robert Lesurf, Jasreet Hundal, Nicholas Spies, Benjamin Ainscough, Jason Walker"
+
+  image="/assets/img/research/ALL1_GraphicalAbstract_neutral.png"
+  citation="Griffith et al. 2016. Comprehensive genomic analysis reveals FLT3 activation and a therapeutic strategy for a patient with relapsed adult B-lymphoblastic leukemia. Experimental Hematology. 44(7):603-13."
+
+  pmid="27181063"
+%}

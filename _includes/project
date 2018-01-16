@@ -1,7 +1,7 @@
 <div class="project">
   <div class="row">
     <div class="large-12 columns">
-      <h3>{{ include.title }}</h3>
+      <h3>{{ include.title }}</h3><br>
     </div>
   </div>
 
