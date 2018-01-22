@@ -14,6 +14,7 @@ header:
           <b>fax:</b> +1 314-286-1810<br>
           <b>email:</b> mgriffit@wustl.edu<br>
           <b>address:</b> Campus Box 8501<br>
+          <b>office:</b> Room 5139<br>
         </p>
     </div>
     <div class="small-6 columns">
@@ -23,6 +24,7 @@ header:
       <b>fax:</b> +1 314-286-1810<br>
       <b>email:</b> obigriffith@wustl.edu<br>
       <b>address:</b> Campus Box 8501<br>
+      <b>office:</b> Room 5140<br>
     </p>
     </div>
 </div>
@@ -35,6 +37,6 @@ header:
           5th floor,<br>
           Saint Louis, Missouri, 63108<br>
         </p>
-        {% include map id="1zyZTlzy1sLL-9v25DvmFzA34Dy0&ll=38.63714868611005%2C-90.25727901349183&z=18" %}
+        {% include map id="ChIJjYJA_9u02IcRsr8gwb2Z6P8" %}
     </div>
 </div>

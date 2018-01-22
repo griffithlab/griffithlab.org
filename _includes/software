@@ -1,8 +1,8 @@
 <div class="row">
     <div class="small-4 columns">
-      <a href="{{ include.link }}">
-        <img src="{{ include.logo }}">
-      </a>
+      {% if include.logo %}
+      <a href="{{ include.link }}"><img src="{{ include.logo }}"></a>
+      {% endif %}
     </div>
     <div class="small-8 columns">
         <h4><a href="{{ include.link }}"> {{ include.title }} </a></h4>
@@ -16,23 +16,26 @@
         </p>
 
         <h5>Source code:</h5>
-        <p>
-          <a href="{{ include.source_link }}">
-            {{ include.source }}
-          </a>
-          <br><a href="{{ include.source_link2 }}">
-            {{ include.source2 }}
-          </a>
-        </p>
+          {% if include.source %}
+          <a href="{{ include.source_link }}">{{ include.source }}</a>
+          {% endif %}
 
+          {% if include.source2 %}
+          <br><a href="{{ include.source_link2 }}">{{ include.source2 }}</a>
+          {% endif %}
+
+        {% if include.citation %}
         <h5>Citation(s):</h5>
-        <p>
-          <a href="{{ include.citation_link }}">
-            {{ include.citation }}
-          </a>
-          <br><a href="{{ include.citation_link2 }}">
-            {{ include.citation2 }}
-          </a>
-        </p>
+          1. <a href="{{ include.citation_link }}">{{ include.citation }}</a>
+        {% endif %}
+
+          {% if include.citation2 %}
+          <br>2. <a href="{{ include.citation_link2 }}">{{ include.citation2 }}</a>
+          {% endif %}
+
+          {% if include.citation2 %}
+          <br>3. <a href="{{ include.citation_link3 }}">{{ include.citation3 }}</a>
+          {% endif %}
+ 
     </div>
 </div>

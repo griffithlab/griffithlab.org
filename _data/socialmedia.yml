@@ -34,7 +34,7 @@
       title: "Professional LinkedIn account"
     - name: Link
       url: http://alexwagner.info/
-      class: icon-link
+      class: icon-network
       title: "Personal Website"
 
 - member_name: Malachi
@@ -193,9 +193,106 @@
       class: icon-link
       title: "Personal Website"
 
-- member_name: Felecia
+- member_name: Felicia
   social:
     - name: GitHub
       url: https://github.com/fgomez02
       class: icon-github
       title: "GitHub Profile"
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/felicia-gomez-6039579a/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+
+- member_name: Jason_W
+  social:
+    - name: GitHub
+      url: https://github.com/jasonwalker80
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/jason-walker-2a091528/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Twitter
+      url: https://twitter.com/jasonwalker80
+      class: icon-twitter
+      title: "Professional Twitter account"
+
+- member_name: Arpad
+  social:
+    - name: GitHub
+      url: https://github.com/arpaddanos
+      class: icon-github
+      title: "GitHub Profile"
+
+- member_name: Kaitlin
+  social:
+    - name: GitHub
+      url: https://github.com/kaitlinaclark
+      class: icon-github
+      title: "GitHub Profile"
+
+- member_name: Lynzey
+  social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/lynzey-kujan-135a03a3
+      class: icon-linkedin
+      title: "Professional linkedin account"
+
+- member_name: Joshua
+  social:
+    - name: GitHub
+      url: https://github.com/jmcmichael
+      class: icon-github
+      title: "GitHub Profile"
+
+- member_name: Adam
+  social:
+    - name: GitHub
+      url: https://github.com/acoffman
+      class: icon-github
+      title: "GitHub Profile"
+
+- member_name: Nick
+  social:
+    - name: GitHub
+      url: https://github.com/nspies13
+      class: icon-github
+      title: "GitHub Profile"
+
+- member_name: Jasreet
+  social:
+    - name: GitHub
+      url: https://github.com/jhundal
+      class: icon-github
+      title: "GitHub Profile"
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/hundalj/
+      class: icon-linkedin
+      title: "Professional linkedin account"
+
+- member_name: Lee
+  social: 
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/lee-trani-30861b4/
+      class: icon-linkedin
+      title: "Professional linkedin account"
+
+- member_name: Connor
+  social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/connor-liu-26a68961/
+      class: icon-linkedin
+      title: "Professional linkedin account"
+
+- member_name: Avi
+  social:
+    - name: GitHub
+      url: https://github.com/gatoravi
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/gatoravi
+      class: icon-twitter
+      title: "Professional Twitter account"

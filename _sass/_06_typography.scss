@@ -34,7 +34,7 @@ a:visited {
 }
 
 a:hover {
-    color: darken( $ci-1, 10% );
+    color: lighten( $ci-1, 40% );
 }
 
 a:focus {
@@ -62,11 +62,9 @@ p {
 p a,
 article a {
     font-weight: bold;
-    border-bottom: 1px dotted;
 }
 p a:hover,
 article a:hover {
-    border-bottom: 2px solid;
 }
 p a.button,
 .button,

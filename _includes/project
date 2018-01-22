@@ -1,0 +1,39 @@
+<div class="project">
+  <div class="row">
+    <div class="large-12 columns">
+      <h3>{{ include.title }}</h3><br>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+     <img src="{{ include.image }}">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+      <h5>Description:</h5>
+        <p>
+          {{ include.description }}
+        </p>
+    </div>
+
+    <div class="large-8 columns">
+      <h5>Publication(s):</h5>
+      <p>
+        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid }}">{{ include.citation }}</a><br>
+        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid2 }}">{{ include.citation2 }}</a><br>
+        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid3 }}">{{ include.citation3 }}</a><br>
+      </p>
+    </div>
+
+    <div class="large-4 columns">
+      <h5>Team members:</h5>
+      <p>
+        {{ include.team }}
+      </p>
+    </div>
+
+  </div>
+</div>
