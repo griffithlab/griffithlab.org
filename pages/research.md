@@ -75,6 +75,21 @@ In addition to our basic and clinical research interests, we are also passionate
 <a name="Head_and_neck_cancer"></a>
 <h2 data-magellan-destination="Models_of_cancer_genomics">Models of cancer genomics</h2>
 <a name="Models_of_cancer_genomics"></a>
+
+{% include project
+  title="Oral cavity squamous cell carcinoma xenografts"
+
+  description="Comprehensive genomic analysis was performed on patient derived xenografts for oral squamous cell carcinomas (OSCC). We found PDX samples were largely correlative with the primary tumors from which they were derived. PDX models were able to retain the heterozygous mutational landscape and clonal architecture of tumors. Somatic differences between the PDX and corresponding OSCC primary samples consited primarily of low-frequency mutations making these xenografts ideal models for exploring OSCC tumor biology."
+
+  team="Katie Campbell, Zachary Skidmore, Erica Barnell, Malachi Griffith, Obi Griffith"
+
+  image="/assets/img/research/oscc_pdx_graphical_abstract.png"
+
+  citation=""
+
+  pmid=""
+%}
+
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
 <a name="Variant_interpretation"></a>
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
