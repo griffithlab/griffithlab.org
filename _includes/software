@@ -1,11 +1,21 @@
 <div class="row">
-    <div class="small-4 columns">
-      {% if include.logo %}
-      <a href="{{ include.link }}"><img src="{{ include.logo }}"></a>
-      {% endif %}
+    <div class="small-12 columns">
+        <h2 data-magellan-destination="{{ include.anchor }}"><a href="{{ include.link }}"> {{ include.title }} </a></h2>
+        <a name="{{ include.anchor }}"></a>
     </div>
-    <div class="small-8 columns">
-        <h4><a href="{{ include.link }}"> {{ include.title }} </a></h4>
+</div>
+
+<div class="row">
+    <div class="small-6 columns">
+        {% if include.image %}
+          <img src="{{ include.image }}">
+        {% endif %}
+    </div>
+    <div class="small-6 columns">
+        {% if include.logo %}
+          <a href="{{ include.link }}"><img src="{{ include.logo }}"></a>
+        {% endif %}
+        <h5>URL: <a href="{{ include.link }}">{{ include.shorturl }}</a></h5>
         <h5>Description:</h5>
         <p>
             {{ include.description }}
@@ -39,3 +49,4 @@
  
     </div>
 </div>
+<hr>

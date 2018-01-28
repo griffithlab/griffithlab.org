@@ -39,6 +39,8 @@ header:
 
 {% include publication authors="Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M, Griffith OL, Fehniger TA." title="Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma" journal="Blood. 2017 Jan 26;129(4):473-483." doi="10.1182/blood-2016-07-729954" pmid="28064239"%}
 
+<hr>
+
 <h2 data-magellan-destination="2016">2016</h2>
 <a name="2016"></a>
 
@@ -62,6 +64,8 @@ header:
 
 {% include publication authors="Krysiak K, Christopher MJ, Skidmore ZL, Demeter RT, Magrini V, Kunisaki J, O'Laughlin M, Duncavage EJ, Miller CA, Ozenberger BA, Griffith M, Wartman LD, and Griffith OL." title="A genomic analysis of Philadelphia chromosome-negative AML arising in patients with CML." journal="Blood Cancer Journal. 2016 Apr 8;6:e413" doi="10.1038/bcj.2016.18" pmid="27058228"%}
 
+<hr>
+
 <h2 data-magellan-destination="2015">2015</h2>
 <a name="2015"></a>
 
@@ -84,3 +88,5 @@ header:
 {% include publication authors="Griffith M, Walker JR, Spies NC, Ainscough BJ, Griffith OL." title="Informatics for RNA Sequencing: A Web Resource for Analysis on the Cloud." journal=" PLoS Computational Biology. 2015 Aug 6;11(8):e1004393." doi="10.1371/journal.pcbi.1004393" pmid="26248053"%}
 
 {% include publication authors=" Griffith M*, Griffith OL*, Smith SM*, Ramu A, Callaway MB, Brummett AM, Kiwala MJ, Coffman AC, Regier AA, Oberkfell BJ, Sanderson GE, Mooney TP, Nutter NG, Belter EA, Du F, Long RL, Abbott TE, Ferguson IT, Morton DL, Burnett MM, Weible JV, Peck JB, Dukes A, McMichael JF, Lolofie JT, Derickson BR, Hundal J, Skidmore ZL, Ainscough BJ, Dees ND, Schierding WS, Kandoth C, Kim KH, Lu C, Harris CC, Maher N, Maher CA, Magrini VJ, Abbott BS, Chen K, Clark E, Das I, Fan X, Hawkins AE, Hepler TG, Wylie TN, Leonard SM, Schroeder WE, Shi X, Carmichael LK, Weil MR, Wohlstadter RW, Stiehr G, McLellan MD, Pohl CS, Miller CA, Koboldt DC, Walker JR, Eldred JM, Larson DE, Dooling DJ, Ding L, Mardis ER, Wilson RK." title="Genome Modeling System: A Knowledge Management Platform for Genomics." journal="PLoS Computational Biology. 2015 Jul 9;11(7):e1004274." doi="10.1371/journal.pcbi.1004274" pmid="26158448"%}
+
+<hr>
