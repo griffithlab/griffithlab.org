@@ -99,15 +99,6 @@ In addition to our basic and clinical research interests, we are also passionate
 {% include project
   title="Integrating Variant Interpretation Knowledgebases"
 %}
-{% include project
-  title="Clinical Interpretations of Variants in Cancer (CIViC) Knowledgebase"
-%}
-{% include project
-  title="Drug Gene Interaction Database (DGIdb)"
-%}
-{% include project
-  title="Database of Curated Mutations (DoCM)"
-%}
 
 
 <h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
