@@ -12,12 +12,11 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer genomics</a></li>
-    <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer genomics</a></li>
-    <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer genomics</a></li>
-    <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma genomics</a></li>
+    <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer</a></li>
+    <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer</a></li>
+    <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer</a></li>
+    <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma</a></li>
     <li data-magellan-arrival="Head_and_neck_cancer_genomics"><a href="#Head_and_neck_cancer_genomics">Head and neck cancer</a></li>
-    <li data-magellan-arrival="Models_of_cancer_genomics"><a href="#Models_of_cancer_genomics">Models of cancer genomics</a></li>
     <li data-magellan-arrival="Immunogenomics"><a href="#Immunogenomics">Immunogenomics</a></li>
     <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
     <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
@@ -75,10 +74,8 @@ In addition to our basic and clinical research interests, we are also passionate
 <a name="Lung_cancer_genomics"></a>
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
 <a name="Lymphoma_genomics"></a>
-<h2 data-magellan-destination="Head_and_neck_cancer">Head and neck cancer</h2>
-<a name="Head_and_neck_cancer"></a>
-<h2 data-magellan-destination="Models_of_cancer_genomics">Models of cancer genomics</h2>
-<a name="Models_of_cancer_genomics"></a>
+<h2 data-magellan-destination="Head_and_neck_cancer_genomics">Head and neck cancer genomics</h2>
+<a name="Head_and_neck_cancer_genomics"></a>
 
 {% include project
   title="Oral cavity squamous cell carcinoma xenografts"
@@ -94,10 +91,24 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid=""
 %}
 
-<h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
-<a name="Variant_interpretation"></a>
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
 <a name="Immunogenomics"></a>
+
+<h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
+<a name="Variant_interpretation"></a>
+{% include project
+  title="Integrating Variant Interpretation Knowledgebases"
+%}
+{% include project
+  title="Clinical Interpretations of Variants in Cancer (CIViC) Knowledgebase"
+%}
+{% include project
+  title="Drug Gene Interaction Database (DGIdb)"
+%}
+{% include project
+  title="Database of Curated Mutations (DoCM)"
+%}
+
 
 <h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
 <a name="Precision_medicine"></a>
