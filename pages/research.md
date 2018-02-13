@@ -111,6 +111,7 @@ In addition to our basic and clinical research interests, we are also passionate
 
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
 <a name="Variant_interpretation"></a>
+
 {% include project
   title="Integrating Variant Interpretation Knowledgebases"
 %}
