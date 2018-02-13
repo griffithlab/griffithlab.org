@@ -94,6 +94,21 @@ In addition to our basic and clinical research interests, we are also passionate
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
 <a name="Immunogenomics"></a>
 
+{% include project
+  title="Neoantigen characterization and personalized cancer vaccine design"
+
+  description="In support of several clinical trials we are creating and applying new immunogenomics tools to help predict response or resistance to checkpoint blockage inhibition therapies and design personalized cancer vaccines."
+
+  team="Jasreet Hundal, Katie Campbell, Yang-Yang Feng, Connor Liu, Joshua McMichael, Susanna Kiwala, Obi Griffith, Malachi Griffith"
+
+  image="/assets/img/research/immunogenomics.png"
+
+  citation="Hundal J, Carreno BM, Petti AA, Linette GP, Griffith OL, Mardis ER, Griffith M. pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens. Genome Med. 2016 Jan 29;8(1):11."
+
+  pmid="26825632"
+%}
+
+
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
 <a name="Variant_interpretation"></a>
 {% include project
