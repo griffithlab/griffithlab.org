@@ -15,8 +15,11 @@ Drs Griffith guest lecture regularly for a number of courses at Washington Unive
 1. [rnaseq.wiki](https://github.com/griffithlab/rnaseq_tutorial/wiki) - Informatics for RNA-seq: A web resource for analysis on the cloud.<br> Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.
 2. [genviz.org](http://genviz.org/) - Genomic Data Visualization and Interpretation.<br> In-depth tutorials for the interpretation and visualization of omic data including: genome browsing and interpretation, introduction to BioMart, liftover, ProteinPaint, COSMIC, introduction to R, ggplot2, R Markdown, Shiny, GenVisR, differential expression and pathway analysis, variant annotation and interpretation, and others.
 
-### Recent and Upcoming Workshops
-1. PR Informatics - [Precision Medicine Bioinformatics: From raw genome and transcriptome data to clinical interpretation, Glasgow, Scotland, UK, July 16-20, 2018](https://www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/)
-2. Cold Spring Harbor Laboratory Courses - [Advanced Sequencing Technologies & Applications, New York, USA, Nov 7-18, 2017](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=17)
-3. Physalia Courses - [Genomic Data Visualization and Interpretation, Berlin, Germany, Sept 11-15, 2017](https://www.physalia-courses.org/courses-workshops/course14/)
-4. Canadian Bioinformatics Workshops - [Informatics for RNA-Seq Analysis, Toronto, Canada, July 10-12, 2017](https://bioinformatics.ca/workshops/2017/informatics-rna-seq-analysis-2017)
+### Upcoming Workshops
+1. Canadian Bioinformatics Workshops - [Informatics for RNA-Seq Analysis, Toronto, Canada, May 28-30, 2018](https://bioinformatics.ca/workshops/workshop-application-form/#/)
+2. PR Informatics - [Precision Medicine Bioinformatics: From raw genome and transcriptome data to clinical interpretation, Glasgow, Scotland, UK, July 16-20, 2018](https://www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/)
+3. Cold Spring Harbor Laboratory Courses - [Advanced Sequencing Technologies & Applications, New York, USA, Nov 6-18, 2018](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18)
+
+### Recent Workshops
+1. Physalia Courses - [Genomic Data Visualization and Interpretation, Berlin, Germany, Sept 11-15, 2017](https://www.physalia-courses.org/courses-workshops/course14/). This course is scheduled to be held in Berlin during 2019. Precise dates TBD.
+
