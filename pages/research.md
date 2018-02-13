@@ -97,7 +97,7 @@ In addition to our basic and clinical research interests, we are also passionate
 {% include project
   title="Neoantigen characterization and personalized cancer vaccine design"
 
-  description="In support of several clinical trials we are creating and applying new immunogenomics tools to help predict response or resistance to checkpoint blockage inhibition therapies and design personalized cancer vaccines."
+  description="In support of several clinical trials we are creating and applying new immunogenomics tools to help predict response to checkpoint blockade inhibition therapies and design personalized cancer vaccines."
 
   team="Jasreet Hundal, Katie Campbell, Yang-Yang Feng, Connor Liu, Joshua McMichael, Susanna Kiwala, Obi Griffith, Malachi Griffith"
 
