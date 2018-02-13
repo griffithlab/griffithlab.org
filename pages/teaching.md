@@ -25,18 +25,17 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 3. [pmbio.org](https://www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/) - Precision Medicine Bioinformatics. <i>Coming Soon</i>. An end-to-end precision medicine analysis of real human genome (WGS and Exome) and transcriptome (RNA-seq) data for a hypothetical patient. The goal of the analysis is to identify personalized therapeutic options for this patient as well as identifying any prognostic or diagnostic implications in the data. 
 
 ### Online tutorials
-<ul>
-  <li>[Introduction to AWS Cloud Computing](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)</li>
-  <li>[Exploring cancer mutation data portals](https://www.biostars.org/p/102809/)</li>
-  <li>[Databases Of Tumor Suppressors and Oncogenes](https://www.biostars.org/p/15890/)</li>
-  <li>[Tools For Alternative Splicing Detection From Rna-Seq Data](https://www.biostars.org/p/65617/)</li>
-  <li>[Converting Genome Coordinates From One Genome Version To Another (Ucsc Liftover, Ncbi Remap, Ensembl Api)](https://www.biostars.org/p/65558/)</li>
-  <li>[Web Based Interactive Resources To Learn Programming And/Or Bioinformatics](https://www.biostars.org/p/76171/)</li>
-  <li>[Packages For Visualization Of Biological Data In R](https://www.biostars.org/p/18331/)</li>
-  <li>[Analysing Microarray Data In Bioconductor](https://www.biostars.org/p/53870/)</li>
-  <li>[Individualized medicine in cancer by whole genome, exome or transcriptome sequencing](https://www.biostars.org/p/101101/)</li>
-  <li>[Creating heatmaps in R](https://www.biostars.org/p/18211/)</li>
-</ul>
+
+* [Introduction to AWS Cloud Computing](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)
+* [Exploring cancer mutation data portals](https://www.biostars.org/p/102809/)
+* [Databases Of Tumor Suppressors and Oncogenes](https://www.biostars.org/p/15890/)
+* [Tools For Alternative Splicing Detection From Rna-Seq Data](https://www.biostars.org/p/65617/)
+* [Converting Genome Coordinates From One Genome Version To Another (Ucsc Liftover, Ncbi Remap, Ensembl Api)](https://www.biostars.org/p/65558/)
+* [Web Based Interactive Resources To Learn Programming And/Or Bioinformatics](https://www.biostars.org/p/76171/)
+* [Packages For Visualization Of Biological Data In R](https://www.biostars.org/p/18331/)
+* [Analysing Microarray Data In Bioconductor](https://www.biostars.org/p/53870/)
+* [Individualized medicine in cancer by whole genome, exome or transcriptome sequencing](https://www.biostars.org/p/101101/)
+* [Creating heatmaps in R](https://www.biostars.org/p/18211/)
 
 ### Washington University Courses
 <ul> 
