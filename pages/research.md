@@ -11,19 +11,20 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer genomics</a></li>
-    <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer genomics</a></li>
-    <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer genomics</a></li>
-    <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma genomics</a></li>
+    <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
+    <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer</a></li>
+    <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer</a></li>
+    <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer</a></li>
+    <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma</a></li>
     <li data-magellan-arrival="Head_and_neck_cancer_genomics"><a href="#Head_and_neck_cancer_genomics">Head and neck cancer</a></li>
-    <li data-magellan-arrival="Models_of_cancer_genomics"><a href="#Models_of_cancer_genomics">Models of cancer genomics</a></li>
     <li data-magellan-arrival="Immunogenomics"><a href="#Immunogenomics">Immunogenomics</a></li>
     <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
     <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
   </ul>
 </div>
 
-## Overview
+<h2 data-magellan-destination="Overview">Overview</h2>
+<a name="Overview"></a>
 
 The Griffith lab is a combined research group driven by the interests of twin scientists [Malachi Griffith](http://malachigriffith.org/) and [Obi Griffith](http://obigriffith.org/). The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
 
@@ -31,7 +32,9 @@ Our research is committed to development of open access and open source resource
 
 The group is engaged in a large number of tumor sequencing projects for AML, breast, liver, lung, and other cancers, investigating primary, relapse and drug resistant tumors. To this end we have worked with others at the [McDonnell Genome Institute](http://genome.wustl.edu/) to develop end-to-end pipelines for clinical cancer sequencing that automate state-of-the-art methods for sequence alignment, somatic variation detection, RNA sequence analysis, and the integration of these data types into user-friendly reports of the most clinically relevant genome and transcriptome changes in a tumor or cohort of tumors ([Genome Modeling System](https://github.com/genome/gms/wiki)). To aid in this effort our group has developed software, databases, knowledgebases, and web tools for interrogation of the druggable genome ([DGIdb](http://dgidb.org/)), identification of cancer driver mutations ([DoCM](http://docm.info/)), interpretation of clinically actionable variants in cancer ([CIViC](http://civicdb.org)), and genomic visualization ([GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html)). The group is also actively involved in the identification and scoring of tumor neoantigens and development of related software for design of human cancer vaccines ([pVACtools](http://pvactools.org)).
 
-In addition to our basic and clinical research interests, we are also passionate about the scholarship of teaching and learning. We have made substantial contributions to the training and education of tomorrow's bioinformaticians through our involvement in [CBW](https://bioinformatics.ca/), [CSHL](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18) workshops and the [BioStars](https://www.biostars.org/) forum. We have developed online courses for [RNA sequence analysis](http://rnaseq.wiki) and [Genomic Visualization in R](http://genviz.org). We are currently developing a bioinformatics and clinical informatics training program that takes a practical, hands-on approach to cancer genome analysis for personalized medicine.
+In addition to our basic and clinical research interests, we are also passionate about the scholarship of teaching and learning. We have made substantial contributions to the training and education of tomorrow's bioinformaticians through our involvement in [CBW](https://bioinformatics.ca/), [CSHL](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18) workshops and the [BioStars](https://www.biostars.org/) forum. We have developed online courses for [RNA sequence analysis](http://rnaseq.wiki) and [Genomic Visualization in R](http://genviz.org). We are currently developing a bioinformatics and clinical informatics training program that takes a practical, hands-on approach to [cancer genome analysis for personalized medicine](https://www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/) (to be held for the first time this summer in Edinburgh, Scotland).
+
+<hr>
 
 <h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
 <a name="Breast_cancer_genomics"></a>
@@ -71,10 +74,8 @@ In addition to our basic and clinical research interests, we are also passionate
 <a name="Lung_cancer_genomics"></a>
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
 <a name="Lymphoma_genomics"></a>
-<h2 data-magellan-destination="Head_and_neck_cancer">Head and neck cancer</h2>
-<a name="Head_and_neck_cancer"></a>
-<h2 data-magellan-destination="Models_of_cancer_genomics">Models of cancer genomics</h2>
-<a name="Models_of_cancer_genomics"></a>
+<h2 data-magellan-destination="Head_and_neck_cancer_genomics">Head and neck cancer genomics</h2>
+<a name="Head_and_neck_cancer_genomics"></a>
 
 {% include project
   title="Oral cavity squamous cell carcinoma xenografts"
@@ -90,10 +91,31 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid=""
 %}
 
-<h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
-<a name="Variant_interpretation"></a>
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
 <a name="Immunogenomics"></a>
+
+{% include project
+  title="Neoantigen characterization and personalized cancer vaccine design"
+
+  description="In support of several clinical trials we are creating and applying new immunogenomics tools to help predict response to checkpoint blockade inhibition therapies and design personalized cancer vaccines."
+
+  team="Jasreet Hundal, Katie Campbell, Yang-Yang Feng, Connor Liu, Joshua McMichael, Susanna Kiwala, Obi Griffith, Malachi Griffith"
+
+  image="/assets/img/research/immunogenomics.png"
+
+  citation="Hundal J, Carreno BM, Petti AA, Linette GP, Griffith OL, Mardis ER, Griffith M. pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens. Genome Med. 2016 Jan 29;8(1):11."
+
+  pmid="26825632"
+%}
+
+
+<h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
+<a name="Variant_interpretation"></a>
+
+{% include project
+  title="Integrating Variant Interpretation Knowledgebases"
+%}
+
 
 <h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
 <a name="Precision_medicine"></a>

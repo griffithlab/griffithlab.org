@@ -7,7 +7,9 @@
 
   <div class="row">
     <div class="large-12 columns">
-     <img src="{{ include.image }}">
+        {% if include.image %}
+           <img src="{{ include.image }}">
+        {% endif %}
     </div>
   </div>
 
@@ -37,3 +39,4 @@
 
   </div>
 </div>
+<hr>
