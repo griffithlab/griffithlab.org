@@ -11,11 +11,17 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
     <li data-magellan-arrival="2015"><a href="#2015">2015</a></li>
   </ul>
 </div>
+
+<h2 data-magellan-destination="2018">2018</h2>
+<a name="2018"></a>
+
+{% include publication authors="Erica Kay Barnell, Peter Ronning, Katie Marie Campbell, Kilannin Krysiak, Benjamin J Ainscough, Cody Ramirez, Zachary L Skidmore, Felicia Gomez, Lee Trani, Matthew Matlock, Alex Handler Wagner, Sanjay Joshua Swamidass, Malachi Griffith, Obi L Griffith" title="Standard operating procedure for somatic variant refinement of tumor sequencing data" journal="bioRxiv 266262." doi="10.1101/266262" pmid=""%}
 
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>

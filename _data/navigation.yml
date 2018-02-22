@@ -18,6 +18,10 @@
   url: "/team/"
   side: left
 
+- title: Join
+  url: "/join/"
+  side: left
+
 - title: Teaching
   url: "/teaching/"
   side: left
