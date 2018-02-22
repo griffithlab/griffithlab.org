@@ -35,7 +35,15 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 * [Packages For Visualization Of Biological Data In R](https://www.biostars.org/p/18331/)
 * [Analysing Microarray Data In Bioconductor](https://www.biostars.org/p/53870/)
 * [Individualized medicine in cancer by whole genome, exome or transcriptome sequencing](https://www.biostars.org/p/101101/)
-* [Creating heatmaps in R](https://www.biostars.org/p/18211/)
+* [Creating Heatmaps in R](https://www.biostars.org/p/18211/)
+* [How to Download Raw Sequence Data from GEO/SRA](https://www.biostars.org/p/111040/)
+* [Cheat Sheet For One-Based Vs Zero-Based Coordinate Systems](https://www.biostars.org/p/84686/)
+* [Machine Learning For Cancer Classification](https://www.biostars.org/p/85124/)
+* [How to Create a Mutation Landscape (Waterfall) Plot with GenVisR](https://www.biostars.org/p/181159/)
+* [How To Install A Specific Cdf Package For Use In Bioconductor](https://www.biostars.org/p/67400/)
+* [Using The Biomart Perl Api For Simple Queries](https://www.biostars.org/p/53241/)
+* [How to View Gene Annotations For Non-Standard (E.G., Virus) Genome In IGV](https://www.biostars.org/p/71935/)
+* [How to Create a Mutation Lolliplot with GenVisR](https://www.biostars.org/p/196576/)
 
 ### Washington University Courses
 <ul> 
