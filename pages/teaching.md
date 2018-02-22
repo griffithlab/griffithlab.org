@@ -24,25 +24,24 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 2. [genviz.org](http://genviz.org/) - Genomic Data Visualization and Interpretation.<br> In-depth tutorials for the interpretation and visualization of omic data including: genome browsing and interpretation, introduction to BioMart, liftover, ProteinPaint, COSMIC, introduction to R, ggplot2, R Markdown, Shiny, GenVisR, differential expression and pathway analysis, variant annotation and interpretation, and others.
 3. [pmbio.org](https://www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/) - Precision Medicine Bioinformatics. <i>Coming Soon</i>. An end-to-end precision medicine analysis of real human genome (WGS and Exome) and transcriptome (RNA-seq) data for a hypothetical patient. The goal of the analysis is to identify personalized therapeutic options for this patient as well as identifying any prognostic or diagnostic implications in the data. 
 
-### Online tutorials
-
+### Online tutorials (Selected)
 * [Introduction to AWS Cloud Computing](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)
-* [Exploring cancer mutation data portals](https://www.biostars.org/p/102809/)
-* [Databases Of Tumor Suppressors and Oncogenes](https://www.biostars.org/p/15890/)
-* [Tools For Alternative Splicing Detection From Rna-Seq Data](https://www.biostars.org/p/65617/)
-* [Converting Genome Coordinates From One Genome Version To Another (Ucsc Liftover, Ncbi Remap, Ensembl Api)](https://www.biostars.org/p/65558/)
-* [Web Based Interactive Resources To Learn Programming And/Or Bioinformatics](https://www.biostars.org/p/76171/)
-* [Packages For Visualization Of Biological Data In R](https://www.biostars.org/p/18331/)
-* [Analysing Microarray Data In Bioconductor](https://www.biostars.org/p/53870/)
-* [Individualized medicine in cancer by whole genome, exome or transcriptome sequencing](https://www.biostars.org/p/101101/)
 * [Creating Heatmaps in R](https://www.biostars.org/p/18211/)
+* [Converting Genome Coordinates From One Genome Version To Another (Ucsc Liftover, Ncbi Remap, Ensembl Api)](https://www.biostars.org/p/65558/)
 * [How to Download Raw Sequence Data from GEO/SRA](https://www.biostars.org/p/111040/)
+* [Analysing Microarray Data In Bioconductor](https://www.biostars.org/p/53870/)
+* [Tools For Alternative Splicing Detection From Rna-Seq Data](https://www.biostars.org/p/65617/)
+* [Databases Of Tumor Suppressors and Oncogenes](https://www.biostars.org/p/15890/)
 * [Cheat Sheet For One-Based Vs Zero-Based Coordinate Systems](https://www.biostars.org/p/84686/)
 * [Machine Learning For Cancer Classification](https://www.biostars.org/p/85124/)
+* [Individualized medicine in cancer by whole genome, exome or transcriptome sequencing](https://www.biostars.org/p/101101/)
+* [Web Based Interactive Resources To Learn Programming And/Or Bioinformatics](https://www.biostars.org/p/76171/)
+* [Packages For Visualization Of Biological Data In R](https://www.biostars.org/p/18331/)
 * [How to Create a Mutation Landscape (Waterfall) Plot with GenVisR](https://www.biostars.org/p/181159/)
 * [How To Install A Specific Cdf Package For Use In Bioconductor](https://www.biostars.org/p/67400/)
-* [Using The Biomart Perl Api For Simple Queries](https://www.biostars.org/p/53241/)
 * [How to View Gene Annotations For Non-Standard (E.G., Virus) Genome In IGV](https://www.biostars.org/p/71935/)
+* [Exploring cancer mutation data portals](https://www.biostars.org/p/102809/)
+* [Using The Biomart Perl Api For Simple Queries](https://www.biostars.org/p/53241/)
 * [How to Create a Mutation Lolliplot with GenVisR](https://www.biostars.org/p/196576/)
 
 ### Washington University Courses
