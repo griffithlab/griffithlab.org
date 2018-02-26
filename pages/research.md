@@ -56,40 +56,47 @@ In addition to our basic and clinical research interests, we are also passionate
 <h2 data-magellan-destination="Liver_cancer_genomics">Liver cancer genomics</h2>
 <a name="Liver_cancer_genomics"></a>
 
+
 {% include project
   title="A genomic case study of mixed fibrolamellar hepatocellular carcinoma"
 
-  description="We report the first comprehensive genomic analysis of a case of Mixed fibrolamellar hepatocellular carcinoma (mFL-HCC). No common HCC-associated mutations were identified. The very low mutation rate of this case, large number of mostly single-copy, long-range copy number variants, and high expression of ERBB2 were more consistent with previous reports of pure FL-HCC than conventional HCC. In particular, the DNAJB1:PRKACA fusion transcript specifically associated with pure FL-HCC was detected at very high expression levels. Subsequent analysis revealed the presence of this fusion in all primary and metastatic samples, including those with mixed or conventional HCC pathology. A second case of mFL-HCC confirmed our finding that the fusion was detectable in conventional components. An expanded screen identified a third case of fusion-positive HCC, which upon review, also had both conventional and fibrolamellar features. This screen confirmed the absence of the fusion in all conventional HCC and adjacent non-tumor liver samples. These results indicate that mFL-HCC is similar to pure FL-HCC at the genomic level and the DNAJB1:PRKACA fusion can be used as a diagnostic tool for both pure and mFL-HCC."
+  description="We reported the first comprehensive genomic analysis of a case of Mixed fibrolamellar hepatocellular carcinoma (mFL-HCC). No common HCC-associated mutations were identified. The very low mutation rate of this case, large number of mostly single-copy, long-range copy number variants, and high expression of ERBB2 were more consistent with previous reports of pure FL-HCC than conventional HCC. In particular, the DNAJB1:PRKACA fusion transcript specifically associated with pure FL-HCC was detected at very high expression levels. Subsequent analysis revealed the presence of this fusion in all primary and metastatic samples, including those with mixed or conventional HCC pathology. A second case of mFL-HCC confirmed our finding that the fusion was detectable in conventional components. An expanded screen identified a third case of fusion-positive HCC, which upon review, also had both conventional and fibrolamellar features. This screen confirmed the absence of the fusion in all conventional HCC and adjacent non-tumor liver samples. These results indicate that mFL-HCC is similar to pure FL-HCC at the genomic level and the DNAJB1:PRKACA fusion can be used as a diagnostic tool for both pure and mFL-HCC."
 
   team="Obi Griffith, Malachi Griffith, Kilannin Krysiak, Avinash Ramu, Zachary Skidmore, Jason Kunisaki"
 
-  image="/assets/img/research/HCC32_circos.png"
+  image="/assets/img/research/HCC32_combined.png"
 
   citation="Griffith et al. 2016. A genomic case study of mixed fibrolamellar hepatocellular carcinoma. Annals of Oncology. 27(6):1148-54."
 
   pmid="27029710"
 %}
 
+
 <h2 data-magellan-destination="Lung_cancer_genomics">Lung cancer genomics</h2>
 <a name="Lung_cancer_genomics"></a>
+
+
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
 <a name="Lymphoma_genomics"></a>
+
+
 <h2 data-magellan-destination="Head_and_neck_cancer_genomics">Head and neck cancer genomics</h2>
 <a name="Head_and_neck_cancer_genomics"></a>
 
 {% include project
   title="Oral cavity squamous cell carcinoma xenografts"
 
-  description="Comprehensive genomic analysis was performed on patient derived xenografts for oral squamous cell carcinomas (OSCC). We found PDX samples were largely correlative with the primary tumors from which they were derived. PDX models were able to retain the heterozygous mutational landscape and clonal architecture of tumors. Somatic differences between the PDX and corresponding OSCC primary samples consited primarily of low-frequency mutations making these xenografts ideal models for exploring OSCC tumor biology."
+  description="Comprehensive genomic analysis was performed on patient derived xenografts for oral squamous cell carcinomas (OSCC). We found PDX samples were largely correlative with the primary tumors from which they were derived. PDX models were able to retain the heterogeneous mutational landscape and clonal architecture of tumors. Somatic differences between the PDX and corresponding OSCC primary samples consisted primarily of low-frequency mutations, making these xenografts ideal models for exploring OSCC tumor biology."
 
   team="Katie Campbell, Zachary Skidmore, Erica Barnell, Malachi Griffith, Obi Griffith"
 
   image="/assets/img/research/oscc_pdx_graphical_abstract.png"
 
-  citation=""
+  citation="Campbell et al. 2018. Oral cavity squamous cell carcinoma xenografts retain complex genotypes and intertumor molecular heterogeneity. Cell Reports. In Revision."
 
   pmid=""
 %}
+
 
 <h2 data-magellan-destination="Immunogenomics">Immunogenomics</h2>
 <a name="Immunogenomics"></a>
@@ -132,3 +139,17 @@ In addition to our basic and clinical research interests, we are also passionate
 
   pmid="27181063"
 %}
+
+{% include project
+  title="Optimizing Cancer Genome Sequencing and Analysis"
+
+  description="Tumors are typically sequenced to depths of 75-100× (exome) or 30-50× (whole genome). We demonstrated that current sequencing paradigms are inadequate for tumors that are impure, aneuploid or clonally heterogeneous. To reassess optimal sequencing strategies, we performed ultra-deep (up to ~312×) whole genome sequencing (WGS) and exome capture (up to ~433×) of a primary acute myeloid leukemia, its subsequent relapse, and a matched normal skin sample. We tested multiple alignment and variant calling algorithms and validated ~200,000 putative SNVs by sequencing them to depths of ~1,000×. Additional targeted sequencing provided over 10,000× coverage and ddPCR assays provided up to ~250,000× sampling of selected sites. We evaluated the effects of different library generation approaches, depth of sequencing, and analysis strategies on the ability to effectively characterize a complex tumor. This dataset, representing the most comprehensively sequenced tumor described to date, serves as an invaluable community resource."
+
+  team="Malachi Griffith, Obi Griffith, Kilannin Krysiak, Zach Skidmore, Avinash Ramu, Jason Walker, Lee Trani"
+
+  image="/assets/img/research/AML31_Slider_Image.png"  
+  citation="Griffith, Miller et al. 2015. Optimizing Cancer Genome Sequencing and Analysis. Cell Systems. 1(3):210-223."
+
+  pmid="26645048"
+%}
+
