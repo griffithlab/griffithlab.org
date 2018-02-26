@@ -79,6 +79,19 @@ In addition to our basic and clinical research interests, we are also passionate
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
 <a name="Lymphoma_genomics"></a>
 
+{% include project
+  title="Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma"
+
+  description="Follicular lymphoma (FL) is the most common form of indolent non-Hodgkin lymphoma, yet it remains only partially characterized at the genomic level. To improve our understanding of the genetic underpinnings of this incurable and clinically heterogeneous disease, whole-exome sequencing was performed on tumor/normal pairs from a discovery cohort of 24 patients with FL. Using these data and mutations identified in other B-cell malignancies, 1716 genes were sequenced in 113 FL tumor samples from 105 primarily treatment-naive individuals. We identified 39 genes that were mutated significantly above background mutation rates. CREBBP mutations were associated with inferior PFS. In contrast, mutations in previously unreported HVCN1, a voltage-gated proton channel-encoding gene and B-cell receptor signaling modulator, were associated with improved PFS. In total, 47 (44.8%) patients harbor mutations in the interconnected B-cell receptor (BCR) and CXCR4 signaling pathways. Histone gene mutations were more frequent than previously reported (identified in 43.8% of patients) and often co-occurred (17.1% of patients). A novel, recurrent hotspot was identified at a posttranslationally modified residue in the histone H2B family. This study expands the number of mutated genes described in several known signaling pathways and complexes involved in lymphoma pathogenesis (BCR, Notch, SWitch/sucrose nonfermentable (SWI/SNF), vacuolar ATPases) and identified novel recurrent mutations (EGR1/2, POU2AF1, BTK, ZNF608, HVCN1) that require further investigation in the context of FL biology, prognosis, and treatment."
+
+  team="Kilannin Krysiak, Felicia Gomez, Matthew Matlock, Lee Trani, Malachi Griffith, Obi Griffith"
+
+  image="/assets/img/research/FL_Histone_CoOccurence.png"
+
+  citation="Krysiak et al. 2017. Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma. Blood. 129(4):473-483."
+
+  pmid="28064239"
+%}
 
 <h2 data-magellan-destination="Head_and_neck_cancer_genomics">Head and neck cancer genomics</h2>
 <a name="Head_and_neck_cancer_genomics"></a>
