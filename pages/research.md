@@ -133,9 +133,19 @@ In addition to our basic and clinical research interests, we are also passionate
 <a name="Variant_interpretation"></a>
 
 {% include project
-  title="Integrating Variant Interpretation Knowledgebases"
-%}
+  title="CIViC: a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer"
 
+  description="Extensive genomic analyses were performed in an adult with post-allo relapsed B-ALL. Mutations were found in EP300, NF1, IKZF1, SETD2, RB1, PAX5, NF1, ETV6, and ZNF384. Transcriptome analysis identified aberrant overexpression of the FLT3 gene. Treatment with the FLT3 inhibitor sunitinib induced a rapid clinical and molecular response. This study demonstrates a powerful proof-of-principle that comprehensive genomic studies can sometimes reveal unexpected clinically actionable therapeutic targets."
+
+  team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Benjamin Ainscough, Cody Ramirez, Lynzey Kujan, Erica Barnell, Alex Wagner, Zachary Skidmore, Connor Liu, Rachel Bilski, Robert Lesurf, Yang Yang Feng, Lee Trani, Matt Matlock, Avinash Ramu, Katie Campbell, Greg Spies, Aaron Graubert, Jason Walker, Obi Griffith"
+
+  image="/assets/img/research/GP-127_CIViC_simplified-overview_v2d.png"
+
+  citation="Griffith, Spies, Krysiak et al. 2017. CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer. Nature Genetics. 49(2):170–174."
+
+  pmid="28138153"
+
+%}
 
 <h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
 <a name="Precision_medicine"></a>
