@@ -296,3 +296,11 @@
       url: https://twitter.com/gatoravi
       class: icon-twitter
       title: "Professional Twitter account"
+
+- member_name: Alina
+  social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/alina-schmidt-9670a815
+      class: icon-linkedin
+      title: "Professional linkedin account"
+

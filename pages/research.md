@@ -135,7 +135,7 @@ In addition to our basic and clinical research interests, we are also passionate
 {% include project
   title="CIViC: a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer"
 
-  description="Extensive genomic analyses were performed in an adult with post-allo relapsed B-ALL. Mutations were found in EP300, NF1, IKZF1, SETD2, RB1, PAX5, NF1, ETV6, and ZNF384. Transcriptome analysis identified aberrant overexpression of the FLT3 gene. Treatment with the FLT3 inhibitor sunitinib induced a rapid clinical and molecular response. This study demonstrates a powerful proof-of-principle that comprehensive genomic studies can sometimes reveal unexpected clinically actionable therapeutic targets."
+  description="CIViC is an expert-crowdsourced knowledgebase for Clinical Interpretation of Variants in Cancer describing the therapeutic, prognostic, diagnostic and predisposing relevance of inherited and somatic variants of all types. CIViC is committed to open-source code, open-access content, public application programming interfaces (APIs) and provenance of supporting evidence to allow for the transparent creation of current and accurate variant interpretations for use in cancer precision medicine."
 
   team="Malachi Griffith, Nicholas Spies, Kilannin Krysiak, Josh McMichael, Adam Coffman, Arpad Danos, Benjamin Ainscough, Cody Ramirez, Lynzey Kujan, Erica Barnell, Alex Wagner, Zachary Skidmore, Connor Liu, Rachel Bilski, Robert Lesurf, Yang Yang Feng, Lee Trani, Matt Matlock, Avinash Ramu, Katie Campbell, Greg Spies, Aaron Graubert, Jason Walker, Obi Griffith"
 
