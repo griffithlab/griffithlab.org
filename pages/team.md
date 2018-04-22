@@ -105,14 +105,18 @@ header:
       <h5>Lei Chen</h5>
       <h5>Shou Han</h5>
       <h5>Shaopeng Liu</h5>
+      <h5>Grace Wang</h5>
   </div>
   <div class="small-4 columns">
       <h5>Rachel Bilski</h5>
       <h5>Greg Spies</h5>
       <h5>Matthew Matlock</h5>
+      <h5>Deng Pan</h5>
   </div>
   <div class="small-4 columns">
+      <h5>Mayank Choudhary</h5>
       <h5>Ju Heon Maeng</h5>
       <h5>Alex Wollam</h5>
+      <h5>Jaclyn Boozalis</h5>
   </div>
 </div>
