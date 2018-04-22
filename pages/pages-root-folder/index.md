@@ -29,7 +29,7 @@ header:
 
 <div class="row">
   <div class="small-12 columns">
-    <img src="/assets/img/lab_photo_Dec2017_cropped.png">
+    <img src="/assets/img/lab_photo_Dec2017_cropped.jpg">
   </div>
 </div>
 
