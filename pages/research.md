@@ -107,7 +107,6 @@ In addition to our basic and clinical research interests, we are also passionate
 
   citation="Campbell et al. 2018. Oral cavity squamous cell carcinoma xenografts retain complex genotypes and intertumor molecular heterogeneity. Cell Reports. In Revision."
 
-  pmid=""
 %}
 
 

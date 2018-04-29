@@ -24,9 +24,25 @@
     <div class="large-8 columns">
       <h5>Publication(s):</h5>
       <p>
-        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid }}">{{ include.citation }}</a><br>
-        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid2 }}">{{ include.citation2 }}</a><br>
-        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid3 }}">{{ include.citation3 }}</a><br>
+
+        {% if include.pmid %}
+          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid }}">{{ include.citation }}</a><br>
+        {% else %}
+          {{ include.citation }}<br>
+        {% endif %}
+
+        {% if include.pmid2 %}
+          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid2 }}">{{ include.citation2 }}</a><br>
+        {% else %}
+          {{ include.citation2 }}<br>
+        {% endif %}
+
+        {% if include.pmid3 %}
+          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid3 }}">{{ include.citation3 }}</a><br>
+        {% else %}
+          {{ include.citation3 }}<br>
+        {% endif %}
+
       </p>
     </div>
 
