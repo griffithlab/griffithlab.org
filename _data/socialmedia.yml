@@ -273,7 +273,7 @@
       title: "Professional linkedin account"
 
 - member_name: Lee
-  social: 
+  social:
     - name: LinkedIn
       url: https://www.linkedin.com/in/lee-trani-30861b4/
       class: icon-linkedin
@@ -304,3 +304,9 @@
       class: icon-linkedin
       title: "Professional linkedin account"
 
+- member_name: Huiming
+  social:
+    - name: LinkedIn
+      url: https://github.com/huimingx
+      class: icon-linkedin
+      title: "Professional linkedin account"
