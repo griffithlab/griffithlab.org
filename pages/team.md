@@ -58,6 +58,8 @@ header:
 
 {% include team_member member_name="Cody" full_name="Cody Ramirez, BSc" bio='Cody is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. He graduated from St. Edward’s University in 2014 with a degree in Bioinformatics. He is interested in utilizing patient genomic profiles to study and predict personalized immunotherapy treatments through bioinformatic analysis and machine learning models. He is currently focused on characterizing the genetic landscape and identifying personalized treatment plans in follicular lymphoma.' image="/assets/img/team/cody_ramirez.png" role="Graduate Student" %}
 
+{% include team_member member_name="Megan" full_name="Megan Ritchers" bio='Megan is a graduate student in the Molecular Genetics and Genomics program at Washington University in St. Louis. She graduated from the University of Louisiana at Monroe in 2014 with a degree in Biology.' image="/assets/img/team/megan_richters.jpg" role="Graduate Student" %}
+
 {% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
 
 {% include team_member member_name="Huiming" full_name="Huiming Xia, BSc" bio='Huiming is a graduate student in the Computational Molecular Biophysics program at Washington University in St. Louis. She graduated from Carnegie Mellon University in 2017 with a dual degree in Computational Biology and Chemistry.' image="/assets/img/team/huiming_xia.jpg" role="Graduate Student" %}
