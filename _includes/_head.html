@@ -19,6 +19,9 @@
 {% assign title = title | strip_html | escape | strip_newlines %}
 
 {% endcapture %}<meta charset="utf-8">
+{% if page.robots %}
+<meta name="robots" content="{{page.robots}}">
+{% endif %}
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }}</title>
 
