@@ -129,7 +129,7 @@ header:
   <div class="small-4 columns">
       <h5>Mayank Choudhary</h5>
       <h5>Ju Heon Maeng</h5>
-      <h5>Alex Wollam</h5>
+      <h5>Amber Wollam</h5>
       <h5>Jaclyn Boozalis</h5>
   </div>
 </div>
