@@ -97,7 +97,7 @@ header:
 
 {% include team_member member_name="Nischal" full_name="Nischal Khanal" bio='Nischal studied biomedical engineering during his undergrad and is working towards a graduate degree in computer science at Washington University. Nischal is working on software development for CIViC and cancer pipeline cloud deployment projects.' image='/assets/img/team/nischal_khanal.jpg' role='Intern' %}
 
-{% include team_member member_name="Alex" full_name="Alex Wollam" bio='Alex is currently pursuing a degree in Computer Science as Ohio State University. Alex is working on software development for CIViC and pVACTools' image='/assets/img/team/alex_wollam.jpg' role='Intern' %}
+{% include team_member member_name="Alex_W" full_name="Alex Wollam" bio='Alex is currently pursuing a degree in Computer Science Engineering at the Ohio State University. Alex is working on software development for <a href="https://github.com/griffithlab/pVAC-Tools">pVACtools</a>.' image='/assets/img/team/alex_wollam.jpg' role='Intern' %}
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>

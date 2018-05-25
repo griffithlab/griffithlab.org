@@ -310,3 +310,10 @@
       url: https://github.com/huimingx
       class: icon-github
       title: "GitHub Profile"
+
+- member_name: Alex_W
+  social:
+    - name: GitHub
+      url: https://github.com/atwollam
+      class: icon-github
+      title: "GitHub Profile"
