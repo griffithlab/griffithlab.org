@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Publications"
+title: "Selected Publications"
 meta_title: ""
 subheadline: ""
 teaser: ""
@@ -15,6 +15,7 @@ header:
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
     <li data-magellan-arrival="2015"><a href="#2015">2015</a></li>
+    <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
 
@@ -99,3 +100,11 @@ header:
 {% include publication authors=" Griffith M*, Griffith OL*, Smith SM*, Ramu A, Callaway MB, Brummett AM, Kiwala MJ, Coffman AC, Regier AA, Oberkfell BJ, Sanderson GE, Mooney TP, Nutter NG, Belter EA, Du F, Long RL, Abbott TE, Ferguson IT, Morton DL, Burnett MM, Weible JV, Peck JB, Dukes A, McMichael JF, Lolofie JT, Derickson BR, Hundal J, Skidmore ZL, Ainscough BJ, Dees ND, Schierding WS, Kandoth C, Kim KH, Lu C, Harris CC, Maher N, Maher CA, Magrini VJ, Abbott BS, Chen K, Clark E, Das I, Fan X, Hawkins AE, Hepler TG, Wylie TN, Leonard SM, Schroeder WE, Shi X, Carmichael LK, Weil MR, Wohlstadter RW, Stiehr G, McLellan MD, Pohl CS, Miller CA, Koboldt DC, Walker JR, Eldred JM, Larson DE, Dooling DJ, Ding L, Mardis ER, Wilson RK" title="Genome Modeling System: A Knowledge Management Platform for Genomics" journal="PLoS Computational Biology. 2015 Jul 9;11(7):e1004274" doi="10.1371/journal.pcbi.1004274" pmid="26158448" %}
 
 <hr>
+
+<h2 data-magellan-destination="All">Complete Bibliography (PubMed)</h2>
+<a name="All"></a>
+
+<h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46378214/?sort=date&direction=descending">Obi Griffith</a></h3>
+
+<h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46519286/?sort=date&direction=descending">Malachi Griffith</a></h3>
+
