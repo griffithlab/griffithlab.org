@@ -92,7 +92,7 @@ header:
 
 {% include team_member member_name="Lana" full_name="Lana Sheta" bio='Lana has recently joined the lab for a summer research project as part of the Amgen Scholars program.' image="/assets/img/team/lana_sheta.jpg" role="Amgen Scholar" %}
 
-{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="" role="YSP Student" %}
+{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
 
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
 
