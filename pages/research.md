@@ -48,7 +48,7 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/Stat1_slider_image.png"
 
-  citation="Griffith et al. 2016. Truncating Prolactin Receptor Mutations Promote Tumor Growth in Murine Estrogen Receptor-Alpha Mammary Carcinomas. Cell Reports. 17(1):249-60."
+  citation="Griffith, Chan et al. 2016. Cell Reports. 17(1):249-60."
 
   pmid="27681435"
 %}
@@ -66,15 +66,27 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/HCC32_combined.png"
 
-  citation="Griffith et al. 2016. A genomic case study of mixed fibrolamellar hepatocellular carcinoma. Annals of Oncology. 27(6):1148-54."
+  citation="Griffith, Griffith, Krysiak et al. 2016. Annals of Oncology. 27(6):1148-54."
 
   pmid="27029710"
 %}
 
-
 <h2 data-magellan-destination="Lung_cancer_genomics">Lung cancer genomics</h2>
 <a name="Lung_cancer_genomics"></a>
 
+{% include project
+  title="Recurrent WNT Pathway Alterations are Frequent in Relapsed Small Cell Lung Cancer"
+
+  description="Nearly all patients with small cell lung cancer (SCLC) eventually relapse with chemotherapy resistant disease. The molecular mechanisms driving chemotherapy resistance in SCLC remain to be characterized. We performed whole-exome sequencing of paired SCLC tumor samples procured at diagnosis (treatment-naive samples) and relapse (relapse samples) from 12 patients, along with unpaired relapse samples obtained from 18 additional patients. We observed multiple somatic copy number alterations including gains in ABCC1, and deletions in MYCL, MSH2, and MSH6 among relapse samples. Relapse samples also showed recurrent mutations in regulators of WNT signaling such as CHD8 and APC. Analysis of RNA-sequencing data suggested an enrichment for “ASCL1-low” expression subtype and WNT activation in relapse samples. Activation of WNT signaling in chemotherapy sensitive human SCLC cell lines through APC knockdown induced chemotherapy resistance. Additionally, in vitro-derived chemotherapy resistant cell lines demonstrated increased WNT activity. Our results support a role for WNT signaling activation as a mechanism of chemotherapy resistance in relapsed SCLC."
+
+  team="Alex Wagner, Zach Skidmore, Kilannin Krysiak, Avinash Ramu, Lee Trani, Jason Kunisaki, Nick Spies"
+
+  image="/assets/img/research/SCLC_figure_1b.png"
+
+  citation="Wagner, Devarakonda et al. 2018. Nature Communications. In Press."
+
+  pmid=""
+%}
 
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
 <a name="Lymphoma_genomics"></a>
@@ -105,7 +117,7 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/oscc_pdx_graphical_abstract.png"
 
-  citation="Campbell et al. 2018. Oral cavity squamous cell carcinoma xenografts retain complex genotypes and intertumor molecular heterogeneity. Cell Reports. In Revision."
+  citation="Campbell, Lin, Zolkind et al. 2018. Cell Reports. In Press."
 
 %}
 
@@ -122,7 +134,7 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/immunogenomics.png"
 
-  citation="Hundal J, Carreno BM, Petti AA, Linette GP, Griffith OL, Mardis ER, Griffith M. pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens. Genome Med. 2016 Jan 29;8(1):11."
+  citation="Hundal et al. Genome Med. 2016 Jan 29;8(1):11."
 
   pmid="26825632"
 %}
@@ -140,7 +152,7 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/GP-127_CIViC_simplified-overview_v2d.png"
 
-  citation="Griffith, Spies, Krysiak et al. 2017. CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer. Nature Genetics. 49(2):170–174."
+  citation="Griffith, Spies, Krysiak et al. 2017. Nature Genetics. 49(2):170–174."
 
   pmid="28138153"
 
@@ -157,7 +169,7 @@ In addition to our basic and clinical research interests, we are also passionate
   team="Malachi Griffith, Obi Griffith, Kilannin Krysiak, Zachary Skidmore, Avinash Ramu, Alex Wagner, Katie Campbell, Robert Lesurf, Jasreet Hundal, Nicholas Spies, Benjamin Ainscough, Jason Walker"
 
   image="/assets/img/research/ALL1_GraphicalAbstract_neutral.png"
-  citation="Griffith et al. 2016. Comprehensive genomic analysis reveals FLT3 activation and a therapeutic strategy for a patient with relapsed adult B-lymphoblastic leukemia. Experimental Hematology. 44(7):603-13."
+  citation="Griffith et al. 2016. Experimental Hematology. 44(7):603-13."
 
   pmid="27181063"
 %}
@@ -170,7 +182,7 @@ In addition to our basic and clinical research interests, we are also passionate
   team="Malachi Griffith, Obi Griffith, Kilannin Krysiak, Zach Skidmore, Avinash Ramu, Jason Walker, Lee Trani"
 
   image="/assets/img/research/AML31_Slider_Image.png"  
-  citation="Griffith, Miller et al. 2015. Optimizing Cancer Genome Sequencing and Analysis. Cell Systems. 1(3):210-223."
+  citation="Griffith, Miller et al. 2015. Cell Systems. 1(3):210-223."
 
   pmid="26645048"
 %}
