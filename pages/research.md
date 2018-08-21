@@ -85,7 +85,6 @@ In addition to our basic and clinical research interests, we are also passionate
 
   citation="Wagner, Devarakonda et al. 2018. Nature Communications. In Press."
 
-  pmid=""
 %}
 
 <h2 data-magellan-destination="Lymphoma_genomics">Lymphoma genomics</h2>
