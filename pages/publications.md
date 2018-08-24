@@ -21,6 +21,9 @@ header:
 
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
+{% include publication authors="Campbell KM, Lin T, Zolkind P, Barnell EK, Skidmore ZL, Winkler AE, Law JH, Mardis ER, Wartman LD, Adkins DR, Chernock RD, Griffith M, Uppaluri R, Griffith OL" title="Oral Cavity Squamous Cell Carcinoma Xenografts Retain Complex Genotypes and
+Intertumor Molecular Heterogeneity" journal="Cell Rep. 2018 Aug 21;24(8):2167-2178" doi="10.1016/j.celrep.2018.07.058" pmid="30134176" %}
+
 
 {% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Ramirez C, Skidmore ZL, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M, Griffith OL" title="Standard operating procedure for somatic variant refinement of tumor sequencing data" journal="bioRxiv" doi="10.1101/266262" %}
 
