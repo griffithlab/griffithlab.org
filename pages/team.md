@@ -98,6 +98,8 @@ header:
 
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
 
+{% include team_member member_name="Sidi" full_name="Sidi Zhao" bio='Sidi is a graduate student in the Computational and Systems Biology program at Washington University in St. Louis. She graduated from Georgia Institute of Technology in 2017 with a degree in Biomedical Engineering.' image="/assets/img/team/sidi_zhao.jpg" role="PhD Rotation Student" %}
+
 <h2 data-magellan-destination="Interns">Interns</h2>
 <a name="Interns"></a>
 
