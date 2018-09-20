@@ -21,9 +21,10 @@ header:
 
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
-{% include publication authors="Campbell KM, Lin T, Zolkind P, Barnell EK, Skidmore ZL, Winkler AE, Law JH, Mardis ER, Wartman LD, Adkins DR, Chernock RD, Griffith M, Uppaluri R, Griffith OL" title="Oral Cavity Squamous Cell Carcinoma Xenografts Retain Complex Genotypes and
-Intertumor Molecular Heterogeneity" journal="Cell Rep. 2018 Aug 21;24(8):2167-2178" doi="10.1016/j.celrep.2018.07.058" pmid="30134176" %}
 
+{% include publication authors="Wagner AH*, Devarakonda S*, Skidmore ZL, Krysiak K, Ramu A, Trani L, Kunisaki J, Masood A, Waqar SN, Spies NC, Morgensztern D, Waligorski J, Ponce J, Fulton RS, Maggi LB Jr, Weber JD, Watson MA, O'Conor CJ, Ritter JH, Olsen RR, Cheng H, Mukhopadhyay A, Can I, Cessna MH, Oliver TG, Mardis ER, Wilson RK, Griffith M+, Griffith OL+, Govindan R+" title="Recurrent WNT pathway alterations are frequent in relapsed small cell lung cancer" journal="Nat Commun. 2018 Sep 17;9(1):3787" doi="10.1038/s41467-018-06162-9" pmid="30224629" %}
+
+{% include publication authors="Campbell KM, Lin T, Zolkind P, Barnell EK, Skidmore ZL, Winkler AE, Law JH, Mardis ER, Wartman LD, Adkins DR, Chernock RD, Griffith M, Uppaluri R, Griffith OL" title="Oral Cavity Squamous Cell Carcinoma Xenografts Retain Complex Genotypes and Intertumor Molecular Heterogeneity" journal="Cell Rep. 2018 Aug 21;24(8):2167-2178" doi="10.1016/j.celrep.2018.07.058" pmid="30134176" %}
 
 {% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Ramirez C, Skidmore ZL, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M, Griffith OL" title="Standard operating procedure for somatic variant refinement of tumor sequencing data" journal="bioRxiv" doi="10.1101/266262" %}
 
