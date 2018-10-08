@@ -22,26 +22,29 @@ header:
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
 
+{% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Sheta LM, Pema SP, Schmidt AD, Richters M, Cotto KC, Danos AM, Ramirez C, Skidmore ZL, Spies NC, Hundal J, Sediqzad MS, Kunisaki J, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M, Griffith OL" title="Standard operating procedure for somatic variant refinement of sequencing data with paired tumor and normal samples" journal="Genet Med. 2018 Oct 5. [Epub ahead of print]" doi="10.1038/s41436-018-0278-z" pmid="30287923" %}
+
 {% include publication authors="Wagner AH*, Devarakonda S*, Skidmore ZL, Krysiak K, Ramu A, Trani L, Kunisaki J, Masood A, Waqar SN, Spies NC, Morgensztern D, Waligorski J, Ponce J, Fulton RS, Maggi LB Jr, Weber JD, Watson MA, O'Conor CJ, Ritter JH, Olsen RR, Cheng H, Mukhopadhyay A, Can I, Cessna MH, Oliver TG, Mardis ER, Wilson RK, Griffith M+, Griffith OL+, Govindan R+" title="Recurrent WNT pathway alterations are frequent in relapsed small cell lung cancer" journal="Nat Commun. 2018 Sep 17;9(1):3787" doi="10.1038/s41467-018-06162-9" pmid="30224629" %}
 
 {% include publication authors="Griffith OL*, Spies NC*, Anurag M*, Griffith M, Luo J, Tu D, Yeo B, Kunisaki J, Miller CA, Krysiak K, Hundal J, Ainscough BJ, Skidmore ZL, Campbell K, Kumar R, Fronick C, Cook L, Snider JE, Davies S, Kavuri SM, Chang EC, Magrini V, Larson DE, Fulton RS, Liu S, Leung S, Voduc D, Bose R, Dowsett M, Wilson RK, Nielsen TO, Mardis ER, Ellis MJ" title="The prognostic effects of somatic mutations in ER-positive breast cancer" journal="Nat Commun. 2018 Sep 4;9(1):3476" doi="10.1038/s41467-018-05914-x" pmid="30181556" %}
 
 {% include publication authors="Campbell KM, Lin T, Zolkind P, Barnell EK, Skidmore ZL, Winkler AE, Law JH, Mardis ER, Wartman LD, Adkins DR, Chernock RD, Griffith M, Uppaluri R, Griffith OL" title="Oral Cavity Squamous Cell Carcinoma Xenografts Retain Complex Genotypes and Intertumor Molecular Heterogeneity" journal="Cell Rep. 2018 Aug 21;24(8):2167-2178" doi="10.1016/j.celrep.2018.07.058" pmid="30134176" %}
 
-{% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Ramirez C, Skidmore ZL, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M, Griffith OL" title="Standard operating procedure for somatic variant refinement of tumor sequencing data" journal="bioRxiv" doi="10.1101/266262" %}
+{% include publication authors="Miller CA, Tricarico C, Skidmore ZL, Uy GL, Lee YS, Hassan A, O'Laughlin MD, Schmidt H, Tian L, Duncavage EJ, Griffith M, Griffith OL, Welch JS, Wartman LD" title="A case of acute myeloid leukemia with promyelocytic features characterized by expression of a novel RARG-CPSF6 fusion" journal="Blood Adv. 2018 Jun 12;2(11):1295-1299" doi="10.1182/bloodadvances.2017014183" pmid="29891591" %}
+
+{% include publication authors="Madhavan S, Ritter D, Micheel C, Rao S, Roy A, Sonkin D, Mccoy M, Griffith M, Griffith OL, Mcgarvey P, Kulkarni S" title="Standardizing And Democratizing Access To Cancer Molecular Diagnostic Test Data From Patients To Drive Translational Research" journal="AMIA Jt Summits Transl Sci Proc. 2018 May 18;2017:152-159. eCollection 2018" pmid="29888062" %}
 
 {% include publication authors="Madhavan S, Ritter D, Micheel C, Rao S, Roy A, Sonkin D, Mccoy M, Griffith M, Griffith OL, Mcgarvey P, Kulkarni S" title="ClinGen Cancer Somatic Working Group - standardizing and democratizing access to cancer molecular diagnostic data to drive translational research" journal="Pac Symp Biocomput. 2018;23:247-258" doi="10.1142/9789813235533_0023" pmid="29218886" %}
+
+{% include publication authors="Cotto KC, Wagner AH, Feng YY, Kiwala S, Coffman AC, Spies G, Wollam A, Spies NC, Griffith OL, Griffith M" title="DGIdb 3.0: a redesign and expansion of the drug-gene interaction database" journal="Nucleic Acids Res. 2018 Jan 4;46(D1):D1068-D1073" doi="10.1093/nar/gkx1143" pmid="29156001" %}
+
+{% include publication authors="Bartlett NL, Costello BA, LaPlant BR, Ansell SM, Kuruvilla JG, Reeder CB, Thye LS, Anderson DM, Krysiak K, Ramirez C, Qi J, Siegel BA, Griffith M, Griffith OL, Gomez F and Fehniger TA" title="Single-Agent Ibrutinib in Relapsed or Refractory Follicular Lymphoma: A Phase 2 Consortium Trial" journal="Blood. 2018 Jan 11;131(2):182-190" doi="10.1182/blood-2017-09-804641" pmid="29074501" %}
+
 
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
 
-{% include publication authors="Griffith OL*, Spies NC*, Anurag M*, Griffith M, Luo J, Tu D, Yeo B, Kunisaki J, Miller CA, Krysiak K, Hundal J, Ainscough BJ, Skidmore ZL, Campbell KM, Kumar R, Fronick C, Cook L, Snider JE, Davies S, Kavuri SM, Chang EC, Magrini V, Larson DE, Fulton RS, Liu S, Leung S, Voduc D, Bose R, Dowsett M, Wilson RK, Nielsen TO, Mardis ER, Ellis MJ" title="The prognostic effects of somatic mutations in ER-positive breast cancer" journal="bioRvix" doi="10.1101/235846" %}
-
-{% include publication authors="Cotto KC, Wagner AH, Feng YY, Kiwala S, Coffman AC, Spies G, Wollam A, Spies NC, Griffith OL, Griffith M" title="DGIdb 3.0: a redesign and expansion of the drug-gene interaction database" journal="Nucleic Acids Res. 2017 Nov 16" doi="10.1093/nar/gkx1143" pmid="29156001" %}
-
-{% include publication authors="Bartlett NL, Costello BA, LaPlant BR, Ansell SM, Kuruvilla JG, Reeder CB, Thye LS, Anderson DM, Krysiak K, Ramirez C, Qi J, Siegel BA, Griffith M, Griffith OL, Gomez F and Fehniger TA" title="Single-Agent Ibrutinib in Relapsed or Refractory Follicular Lymphoma: A Phase 2 Consortium Trial" journal="Blood. 2017 Oct 26. pii: blood-2017-09-804641" doi="10.1182/blood-2017-09-804641" pmid="29074501" %}
-
-{% include publication authors="Ma CX, Suman V, Goetz MP, Northfelt DW, Burkard ME, Ademuyiwa F, Naughton MJ, Margenthaler J, Aft R, Gray RJ, Tevaarwerk AJ, Wilke LG, Haddad TC, Moynihan T, Loprenzi C, Hieken T, Barnell EK, Skidmore ZL, Feng YY, Krysiak K, Hoog J, Guo Z, Nehring L, Wisinski KB, Mardis ER, Hagemann IS, Vij K, Sanati S, Al-Kateb H, Griffith OL, Griffith M, Doyle A, Erlichman C, Ellis MJ" title="A Phase II trial of neoadjuvant MK2206, an AKT inhibitor, with anastrozole in clinical stage 2 or 3 PIK3CA mutant ER positive and HER2 negative breast cancer" journal="Clin Cancer Res. 2017 Sep 5. pii: clincanres.1260.2017" doi="10.1158/1078-0432.CCR-17-1260" pmid="28874413" %}
+{% include publication authors="Ma CX, Suman V, Goetz MP, Northfelt DW, Burkard ME, Ademuyiwa F, Naughton MJ, Margenthaler J, Aft R, Gray RJ, Tevaarwerk AJ, Wilke LG, Haddad TC, Moynihan T, Loprenzi C, Hieken T, Barnell EK, Skidmore ZL, Feng YY, Krysiak K, Hoog J, Guo Z, Nehring L, Wisinski KB, Mardis ER, Hagemann IS, Vij K, Sanati S, Al-Kateb H, Griffith OL, Griffith M, Doyle A, Erlichman C, Ellis MJ" title="A Phase II trial of neoadjuvant MK2206, an AKT inhibitor, with anastrozole in clinical stage 2 or 3 PIK3CA mutant ER positive and HER2 negative breast cancer" journal="Clin Cancer Res. 2017 Nov 15;23(22):6823-6832" doi="10.1158/1078-0432.CCR-17-1260" pmid="28874413" %}
 
 {% include publication authors="Feng YY, Griffith OL, Griffith M" title="Clinical implications of neoepitope landscapes for adult and pediatric cancers" journal="Genome Med. 2017 Aug 31;9(1):77" doi="10.1186/s13073-017-0470-9" pmid="28854952" %}
 
