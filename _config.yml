@@ -25,7 +25,7 @@ author: Obi Griffith, Malachi Griffith
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://griffithlab.org'
+url: 'https://griffithlab.org'
 #baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
 
 
