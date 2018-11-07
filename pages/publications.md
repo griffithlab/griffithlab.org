@@ -22,6 +22,8 @@ header:
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
 
+{% include publication authors="Ainscough BJ*, Barnell EK*, Ronning P, Campbell KM, Wagner AH, Fehniger TA, Dunn GP, Uppaluri R, Govindan R, Rohan TE, Griffith M, Mardis ER, Swamidass SJ+, Griffith OL+" title="A deep learning approach to automate refinement of somatic variant calling from cancer sequencing data" journal="Nat Genet. 2018 Nov 5. [Epub ahead of print]" doi="10.1038/s41588-018-0257-y" pmid="30397337" %}
+
 {% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Sheta LM, Pema SP, Schmidt AD, Richters M, Cotto KC, Danos AM, Ramirez C, Skidmore ZL, Spies NC, Hundal J, Sediqzad MS, Kunisaki J, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M, Griffith OL" title="Standard operating procedure for somatic variant refinement of sequencing data with paired tumor and normal samples" journal="Genet Med. 2018 Oct 5. [Epub ahead of print]" doi="10.1038/s41436-018-0278-z" pmid="30287923" %}
 
 {% include publication authors="Wagner AH*, Devarakonda S*, Skidmore ZL, Krysiak K, Ramu A, Trani L, Kunisaki J, Masood A, Waqar SN, Spies NC, Morgensztern D, Waligorski J, Ponce J, Fulton RS, Maggi LB Jr, Weber JD, Watson MA, O'Conor CJ, Ritter JH, Olsen RR, Cheng H, Mukhopadhyay A, Can I, Cessna MH, Oliver TG, Mardis ER, Wilson RK, Griffith M+, Griffith OL+, Govindan R+" title="Recurrent WNT pathway alterations are frequent in relapsed small cell lung cancer" journal="Nat Commun. 2018 Sep 17;9(1):3787" doi="10.1038/s41467-018-06162-9" pmid="30224629" %}
