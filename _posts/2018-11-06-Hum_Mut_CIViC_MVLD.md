@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Lab Publication - Human Mutation
+title:  "Lab Publication - Human Mutation"
 teaser: "Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen Minimum Variant Level Data (MVLD) community-driven standards"
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
