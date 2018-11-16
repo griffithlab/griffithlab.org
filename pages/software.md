@@ -16,7 +16,7 @@ header:
     <li data-magellan-arrival="DGIdb"><a href="#DGIdb">DGIdb</a></li>
     <li data-magellan-arrival="pVACtools"><a href="#pVACtools">pVACtools</a></li>
     <li data-magellan-arrival="GenVisR"><a href="#GenVisR">GenVisR</a></li>
-    <li data-magellan-arrival="regtools"><a href="#regtools">regtools</a></li>
+    <li data-magellan-arrival="RegTools"><a href="#RegTools">RegTools</a></li>
 
   </ul>
 </div>
@@ -31,4 +31,4 @@ header:
 
 {% include software anchor="GenVisR" title="GenVisR: Genomic Visualizations in R" image="/assets/img/software/genvisr_overview.png"  shorturl="github.com/griffithlab/GenVisR" link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" description="GenVisR is a bioconductor package designed to allow users to produce highly customizable publication quality graphics for genomic data primarily at the cohort level." team="Zachary Skidmore, Alex Wagner, Katie Campbell, Jason Kunisaki, Obi Griffith, Malachi Griffith." source="GenVisR (Bioconductor)" source_link="https://bioconductor.org/packages/release/bioc/html/GenVisR.html" source2="GenVisR (GitHub)" source_link2="https://github.com/griffithlab/GenVisR" citation="Skidmore et al. 2016. GenVisR: Genomic Visualizations in R. Bioinformatics. 32(19):3012-4." citation_link="https://www.ncbi.nlm.nih.gov/pubmed/27288499" %}
 
-{% include software anchor="regtools" title="regtools" image="/assets/img/software/regtools_overview.jpg" shorturl="regtools.org" link="http://regtools.org" description="regtools is a set of tools that integrate DNA-seq and RNA-seq data to help interpret mutations in a regulatory and splicing context." team="Yang-Yang Feng, Avinash Ramu, Kelsy Cotto, Jason Kunisaki, Zachary Skidmore, Obi Griffith, Malachi Griffith" source="regtools (GitHub)" source_link="https://github.com/griffithlab/regtools" %}
+{% include software anchor="RegTools" title="RegTools" image="/assets/img/software/regtools_overview.jpg" shorturl="regtools.org" link="http://regtools.org" description="RegTools is a set of tools that integrate DNA-seq and RNA-seq data to help interpret mutations in a regulatory and splicing context." team="Yang-Yang Feng, Avinash Ramu, Kelsy Cotto, Jason Kunisaki, Zachary Skidmore, Obi Griffith, Malachi Griffith" source="RegTools (GitHub)" source_link="https://github.com/griffithlab/regtools" %}
