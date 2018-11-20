@@ -62,7 +62,6 @@ header:
 
 {% include team_member member_name="Peter" full_name="Peter Ronning" bio='Peter is first year graduate student in the Molecular Genetics and Genomics program. Peter grew up in a suburb of Minneapolis and majored in Biochemistry at the University of Minnesota. After graduation, he worked for two years at the Broad Institute.' image="/assets/img/team/peter_ronning.jpg" role="Graduate Student" %}
 
-{% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
 
 {% include team_member member_name="Huiming" full_name="Huiming Xia, BSc" bio='Huiming is a graduate student in the Computational Molecular Biophysics program at Washington University in St. Louis. She graduated from Carnegie Mellon University in 2017 with a dual degree in Computational Biology and Chemistry.' image="/assets/img/team/huiming_xia.jpg" role="Graduate Student" %}
 
@@ -94,8 +93,6 @@ header:
 
 {% include team_member member_name="Lana" full_name="Lana Sheta" bio='Lana has recently joined the lab for a summer research project as part of the Amgen Scholars program.' image="/assets/img/team/lana_sheta.jpg" role="Amgen Scholar" %}
 
-{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
-
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
 
 {% include team_member member_name="Sidi" full_name="Sidi Zhao" bio='Sidi is a graduate student in the Computational and Systems Biology program at Washington University in St. Louis. She graduated from Georgia Institute of Technology in 2017 with a degree in Biomedical Engineering.' image="/assets/img/team/sidi_zhao.jpg" role="PhD Rotation Student" %}
@@ -109,6 +106,10 @@ header:
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
+
+{% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
+
+{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
 
 {% include team_member member_name="Ben" full_name="Ben Ainscough, BSc" bio='Ben successfully completed his PhD in the Human and Statistical Genetics program at Washington University in St. Louis. His research was focused on computational method development to improve the detection of biologically important somatic variants. Specifically, he was interested in applying machine learning algorithms to improve genomic analysis and enable precision medicine. Additionally, he led the team to create the <a href="http://docm.info">Database of Curated Mutations</a>, and was a primary contributor to <a href="http://dgidb.org">DGIdb</a> and <a href="http://civicdb.org">CIViC</a>. Ben received his BSc from Brigham Young University majoring in Bioinformatics with University Honors. In his free time, Ben enjoys mountain biking, watching BYU sports, and spending time with his wife and children. He is now a Data Scientist at Domo.' image="/assets/img/team/benjamin_ainscough.jpg" role="Graduate Student" %}
 
