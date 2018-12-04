@@ -21,6 +21,7 @@ header:
 
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
+{%include publication authors="Hundal J, Kiwala S, Feng Y-Y, Liu CJ, Govindan R, Chapman WC, Uppaluri R, Swamidass SJ, Griffith OL, Mardis ER, Griffith M" title="Accounting for proximal variants improves neoantigen prediction" journal="Nat Genet. 2018 Dec 3. [Epub ahead of print]" doi="10.1038/s41588-018-0283-9" %}
 
 {% include publication authors="Ainscough BJ*, Barnell EK*, Ronning P, Campbell KM, Wagner AH, Fehniger TA, Dunn GP, Uppaluri R, Govindan R, Rohan TE, Griffith M, Mardis ER, Swamidass SJ+, Griffith OL+" title="A deep learning approach to automate refinement of somatic variant calling from cancer sequencing data" journal="Nat Genet. 2018 Nov 5. [Epub ahead of print]" doi="10.1038/s41588-018-0257-y" pmid="30397337" %}
 
