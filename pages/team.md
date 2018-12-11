@@ -131,6 +131,7 @@ header:
       <h5>Shou Han</h5>
       <h5>Shaopeng Liu</h5>
       <h5>Grace Wang</h5>
+      <h5>Aaron Graubert</h5>
   </div>
   <div class="small-4 columns">
       <h5>Rachel Bilski</h5>
