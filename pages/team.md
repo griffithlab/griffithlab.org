@@ -63,7 +63,6 @@ header:
 
 {% include team_member member_name="Peter" full_name="Peter Ronning" bio='Peter is first year graduate student in the Molecular Genetics and Genomics program. Peter grew up in a suburb of Minneapolis and majored in Biochemistry at the University of Minnesota. After graduation, he worked for two years at the Broad Institute.' image="/assets/img/team/peter_ronning.jpg" role="Graduate Student" %}
 
-{% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
 
 {% include team_member member_name="Huiming" full_name="Huiming Xia, BSc" bio='Huiming is a graduate student in the Computational Molecular Biophysics program at Washington University in St. Louis. She graduated from Carnegie Mellon University in 2017 with a dual degree in Computational Biology and Chemistry.' image="/assets/img/team/huiming_xia.jpg" role="Graduate Student" %}
 
@@ -95,8 +94,6 @@ header:
 
 {% include team_member member_name="Lana" full_name="Lana Sheta" bio='Lana has recently joined the lab for a summer research project as part of the Amgen Scholars program.' image="/assets/img/team/lana_sheta.jpg" role="Amgen Scholar" %}
 
-{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
-
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
 
 {% include team_member member_name="Sidi" full_name="Sidi Zhao" bio='Sidi is a graduate student in the Computational and Systems Biology program at Washington University in St. Louis. She graduated from Georgia Institute of Technology in 2017 with a degree in Biomedical Engineering.' image="/assets/img/team/sidi_zhao.jpg" role="PhD Rotation Student" %}
@@ -121,6 +118,11 @@ header:
 
 {% include team_member member_name="Avi" full_name="Avinash Ramu, MSc" bio='Avi was a Bioinformatician at the McDonnell Genome Institute. He made major contributions to the Genome Modeling System, regtools, and others. He is currently a PhD student at Washington University.' image='/assets/img/team/avi_ramu.jpg' role='Bioinformatician' %}
 
+{% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
+
+{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
+
+
 <a name="Past_Members"></a>
 <h2 data-magellan-destination="Past_Members">Past Members (Interns, Rotation Students, etc.)</h2>
 
@@ -130,6 +132,7 @@ header:
       <h5>Shou Han</h5>
       <h5>Shaopeng Liu</h5>
       <h5>Grace Wang</h5>
+      <h5>Aaron Graubert</h5>
   </div>
   <div class="small-4 columns">
       <h5>Rachel Bilski</h5>
