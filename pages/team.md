@@ -17,6 +17,7 @@ header:
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
     <li data-magellan-arrival="Students"><a href="#Students">Students</a></li>
+    <li data-magellan-arrival="Interns"><a href="#Interns">Interns</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
     <li data-magellan-arrival="Past_Members"><a href="#Past_Members">Past Members</a></li>
   </ul>
