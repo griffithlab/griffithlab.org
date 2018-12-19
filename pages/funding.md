@@ -67,7 +67,7 @@ In addition to support from Washington University, the Griffith Lab has received
   </div>
   <div class="small-4 columns">
     <a href="http://www.childrensdiscovery.org/">
-      <img src="/assets/img/funding/CDI_Logo.png">
+      <img src="/assets/img/funding/CDI_logo.png">
     </a>
   </div>
 </div>
