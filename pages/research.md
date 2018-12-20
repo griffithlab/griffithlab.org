@@ -83,7 +83,9 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/SCLC_figure_1b.png"
 
-  citation="Wagner, Devarakonda et al. 2018. Nature Communications. In Press."
+  citation="Wagner, Devarakonda, et al. Recurrent WNT pathway alterations are frequent in relapsed small cell lung cancer. Nat Commun. 2018 Sep 17;9(1):3787."
+  
+  pmid="30224629"
 
 %}
 
