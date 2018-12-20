@@ -118,7 +118,9 @@ In addition to our basic and clinical research interests, we are also passionate
 
   image="/assets/img/research/oscc_pdx_graphical_abstract.png"
 
-  citation="Campbell, Lin, Zolkind et al. 2018. Cell Reports. In Press."
+  citation="Campbell, Lin T, Zolkind P, et al. Oral Cavity Squamous Cell Carcinoma Xenografts Retain Complex Genotypes and Intertumor Molecular Heterogeneity. Cell Rep. 2018 Aug 21;24(8):2167-2178."
+
+  pmid="30134176"
 
 %}
 
