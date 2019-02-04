@@ -317,3 +317,14 @@
       url: https://github.com/atwollam
       class: icon-github
       title: "GitHub Profile"
+
+- member_name: Matthew
+  social:
+    - name: GitHub
+      url: https://github.com/Matthew-Mosior
+      class: icon-github
+      title: "GitHub Profile"
+    - name: linkedin
+      url: https://www.linkedin.com/in/matthew-mosior-a5639183/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
