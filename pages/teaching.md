@@ -12,10 +12,9 @@ header:
 Drs Griffith guest lecture regularly for a number of traditional courses at Washington University School of Medicine. Drs Griffith also coordinate the Cancer Informatics Journal Club and Dr Obi Griffith is course master for a Genomics in Medicine course. The Griffith Lab is deeply committed to providing open source educational resources to aid the bioinformatics community. To this end we maintain several online courses and tutorials. We also deliver periodic workshops based on these materials (see below). To date we have led 23 workshops held in 7 cities and 4 countries. Furthermore, we and many members of the lab are actively engaged in community forums such as [BioStars](https://www.biostars.org/).
 
 ### Upcoming Workshops
-1. Cold Spring Harbor Laboratory (CSHL) Courses - [High-Throughput Biology: From Sequence to Networks, New York, USA, Mar 11-17, 2019](https://meetings.cshl.edu/courses.aspx?course=C-CBW&year=19)
-2. Physalia Courses - [Genomic Data Visualization and Interpretation, Berlin, Germany, Apr 8-12, 2019](https://www.physalia-courses.org/courses-workshops/course14/).
-3. Canadian Bioinformatics Workshops - [Informatics for RNA-Seq Analysis, Toronto, Canada, Jun 12-14, 2019](https://bioinformatics.ca/workshops/informatics-for-rna-seq-analysis/)
-4. Cold Spring Harbor Laboratory (CSHL) Courses - [Advanced Sequencing Technologies and Applications, New York, USA, Nov 5-17, 2019](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=19)
+1. Physalia Courses - [Genomic Data Visualization and Interpretation, Berlin, Germany, Apr 8-12, 2019](https://www.physalia-courses.org/courses-workshops/course14/).
+2. Canadian Bioinformatics Workshops - [Informatics for RNA-Seq Analysis, Toronto, Canada, Jun 12-14, 2019](https://bioinformatics.ca/workshops/informatics-for-rna-seq-analysis/)
+3. Cold Spring Harbor Laboratory (CSHL) Courses - [Advanced Sequencing Technologies and Applications, New York, USA, Nov 5-17, 2019](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=19)
 
 ### Past Workshops
 The following are hosted in different locations and times every year or two. Registration and other details of each course can be found on the website of each course organizer (linked below).
