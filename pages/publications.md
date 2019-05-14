@@ -20,8 +20,8 @@ header:
   </ul>
 </div>
 
-<h2 data-magellan-destination="2018">2018</h2>
-<a name="2018"></a>
+<h2 data-magellan-destination="2019">2019</h2>
+<a name="2019"></a>
 
 {% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Sheta LM, Pema SP, Schmidt AD, Richters M, Cotto KC, Danos AM, Ramirez C, Skidmore ZL, Spies NC, Hundal J, Sediqzad MS, Kunisaki J, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M+, Griffith OL+" title="Standard operating procedure for somatic variant refinement of sequencing data with paired tumor and normal samples" journal="Genet Med. 2019 Apr;21(4):972-981." doi="10.1038/s41436-018-0278-z" pmid="30287923" %}
 
