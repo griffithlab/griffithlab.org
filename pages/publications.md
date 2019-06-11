@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2019"><a href="#2019">2019</a></li>
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
@@ -19,15 +20,19 @@ header:
   </ul>
 </div>
 
+<h2 data-magellan-destination="2019">2019</h2>
+<a name="2019"></a>
+
+{% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Sheta LM, Pema SP, Schmidt AD, Richters M, Cotto KC, Danos AM, Ramirez C, Skidmore ZL, Spies NC, Hundal J, Sediqzad MS, Kunisaki J, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M+, Griffith OL+" title="Standard operating procedure for somatic variant refinement of sequencing data with paired tumor and normal samples" journal="Genet Med. 2019 Apr;21(4):972-981." doi="10.1038/s41436-018-0278-z" pmid="30287923" %}
+
+{%include publication authors="Hundal J, Kiwala S, Feng YY, Liu CJ, Govindan R, Chapman WC, Uppaluri R, Swamidass SJ, Griffith OL, Mardis ER, Griffith M" title="Accounting for proximal variants improves neoantigen prediction" journal="Nat Genet. 2019 Jan;51(1):175-179." doi="10.1038/s41588-018-0283-9" pmid="30510237" %}
+
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
-{%include publication authors="Hundal J, Kiwala S, Feng Y-Y, Liu CJ, Govindan R, Chapman WC, Uppaluri R, Swamidass SJ, Griffith OL, Mardis ER, Griffith M" title="Accounting for proximal variants improves neoantigen prediction" journal="Nat Genet. 2018 Dec 3. [Epub ahead of print]" doi="10.1038/s41588-018-0283-9" %}
 
-{% include publication authors="Ainscough BJ*, Barnell EK*, Ronning P, Campbell KM, Wagner AH, Fehniger TA, Dunn GP, Uppaluri R, Govindan R, Rohan TE, Griffith M, Mardis ER, Swamidass SJ+, Griffith OL+" title="A deep learning approach to automate refinement of somatic variant calling from cancer sequencing data" journal="Nat Genet. 2018 Nov 5. [Epub ahead of print]" doi="10.1038/s41588-018-0257-y" pmid="30397337" %}
+{% include publication authors="Ainscough BJ*, Barnell EK*, Ronning P, Campbell KM, Wagner AH, Fehniger TA, Dunn GP, Uppaluri R, Govindan R, Rohan TE, Griffith M, Mardis ER, Swamidass SJ+, Griffith OL+" title="A deep learning approach to automate refinement of somatic variant calling from cancer sequencing data" journal="Nat Genet. 2018 Dec;50(12):1735-1743." doi="10.1038/s41588-018-0257-y" pmid="30397337" %}
 
-{% include publication authors="Danos AM, Ritter DI, Wagner AH, Krysiak K, Sonkin D, Micheel C, McCoy M, Rao S, Raca G, Boca SM, Roy A, Barnell EK, McMichael JF, Kiwala S, Coffman AC, Kujan  L, Kulkarni S+, Griffith M+, Madhavan S+, Griffith OL+" title="Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community-driven standards." journal="Hum Mutat." doi="10.1002/humu.23651" pmid="30311370" %}
-
-{% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Sheta LM, Pema SP, Schmidt AD, Richters M, Cotto KC, Danos AM, Ramirez C, Skidmore ZL, Spies NC, Hundal J, Sediqzad MS, Kunisaki J, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M+, Griffith OL+" title="Standard operating procedure for somatic variant refinement of sequencing data with paired tumor and normal samples" journal="Genet Med. 2018 Oct 5. [Epub ahead of print]" doi="10.1038/s41436-018-0278-z" pmid="30287923" %}
+{% include publication authors="Danos AM, Ritter DI, Wagner AH, Krysiak K, Sonkin D, Micheel C, McCoy M, Rao S, Raca G, Boca SM, Roy A, Barnell EK, McMichael JF, Kiwala S, Coffman AC, Kujan  L, Kulkarni S+, Griffith M+, Madhavan S+, Griffith OL+" title="Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community-driven standards." journal="Hum Mutat. 2018 Nov;39(11):1721-1732." doi="10.1002/humu.23651" pmid="30311370" %}
 
 {% include publication authors="Wagner AH*, Devarakonda S*, Skidmore ZL, Krysiak K, Ramu A, Trani L, Kunisaki J, Masood A, Waqar SN, Spies NC, Morgensztern D, Waligorski J, Ponce J, Fulton RS, Maggi LB Jr, Weber JD, Watson MA, O'Conor CJ, Ritter JH, Olsen RR, Cheng H, Mukhopadhyay A, Can I, Cessna MH, Oliver TG, Mardis ER, Wilson RK, Griffith M+, Griffith OL+, Govindan R+" title="Recurrent WNT pathway alterations are frequent in relapsed small cell lung cancer" journal="Nat Commun. 2018 Sep 17;9(1):3787" doi="10.1038/s41467-018-06162-9" pmid="30224629" %}
 
