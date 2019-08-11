@@ -23,6 +23,10 @@ header:
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 
+{% include publication authors="Campbell KM, O'Leary KA, Rugowski DE, Mulligan WA, Barnell EK, Skidmore ZL, Krysiak K, Griffith M, Schuler LA, Griffith OL" title="A Spontaneous Aggressive ERα+ Mammary Tumor Model Is Driven by Kras Activation" journal="Cell Rep. 2019 Aug 6;28(6):1526-1537.e4" doi="10.1016/j.celrep.2019.06.098" pmid="31390566" %}
+
+{% include publication authors="Barnell E, Kang Y, Wurtzler E, Griffith M, Chaudhuri AA, Griffith OL; Geneoscopy Scientists" title="Noninvasive Detection of High-Risk Adenomas Using Stool-Derived Eukaryotic RNA Sequences as Biomarkers" journal="Gastroenterology. 2019 May 30. pii: S0016-5085(19)40976-1. [Epub ahead of print]" doi="10.1053/j.gastro.2019.05.058" pmid="31154021" %}
+
 {% include publication authors="Barnell EK, Ronning P, Campbell KM, Krysiak K, Ainscough BJ, Sheta LM, Pema SP, Schmidt AD, Richters M, Cotto KC, Danos AM, Ramirez C, Skidmore ZL, Spies NC, Hundal J, Sediqzad MS, Kunisaki J, Gomez F, Trani L, Matlock M, Wagner AH, Swamidass SJ, Griffith M+, Griffith OL+" title="Standard operating procedure for somatic variant refinement of sequencing data with paired tumor and normal samples" journal="Genet Med. 2019 Apr;21(4):972-981" doi="10.1038/s41436-018-0278-z" pmid="30287923" %}
 
 {%include publication authors="Hundal J, Kiwala S, Feng YY, Liu CJ, Govindan R, Chapman WC, Uppaluri R, Swamidass SJ, Griffith OL, Mardis ER, Griffith M" title="Accounting for proximal variants improves neoantigen prediction" journal="Nat Genet. 2019 Jan;51(1):175-179" doi="10.1038/s41588-018-0283-9" pmid="30510237" %}
