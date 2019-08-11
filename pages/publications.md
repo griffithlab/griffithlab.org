@@ -127,7 +127,7 @@ header:
 <h2 data-magellan-destination="All">Complete Bibliography (PubMed)</h2>
 <a name="All"></a>
 
-<h3><a href=""https://www.ncbi.nlm.nih.gov/myncbi/obi.griffith.1/bibliography/public/>Obi Griffith</a></h3>
+<h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/obi.griffith.1/bibliography/public/">Obi Griffith</a></h3>
 
 <h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/malachi.griffith.1/bibliography/public/">Malachi Griffith</a></h3>
 
