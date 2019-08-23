@@ -17,7 +17,7 @@ header:
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
     <li data-magellan-arrival="Students"><a href="#Students">Students</a></li>
-    <li data-magellan-arrival="Interns"><a href="#Interns">Interns</a></li>
+    <li data-magellan-arrival="Interns_Rotations"><a href="#Interns_Rotations">Interns and Rotation Students</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
     <li data-magellan-arrival="Past_Members"><a href="#Past_Members">Past Members</a></li>
   </ul>
@@ -100,8 +100,8 @@ header:
 
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
 
-<h2 data-magellan-destination="Interns">Interns</h2>
-<a name="Interns"></a>
+<h2 data-magellan-destination="Interns_Rotations">Interns and Rotation Students</h2>
+<a name="Interns_Rotations"></a>
 
 {% include team_member member_name="Bryan" full_name="Bryan Fisk" bio='Bryan is currently pursuing a Masters in Bioinformatics at St. Louis University. Bryan is working on single cell RNA analysis projects in the lab.' image='/assets/img/team/bryan_fisk.jpg' role='Intern' %}
 
