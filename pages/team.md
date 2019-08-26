@@ -111,6 +111,8 @@ header:
 
 {% include team_member member_name="Jace" full_name="Jace Webster" bio='Jace is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. He received his undergraduate training at Brigham Young University, where he studied Molecular Biology and Bioinformatics. He is currently doing a rotation in the Griffith Lab, working on single cell RNA analysis projects.' image='/assets/img/team/jace_webster.jpg' role='Rotation Student' %}
 
+{% include team_member member_name="Gejae" full_name="Gejae Jeffers" bio='Gejae is a Predoctoral trainee in the Human & Statistical genetics program at Washington University in St. Louis. He received his undergraduate training at the University of the Virgin Islands in 2017, where he studied Computer Science w focus training in Biology and Mathematics. He is currently working on a ctDNA/cfDNA project as a rotation student.' image='/assets/img/team/gejae_jeffers.jpg' role='Rotation Student' %}
+
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
