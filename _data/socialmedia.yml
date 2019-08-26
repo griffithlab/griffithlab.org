@@ -328,3 +328,10 @@
       url: https://www.linkedin.com/in/matthew-mosior-a5639183/
       class: icon-linkedin
       title: "Professional LinkedIn account"
+      
+- member_name: Jace
+  social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/jace-webster-a34541122
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
