@@ -109,7 +109,7 @@ header:
 
 {% include team_member member_name="Alex_W" full_name="Alex Wollam" bio='Alex is currently pursuing a degree in Computer Science Engineering at the Ohio State University. Alex is working on software development for <a href="https://github.com/griffithlab/pVAC-Tools">pVACtools</a>. Alex is currently on his third summer internship with the lab.' image='/assets/img/team/alex_wollam.jpg' role='Intern' %}
 
-{% include team_member member_name="Jace" fulle_name="Jace Webster" bio='Jace is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. He received his undergraduate training at Brigham Young University, where he studied Molecular Biology and Bioinformatics. He is currently doing a rotation in the Griffith Lab, working on single cell RNA analysis projects.' image='/assets/img/team/jace_webster.jpg' role='Rotation Student' %}
+{% include team_member member_name="Jace" full_name="Jace Webster" bio='Jace is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. He received his undergraduate training at Brigham Young University, where he studied Molecular Biology and Bioinformatics. He is currently doing a rotation in the Griffith Lab, working on single cell RNA analysis projects.' image='/assets/img/team/jace_webster.jpg' role='Rotation Student' %}
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
