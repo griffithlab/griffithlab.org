@@ -90,6 +90,8 @@ header:
 
 <a name="Students"></a>
 
+{% include team_member member_name="Sydney" full_name="Sydney Anderson" bio='Sydney is an undergraduate student at the University of Pittburgh. Sydney joined the lab as part of the Siteman’s Leah Menshouse Springer Summer Opportunities program.' image="/assets/img/team/sydney_anderson.jpg" role="Summer student" %}
+
 {% include team_member member_name="Akshay" full_name="Akshay Balaji" bio='Akshay is an undergraduate student at the Washington University. Akshay joined the lab as part of the WASHU BioSURF program.' image="/assets/img/team/akshay_balaji.jpg" role="Summer student" %}
 
 {% include team_member member_name="Kaitlin" full_name="Kaitlin Clark" bio='Kaitlin Clark is an second year undergraduate at Washington University in St. Louis pursuing a Bachelor of Science degree in Computational Biology and Genomics. She joined the Griffith Lab as a curator for the Clinical Interpretation of Variants in Cancer (<a href="www.civicdb.org">CIViC</a>) project last year. Her ongoing interests concern the enablement of precision medicine through the identification of clinically relevant variants that aid in better prognosis and diagnosis of cancer syndromes and the development of web resources to aid in the interpretation and discovery of such clinically relevant variants. Currently Kaitlin curates information relating to von-Hippel Lindau disease (VHLD), a neoplastic syndrome resulting from the inactivation of the VHL tumor suppressor gene. Her project aides to the overall goal of the CIViC project by developing a comprehensive web source of VHL variants. In the future Kaitlin hopes to pursue an MD/PhD in integrative genomics.' image="/assets/img/team/kaitlin_clark.png" role="Undergraduate Student, uSTAR Fellow" %}
@@ -146,7 +148,6 @@ header:
       <h5>Greg Spies</h5>
       <h5>Matthew Matlock</h5>
       <h5>Deng Pan</h5>
-      <h5>Sydney Anderson</h5>
   </div>
   <div class="small-4 columns">
       <h5>Mayank Choudhary</h5>
