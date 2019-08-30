@@ -90,8 +90,6 @@ header:
 
 <a name="Students"></a>
 
-{% include team_member member_name="Sydney" full_name="Sydney Anderson" bio='Sydney is an undergraduate student at the University of Pittburgh. Sydney joined the lab as part of the Siteman’s Leah Menshouse Springer Summer Opportunities program.' image="/assets/img/team/sydney_anderson.jpg" role="Summer student" %}
-
 {% include team_member member_name="Akshay" full_name="Akshay Balaji" bio='Akshay is an undergraduate student at the Washington University. Akshay joined the lab as part of the WASHU BioSURF program.' image="/assets/img/team/akshay_balaji.jpg" role="Summer student" %}
 
 {% include team_member member_name="Kaitlin" full_name="Kaitlin Clark" bio='Kaitlin Clark is an second year undergraduate at Washington University in St. Louis pursuing a Bachelor of Science degree in Computational Biology and Genomics. She joined the Griffith Lab as a curator for the Clinical Interpretation of Variants in Cancer (<a href="www.civicdb.org">CIViC</a>) project last year. Her ongoing interests concern the enablement of precision medicine through the identification of clinically relevant variants that aid in better prognosis and diagnosis of cancer syndromes and the development of web resources to aid in the interpretation and discovery of such clinically relevant variants. Currently Kaitlin curates information relating to von-Hippel Lindau disease (VHLD), a neoplastic syndrome resulting from the inactivation of the VHL tumor suppressor gene. Her project aides to the overall goal of the CIViC project by developing a comprehensive web source of VHL variants. In the future Kaitlin hopes to pursue an MD/PhD in integrative genomics.' image="/assets/img/team/kaitlin_clark.png" role="Undergraduate Student, uSTAR Fellow" %}
@@ -130,10 +128,6 @@ header:
 
 {% include team_member member_name="Avi" full_name="Avinash Ramu, MSc" bio='Avi was a Bioinformatician at the McDonnell Genome Institute. He made major contributions to the Genome Modeling System, regtools, and others. He is currently a PhD student at Washington University.' image='/assets/img/team/avi_ramu.jpg' role='Bioinformatician' %}
 
-{% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
-
-{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
-
 <a name="Past_Members"></a>
 <h2 data-magellan-destination="Past_Members">Past Members (Interns, Rotation Students, etc.)</h2>
 
@@ -144,6 +138,7 @@ header:
       <h5>Shaopeng Liu</h5>
       <h5>Grace Wang</h5>
       <h5>Aaron Graubert</h5>
+      <h5>Alina Schmidt</h5>
   </div>
   <div class="small-4 columns">
       <h5>Sidi Zhao</h5>
@@ -151,11 +146,13 @@ header:
       <h5>Greg Spies</h5>
       <h5>Matthew Matlock</h5>
       <h5>Deng Pan</h5>
+      <h5>Sydney Anderson</h5>
   </div>
   <div class="small-4 columns">
       <h5>Mayank Choudhary</h5>
       <h5>Ju Heon Maeng</h5>
       <h5>Amber Wollam</h5>
       <h5>Jaclyn Boozalis</h5>
+      <h5>Malik Sediqzad</h5>
   </div>
 </div>
