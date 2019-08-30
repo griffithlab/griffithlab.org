@@ -130,10 +130,6 @@ header:
 
 {% include team_member member_name="Avi" full_name="Avinash Ramu, MSc" bio='Avi was a Bioinformatician at the McDonnell Genome Institute. He made major contributions to the Genome Modeling System, regtools, and others. He is currently a PhD student at Washington University.' image='/assets/img/team/avi_ramu.jpg' role='Bioinformatician' %}
 
-{% include team_member member_name="Alina" full_name="Alina Schmidt, BSc" bio='Alina is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Brigham Young University in 2009 with a degree in Molecular Biology.' image="/assets/img/team/alina_schmidt.jpg" role="Graduate Student" %}
-
-{% include team_member member_name="Malik" full_name="Malik Sediqzad" bio='Malik has recently joined the lab for a summer research project as part of the Young Scientist Program.' image="/assets/img/team/malik_sediqzad.jpg" role="YSP Student" %}
-
 <a name="Past_Members"></a>
 <h2 data-magellan-destination="Past_Members">Past Members (Interns, Rotation Students, etc.)</h2>
 
@@ -144,6 +140,7 @@ header:
       <h5>Shaopeng Liu</h5>
       <h5>Grace Wang</h5>
       <h5>Aaron Graubert</h5>
+      <h5>Alina Schmidt</h5>
   </div>
   <div class="small-4 columns">
       <h5>Sidi Zhao</h5>
@@ -157,5 +154,6 @@ header:
       <h5>Ju Heon Maeng</h5>
       <h5>Amber Wollam</h5>
       <h5>Jaclyn Boozalis</h5>
+      <h5>Malik Sediqzad</h5>
   </div>
 </div>
