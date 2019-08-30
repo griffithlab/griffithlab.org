@@ -113,6 +113,8 @@ header:
 
 {% include team_member member_name="Gejae" full_name="Gejae Jeffers" bio='Gejae is a Predoctoral trainee in the Human & Statistical genetics program at Washington University in St. Louis. He received his undergraduate training at the University of the Virgin Islands in 2017, where he studied Computer Science w focus training in Biology and Mathematics. He is currently working on a ctDNA/cfDNA project as a rotation student.' image='/assets/img/team/gejae_jeffers.jpg' role='Rotation Student' %}
 
+{% include team_member member_name="Anamika" full_name="Anamika Basu" bio='Anamika is a WashU undergraduate student. Anamika is working on a cfDNA project with the lab.' image='/assets/img/team/anamika_basu.jpg' role='Intern' %}
+
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
