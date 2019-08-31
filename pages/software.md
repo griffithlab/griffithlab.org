@@ -16,6 +16,8 @@ header:
     <li data-magellan-arrival="DGIdb"><a href="#DGIdb">DGIdb</a></li>
     <li data-magellan-arrival="GenVisR"><a href="#GenVisR">GenVisR</a></li>
     <li data-magellan-arrival="RegTools"><a href="#RegTools">RegTools</a></li>
+    <li data-magellan-arrival="VAtools"><a href="#VAtools">VAtools</a></li>
+    <li data-magellan-arrival="OpenCAP"><a href="#OpenCAP">OpenCAP</a></li>
     <li data-magellan-arrival="DoCM"><a href="#DoCM">DoCM</a></li>
 
   </ul>
