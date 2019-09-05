@@ -13,6 +13,7 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 
 ### Upcoming Workshops
 1. Cold Spring Harbor Laboratory (CSHL) Courses - [Advanced Sequencing Technologies and Applications, New York, USA, Nov 5-17, 2019](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=19)
+2. Evomics Courses - [Workshop on Genomics, Český Krumlov, Czech Republic, Jan 5-18, 2020](http://evomics.org/2020-workshop-on-genomics-cesky-krumlov-czech-republic/)
 
 ### Past Workshops
 The following are hosted in different locations and times every year or two. Registration and other details of each course can be found on the website of each course organizer (linked below).
