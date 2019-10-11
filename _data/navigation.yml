@@ -21,6 +21,9 @@
 - title: Join
   url: "/join/"
   side: left
+  dropdown:
+    - title: "Positions"
+      url: "/join/positions/"
 
 - title: Teaching
   url: "/teaching/"
