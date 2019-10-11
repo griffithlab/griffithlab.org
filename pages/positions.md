@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Positions"
 permalink: "/join/positions/"
 header:
