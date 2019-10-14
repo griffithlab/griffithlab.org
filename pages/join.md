@@ -22,8 +22,8 @@ Trainees interested in joining the lab may find the following suggestions/resour
 * Develop key skills such as statistics (classic stats and Monte Carlo methods), machine learning, data wrangling, and other big data techniques.
 * Have at least some hands-on familiarity with wet lab molecular biology (sequencing protocols, tissue culture, PCR, etc.).
 
-### PhD and MSTP student
-Note that if you wish to join the Griffith Lab as a PhD or MSTP student, you must normally first gain acceptance to the Washington University graduate program, choose a program within [DBBS](http://dbbs.wustl.edu/Pages/index.aspx), and rotate through 2-4 labs (one of which would be the Griffith Lab). After that, we can discuss the possibility of joining the lab. We cannot accept students directly prior to acceptance to WashU. We are affiliated with the following DBBS programs: Computational and Systems Biology (CSB), Human Statistal Genetics (HSG), Molecular Genetics and Genomics (MGG), and Molecular Cell Biology (MCB). We can take students from other programs if the student is a good fit for the Griffith Lab.
+### PhD and MSTP students
+Note that if you wish to join the Griffith Lab as a PhD or MSTP student, you must first gain acceptance to the Washington University graduate program, choose a program within [DBBS](http://dbbs.wustl.edu/Pages/index.aspx), and rotate through 2-4 labs (one of which would be the Griffith Lab). After that, we can discuss the possibility of joining the lab. We cannot accept students directly prior to acceptance to WashU. We are affiliated with the following DBBS programs: Cancer Biology (CB), Computational and Systems Biology (CSB), Human Statistal Genetics (HSG), Molecular Genetics and Genomics (MGG), and Molecular Cell Biology (MCB). We can also take students from other programs if the student is a good fit for the Griffith Lab.
 
 ### Staff
 Please visit [positions](/join/positions/) for current job openings.
