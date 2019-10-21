@@ -23,6 +23,8 @@ header:
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 
+{% include publication authors="Barnell EK, Waalkes A, Mosior MC, Penewit K, Cotto KC, Danos AM, Sheta LM, Campbell KM, Krysiak K, Rieke D, Spies NC, Skidmore ZL, Pritchard CC, Fehniger TA, Uppaluri R, Govindan R, Griffith M+, Salipante SJ+, Griffith OL+." title="Open-Sourced CIViC Annotation Pipeline to Identify and Annotate Clinically Relevant Variants Using Single-Molecule Molecular Inversion Probes" journal="JCO CCI. 2019 Oct 16;3, 1-12" doi="10.1200/CCI.19.00077" pmid="31618044" %}
+
 {% include publication authors="Richters MM, Xia H, Campbell KM, Gillanders WE, Griffith OL+, Griffith M+." title="Best practices for bioinformatic characterization of neoantigens for clinical utility" journal="Genome Med. 2019 Aug 28;11(1):56" doi="10.1186/s13073-019-0666-2" pmid="31462330" %}
 
 {% include publication authors="Campbell KM, O'Leary KA, Rugowski DE, Mulligan WA, Barnell EK, Skidmore ZL, Krysiak K, Griffith M, Schuler LA+, Griffith OL+" title="A Spontaneous Aggressive ERα+ Mammary Tumor Model Is Driven by Kras Activation" journal="Cell Rep. 2019 Aug 6;28(6):1526-1537.e4" doi="10.1016/j.celrep.2019.06.098" pmid="31390566" %}
