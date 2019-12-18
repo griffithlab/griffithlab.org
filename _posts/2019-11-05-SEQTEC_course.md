@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Griffith lab members teach at Cold Spring Harbor Laboratory (CSHL)"
+title:  "Griffith lab members teach at Cold Spring Harbor Laboratory"
 teaser: "Several members of the lab assisted and taught at CHSL's Advanced Sequencing Technologies and Applications course"
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
