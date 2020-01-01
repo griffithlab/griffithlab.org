@@ -23,6 +23,8 @@ header:
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 
+{% include publication authors="Lever J, Jones MR, Danos AM, Krysiak K, Bonakdar M, Grewal JK, Culibrk L, Griffith OL+, Griffith M+, Jones SJM+." title="Text-mining clinically relevant cancer biomarkers for curation into the CIViC database" journal="Genome Med. 2019 Dec 03;11(1):78" doi="10.1186/s13073-019-0686-y" pmid="31796060" %}
+
 {% include publication authors="Danos AM, Krysiak K, Barnell EK, Coffman AC, McMichael JF, Kiwala S, Spies NC, Sheta LM, Pema SP, Kujan L, Clark KA, Wollam AZ, Rao S, Ritter DI, Sonkin Dmitriy, Raca G, Lin W, Grisdale CJ, Kim RH, Wagner AH, Madhavan S, Griffith M+, Griffith OL+." title="Standard operating procedure for curation and clinical interpretation of variants in cancer" journal="Genome Medicine. 2019 Nov 29;11, 76" doi="10.1186/s13073-019-0687-x" pmid="31779674" %}
 
 {% include publication authors="Barnell EK, Waalkes A, Mosior MC, Penewit K, Cotto KC, Danos AM, Sheta LM, Campbell KM, Krysiak K, Rieke D, Spies NC, Skidmore ZL, Pritchard CC, Fehniger TA, Uppaluri R, Govindan R, Griffith M+, Salipante SJ+, Griffith OL+." title="Open-Sourced CIViC Annotation Pipeline to Identify and Annotate Clinically Relevant Variants Using Single-Molecule Molecular Inversion Probes" journal="JCO CCI. 2019 Oct 16;3, 1-12" doi="10.1200/CCI.19.00077" pmid="31618044" %}
