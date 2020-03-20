@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2020"><a href="#2020">2020</a></li>
     <li data-magellan-arrival="2019"><a href="#2019">2019</a></li>
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
@@ -19,6 +20,11 @@ header:
     <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
+
+<h2 data-magellan-destination="2020">2020</h2>
+<a name="2020"></a>
+
+{% include publication authors="Wagner AH, Kiwala S, Coffman AC, McMichael JF, Cotto KC, Mooney TB, Barnell EK, Krysiak K, Danos AM, Walker J, Griffith M+, Griffith OL+." title="CIViCpy: A Python Software Development and Analysis Toolkit for the CIViC Knowledgebase" journal="JCO CCI. 2020 Mar 19; 4, 245-253" doi="10.1200/CCI.19.00127" pmid="32191543" %}
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
