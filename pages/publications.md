@@ -24,18 +24,24 @@ header:
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
 
+{% include publication authors="Wagner AH, Walsh B, Mayfield G, Tamborero D, Sonkin D, Krysiak K, Deu-Pons J, Duren RP, Gao J, McMurry J, Patterson S, Del Vecchio Fitz C, Pitel BA, Sezerman OU, Ellrott K, Warner JL, Rieke DT, Aittokallio T, Cerami E, Ritter DI, Schriml LM, Freimuth RR, Haendel M, Raca G, Madhavan S, Baudis M, Beckmann JS, Dienstmann R, Chakravarty D, Li XS, Mockus S, Elemento O, Schultz N, Lopez-Bigas N, Lawler M, Goecks J, Griffith M+, Griffith OL+, Margolin AA; Variant Interpretation for Cancer Consortium" title="A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer" journal="Nat Genet. 2020 Apr;52(4):448-457" doi="10.1038/s41588-020-0603-8" pmid="32246132" %}
+
 {% include publication authors="Wagner AH, Kiwala S, Coffman AC, McMichael JF, Cotto KC, Mooney TB, Barnell EK, Krysiak K, Danos AM, Walker J, Griffith M+, Griffith OL+" title="CIViCpy: A Python Software Development and Analysis Toolkit for the CIViC Knowledgebase" journal="JCO CCI. 2020 Mar 19; 4, 245-253" doi="10.1200/CCI.19.00127" pmid="32191543" %}
+
+{% include publication authors="Hundal J, Kiwala S, McMichael J, Miller CA, Xia H, Wollam AT, Liu CJ, Zhao S, Feng YY, Graubert AP, Wollam AZ, Neichin J, Neveau M, Walker J, Gillanders WE, Mardis ER, Griffith OL+, Griffith M+" title="pVACtools: A Computational Toolkit to Identify and Visualize Cancer Neoantigens" journal="Cancer Immunol Res. 2020 Mar;8(3):409-420" doi="10.1158/2326-6066.CIR-19-0401" pmid="31907209" %}
+
+{% include publication authors="Chu S, Wylie TN, Wylie KM, Johnson GC, Skidmore ZL, Fleer M, Griffith OL, Bryan JN" title="A virome sequencing approach to feline oral squamous cell carcinoma to evaluate viral causative factors" journal="Vet Microbiol" doi="10.1016/j.vetmic.2019.108491" pmid="31902496" %}
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 
 {% include publication authors="Lever J, Jones MR, Danos AM, Krysiak K, Bonakdar M, Grewal JK, Culibrk L, Griffith OL+, Griffith M+, Jones SJM+" title="Text-mining clinically relevant cancer biomarkers for curation into the CIViC database" journal="Genome Med. 2019 Dec 03;11(1):78" doi="10.1186/s13073-019-0686-y" pmid="31796060" %}
 
-{% include publication authors="Danos AM, Krysiak K, Barnell EK, Coffman AC, McMichael JF, Kiwala S, Spies NC, Sheta LM, Pema SP, Kujan L, Clark KA, Wollam AZ, Rao S, Ritter DI, Sonkin Dmitriy, Raca G, Lin W, Grisdale CJ, Kim RH, Wagner AH, Madhavan S, Griffith M+, Griffith OL+" title="Standard operating procedure for curation and clinical interpretation of variants in cancer" journal="Genome Medicine. 2019 Nov 29;11, 76" doi="10.1186/s13073-019-0687-x" pmid="31779674" %}
+{% include publication authors="Danos AM, Krysiak K, Barnell EK, Coffman AC, McMichael JF, Kiwala S, Spies NC, Sheta LM, Pema SP, Kujan L, Clark KA, Wollam AZ, Rao S, Ritter DI, Sonkin Dmitriy, Raca G, Lin W, Grisdale CJ, Kim RH, Wagner AH, Madhavan S, Griffith M+, Griffith OL+" title="Standard operating procedure for curation and clinical interpretation of variants in cancer" journal="Genome Med. 2019 Nov 29;11, 76" doi="10.1186/s13073-019-0687-x" pmid="31779674" %}
 
 {% include publication authors="Barnell EK, Waalkes A, Mosior MC, Penewit K, Cotto KC, Danos AM, Sheta LM, Campbell KM, Krysiak K, Rieke D, Spies NC, Skidmore ZL, Pritchard CC, Fehniger TA, Uppaluri R, Govindan R, Griffith M+, Salipante SJ+, Griffith OL+" title="Open-Sourced CIViC Annotation Pipeline to Identify and Annotate Clinically Relevant Variants Using Single-Molecule Molecular Inversion Probes" journal="JCO CCI. 2019 Oct 16;3, 1-12" doi="10.1200/CCI.19.00077" pmid="31618044" %}
 
-{% include publication authors="Richters MM, Xia H, Campbell KM, Gillanders WE, Griffith OL+, Griffith M+." title="Best practices for bioinformatic characterization of neoantigens for clinical utility" journal="Genome Med. 2019 Aug 28;11(1):56" doi="10.1186/s13073-019-0666-2" pmid="31462330" %}
+{% include publication authors="Richters MM, Xia H, Campbell KM, Gillanders WE, Griffith OL+, Griffith M+" title="Best practices for bioinformatic characterization of neoantigens for clinical utility" journal="Genome Med. 2019 Aug 28;11(1):56" doi="10.1186/s13073-019-0666-2" pmid="31462330" %}
 
 {% include publication authors="Campbell KM, O'Leary KA, Rugowski DE, Mulligan WA, Barnell EK, Skidmore ZL, Krysiak K, Griffith M, Schuler LA+, Griffith OL+" title="A Spontaneous Aggressive ERα+ Mammary Tumor Model Is Driven by Kras Activation" journal="Cell Rep. 2019 Aug 6;28(6):1526-1537.e4" doi="10.1016/j.celrep.2019.06.098" pmid="31390566" %}
 
@@ -50,7 +56,7 @@ header:
 
 {% include publication authors="Ainscough BJ*, Barnell EK*, Ronning P, Campbell KM, Wagner AH, Fehniger TA, Dunn GP, Uppaluri R, Govindan R, Rohan TE, Griffith M, Mardis ER, Swamidass SJ+, Griffith OL+" title="A deep learning approach to automate refinement of somatic variant calling from cancer sequencing data" journal="Nat Genet. 2018 Dec;50(12):1735-1743" doi="10.1038/s41588-018-0257-y" pmid="30397337" %}
 
-{% include publication authors="Danos AM, Ritter DI, Wagner AH, Krysiak K, Sonkin D, Micheel C, McCoy M, Rao S, Raca G, Boca SM, Roy A, Barnell EK, McMichael JF, Kiwala S, Coffman AC, Kujan  L, Kulkarni S+, Griffith M+, Madhavan S+, Griffith OL+" title="Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community-driven standards." journal="Hum Mutat. 2018 Nov;39(11):1721-1732" doi="10.1002/humu.23651" pmid="30311370" %}
+{% include publication authors="Danos AM, Ritter DI, Wagner AH, Krysiak K, Sonkin D, Micheel C, McCoy M, Rao S, Raca G, Boca SM, Roy A, Barnell EK, McMichael JF, Kiwala S, Coffman AC, Kujan  L, Kulkarni S+, Griffith M+, Madhavan S+, Griffith OL+" title="Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community-driven standards" journal="Hum Mutat. 2018 Nov;39(11):1721-1732" doi="10.1002/humu.23651" pmid="30311370" %}
 
 {% include publication authors="Wagner AH*, Devarakonda S*, Skidmore ZL, Krysiak K, Ramu A, Trani L, Kunisaki J, Masood A, Waqar SN, Spies NC, Morgensztern D, Waligorski J, Ponce J, Fulton RS, Maggi LB Jr, Weber JD, Watson MA, O'Conor CJ, Ritter JH, Olsen RR, Cheng H, Mukhopadhyay A, Can I, Cessna MH, Oliver TG, Mardis ER, Wilson RK, Griffith M+, Griffith OL+, Govindan R+" title="Recurrent WNT pathway alterations are frequent in relapsed small cell lung cancer" journal="Nat Commun. 2018 Sep 17;9(1):3787" doi="10.1038/s41467-018-06162-9" pmid="30224629" %}
 
