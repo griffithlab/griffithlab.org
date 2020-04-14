@@ -88,6 +88,7 @@ header:
 
 {% include team_member member_name="Jason_W" full_name="Jason Walker, BSc, BA, MEng" bio='Jason Walker is a Biomedical Informatics Project Manager at the McDonnell Genome Institute. He works with the Griffith Lab to translate grant objectives and analysis goals into well defined development milestones for software engineers to iterate on projects, achieving consistent progress while maintaining best practices in software development methodologies. His responsibilities include overseeing the integration and adaptation of numerous bioinformatics tools for cancer genomics automated analysis of high-throughput DNA and RNA sequence data. In addition to large-scale research projects, he works with a CLIA licensed laboratory on clinical-grade, CAP-accredited analysis workflows for reporting somatic variants in cancer patient genomes.' image='/assets/img/team/jason_walker.jpg' role='Biomedical Informatics Project Manager' %}
 
+<h2 data-magellan-destination="Students">Students</h2>
 <a name="Students"></a>
 
 {% include team_member member_name="Sydney" full_name="Sydney Anderson" bio='Sydney is an undergraduate student at the University of Pittburgh. Sydney joined the lab as part of the Siteman’s Leah Menshouse Springer Summer Opportunities program.' image="/assets/img/team/sydney_anderson.jpg" role="Summer student" %}
