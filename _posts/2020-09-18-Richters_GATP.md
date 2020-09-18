@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Megan Richter's accepted to Genome Analysis Training Program"
-teaser: "Megan Richter's has been awarded a place in the 2020 Cohort of the Genome Analysis Training Program (GATP)."
+title:  "Megan Richters accepted to Genome Analysis Training Program"
+teaser: "Megan Richters has been awarded a place in the 2020 Cohort of the Genome Analysis Training Program (GATP)."
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 breadcrumb: true
