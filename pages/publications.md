@@ -24,13 +24,20 @@ header:
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
 
+{% include publication authors="Uppaluri R, Campbell KM, Egloff AM, Zolkind P, Skidmore ZL, Nussenbaum B, Paniello RC, Rich JT, Jackson R, Pipkorn P, Michel LS, Ley J, Oppelt P, Dunn GP, Barnell EK, Spies NC, Lin T, Li T, Mulder D, Hanna Y, Cirlan I, Pugh TJ, Mudianto T, Riley R, Zhou L, Jo VY, Stachler MD, Hanna GJ, Kass JI, Haddad RI, Schoenfeld JD, Gjini E, Lako A, Thorstad WL, Gay HA, Daly M, Rodig S, Hagemann IS, Kallogjeri D, Piccirillo JF, Chernock RD, Griffith M, Griffith OL, Adkins DR" title="Neoadjuvant and Adjuvant Pembrolizumab in Resectable Locally Advanced, Human Papillomavirus-Unrelated Head and Neck Cancer: A Multicenter, Phase 2 Trial" journal="Clin Cancer Res. 2020 Jul 14." doi="10.1158/1078-0432.CCR-20-1695" pmid="32665297" %}
+
+{% include publication authors="Rao S, Pitel B, Wagner AH, Boca SM, McCoy M, King I, Gupta S, Park BH, Warner JL, Chen J, Rogan PK, Chakravarty D, Griffith M, Griffith OL, Madhavan S" title="Collaborative, Multidisciplinary Evaluation of Cancer Variants Through Virtual Molecular Tumor Boards Informs Local Clinical Practices" journal="JCO Clin Cancer Inform. 2020 Jul;4:602-613" doi="10.1200/CCI.19.00169" pmid="32644817" %}
+
+{% include publication authors="De Mattos-Arruda L, Vazquez M, Finotello F, Lepore R, Porta E, Hundal J, Amengual-Rigo P, Ng CKY, Valencia A, Carrillo J, Chan TA, Guallar V, McGranahan N, Blanco J, Griffith M" title="Neoantigen prediction and computational perspectives towards clinical benefit: Recommendations from the ESMO Precision Medicine Working Group" journal="Ann Oncol. 2020 Aug;31(8):978-990." doi="10.1016/j.annonc.2020.05.008" pmid="32610166" %}
+
+
 {% include publication authors="Wagner AH, Walsh B, Mayfield G, Tamborero D, Sonkin D, Krysiak K, Deu-Pons J, Duren RP, Gao J, McMurry J, Patterson S, Del Vecchio Fitz C, Pitel BA, Sezerman OU, Ellrott K, Warner JL, Rieke DT, Aittokallio T, Cerami E, Ritter DI, Schriml LM, Freimuth RR, Haendel M, Raca G, Madhavan S, Baudis M, Beckmann JS, Dienstmann R, Chakravarty D, Li XS, Mockus S, Elemento O, Schultz N, Lopez-Bigas N, Lawler M, Goecks J, Griffith M+, Griffith OL+, Margolin AA; Variant Interpretation for Cancer Consortium" title="A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer" journal="Nat Genet. 2020 Apr;52(4):448-457" doi="10.1038/s41588-020-0603-8" pmid="32246132" %}
 
 {% include publication authors="Wagner AH, Kiwala S, Coffman AC, McMichael JF, Cotto KC, Mooney TB, Barnell EK, Krysiak K, Danos AM, Walker J, Griffith M+, Griffith OL+" title="CIViCpy: A Python Software Development and Analysis Toolkit for the CIViC Knowledgebase" journal="JCO CCI. 2020 Mar 19; 4, 245-253" doi="10.1200/CCI.19.00127" pmid="32191543" %}
 
 {% include publication authors="Hundal J, Kiwala S, McMichael J, Miller CA, Xia H, Wollam AT, Liu CJ, Zhao S, Feng YY, Graubert AP, Wollam AZ, Neichin J, Neveau M, Walker J, Gillanders WE, Mardis ER, Griffith OL+, Griffith M+" title="pVACtools: A Computational Toolkit to Identify and Visualize Cancer Neoantigens" journal="Cancer Immunol Res. 2020 Mar;8(3):409-420" doi="10.1158/2326-6066.CIR-19-0401" pmid="31907209" %}
 
-{% include publication authors="Chu S, Wylie TN, Wylie KM, Johnson GC, Skidmore ZL, Fleer M, Griffith OL, Bryan JN" title="A virome sequencing approach to feline oral squamous cell carcinoma to evaluate viral causative factors" journal="Vet Microbiol" doi="10.1016/j.vetmic.2019.108491" pmid="31902496" %}
+{% include publication authors="Chu S, Wylie TN, Wylie KM, Johnson GC, Skidmore ZL, Fleer M, Griffith OL, Bryan JN" title="A virome sequencing approach to feline oral squamous cell carcinoma to evaluate viral causative factors" journal="Vet Microbiol. 2020 Jan;240:108491." doi="10.1016/j.vetmic.2019.108491" pmid="31902496" %}
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
