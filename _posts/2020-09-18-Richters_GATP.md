@@ -11,6 +11,6 @@ Starting this fall, Megan will join the Genome Analysis Training Program (GATP) 
 
 <div class="row">
     <div class="small-12 columns">
-        <img src="/assets/img/team/alex_wagner.jpg">
+        <img src="/assets/img/team/megan_richters.jpg">
     </div>
 </div>
