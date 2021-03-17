@@ -51,7 +51,7 @@ Related publications:
 <a name="bioinfostaff"></a>
 ### Bioinformatics staff
 
-We are currently seeking to hire at least one bioinformatician. If you are interested to learn more please contact us for details or follow the [Application Link](https://jobs.wustl.edu/psc/APPLHRMS/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&REL_ACTION=Yes&SiteId=1&HRS_JO_PST_TYPE=E&HRS_JOB_OPENING_ID=44095&HRS_JO_PST_SEQ=1).
+We are currently seeking to hire at least one bioinformatician. If you are interested to learn more please contact us for details or follow the [Application Link](https://jobs.wustl.edu/psc/APPLHRMS/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&REL_ACTION=Yes&SiteId=1&HRS_JO_PST_TYPE=E&HRS_JOB_OPENING_ID=51001&HRS_JO_PST_SEQ=1).
 
 *Position summary*
 Assists in developing and conducting research projects, including experimental design, data analysis, and documentation of experiment results. The primary focus of this position will be the analysis of genomic and transcriptomic data from patients with various types of cancer, the creation of new computational approaches for cancer genomics and immunogenomics, and the development of tools to support these activities. Responsibilities include use of existing bioinformatics tools to process sequence data (alignment, variant calling, etc.), producing visualizations that aid interpretation of large data sets, working with software developers to release open access bioinformatics tools, and contributing to publications and educational workshops.
