@@ -30,7 +30,7 @@ header:
 
 {% include publication authors="Barnell EK, Kang Y, Barnell AR, Kruse KR, Fiske J, Pittz ZR, Khan AR, Huebner TA, Holmes FL, Griffith ML, Griffith OL, Chauduri AA, Wurtzler EM" title="Multitarget Stool RNA Test for Noninvasive Detection of Colorectal Neoplasias in a Multicenter, Prospective, and Retrospective Cohort" journal="Clin Transl Gastroenterol. 2021 May 24" doi="10.14309/ctg.0000000000000360" pmid="34029233" %}
 
-{% include publication authors="Cheng Xiaogang, Joseph A, Castro V, Chen-Liaw A, Skidmore Z, Ueno T, Fujisawa J, Rauch DA, Challen GA, Martinez MP, Green P, Griffith M, Payton JE, Edwards JR, Ratner L" title="Epigenomic regulation of human T-cell leukemia virus by chromatin-insulator CTCF" journal="PLoS Pathog. 2021 May 21" doi="10.1371/journal.ppat.1009577" pmid="34019588" %}
+{% include publication authors="Cheng X, Joseph A, Castro V, Chen-Liaw A, Skidmore Z, Ueno T, Fujisawa J, Rauch DA, Challen GA, Martinez MP, Green P, Griffith M, Payton JE, Edwards JR, Ratner L" title="Epigenomic regulation of human T-cell leukemia virus by chromatin-insulator CTCF" journal="PLoS Pathog. 2021 May 21" doi="10.1371/journal.ppat.1009577" pmid="34019588" %}
 
 {% include publication authors="Mudianto T, Campbell KM, Webb J, Zolkind, Skidmore ZL, Riley R, Barnell EK, Oxgenc I, Giri T, Dunn GP, Adkins DR, Griffith M, Egloff AN, Griffith OL, Uppaluri R" title="Yap1 Mediates Trametinib Resistance in Head and Neck Squamous Cell Carcinomas" journal="Clin Cancer Res. 2021 Apr 15" doi="10.1158/1078-0432.CCR-19-4179" pmid="33547198" %}
 
