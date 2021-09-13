@@ -25,6 +25,8 @@ header:
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
+{% include publication authors="Skidmore ZL, Campbell KM, Cotto KC, Griffith M, Griffith OL" title="Exploring the Genomic Landscape of Cancer Patient Cohorts with GenVisR" journal="Curr Protoc. 2021 Sept 10" doi="10.1002/cpz1.252" pmid="34506690" %}
+
 {% include publication authors="Ademuyiwa FO, Chen I, Luo J, Rimawi MF, Hagemann IS, Fisk B, Jeffers G, Skidmore ZL, Basu A, Richters M, Ma CX, Weilbaecher K, Davis J, Suresh R, Peterson LL, Bose R, Bagegni N, Rigden CE, Frith A, Rearden TP, Hernandez-Aya LF, Roshal A, Clifton K, Opyrchal M, Akintola-Ogunremi O, Lee BH, Ferrando-Martinez S, Church SE, Anurag M, Ellis MJ, Gao F, Gillanders W, Griffith OL, Griffith M" title="Immunogenomic profiling and pathological response results from a clinical trial of docetaxel and carboplatin in triple-negative breast cancer" journal="Breast Cancer Res Treat
 . 2021 Aug" doi="10.1007/s10549-021-06307-3" pmid="34173924" %}
 
