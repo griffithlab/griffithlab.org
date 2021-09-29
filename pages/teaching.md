@@ -12,8 +12,7 @@ header:
 Drs Griffith guest lecture regularly for a number of traditional courses at Washington University School of Medicine. Drs Griffith also coordinate the Cancer Informatics Journal Club and Dr Obi Griffith is course master for a Genomics in Medicine course. The Griffith Lab is deeply committed to providing open source educational resources to aid the bioinformatics community. To this end we maintain several online courses and tutorials. We also deliver periodic workshops based on these materials (see below). To date we have led 23 workshops held in 7 cities and 4 countries. Furthermore, we and many members of the lab are actively engaged in community forums such as [BioStars](https://www.biostars.org/).
 
 ### Upcoming Workshops
-1. Canadian Bioinformatics Workshops - [RNA-Seq Analysis, Virtual, September 8-10, 2021](https://bioinformatics.ca/workshops/2021-rna-seq-analysis/)
-2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 6-18, 2021](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=21)
+1. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 6-18, 2021](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=21)
 
 
 ### Past Workshops
