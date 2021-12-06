@@ -25,7 +25,7 @@ header:
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
-{% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications 2021 Nov" doi=10.1158/2767-9764.CRC-21-0029"%}
+{% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications 2021 Nov" doi="10.1158/2767-9764.CRC-21-0029" %}
 
 {% include publication authors="Skidmore ZL, Campbell KM, Cotto KC, Griffith M, Griffith OL" title="Exploring the Genomic Landscape of Cancer Patient Cohorts with GenVisR" journal="Curr Protoc. 2021 Sept 10" doi="10.1002/cpz1.252" pmid="34506690" %}
 
