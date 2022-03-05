@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2022"><a href="#2021">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
     <li data-magellan-arrival="2020"><a href="#2020">2020</a></li>
     <li data-magellan-arrival="2019"><a href="#2019">2019</a></li>
@@ -22,8 +23,23 @@ header:
   </ul>
 </div>
 
+<h2 data-magellan-destination="2022">2022</h2>
+<a name="2022"></a>
+
+{% include publication authors="Berrien-Elliott MM, Foltz JA, Russler-Germain DA, Neal CC, Tran J, Gang M, Wong P, Fisk B, Cubitt CC, Marin ND, Zhou AY, Jacobs MT, Foster M, Schappe T, McClain E, Kersting-Schadek S, Desai S, Pence P, Becker-Hapak M, Eisele J, Mosior M, Marsala L, Griffith OL, Griffith M, Khan SM, Spencer DH, DiPersio JF, Romee R, Uy GL, Abboud CN, Ghobadi A, Westervelt P, Stockerl-Goldstein K, Schroeder MA, Wan F, Lie WR, Soon-Shiong P, Petti AA, Cashen AF, Fehniger TA" title="Hematopoietic cell transplantation donor-derived memory-like NK cells functionally persist after transfer into patients with leukemia" journal="Sci Transl Med. 2022 Feb" doi="10.1126/scitranslmed.abm1375" pmid="35196021"%}
+
+{% include publication authors="Horak P, Griffith M, Danos AM, Pitel BA, Madhavan S, Liu X, Chow C, Williams H, Carmody L, Barrow-Laing L, Rieke D, Kreutzfeldt S, Stenzinger A, Tambrero D, Benary M, Rajagopal PS, Ida CM, Lesmana H, Satgunaseelan L, Merker JD, Tolstorukov MY, Campregher PV, Warner JL, Rao S, Natesan M, Shen H, Venstrom J, Roy S, Tao K, Kanagal-Shamanna R, Xu X, Ritter DI, Pagel K, Krysiak K, Dubuc A, Akkari YM, Li XS, Lee J, King I, Raca G, Wagner AH, Li MM, Plon SE, Kulkarni S, Griffith OL, Chakravarty D, Sonkin D" title="Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): Joint recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC)" journal="Genetics in Medicine 2022 Jan" doi="10.1016/j.gim.2022.01.001" pmid="35101336"%}
+
+{% include publication authors="Zhou L, Zeng Z, Egloff AM, Zhang F, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, Liu XS, Uppaluri R" title="Checkpoint blockade-induced CD8+ T cell differentiation in head and neck cancer responders." journal="J Immunother Cancer. 2022 Jan" doi="10.1136/jitc-2021-004034" pmid="35058328"%}
+
+{% include publication authors="Schaettler MO, Richters MM, Wang AZ, Skidmore ZL, Fisk B, Miller KE, Vickery TL, Kim AH, Chicoine MR, Osbun JW, Leuthardt EC, Downling JL, Zipfel GJ, Dacey RG, Lu H, Johanns TM, Griffith OL, Mardis ER, Griffith M, Dunn GP" title="Characterization of the Genomic and Immunologic Diversity of Malignant Brain Tumors through Multisector Analysis" journal="Cancer Discovery 2022 Jan" doi="10.1158/2159-8290.CD-21-0291" pmid="34610950"%}
+
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
+
+{% include publication authors="Rockwell NC, Yang W, Warrington NM, Staller MV, Griffith M, Griffith OL, Gurnett CA, Cohen BA, Baldridge D, Rubin JB" title="Sex-and Mutation-Specific p53 Gain-of-Function Activity in Gliomagenesis" journal="Cancer Research Communications 2021 Dec" doi="10.1158/2767-9764.CRC-21-0026" pmid="34957471"%}
+
+{% include publication authors="Bednarski JJ, Zimmerman C, Berrien-Elliott MM, Foltz JA, Becker-Hapak M, Neal CC, Foster M, Schappe T, McClain E, Pence PP, Desai S, Kersting-Schadek S, Wong P, Russler-Germain DA, Fisk B, Lie W, Eisele J, Hyde S, Bhatt ST, Griffith OL, Griffith M, Petti AA, Cashen AF, Fehniger TA" title="Donor Memory-like NK cells Persist and Induce Remissions in Pediatric Patients with Relapsed AML after Transplant" journal="Blood 2021 Nov" doi="10.1182/blood.2021013972" pmid="34871371"%}
 
 {% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications 2021 Nov" doi="10.1158/2767-9764.CRC-21-0029" %}
 
