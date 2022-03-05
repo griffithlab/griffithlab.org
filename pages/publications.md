@@ -11,7 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="2022"><a href="#2021">2022</a></li>
+    <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
     <li data-magellan-arrival="2020"><a href="#2020">2020</a></li>
     <li data-magellan-arrival="2019"><a href="#2019">2019</a></li>
