@@ -26,7 +26,7 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
-{% include publication authors="Skidmore ZL, Kunisaki J, Lin Y, Cotto KC, Barnell EK, Hundal J, Krysiak K, Magrini V, Trani L, Walker JR, Fulton R, Brunt EM, Miller CA, Wilson RK, Mardis ER, Griffith M, Chapman W, Griffith OL" title="Genomic and transcriptomic somatic alterations of hepatocellular carcinoma in non-cirrhotic livers" journal="Cancer Genet. 2022 Jun" doi="10.1016/j.cancergen.2022.04.002"%}
+{% include publication authors="Skidmore ZL, Kunisaki J, Lin Y, Cotto KC, Barnell EK, Hundal J, Krysiak K, Magrini V, Trani L, Walker JR, Fulton R, Brunt EM, Miller CA, Wilson RK, Mardis ER, Griffith M, Chapman W, Griffith OL" title="Genomic and transcriptomic somatic alterations of hepatocellular carcinoma in non-cirrhotic livers" journal="Cancer Genet. 2022 Jun" doi="10.1016/j.cancergen.2022.04.002" pmid="35568002"%}
 
 {% include publication authors="Berrien-Elliott MM, Foltz JA, Russler-Germain DA, Neal CC, Tran J, Gang M, Wong P, Fisk B, Cubitt CC, Marin ND, Zhou AY, Jacobs MT, Foster M, Schappe T, McClain E, Kersting-Schadek S, Desai S, Pence P, Becker-Hapak M, Eisele J, Mosior M, Marsala L, Griffith OL, Griffith M, Khan SM, Spencer DH, DiPersio JF, Romee R, Uy GL, Abboud CN, Ghobadi A, Westervelt P, Stockerl-Goldstein K, Schroeder MA, Wan F, Lie WR, Soon-Shiong P, Petti AA, Cashen AF, Fehniger TA" title="Hematopoietic cell transplantation donor-derived memory-like NK cells functionally persist after transfer into patients with leukemia" journal="Sci Transl Med. 2022 Feb" doi="10.1126/scitranslmed.abm1375" pmid="35196021"%}
 
