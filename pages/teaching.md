@@ -13,8 +13,7 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 
 ### Upcoming Workshops
 
-1. Evomics - [Workshop on Genomics,  May 22 - Jun 4, 2022](https://evomics.org/2022-workshop-on-genomics-cesky-krumlov/)
-2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 7-19, 2022](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=22)
+1. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 7-19, 2022](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=22)
 
 
 ### Past Workshops
