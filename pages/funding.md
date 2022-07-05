@@ -9,7 +9,7 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-The Griffith Lab is located at the The McDonnell Genome Institute at Washington University in St Louis. The McDonnell Genome Institute is one of four large-scale sequencing centers in the United States funded by the National Institutes of Health (NIH) and National Human Genome Research Institute (NHGRI).
+The Griffith Lab is located at Washington University School of Medicine in St Louis and is primarily affiliated with the Department of Medicine, Division of Oncology. The Griffith lab is also affiliated with the McDonnell Genome Institute.
 
 In addition to support from Washington University, the Griffith Lab has received support from the following external funding agencies, non-profit foundations, and other organizations.
 
