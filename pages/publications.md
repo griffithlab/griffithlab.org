@@ -45,7 +45,7 @@ header:
 
 {% include publication authors="Bednarski JJ, Zimmerman C, Berrien-Elliott MM, Foltz JA, Becker-Hapak M, Neal CC, Foster M, Schappe T, McClain E, Pence PP, Desai S, Kersting-Schadek S, Wong P, Russler-Germain DA, Fisk B, Lie W, Eisele J, Hyde S, Bhatt ST, Griffith OL, Griffith M, Petti AA, Cashen AF, Fehniger TA" title="Donor Memory-like NK cells Persist and Induce Remissions in Pediatric Patients with Relapsed AML after Transplant" journal="Blood. 2021 Nov" doi="10.1182/blood.2021013972" pmid="34871371"%}
 
-{% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications. 2021 Nov" doi="10.1158/2767-9764.CRC-21-0029" %}
+{% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications. 2021 Nov" doi="10.1158/2767-9764.CRC-21-0029" pmid="35611186"%}
 
 {% include publication authors="Skidmore ZL, Campbell KM, Cotto KC, Griffith M, Griffith OL" title="Exploring the Genomic Landscape of Cancer Patient Cohorts with GenVisR" journal="Curr Protoc. 2021 Sept 10" doi="10.1002/cpz1.252" pmid="34506690" %}
 
