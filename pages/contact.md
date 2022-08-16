@@ -20,7 +20,7 @@ header:
       <b>fax:</b> +1 314-286-1810<br>
       <b>email:</b> <a href="mailto:obigriffith@wustl.edu">obigriffith@wustl.edu</a><br>
       <b>address:</b> Campus Box 8501<br>
-      <b>office:</b> Room 5140<br>
+      <b>office:</b> Room MCC 10116<br>
     </p>
     </div>
     <div class="small-6 columns">
@@ -30,7 +30,7 @@ header:
           <b>fax:</b> +1 314-286-1810<br>
           <b>email:</b> <a href="mailto:mgriffit@wustl.edu">mgriffit@wustl.edu</a><br>
           <b>address:</b> Campus Box 8501<br>
-          <b>office:</b> Room 5139<br>
+          <b>office:</b> Room MCC 10115<br>
         </p>
     </div>
 </div>
