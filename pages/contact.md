@@ -41,7 +41,6 @@ header:
           10th floor,<br>
           Saint Louis, Missouri, 63110<br>
         </p>
-        #{% include map id="ChIJjYJA_9u02IcRsr8gwb2Z6P8" %}
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.5504069161216!2d-90.2618255!3d38.6362228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d8b4df564ad7d1%3A0xddebd7786d830554!2sMid%20Campus%20Center!5e0!3m2!1sen!2sus!4v1660673700634!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
