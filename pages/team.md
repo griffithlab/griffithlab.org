@@ -93,8 +93,6 @@ header:
 
 {% include team_member member_name="Brian_L" full_name="Brian Li" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
 
-{% include team_member member_name="Anamika" full_name="Anamika Basu" bio='Anamika is a WashU undergraduate student. Anamika is working on a cfDNA project with the lab.' image='/assets/img/team/anamika_basu.jpg' role='Intern' %}
-
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
@@ -105,8 +103,6 @@ header:
 {% include team_member member_name="Kaitlin" full_name="Kaitlin Clark" bio='Kaitlin Clark is an second year undergraduate at Washington University in St. Louis pursuing a Bachelor of Science degree in Computational Biology and Genomics. She joined the Griffith Lab as a curator for the Clinical Interpretation of Variants in Cancer (<a href="www.civicdb.org">CIViC</a>) project last year. Her ongoing interests concern the enablement of precision medicine through the identification of clinically relevant variants that aid in better prognosis and diagnosis of cancer syndromes and the development of web resources to aid in the interpretation and discovery of such clinically relevant variants. Currently Kaitlin curates information relating to von-Hippel Lindau disease (VHLD), a neoplastic syndrome resulting from the inactivation of the VHL tumor suppressor gene. Her project aides to the overall goal of the CIViC project by developing a comprehensive web source of VHL variants. In the future Kaitlin hopes to pursue an MD/PhD in integrative genomics.' image="/assets/img/team/kaitlin_clark.png" role="Undergraduate Student, uSTAR Fellow" %}
 
 {% include team_member member_name="Yang" full_name="Yang-Yang Feng, BSc" bio='Yang-Yang is a medical student at Washington University in St. Louis, and is currently conducting a year of research in the Griffith Lab. He completed his undergraduate at Yale University in 2016, where he obtained a B.S. in Molecular Biophysics and Biochemistry. Broadly speaking, he is interested in applying mathematical and computational techniques to investigating the fundamental principles of cancer immunology and translating these discoveries into novel immmunotherapies. More specifically, he is involved in a diverse set of projects in the lab, including <a href="http://civicdb.org">CIViC</a>, <a href="http://dgidb.org">DGIdb</a>, pVACtools, Regtools, and various collaborative clinical efforts.' image="/assets/img/team/yangyang_feng.png" role="Medical Student/MD5" %}
-
-{% include team_member member_name="Gejae" full_name="Gejae Jeffers" bio='Gejae is a Predoctoral trainee in the Human & Statistical genetics program at Washington University in St. Louis. He received his undergraduate training at the University of the Virgin Islands in 2017, where he studied Computer Science w focus training in Biology and Mathematics. He is currently working on a ctDNA/cfDNA project as a rotation student.' image='/assets/img/team/gejae_jeffers.jpg' role='Rotation Student' %}
 
 {% include team_member member_name="Jason_K" full_name="Jason Kunisaki, BSc" bio='Jason is post-baccalaureate premedical student who recently graduated from Washington University in St. Louis with a degree in Genomics and Computational Biology. As an aspiring physician scientist, his research interests lie in the development and application of computational tools to effectively analyze large sequencing datasets. Through this, he is able to identify and characterize novel genomic events as diagnostic and prognostic biomarkers in cancer, which can support improved personalized strategies against the disease. Over the years, he has contributed to several development projects including <a href="http://docm.genome.wustl.edu/">DoCM</a>, <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">GenVisR</a>, and Regtools. He has also been heavily involved a number of cohort-level investigations spanning several cancer types such as hepatocellular carcinoma (cirrhotic, noncirrhotic, fibrolamellar, and mixed fibrolamellar), adult T-cell leukemia, and osteosarcoma.' image="/assets/img/team/jason_kunisaki.jpg" role="Data Analyst/Bioinformatician" %}
 
@@ -120,15 +116,11 @@ header:
 
 {% include team_member member_name="Avi" full_name="Avinash Ramu, MSc" bio='Avi was a Bioinformatician at the McDonnell Genome Institute. He made major contributions to the Genome Modeling System, regtools, and others. He is currently a PhD student at Washington University.' image='/assets/img/team/avi_ramu.jpg' role='Bioinformatician' %}
 
-{% include team_member member_name="Peter" full_name="Peter Ronning" bio='Peter is first year graduate student in the Molecular Genetics and Genomics program. Peter grew up in a suburb of Minneapolis and majored in Biochemistry at the University of Minnesota. After graduation, he worked for two years at the Broad Institute.' image="/assets/img/team/peter_ronning.jpg" role="Graduate Student" %}
-
 {% include team_member member_name="Nick" full_name="Nick Spies, BSc" bio='Nick is an MD candidate at Washington University School of Medicine. He graduated from WUSTL in 2014 with a degree in genomics and computational biology. Since 2013, Nick has been working in the lab on projects that hope to bridge the gap between research and medicine. These include DGIdb, CIViC, and multiple cancer sequencing projects. He is focused on expanding the applications of clinical sequencing, and hopes to continue this work throughout his career.' image='/assets/img/team/nicholas_spies.jpg' role='Medical Student/MA' %}
 
 {% include team_member member_name="Lee" full_name="Lee Trani, BSc" bio='Lee is a research technician at the McDonnell Genome Institute at Washington University in Saint Louis. His primary focus is data quality analysis and manual review of variants for cancer investigations. He is also involved with developing scripts to automate pipelines and procedures for the quality control production group.' image="/assets/img/team/lee_trani.jpg" role="Research Technician" %}
 
 {% include team_member member_name="Alex" full_name="Alex Wagner, PhD" bio='Dr. Wagner is an Instructor in the <a href="https://oncology.wustl.edu/people/faculty/faculty_stemcell.html">Divison of Oncology</a> at the Washington University School of Medicine and a National Human Genome Research Institute <a href="../WagnerK99">K99 Scholar</a>. His research interests are in facilitating the interpretation of genomic variants in a clinical context. Alex is a leader of the Global Alliance for Genomics and Health (GA4GH) <a href="https://ga4gh-gks.github.io/variant_representation.html">Variant Representation group</a>, and is co-director of the <a href="http://cancervariants.org">Variant Interpretation for Cancer Consortium</a> (VICC). He leads development of the VICC <a href="https://docs.cancervariants.org">meta-knowledgebase</a> and the <a href="http://dgidb.org">Drug Gene Interaction Database</a>. Alex is also a primary contributor to other projects centered on interpretations of genomic variants, including the <a href="http://civicdb.org">CIViC knowledgebase</a>, the <a href="http://docm.info">Database of Curated Mutations</a>, and the <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">Genomic Visualizations in R</a> toolkit. He also led the discovery of WNT-signaling activation as a <a href="../RelapsedSCLC_paper/">recurrent mechanism of acquired chemoresistance</a> in relapsed Small Cell Lung Cancers.' image="/assets/img/team/alex_wagner.jpg" role="Instructor in Medicine" %}
-
-{% include team_member member_name="Jace" full_name="Jace Webster" bio='Jace is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. He received his undergraduate training at Brigham Young University, where he studied Molecular Biology and Bioinformatics. He is currently doing a rotation in the Griffith Lab, working on single cell RNA analysis projects.' image='/assets/img/team/jace_webster.jpg' role='Rotation Student' %}
 
 {% include team_member member_name="Alex_W" full_name="Alex Wollam" bio='Alex is currently pursuing a degree in Computer Science Engineering at the Ohio State University. Alex is working on software development for <a href="https://github.com/griffithlab/pVAC-Tools">pVACtools</a>. Alex is currently on his third summer internship with the lab.' image='/assets/img/team/alex_wollam.jpg' role='Intern' %}
 
@@ -143,6 +135,7 @@ header:
       <h5>Grace Wang</h5>
       <h5>Aaron Graubert</h5>
       <h5>Alina Schmidt</h5>
+      <h5>Anamika Basu</h5>
   </div>
   <div class="small-4 columns">
       <h5>Sidi Zhao</h5>
@@ -150,6 +143,7 @@ header:
       <h5>Greg Spies</h5>
       <h5>Matthew Matlock</h5>
       <h5>Deng Pan</h5>
+      <h5>Gejae Jeffers</h5>
   </div>
   <div class="small-4 columns">
       <h5>Mayank Choudhary</h5>
@@ -157,5 +151,6 @@ header:
       <h5>Amber Wollam</h5>
       <h5>Jaclyn Boozalis</h5>
       <h5>Malik Sediqzad</h5>
+      <h5>Jace Webster</h5>
   </div>
 </div>
