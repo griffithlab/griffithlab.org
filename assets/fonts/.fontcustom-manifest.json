@@ -8,7 +8,11 @@
     "./iconfont.svg",
     "./iconfont.woff",
     "./iconfont.eot",
-    "./iconfont.woff2"
+    "./iconfont.woff2",
+    "./academicicons.tff",
+    "./academicicons.woff",
+    "./acadmicicons.svg",
+    "./acadmicicons.eot",
   ],
   "glyphs": {
     "archive": {
