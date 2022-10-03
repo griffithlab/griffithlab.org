@@ -1,341 +1,341 @@
 - name: GitHub
   url: https://github.com/griffithlab/griffithlab.github.io
-  class: icon-github
+  class: fa-brands fa-github
   title: Github repo for site.
 
 - member_name: Zach
   social:
     - name: GitHub
       url: https://github.com/zlskidmore
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/zlskidmore
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/zachary-skidmore-0799653a/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Alex
   social:
     - name: GitHub
       url: https://github.com/ahwagner
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/handlerwagner
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Personal Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/alexphd
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: Link
       url: http://alexwagner.info/
-      class: icon-link
+      class: fa-solid fa-link
       title: "Personal Website"
 
 - member_name: Malachi
   social:
     - name: GitHub
       url: https://github.com/malachig
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/malachigriffith
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/malachigriffith/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: Link
       url: http://malachigriffith.org
-      class: icon-link
+      class: fa-solid fa-link
       title: "Personal Website"
 
 - member_name: Obi
   social:
     - name: GitHub
       url: https://github.com/obigriffith
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/obigriffith
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/obigriffith/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: Link
       url: http://obigriffith.org
-      class: icon-link
+      class: fa-solid fa-link
       title: "Personal Website"
 
 - member_name: Yang
   social:
     - name: GitHub
       url: https://github.com/yanyangfeng
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/yanyangf
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/yang-yang-feng-0903bb31/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Kelsy
   social:
     - name: GitHub
       url: https://github.com/kcotto
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/kelsy-cotto-94b9018b
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: orcid
       url: https://orcid.org/0000-0003-0890-6889
-      class: ai ai-orcid
+      class: fa-brands fa-orcid
       title: "ORCiD"
 
 - member_name: Susanna
   social:
     - name: GitHub
       url: https://github.com/susannasiebert
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: http://www.linkedin.com/in/susannakiwala
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Jason_K
   social:
     - name: GitHub
       url: https://github.com/jkunisak
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/jason-kunisaki-09b7978a/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Erica
   social:
     - name: linkedin
       url: https://www.linkedin.com/in/erica-barnell-72b16a60/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Katie
   social:
     - name: GitHub
       url: https://twitter.com/CampKatiee?lang=en
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: http://www.linkedin.com/in/katie-campbell-811b5373
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Ben
   social:
     - name: GitHub
       url: https://github.com/bainscou
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/benainscough/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Kilannin
   social:
     - name: GitHub
       url: https://github.com/kkrysiak
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/kilannin-krysiak-69047819/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: Twitter
       url: https://twitter.com/KilanninK
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
 
 - member_name: Cody
   social:
     - name: GitHub
       url: https://github.com/CodyRamirez
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Robert
   social:
     - name: GitHub
       url: https://github.com/rlesurf
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/roblesurf
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
     - name: linkedin
       url: https://www.linkedin.com/in/robertlesurf/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: Link
       url: http://lesurf.org
-      class: icon-link
+      class: fa-solid fa-link
       title: "Personal Website"
 
 - member_name: Felicia
   social:
     - name: GitHub
       url: https://github.com/fgomez02
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: LinkedIn
       url: https://www.linkedin.com/in/felicia-gomez-6039579a/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
 - member_name: Jason_W
   social:
     - name: GitHub
       url: https://github.com/jasonwalker80
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/jason-walker-2a091528/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
     - name: Twitter
       url: https://twitter.com/jasonwalker80
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
 
 - member_name: Arpad
   social:
     - name: GitHub
       url: https://github.com/arpaddanos
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Kaitlin
   social:
     - name: GitHub
       url: https://github.com/kaitlinaclark
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Lynzey
   social:
     - name: LinkedIn
       url: https://www.linkedin.com/in/lynzey-kujan-135a03a3
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional linkedin account"
 
 - member_name: Joshua
   social:
     - name: GitHub
       url: https://github.com/jmcmichael
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Adam
   social:
     - name: GitHub
       url: https://github.com/acoffman
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Nick
   social:
     - name: GitHub
       url: https://github.com/nspies13
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Jasreet
   social:
     - name: GitHub
       url: https://github.com/jhundal
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: LinkedIn
       url: https://www.linkedin.com/in/hundalj/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional linkedin account"
 
 - member_name: Lee
   social:
     - name: LinkedIn
       url: https://www.linkedin.com/in/lee-trani-30861b4/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional linkedin account"
 
 - member_name: Connor
   social:
     - name: LinkedIn
       url: https://www.linkedin.com/in/connor-liu-26a68961/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional linkedin account"
 
 - member_name: Avi
   social:
     - name: GitHub
       url: https://github.com/gatoravi
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/gatoravi
-      class: icon-twitter
+      class: fa-brands fa-twitter
       title: "Professional Twitter account"
 
 - member_name: Alina
   social:
     - name: LinkedIn
       url: https://www.linkedin.com/in/alina-schmidt-9670a815
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional linkedin account"
 
 - member_name: Huiming
   social:
     - name: GitHub
       url: https://github.com/huimingx
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Alex_W
   social:
     - name: GitHub
       url: https://github.com/atwollam
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
 
 - member_name: Matthew
   social:
     - name: GitHub
       url: https://github.com/Matthew-Mosior
-      class: icon-github
+      class: fa-brands fa-github
       title: "GitHub Profile"
     - name: linkedin
       url: https://www.linkedin.com/in/matthew-mosior-a5639183/
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
       
 - member_name: Jace
   social:
     - name: LinkedIn
       url: https://www.linkedin.com/in/jace-webster-a34541122
-      class: icon-linkedin
+      class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
