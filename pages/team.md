@@ -47,6 +47,8 @@ header:
 
 {% include team_member member_name="Sharon" full_name="Sharon Freshour, BSc" bio='Sharon is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from St. Edwards University in Austin Texas in 2016 with a degree in Mathematics.' image="/assets/img/team/sharon_freshour.jpg" role="Graduate Student" %}
 
+{% include team_member member_name="My" full_name="My Hoang, BA" bio='My is a graduate student in the Computational and Systems Biology program at Washington University in St. Louis. She graduated from Earlham College in 2020 with a degree in Biochemistry.' image="/assets/img/team/my_hoang.jpeg" role="Graduate Student" %}
+
 {% include team_member member_name="Megan" full_name="Megan Richters" bio='Megan Richters is a PhD Candidate in the Molecular Genetics and Genomics program at Washington University in St. Louis. She graduated from the University of Louisiana at Monroe in 2014 with a B.S. in Biology. She is interested in assessing the impact of intratumoral heterogeneity on neoantigen prediction accuracy as well as exploring novel sources of neoantigens for personalized cancer vaccines.' image="/assets/img/team/megan_richters.png" role="Graduate Student" %}
 
 {% include team_member member_name="Huiming" full_name="Huiming Xia, BSc" bio='Huiming is a graduate student in the Computational Molecular Biophysics program at Washington University in St. Louis. She graduated from Carnegie Mellon University in 2017 with a dual degree in Computational Biology and Chemistry.' image="/assets/img/team/huiming_xia.jpg" role="Graduate Student" %}
