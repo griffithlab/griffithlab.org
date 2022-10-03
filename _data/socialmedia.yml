@@ -17,6 +17,10 @@
       url: https://www.linkedin.com/in/zachary-skidmore-0799653a/
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0003-1928-7139
+      class: fa-brands fa-orcid
+      title: "ORCiD"  
 
 - member_name: Alex
   social:
@@ -32,6 +36,10 @@
       url: https://www.linkedin.com/in/alexphd
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0002-2502-8961
+      class: fa-brands fa-orcid
+      title: "ORCiD"    
     - name: Link
       url: http://alexwagner.info/
       class: fa-solid fa-link
@@ -51,6 +59,10 @@
       url: https://www.linkedin.com/in/malachigriffith/
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0002-6388-446X
+      class: fa-brands fa-orcid
+      title: "ORCiD"  
     - name: Link
       url: http://malachigriffith.org
       class: fa-solid fa-link
@@ -70,6 +82,10 @@
       url: https://www.linkedin.com/in/obigriffith/
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0002-0843-4271
+      class: fa-brands fa-orcid
+      title: "ORCiD"
     - name: Link
       url: http://obigriffith.org
       class: fa-solid fa-link
@@ -115,6 +131,10 @@
       url: http://www.linkedin.com/in/susannakiwala
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0003-4378-7328
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Jason_K
   social:
@@ -133,6 +153,10 @@
       url: https://www.linkedin.com/in/erica-barnell-72b16a60/
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0003-1631-1201
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Katie
   social:
@@ -144,7 +168,11 @@
       url: http://www.linkedin.com/in/katie-campbell-811b5373
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
-
+    - name: orcid
+      url: https://orcid.org/0000-0001-6491-4432
+      class: fa-brands fa-orcid
+      title: "ORCiD"
+      
 - member_name: Ben
   social:
     - name: GitHub
@@ -170,6 +198,10 @@
       url: https://twitter.com/KilanninK
       class: fa-brands fa-twitter
       title: "Professional Twitter account"
+    - name: orcid
+      url: https://orcid.org/0000-0002-6299-9230
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Cody
   social:
@@ -207,6 +239,10 @@
       url: https://www.linkedin.com/in/felicia-gomez-6039579a/
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+    - name: orcid
+      url: https://orcid.org/0000-0003-4884-7510
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Jason_W
   social:
@@ -222,6 +258,10 @@
       url: https://twitter.com/jasonwalker80
       class: fa-brands fa-twitter
       title: "Professional Twitter account"
+    - name: orcid
+      url: https://orcid.org/0000-0001-7547-5789
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Arpad
   social:
@@ -229,6 +269,10 @@
       url: https://github.com/arpaddanos
       class: fa-brands fa-github
       title: "GitHub Profile"
+    - name: orcid
+      url: https://orcid.org/0000-0001-9815-2288
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Kaitlin
   social:
@@ -314,6 +358,10 @@
       url: https://github.com/huimingx
       class: fa-brands fa-github
       title: "GitHub Profile"
+    - name: orcid
+      url: https://orcid.org/0000-0003-2571-1880
+      class: fa-brands fa-orcid
+      title: "ORCiD"
 
 - member_name: Alex_W
   social:
