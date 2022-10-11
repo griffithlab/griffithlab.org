@@ -141,7 +141,6 @@ header:
       <h5>Grace Wang</h5>
       <h5>Aaron Graubert</h5>
       <h5>Alina Schmidt</h5>
-      <h5>Anamika Basu</h5>
   </div>
   <div class="small-4 columns">
       <h5>Sidi Zhao</h5>
