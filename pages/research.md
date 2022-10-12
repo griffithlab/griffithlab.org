@@ -12,6 +12,7 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
+    <li data-magellan-arrival="Clinical_trials"><a href="#Clinical_trials">Clinical trials</a></li>
     <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer</a></li>
     <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer</a></li>
     <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer</a></li>
@@ -37,13 +38,22 @@ In addition to our basic and clinical research interests, we are also passionate
 
 <hr>
 
+<h2 data-magellan-destination="Clinical_trials">Clinical trials</h2>
+<a name="Clinical_trials"></a>
+
+{% include project
+  title="Personalized cancer vaccine trials"
+
+  description="As part of our interest in precision medicine and cancer genomics, we have been and are currently involved with several clinical trials at Washington University School of Medicine in which personalized cancer vaccines were designed using patient-specific neoantigens."
+%}  
+
 <h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
 <a name="Breast_cancer_genomics"></a>
 
 {% include project
   title="Genomic analysis of the Stat1-/- mouse model of ER+ breast cancer"
 
-  description="ER+ luminal tumors are the most frequent subtype of breast cancer. Stat1−/− mice develop mammary tumors that closely resemble this cancer subtype. To identify transforming events that contribute to tumorigenesis, we performed whole genome sequencing of Stat1−/− primary mammary tumors and matched normal tissues. This investigation identified somatic truncating mutations affecting the prolactin receptor (Prlr) in all tumor samples. Targeted sequencing confirmed the presence of these mutations in precancerous lesions, indicating this is an early event in tumorigenesis. Functional evaluation showed that co-expression of truncated and wild type Prlr led to aberrant Stat3 and Stat5 activation downstream of the receptor, cellular transformation in vitro and tumor formation in vivo."
+  description="ER+ luminal tumors are the most frequent subtype of breast cancer. Stat1−/− mice develop mammary tumors that closely resemble this cancer subtype. To identify transforming events that contribute to tumorigenesis, we performed whole genome sequencing of Stat1−/− primary mammary tumors and matched normal tissues. This investigation identified somatic truncating mutations affecting the prolactin receptor (Prlr) in all tumor samples. Targeted sequencing confirmed the presence of these mutations in precancerous lesions, indicating this is an early event in tumorigenesis. Functional evaluation showed that co-expression of truncated and wild-type Prlr led to aberrant Stat3 and Stat5 activation downstream of the receptor, cellular transformation in vitro and tumor formation in vivo."
 
   team="Obi Griffith, Malachi Griffith, Kilannin Krysiak, Zachary Skidmore, Jasreet Hundal, Lee Trani"
 
@@ -78,7 +88,7 @@ In addition to our basic and clinical research interests, we are also passionate
 {% include project
   title="Recurrent WNT Pathway Alterations are Frequent in Relapsed Small Cell Lung Cancer"
 
-  description="Nearly all patients with small cell lung cancer (SCLC) eventually relapse with chemotherapy resistant disease. The molecular mechanisms driving chemotherapy resistance in SCLC remain to be characterized. We performed whole-exome sequencing of paired SCLC tumor samples procured at diagnosis (treatment-naive samples) and relapse (relapse samples) from 12 patients, along with unpaired relapse samples obtained from 18 additional patients. We observed multiple somatic copy number alterations including gains in ABCC1, and deletions in MYCL, MSH2, and MSH6 among relapse samples. Relapse samples also showed recurrent mutations in regulators of WNT signaling such as CHD8 and APC. Analysis of RNA-sequencing data suggested an enrichment for “ASCL1-low” expression subtype and WNT activation in relapse samples. Activation of WNT signaling in chemotherapy sensitive human SCLC cell lines through APC knockdown induced chemotherapy resistance. Additionally, in vitro-derived chemotherapy resistant cell lines demonstrated increased WNT activity. Our results support a role for WNT signaling activation as a mechanism of chemotherapy resistance in relapsed SCLC."
+  description="Nearly all patients with small cell lung cancer (SCLC) eventually relapse with chemotherapy-resistant disease. The molecular mechanisms driving chemotherapy resistance in SCLC remain to be characterized. We performed whole-exome sequencing of paired SCLC tumor samples procured at diagnosis (treatment-naive samples) and relapse (relapse samples) from 12 patients, along with unpaired relapse samples obtained from 18 additional patients. We observed multiple somatic copy number alterations, including gains in ABCC1, and deletions in MYCL, MSH2, and MSH6 among relapse samples. Relapse samples also showed recurrent mutations in regulators of WNT signaling, such as CHD8 and APC. Analysis of RNA-sequencing data suggested enrichment for “ASCL1-low” expression subtype and WNT activation in relapse samples. Activation of WNT signaling in chemotherapy-sensitive human SCLC cell lines through APC knockdown induced chemotherapy resistance. Additionally, in vitro-derived chemotherapy-resistant cell lines demonstrated increased WNT activity. Our results support a role for WNT signaling activation as a mechanism of chemotherapy resistance in relapsed SCLC."
 
   team="Alex Wagner, Zach Skidmore, Kilannin Krysiak, Avinash Ramu, Lee Trani, Jason Kunisaki, Nick Spies"
 
