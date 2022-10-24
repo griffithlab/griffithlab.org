@@ -26,6 +26,10 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
+{% include publication authors="Barnell EK, Fisk B, Skidmore ZL, Cotto KC, Spies NC, Basu A, Anand A, Richters MM, Luo J, Fronick C, Anurag M, Fulton R, Ellis MJ, Griffith OL, Griffith M, Ademuyiwa FO" title="Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer" journal="Scientific Reports. 2022 Oct" doi="10.1038/s41598-022-20928-8" pmid="36273232"%}
+
+{% include publication authors="Barnell EK, Skidmore ZL, Newcomer KF, Chavez M, Campbell KM, Cotto KC, Spies NC, Ruzinova MB, Wang T, Abro B, Kreisel F, Parikh BA, Duncavage EJ, Frater JL, Lee Y, Hassan A, King JA, Kohnen DR, Fiala MA, Welch JS, Uy GL, Vij K, Vij R, Griffith M, Griffith OL, Wartman LD" title="Distinct clonal identities of B-ALLs arising after lenolidomide therapy for multiple myeloma" journal="Blood Advances. 2022 Oct" doi="10.1182/bloodadvances.2022007496" pmid="36251745"%}
+
 {% include publication authors="Saliba J, Church AJ, Rao S, Danos A, Furtado LV, Laetsch T, Zhang L, Nardi V, Lin WH, Ritter DI, Madhavan S, Li MM, Griffith OL, Griffith M, Raca G, Roy A" title="Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions" journal="Cancer Genetics. 2022 Jun" doi="10.1016/j.cancergen.2022.03.001" pmid="35366592"%}
 
 {% include publication authors="Krysiak K, Danos AM, Kiwala S, McMichael JF, Coffman AC, Barnell EK, Sheta L, Saliba J, Grisdale CJ, Kujan L, Pema S, Lever J, Spies NC, Chiorean A, Rieke DT, Clark KA, Jani P, Takahashi H, Horak P, Ritter DI, Zhou X, Ainscough BJ, Delong S, Lamping M, Marr AR, Li BV, Lin W, Terraf P, Salama Y, Campbell KM, Farncombe KM, Ji J, Zhao X, Xu X, Kanagal-Shamanna R, Cotto KC, Skidmore ZL, Walker JR, Zhang J, Milosavljevic A, Patel RY, Giles RH, Kim RH, Schriml LM, Mardis ER, Jones SJM, Raca Gordana, Rao S, Madhavan S, Wagner AH, Griffith M, Griffith OL" title="A community approach to the cancer-variant-interpretation bottleneck" journal="Nature Cancer. 2022 Jun" doi="10.1038/s43018-022-00379-w" pmid="35624339"%}
