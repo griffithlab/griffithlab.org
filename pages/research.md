@@ -12,13 +12,13 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="Clinical_trials"><a href="#Clinical_trials">Clinical trials</a></li>
     <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer</a></li>
     <li data-magellan-arrival="Liver_cancer_genomics"><a href="#Liver_cancer_genomics">Liver cancer</a></li>
     <li data-magellan-arrival="Lung_cancer_genomics"><a href="#Lung_cancer_genomics">Lung cancer</a></li>
     <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma</a></li>
     <li data-magellan-arrival="Head_and_neck_cancer_genomics"><a href="#Head_and_neck_cancer_genomics">Head and neck cancer</a></li>
     <li data-magellan-arrival="Immunogenomics"><a href="#Immunogenomics">Immunogenomics</a></li>
+    <li data-magellan-arrival="Clinical_trials"><a href="#Clinical_trials">Clinical trials</a></li>
     <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
     <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
   </ul>
@@ -33,19 +33,7 @@ Our research is committed to developing open-access and open-source resources fo
 
 The group is engaged in a large number of tumor sequencing projects for breast, lymphoma, glioblastoma, lung, and other cancers, investigating primary, relapse, and drug-resistant tumors. To this end, we have worked with others at the [McDonnell Genome Institute](http://genome.wustl.edu/) to develop end-to-end pipelines for clinical cancer sequencing that automate state-of-the-art methods for sequence alignment, somatic variation detection, RNA sequence analysis, and the integration of these data types into user-friendly reports of the most clinically relevant genome and transcriptome changes in a tumor or cohort of tumors ([Genome Modeling System](https://github.com/genome/gms/wiki)). To aid in this effort our group has developed software, databases, knowledgebases, and web tools for interrogation of the druggable genome ([DGIdb](http://dgidb.org/)), identification of cancer driver mutations ([DoCM](http://docm.info/)), interpretation of clinically actionable variants in cancer ([CIViC](http://civicdb.org)), and genomic visualization ([GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html)). The group is also actively involved in the identification and scoring of tumor neoantigens and the development of related software for the design of human cancer vaccines ([pVACtools](http://pvactools.org)). We are also working with organizations such as the Global Alliance for Genomics Health (GA4GH) to help define data models and standards for clinical translation of genomics data, in particular through our leadership of the driver project: [Variant Interpretation for Cancer Consortium](http://cancervariants.org).
 
-
 In addition to our basic and clinical research interests, we are also passionate about the scholarship of teaching and learning. We have made substantial contributions to the training and education of tomorrow's bioinformaticians through our involvement in [CBW](https://bioinformatics.ca/), [CSHL](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18) workshops and the [BioStars](https://www.biostars.org/) forum. We have developed online courses for [RNA sequence analysis](http://rnabio.org), [Genomic Visualization in R](http://genviz.org), and [precision/personalized medicine bioinformatics](http://pmbio.org).
-
-<hr>
-
-<h2 data-magellan-destination="Clinical_trials">Clinical trials</h2>
-<a name="Clinical_trials"></a>
-
-{% include project
-  title="Personalized cancer vaccine trials"
-
-  description="As part of our interest in precision medicine and cancer genomics, we have been and are currently involved with several clinical trials at Washington University School of Medicine in which personalized cancer vaccines were designed using patient-specific neoantigens."
-%}  
 
 <h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
 <a name="Breast_cancer_genomics"></a>
@@ -153,6 +141,60 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid="26825632"
 %}
 
+<h2 data-magellan-destination="Clinical_trials">Clinical trials</h2>
+<a name="Clinical_trials"></a>
+
+[//]: # (Note that this section is not formatted the same as other projects above and below)
+
+As part of our interest in precision medicine and cancer genomics, we have been and are currently involved with several clinical trials at Washington University School of Medicine in which personalized cancer vaccines were designed using patient-specific neoantigens. All of the following trials are underway.  All involve personalized cancer vaccines either alone or in combination with other therapies (most commonly checkpoint blockade therapy).  Total estimated enrollment of all trials is: 232 patients.  The majority of these are in the future, as most trials are just getting underway now.
+
+#### Kidney Cancer (Renal Cell Carcinoma)
+
+PolyImmune {Durvalumab (MEDI4736) and Tremelimumab} & Vaccine Orchestrated Treatment for Patients With Advanced/Metastatic Renal Cell Carcinoma [(NCT03598816)](https://clinicaltrials.gov/ct2/show/NCT03598816)
+
+#### Lung Cancer
+
+A Personal Cancer Vaccine (NEO-PV-01) With Pembrolizumab and Chemotherapy for Patients With Lung Cancer [(NCT03380871)](https://clinicaltrials.gov/ct2/show/NCT03380871)
+
+Personalized Neoantigen Vaccine in Combination With Durvalumab (MEDI4736) in Extensive Stage Small Cell Lung Cancer [(NCT04397003)](https://clinicaltrials.gov/ct2/show/NCT04397003)
+
+#### Brain Cancer
+
+Neoantigen-based Personalized Vaccine Combined With Immune Checkpoint Blockade Therapy in Patients With Newly Diagnosed, Unmethylated Glioblastoma [(NCT03422094)](https://clinicaltrials.gov/ct2/show/NCT03422094)
+
+Neoantigen-based Personalized DNA Vaccine in Patients With Newly Diagnosed, Unmethylated Glioblastoma [(NCT04015700)](https://clinicaltrials.gov/ct2/show/NCT04015700)
+
+Neoepitope-based Personalized DNA Vaccine Approach in Pediatric Patients With Recurrent Brain Tumors [(NCT03988283)](https://clinicaltrials.gov/ct2/show/NCT03988283)
+
+#### Breast Cancer
+
+Neoantigen DNA Vaccine Alone vs. Neoantigen DNA Vaccine Plus Durvalumab in Triple Negative Breast Cancer Patients Following Standard of Care Therapy [(NCT03199040)](https://clinicaltrials.gov/ct2/show/NCT03988283)
+
+Safety and Immunogenicity of a Personalized Polyepitope DNA Vaccine Strategy in Breast Cancer Patients With Persistent Triple-Negative Disease Following Neoadjuvant Chemotherapy [(NCT02348320)](https://clinicaltrials.gov/ct2/show/NCT02348320)
+
+#### Follicular Lymphoma
+
+Personalized Tumor Vaccine Strategy and PD-1 Blockade in Patients With Follicular Lymphoma [(NCT03121677)](https://clinicaltrials.gov/ct2/show/NCT03121677)
+
+#### Prostate Cancer
+
+Neoantigen DNA Vaccine in Combination With Nivolumab/Ipilimumab and PROSTVAC in Metastatic Hormone-Sensitive Prostate Cancer [(NCT03532217)](https://clinicaltrials.gov/ct2/show/NCT03532217)
+
+#### Pancreatic Cancer
+
+Neoantigen DNA Vaccine in Pancreatic Cancer Patients Following Surgical Resection and Adjuvant Chemotherapy [(NCT03122106)](https://clinicaltrials.gov/ct2/show/NCT03122106)
+
+Neoantigen Peptide Vaccine Strategy in Pancreatic Cancer Patients Following Surgical Resection and Adjuvant Chemotherapy [(NCT03956056)](https://clinicaltrials.gov/ct2/show/NCT03956056)
+
+Neoantigen Vaccines in Pancreatic Cancer in the Window Prior to Surgery [(NCT05111353)](https://clinicaltrials.gov/ct2/show/NCT05111353)
+
+#### Melanoma (collaboration with UPenn/PICI)
+
+Dendritic Cell Vaccination in Patients With Advanced Melanoma [(NCT03092453)](https://clinicaltrials.gov/ct2/show/NCT03092453)
+
+#### Colorectal Cancer (collab with UPenn/PICI)
+
+DC Vaccine in Colorectal Cancer [(NCT03730948)](https://clinicaltrials.gov/ct2/show/NCT03730948)
 
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
 <a name="Variant_interpretation"></a>
