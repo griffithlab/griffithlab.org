@@ -18,7 +18,8 @@ header:
     <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma</a></li>
     <li data-magellan-arrival="Head_and_neck_cancer_genomics"><a href="#Head_and_neck_cancer_genomics">Head and neck cancer</a></li>
     <li data-magellan-arrival="Immunogenomics"><a href="#Immunogenomics">Immunogenomics</a></li>
-    <li data-magellan-arrival="Clinical_trials"><a href="#Clinical_trials">Clinical trials</a></li>
+    <li data-magellan-arrival="Personalized_neoantigen_vaccine_clinical_trials"><a href="#Personalized_neoantigen_vaccine_clinical_trials">Personalized neoantigen vaccine clinical trials</a></li>
+    <li data-magellan-arrival="Targeted_therapy_clinical_trials"><a href="#Targeted_therapy_clinical_trials">Targeted therapy clinical trials</a></li>
     <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
     <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
   </ul>
@@ -141,8 +142,8 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid="26825632"
 %}
 
-<h2 data-magellan-destination="Clinical_trials">Clinical trials</h2>
-<a name="Clinical_trials"></a>
+<h2 data-magellan-destination="Personalized_neoantigen_vaccine_clinical_trials">Personalized neoantigen vaccine clinical trials</h2>
+<a name="Personalized_neoantigen_vaccine_clinical_trials"></a>
 
 [//]: # (Note that this section is not formatted the same as other projects above and below)
 
@@ -195,6 +196,39 @@ Dendritic Cell Vaccination in Patients With Advanced Melanoma [(NCT03092453)](ht
 #### Colorectal Cancer (collab with UPenn/PICI)
 
 DC Vaccine in Colorectal Cancer [(NCT03730948)](https://clinicaltrials.gov/ct2/show/NCT03730948)
+
+<h2 data-magellan-destination="Targeted_therapy_clinical_trials">Targeted therapy clinical trials</h2>
+<a name="Targeted_therapy_clinical_trials"></a>
+
+[//]: # (Note that this section is not formatted the same as other projects above and below)
+
+#### Breast Cancer
+
+A Phase I Trial of BKM120 (Buparlisib) in Combination with Fulvestrant in Postmenopausal Women with Estrogen Receptor-Positive Metastatic Breast Cancer [(NCT01339442)](https://clinicaltrials.gov/ct2/show/NCT01339442) PMID: [26563128](https://pubmed.ncbi.nlm.nih.gov/26563128/)
+
+NeoPalAna: Neoadjuvant Palbociclib, a Cyclin-Dependent Kinase 4/6 Inhibitor, and Anastrozole for Clinical Stage 2 or 3 Estrogen Receptor-Positive Breast Cancer [(NCT01723774)](https://clinicaltrials.gov/ct2/show/NCT01723774) PMID: [28270497](https://pubmed.ncbi.nlm.nih.gov/28270497/)
+
+A Phase II Trial of Neoadjuvant MK-2206, an AKT Inhibitor, with Anastrozole in Clinical Stage II or III PIK3CA-Mutant ER-Positive and HER2-Negative Breast Cancer [(NCT01776008)](https://clinicaltrials.gov/ct2/show/NCT01776008) PMID: [28874413](https://pubmed.ncbi.nlm.nih.gov/28874413/)
+
+Immunogenomic profiling and pathological response results from a clinical trial of docetaxel and carboplatin in triple-negative breast cancer [(NCT02124902)](https://clinicaltrials.gov/ct2/show/NCT02124902) & [(NCT02547987)](https://clinicaltrials.gov/ct2/show/NCT02547987) PMID: [34173924](https://pubmed.ncbi.nlm.nih.gov/34173924/)
+
+Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer [(NCT02124902)](https://clinicaltrials.gov/ct2/show/NCT02124902) PMID: [36273232](https://pubmed.ncbi.nlm.nih.gov/36273232/)
+
+Genomic characterization of HER2-positive breast cancer and response to neoadjuvant trastuzumab and chemotherapy-results from the ACOSOG Z1041 (Alliance) trial. [(NCT00513292)](https://clinicaltrials.gov/ct2/show/NCT00513292) PMID: [28453704](https://pubmed.ncbi.nlm.nih.gov/28453704/)
+
+A phase 1 trial of BKM120 (Buparlisib) in combination with fulvestrant in postmenopausal women with estrogen receptor positive metastatic breast cancer [(NCT01339442)](https://clinicaltrials.gov/ct2/show/NCT01339442) PMID: [26563128](https://pubmed.ncbi.nlm.nih.gov/26563128/)
+
+#### Lymphoma
+
+Phase I Trial of N-803, an IL15 Receptor Agonist, with Rituximab in Patients with Indolent Non-Hodgkin Lymphoma [(NCT02384954)](https://clinicaltrials.gov/ct2/show/NCT02384954) PMID: [33832946](https://pubmed.ncbi.nlm.nih.gov/33832946/)
+
+Phase 1/dose expansion trial of brentuximab vedotin and lenalidomide in relapsed or refractory diffuse large B-cell lymphoma [(NCT02086604)](https://clinicaltrials.gov/ct2/show/NCT02086604) PMID: [34780623](https://pubmed.ncbi.nlm.nih.gov/34780623/)
+
+Single-Agent Ibrutinib in Relapsed or Refractory Follicular Lymphoma: A Phase 2 Consortium Trial [(NCT01849263)](https://clinicaltrials.gov/ct2/show/NCT01849263) PMID: [29074501](https://pubmed.ncbi.nlm.nih.gov/29074501;/)
+
+#### Head and Neck Cancer
+
+Neoadjuvant and Adjuvant Pembrolizumab in Resectable Locally Advanced, Human Papillomavirus-Unrelated Head and Neck Cancer: A Multicenter, Phase 2 Trial [(NCT02086604)](https://clinicaltrials.gov/ct2/show/NCT02086604) PMID: [34780623](https://pubmed.ncbi.nlm.nih.gov/34780623/)
 
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
 <a name="Variant_interpretation"></a>
