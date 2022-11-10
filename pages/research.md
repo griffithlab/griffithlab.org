@@ -18,6 +18,8 @@ header:
     <li data-magellan-arrival="Lymphoma_genomics"><a href="#Lymphoma_genomics">Lymphoma</a></li>
     <li data-magellan-arrival="Head_and_neck_cancer_genomics"><a href="#Head_and_neck_cancer_genomics">Head and neck cancer</a></li>
     <li data-magellan-arrival="Immunogenomics"><a href="#Immunogenomics">Immunogenomics</a></li>
+    <li data-magellan-arrival="Personalized_neoantigen_vaccine_clinical_trials"><a href="#Personalized_neoantigen_vaccine_clinical_trials">Personalized neoantigen vaccine clinical trials</a></li>
+    <li data-magellan-arrival="Targeted_therapy_clinical_trials"><a href="#Targeted_therapy_clinical_trials">Targeted therapy clinical trials</a></li>
     <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
     <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
   </ul>
@@ -28,13 +30,11 @@ header:
 
 The Griffith lab is a combined research group driven by the interests of twin scientists [Malachi Griffith](http://malachigriffith.org/) and [Obi Griffith](http://obigriffith.org/). The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
 
-Our research is committed to development of open access and open source resources for cancer genome analysis. Research projects cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA and protein) to identify markers for diagnosis, prognosis and drug response prediction in cancer. We have contributed to the early development of methods for analysis of transcriptional regulation (ORegAnno) and RNA-seq analysis and visualization (ALEXA-seq Platform).
+Our research is committed to developing open-access and open-source resources for cancer genome analysis. Research projects cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA, and protein) to identify markers for diagnosis, prognosis, and drug response prediction in cancer. We have contributed to the early development of methods for the analysis of transcriptional regulation (ORegAnno) and RNA-seq analysis and visualization (ALEXA-seq Platform).
 
-The group is engaged in a large number of tumor sequencing projects for breast, lymphoma, glioblastoma, lung, and other cancers, investigating primary, relapse and drug resistant tumors. To this end we have worked with others at the [McDonnell Genome Institute](http://genome.wustl.edu/) to develop end-to-end pipelines for clinical cancer sequencing that automate state-of-the-art methods for sequence alignment, somatic variation detection, RNA sequence analysis, and the integration of these data types into user-friendly reports of the most clinically relevant genome and transcriptome changes in a tumor or cohort of tumors ([Genome Modeling System](https://github.com/genome/gms/wiki)). To aid in this effort our group has developed software, databases, knowledgebases, and web tools for interrogation of the druggable genome ([DGIdb](http://dgidb.org/)), identification of cancer driver mutations ([DoCM](http://docm.info/)), interpretation of clinically actionable variants in cancer ([CIViC](http://civicdb.org)), and genomic visualization ([GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html)). The group is also actively involved in the identification and scoring of tumor neoantigens and development of related software for design of human cancer vaccines ([pVACtools](http://pvactools.org)). We are also working with organizations such as the Global Alliance for Genomics Health (GA4GH) to help define data models and standard for clinical translation of genomics data, in particular through our leadership of the driver project: [Variant Interpretation for Cancer Consortium](http://cancervariants.org).
+The group is engaged in a large number of tumor sequencing projects for breast, lymphoma, glioblastoma, lung, and other cancers, investigating primary, relapse, and drug-resistant tumors. To this end, we have worked with others at the [McDonnell Genome Institute](http://genome.wustl.edu/) to develop end-to-end pipelines for clinical cancer sequencing that automate state-of-the-art methods for sequence alignment, somatic variation detection, RNA sequence analysis, and the integration of these data types into user-friendly reports of the most clinically relevant genome and transcriptome changes in a tumor or cohort of tumors ([Genome Modeling System](https://github.com/genome/gms/wiki)). To aid in this effort our group has developed software, databases, knowledgebases, and web tools for interrogation of the druggable genome ([DGIdb](http://dgidb.org/)), identification of cancer driver mutations ([DoCM](http://docm.info/)), interpretation of clinically actionable variants in cancer ([CIViC](http://civicdb.org)), and genomic visualization ([GenVisR](https://bioconductor.org/packages/release/bioc/html/GenVisR.html)). The group is also actively involved in the identification and scoring of tumor neoantigens and the development of related software for the design of human cancer vaccines ([pVACtools](http://pvactools.org)). We are also working with organizations such as the Global Alliance for Genomics Health (GA4GH) to help define data models and standards for clinical translation of genomics data, in particular through our leadership of the driver project: [Variant Interpretation for Cancer Consortium](http://cancervariants.org).
 
 In addition to our basic and clinical research interests, we are also passionate about the scholarship of teaching and learning. We have made substantial contributions to the training and education of tomorrow's bioinformaticians through our involvement in [CBW](https://bioinformatics.ca/), [CSHL](http://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18) workshops and the [BioStars](https://www.biostars.org/) forum. We have developed online courses for [RNA sequence analysis](http://rnabio.org), [Genomic Visualization in R](http://genviz.org), and [precision/personalized medicine bioinformatics](http://pmbio.org).
-
-<hr>
 
 <h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
 <a name="Breast_cancer_genomics"></a>
@@ -42,7 +42,7 @@ In addition to our basic and clinical research interests, we are also passionate
 {% include project
   title="Genomic analysis of the Stat1-/- mouse model of ER+ breast cancer"
 
-  description="ER+ luminal tumors are the most frequent subtype of breast cancer. Stat1−/− mice develop mammary tumors that closely resemble this cancer subtype. To identify transforming events that contribute to tumorigenesis, we performed whole genome sequencing of Stat1−/− primary mammary tumors and matched normal tissues. This investigation identified somatic truncating mutations affecting the prolactin receptor (Prlr) in all tumor samples. Targeted sequencing confirmed the presence of these mutations in precancerous lesions, indicating this is an early event in tumorigenesis. Functional evaluation showed that co-expression of truncated and wild type Prlr led to aberrant Stat3 and Stat5 activation downstream of the receptor, cellular transformation in vitro and tumor formation in vivo."
+  description="ER+ luminal tumors are the most frequent subtype of breast cancer. Stat1−/− mice develop mammary tumors that closely resemble this cancer subtype. To identify transforming events that contribute to tumorigenesis, we performed whole genome sequencing of Stat1−/− primary mammary tumors and matched normal tissues. This investigation identified somatic truncating mutations affecting the prolactin receptor (Prlr) in all tumor samples. Targeted sequencing confirmed the presence of these mutations in precancerous lesions, indicating this is an early event in tumorigenesis. Functional evaluation showed that co-expression of truncated and wild-type Prlr led to aberrant Stat3 and Stat5 activation downstream of the receptor, cellular transformation in vitro and tumor formation in vivo."
 
   team="Obi Griffith, Malachi Griffith, Kilannin Krysiak, Zachary Skidmore, Jasreet Hundal, Lee Trani"
 
@@ -77,7 +77,7 @@ In addition to our basic and clinical research interests, we are also passionate
 {% include project
   title="Recurrent WNT Pathway Alterations are Frequent in Relapsed Small Cell Lung Cancer"
 
-  description="Nearly all patients with small cell lung cancer (SCLC) eventually relapse with chemotherapy resistant disease. The molecular mechanisms driving chemotherapy resistance in SCLC remain to be characterized. We performed whole-exome sequencing of paired SCLC tumor samples procured at diagnosis (treatment-naive samples) and relapse (relapse samples) from 12 patients, along with unpaired relapse samples obtained from 18 additional patients. We observed multiple somatic copy number alterations including gains in ABCC1, and deletions in MYCL, MSH2, and MSH6 among relapse samples. Relapse samples also showed recurrent mutations in regulators of WNT signaling such as CHD8 and APC. Analysis of RNA-sequencing data suggested an enrichment for “ASCL1-low” expression subtype and WNT activation in relapse samples. Activation of WNT signaling in chemotherapy sensitive human SCLC cell lines through APC knockdown induced chemotherapy resistance. Additionally, in vitro-derived chemotherapy resistant cell lines demonstrated increased WNT activity. Our results support a role for WNT signaling activation as a mechanism of chemotherapy resistance in relapsed SCLC."
+  description="Nearly all patients with small cell lung cancer (SCLC) eventually relapse with chemotherapy-resistant disease. The molecular mechanisms driving chemotherapy resistance in SCLC remain to be characterized. We performed whole-exome sequencing of paired SCLC tumor samples procured at diagnosis (treatment-naive samples) and relapse (relapse samples) from 12 patients, along with unpaired relapse samples obtained from 18 additional patients. We observed multiple somatic copy number alterations, including gains in ABCC1, and deletions in MYCL, MSH2, and MSH6 among relapse samples. Relapse samples also showed recurrent mutations in regulators of WNT signaling, such as CHD8 and APC. Analysis of RNA-sequencing data suggested enrichment for “ASCL1-low” expression subtype and WNT activation in relapse samples. Activation of WNT signaling in chemotherapy-sensitive human SCLC cell lines through APC knockdown induced chemotherapy resistance. Additionally, in vitro-derived chemotherapy-resistant cell lines demonstrated increased WNT activity. Our results support a role for WNT signaling activation as a mechanism of chemotherapy resistance in relapsed SCLC."
 
   team="Alex Wagner, Zach Skidmore, Kilannin Krysiak, Avinash Ramu, Lee Trani, Jason Kunisaki, Nick Spies"
 
@@ -142,6 +142,93 @@ In addition to our basic and clinical research interests, we are also passionate
   pmid="26825632"
 %}
 
+<h2 data-magellan-destination="Personalized_neoantigen_vaccine_clinical_trials">Personalized neoantigen vaccine clinical trials</h2>
+<a name="Personalized_neoantigen_vaccine_clinical_trials"></a>
+
+[//]: # (Note that this section is not formatted the same as other projects above and below)
+
+As part of our interest in precision medicine and cancer genomics, we have been and are currently involved with several clinical trials at Washington University School of Medicine in which personalized cancer vaccines were designed using patient-specific neoantigens. All of the following trials are underway.  All involve personalized cancer vaccines either alone or in combination with other therapies (most commonly checkpoint blockade therapy).  Total estimated enrollment of all trials is: 232 patients.  The majority of these are in the future, as most trials are just getting underway now.
+
+#### Kidney Cancer (Renal Cell Carcinoma)
+
+PolyImmune {Durvalumab (MEDI4736) and Tremelimumab} & Vaccine Orchestrated Treatment for Patients With Advanced/Metastatic Renal Cell Carcinoma [(NCT03598816)](https://clinicaltrials.gov/ct2/show/NCT03598816)
+
+#### Lung Cancer
+
+A Personal Cancer Vaccine (NEO-PV-01) With Pembrolizumab and Chemotherapy for Patients With Lung Cancer [(NCT03380871)](https://clinicaltrials.gov/ct2/show/NCT03380871)
+
+Personalized Neoantigen Vaccine in Combination With Durvalumab (MEDI4736) in Extensive Stage Small Cell Lung Cancer [(NCT04397003)](https://clinicaltrials.gov/ct2/show/NCT04397003)
+
+#### Brain Cancer
+
+Neoantigen-based Personalized Vaccine Combined With Immune Checkpoint Blockade Therapy in Patients With Newly Diagnosed, Unmethylated Glioblastoma [(NCT03422094)](https://clinicaltrials.gov/ct2/show/NCT03422094)
+
+Neoantigen-based Personalized DNA Vaccine in Patients With Newly Diagnosed, Unmethylated Glioblastoma [(NCT04015700)](https://clinicaltrials.gov/ct2/show/NCT04015700)
+
+Neoepitope-based Personalized DNA Vaccine Approach in Pediatric Patients With Recurrent Brain Tumors [(NCT03988283)](https://clinicaltrials.gov/ct2/show/NCT03988283)
+
+#### Breast Cancer
+
+Neoantigen DNA Vaccine Alone vs. Neoantigen DNA Vaccine Plus Durvalumab in Triple Negative Breast Cancer Patients Following Standard of Care Therapy [(NCT03199040)](https://clinicaltrials.gov/ct2/show/NCT03988283)
+
+Safety and Immunogenicity of a Personalized Polyepitope DNA Vaccine Strategy in Breast Cancer Patients With Persistent Triple-Negative Disease Following Neoadjuvant Chemotherapy [(NCT02348320)](https://clinicaltrials.gov/ct2/show/NCT02348320)
+
+#### Follicular Lymphoma
+
+Personalized Tumor Vaccine Strategy and PD-1 Blockade in Patients With Follicular Lymphoma [(NCT03121677)](https://clinicaltrials.gov/ct2/show/NCT03121677)
+
+#### Prostate Cancer
+
+Neoantigen DNA Vaccine in Combination With Nivolumab/Ipilimumab and PROSTVAC in Metastatic Hormone-Sensitive Prostate Cancer [(NCT03532217)](https://clinicaltrials.gov/ct2/show/NCT03532217)
+
+#### Pancreatic Cancer
+
+Neoantigen DNA Vaccine in Pancreatic Cancer Patients Following Surgical Resection and Adjuvant Chemotherapy [(NCT03122106)](https://clinicaltrials.gov/ct2/show/NCT03122106)
+
+Neoantigen Peptide Vaccine Strategy in Pancreatic Cancer Patients Following Surgical Resection and Adjuvant Chemotherapy [(NCT03956056)](https://clinicaltrials.gov/ct2/show/NCT03956056)
+
+Neoantigen Vaccines in Pancreatic Cancer in the Window Prior to Surgery [(NCT05111353)](https://clinicaltrials.gov/ct2/show/NCT05111353)
+
+#### Melanoma (collaboration with UPenn/PICI)
+
+Dendritic Cell Vaccination in Patients With Advanced Melanoma [(NCT03092453)](https://clinicaltrials.gov/ct2/show/NCT03092453)
+
+#### Colorectal Cancer (collab with UPenn/PICI)
+
+DC Vaccine in Colorectal Cancer [(NCT03730948)](https://clinicaltrials.gov/ct2/show/NCT03730948)
+
+<h2 data-magellan-destination="Targeted_therapy_clinical_trials">Targeted therapy clinical trials</h2>
+<a name="Targeted_therapy_clinical_trials"></a>
+
+[//]: # (Note that this section is not formatted the same as other projects above and below)
+
+#### Breast Cancer
+
+A Phase I Trial of BKM120 (Buparlisib) in Combination with Fulvestrant in Postmenopausal Women with Estrogen Receptor-Positive Metastatic Breast Cancer [(NCT01339442)](https://clinicaltrials.gov/ct2/show/NCT01339442) PMID: [26563128](https://pubmed.ncbi.nlm.nih.gov/26563128/)
+
+NeoPalAna: Neoadjuvant Palbociclib, a Cyclin-Dependent Kinase 4/6 Inhibitor, and Anastrozole for Clinical Stage 2 or 3 Estrogen Receptor-Positive Breast Cancer [(NCT01723774)](https://clinicaltrials.gov/ct2/show/NCT01723774) PMID: [28270497](https://pubmed.ncbi.nlm.nih.gov/28270497/)
+
+A Phase II Trial of Neoadjuvant MK-2206, an AKT Inhibitor, with Anastrozole in Clinical Stage II or III PIK3CA-Mutant ER-Positive and HER2-Negative Breast Cancer [(NCT01776008)](https://clinicaltrials.gov/ct2/show/NCT01776008) PMID: [28874413](https://pubmed.ncbi.nlm.nih.gov/28874413/)
+
+Immunogenomic profiling and pathological response results from a clinical trial of docetaxel and carboplatin in triple-negative breast cancer [(NCT02124902)](https://clinicaltrials.gov/ct2/show/NCT02124902) & [(NCT02547987)](https://clinicaltrials.gov/ct2/show/NCT02547987) PMID: [34173924](https://pubmed.ncbi.nlm.nih.gov/34173924/)
+
+Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer [(NCT02124902)](https://clinicaltrials.gov/ct2/show/NCT02124902) PMID: [36273232](https://pubmed.ncbi.nlm.nih.gov/36273232/)
+
+Genomic characterization of HER2-positive breast cancer and response to neoadjuvant trastuzumab and chemotherapy-results from the ACOSOG Z1041 (Alliance) trial. [(NCT00513292)](https://clinicaltrials.gov/ct2/show/NCT00513292) PMID: [28453704](https://pubmed.ncbi.nlm.nih.gov/28453704/)
+
+A phase 1 trial of BKM120 (Buparlisib) in combination with fulvestrant in postmenopausal women with estrogen receptor positive metastatic breast cancer [(NCT01339442)](https://clinicaltrials.gov/ct2/show/NCT01339442) PMID: [26563128](https://pubmed.ncbi.nlm.nih.gov/26563128/)
+
+#### Lymphoma
+
+Phase I Trial of N-803, an IL15 Receptor Agonist, with Rituximab in Patients with Indolent Non-Hodgkin Lymphoma [(NCT02384954)](https://clinicaltrials.gov/ct2/show/NCT02384954) PMID: [33832946](https://pubmed.ncbi.nlm.nih.gov/33832946/)
+
+Phase 1/dose expansion trial of brentuximab vedotin and lenalidomide in relapsed or refractory diffuse large B-cell lymphoma [(NCT02086604)](https://clinicaltrials.gov/ct2/show/NCT02086604) PMID: [34780623](https://pubmed.ncbi.nlm.nih.gov/34780623/)
+
+Single-Agent Ibrutinib in Relapsed or Refractory Follicular Lymphoma: A Phase 2 Consortium Trial [(NCT01849263)](https://clinicaltrials.gov/ct2/show/NCT01849263) PMID: [29074501](https://pubmed.ncbi.nlm.nih.gov/29074501;/)
+
+#### Head and Neck Cancer
+
+Neoadjuvant and Adjuvant Pembrolizumab in Resectable Locally Advanced, Human Papillomavirus-Unrelated Head and Neck Cancer: A Multicenter, Phase 2 Trial [(NCT02086604)](https://clinicaltrials.gov/ct2/show/NCT02086604) PMID: [34780623](https://pubmed.ncbi.nlm.nih.gov/34780623/)
 
 <h2 data-magellan-destination="Variant_interpretation">Variant interpretation</h2>
 <a name="Variant_interpretation"></a>
