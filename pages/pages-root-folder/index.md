@@ -28,9 +28,17 @@ header:
 ---
 
 <div class="row">
-  <div class="small-12 columns">
+  <div class="small-6 columns">
     <img src="/assets/img/lab_photo_Dec2017_cropped_v2.jpg">
+    
   </div>
+  <div class="small-6 columns">
+    <img src="/assets/img/lab_photo_Aug2022_cropped.jpeg">
+  </div>
+</div>
+
+<div class="row">
+  
 </div>
 
 ## Research Overview
