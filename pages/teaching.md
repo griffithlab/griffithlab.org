@@ -13,8 +13,8 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 
 ### Upcoming Workshops
 
-1. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 7-19, 2022](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=22)
-
+1. Canadian Bioinformatics Workshops - [RNA-seq Analysis, July 17-19, 2023](https://bioinformatics.ca/workshops-all/2023-rna-seq-analysis/)
+2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 6-19, 2023](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=23)
 
 ### Past Workshops
 The following are hosted in different locations and times every year or two. Registration and other details of each course can be found on the website of each course organizer (linked below).
