@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2023"><a href="#2023">2022</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
     <li data-magellan-arrival="2020"><a href="#2020">2020</a></li>
@@ -23,8 +24,17 @@ header:
   </ul>
 </div>
 
+<h2 data-magellan-destination="2023">2022</h2>
+<a name="2023"></a>
+
+{% include publication authors="Puig-Saus C, Sennino B, Peng S, Wang CL, Pan Z, Yuen B, Purandare B, An D, Quach BB, Nguyen D, Xia H, Jilani S, Shao K, McHugh C, Greer J, Peabody P, Nayak S, Hoover J, Said S, Jacoby K, Dalmas O, Foy SP, Conroy A, Yi MC, Shieh C, Lu W, Heeringa K, Ma Y, Chizari S, Pilling MJ, Ting M, Tunuguntla R, Sandoval S, Moot R, Hunter T, Zhao S, Saco JD, Perez-Garcilazo I, Medina E, Vega-Crespo A, Baselga-Carretero I, Abril-Rodriguez G, Cherry G, Wong DJ, Hundal J, Chmielowski B, Speiser DE, Bethune MT, Bao XR, Gros A, Griffith OL, Griffith M, Heath JR, Franzusoff A, Mandl SJ, Ribas A" title="Neoantigen-targeted CD8+ T cell responses with PD-1 blockade therapy" journal="Nature. 2023 Mar" doi="10.1038/s41586-023-05787-1" pmid="36890230"%}
+
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
+
+{% include publication authors="Krysiak K, Danos AM, Saliba J,  McMichael JF, Coffman AC, Kiwala S, Barnell EK, Sheta L, Grisdale CJ, Kujan L, Pema S, Lever J, Ridd S, Spies NC, Andric V, Chiorean A, Rieke DT, Clark KA, Reisle C, Venigalla AC, Evan M, Jani P, Takahashi H, Suda A, Horak P, Ritter DI, Zhou X, Ainscough BJ, Delong S, Kesserwan C, Lamping M, Shen H, Marr AR, Hoan MH, Singhal K, Khanfar M, Li BV, Lin W, Terraf P, Corson LB, Salama Y, Campbell KM, Farncombe KM, Ji J, Zhao X, Xu X, Kanagal-Shamanna R, King I, Cotto KC, Skidmore ZL, Walker JR, Zhang J, Milosavljevic A, Patel RY, Giles RH, Kim RH, Schriml LM, Mardis ER, Jones SJM, Raca Gordana, Rao S, Madhavan S, Wagner AH, Griffith M, Griffith OL" title="CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase " journal="Nucleic Acids Research. 2022 Nov" doi="10.1093/nar/gkac979" pmid="36373660"%}
+
+{% include publication authors="Yoon CJ, Kim SY, Nam CH, Lee J, Park JW, Mun J, Park S, Lee S, Yi B, Min KI, Wiley B, Bolton KL, Lee JH, Kim E, Yoo HJ, Jun JK, Choi JS, Griffith M, Griffith OL, Ju YS." title="Estimation of intrafamilial DNA contamination in family trio genome sequencing using deviation from Mendelian inheritance" journal="Genome Research. 2022 Dec" doi="10.1101/gr.276794.122" pmid="36617634"%}
 
 {% include publication authors="Barnell EK, Fisk B, Skidmore ZL, Cotto KC, Spies NC, Basu A, Anand A, Richters MM, Luo J, Fronick C, Anurag M, Fulton R, Ellis MJ, Griffith OL, Griffith M, Ademuyiwa FO" title="Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer" journal="Scientific Reports. 2022 Oct" doi="10.1038/s41598-022-20928-8" pmid="36273232"%}
 
