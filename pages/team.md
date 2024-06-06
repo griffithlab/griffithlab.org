@@ -76,6 +76,8 @@ header:
 
 {% include team_member member_name="Brian_L" full_name="Brian Li" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
 
+{% include team_member member_name="Luke" full_name="Luke Hendrickson" bio='Luke is a graduate student in the Computer Science program at Missouri University of Science and Technology. He received his B.S. in Computer Science and a minor in Bioinformatics from Missouri University of Science and Technology in 2024. He is working with the lab as a part of the 2024 Summer Genomics Program. He is primarily working on the pVACtools project with the lab.' image='/assets/img/team/luke_hendrickson.jpg' role='Intern' %}
+
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
