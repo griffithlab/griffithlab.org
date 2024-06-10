@@ -50,6 +50,8 @@ header:
 
 {% include team_member member_name="Mariam" full_name="Mariam Khanfar, MSc" bio='Mariam is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from Jordan University of Science and Technology in Jordan in 2016 with a B.S. in Medical Laboratory Sciences and a Masters in Diagnostic Molecular Biology and Human Genetics in 2019. ' image="/assets/img/team/mariam_khanfar.png" role="Graduate Student" %}
 
+{% include team_member member_name="Isabel" full_name="Isabel Risch, BSc" bio='Isabel is currently an MD/PhD student in the Computational and Systems Biology program. She completed her undergraduate education at WashU, where she received bachelor's degrees in Spanish and Biology. She is interested in using bioinformatics to explore the ways in which the immune system interacts with various disease processes, including cancer.' image="/assets/img/team/isabel_risch.png" role="Graduate Student" %}
+
 {% include team_member member_name="Kartik" full_name="Kartik Singhal, BSc" bio='Kartik is a graduate student in the Molecular Genetics and Genomics program at Washington University in St. Louis. He graduated from University of California, Davis in 2018 with a degree in Biotechnology. He is interested in using single cell genomic and transcriptomic techniques to better understand the immune response to tumors.' image="/assets/img/team/kartik_singhal.jpg" role="Graduate Student" %}
 
 <h2 data-magellan-destination="Staff">Staff</h2>
@@ -67,6 +69,8 @@ header:
 
 {% include team_member member_name="Joshua" full_name="Joshua McMichael" bio='Josh is a software developer at the McDonnell Genome Institute. He is an expert in front-end and user experience design. He works with the Griffith Lab to develop bioinformatics tools and resources and novel visualizations. He is the lead front-end developer for CIViC, pVACtools, and others. ' image="/assets/img/team/joshua_mcmichael.jpg" role="Software Developer, UX Developer" %}
 
+{% include team_member member_name="Nilan" full_name="Nilan Patel, BSc" bio='Nilan is a medical student at Saint Louis University currently working on the CiVIC knowledgebase project as a biocurator. He also attended Saint Louis University where he graduated with a B.S. in Medical Sciences with minors in Biology and Psychology. He joined Griffith Lab as part of the ASPIRE program.' image="/assets/img/team/nilan_patel.jpg" role="Staff Curator" %}
+
 {% include team_member member_name="Evelyn" full_name="Evelyn A. Schmidt, BSc" bio='Evelyn is bioinformatics research analyst in the Griffith Lab at Washington University in St. Louis. She graduated from Truman State University, Kirksville in 2023 with a degree in Computer Science.' image="/assets/img/team/evelyn_schmidt.jpg" role="Bioinformatics Data Analyst" %}
 
 {% include team_member member_name="Zach" full_name="Zachary L. Skidmore, MEng" bio='Zach is a staff scientist at the McDonnell Genome Institute at Washington University in Saint Louis. His undergraduate work was completed at the Ohio State University where he obtained a B.Sc. in molecular biology. His Graduate work was performed at the University of Illinois where he obtained a M.eng in bioinformatics. His research focus is in the realm of cancer biology where he uses and develops tools and techniques to aid in the analysis and interpretation of cancer sequencing data. He leads maintenance/development on the bioconductor package <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">GenVisR</a>, a graphics program designed to visualize cohort level genomic data. He is the creator and a primary instructor for the <a href="http://genviz.org/">Genomic Data Visualization and Interpretation</a> workshop course and is the webmaster for many of the griffith lab websites. Currently his primary research project is the genomic evaluation of non-cirrhotic hepatocellular carcinoma.' image="/assets/img/team/zachary_skidmore.jpg" role="Staff Scientist/Bioinformatician" %}
@@ -77,6 +81,8 @@ header:
 {% include team_member member_name="Brian_L" full_name="Brian Li" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
 
 {% include team_member member_name="Luke" full_name="Luke Hendrickson" bio='Luke is a graduate student in the Computer Science program at Missouri University of Science and Technology. He received his B.S. in Computer Science and a minor in Bioinformatics from Missouri University of Science and Technology in 2024. He is working with the lab as a part of the 2024 Summer Genomics Program. He is primarily working on the pVACtools project with the lab.' image='/assets/img/team/luke_hendrickson.jpg' role='Intern' %}
+
+{% include team_member member_name="Johnny" full_name="Johnny Yang" bio='Johnny is a class of 2025 undergraduate student in Chemistry. He joined the lab as an ASPIRE summer scholar student in 2024 summer. He is currently working on a pVACtools project in the lab.' image='/assets/img/team/johnny_yang.jpg' role='Intern' %}
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
