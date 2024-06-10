@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
@@ -24,8 +25,27 @@ header:
   </ul>
 </div>
 
+<h2 data-magellan-destination="2024">2024</h2>
+<a name="2024"></a>
+
+{% include publication authors="Ramirez CA, Becker-Hapak M, Singhal K, Russler-Germain DA, Frenkel F, Barnell EK, McClain E, Desai S, Schappe T, Onyeador OC, Kudryashova O, Belousov V, Bagaev A, Ocheredko E, Kiwala S, Hundal J, Skidmore ZL, Watkins MP, Mooney TB, Walker J, Krysiak K, Gomez F, Fronick CC, Fulton RS, Schreiber RD, Mehta-Shah N, Cashen AF, Kahl BS, Ataullakhanov R, Bartlett NL, Griffith M, Griffith OL, Fehniger TA" title="Neoantigen Landscape Supports Feasibility of Personalized Cancer Vaccine for Follicular Lymphoma" journal="Blood Adv. 2024 May" doi="10.1182/bloodadvances.2022007792" pmid="38713894"%}
+
+{% include publication authors="Cannon M, Stevenson J, Stahl K, Basu R, Coffman A, Kiwala S, McMichael JF, Kuzma K, Morrissey D, Cotto K, Mardis ER, Griffith OL, Griffith M, Wagner AH" title="DGIdb 5.0: rebuilding the drug-gene interaction database for precision medicine and drug discovery platforms" journal="Nucleic Acids Res. 2024 Jan" doi="10.1093/nar/gkad1040" pmid="37953380"%}
+
 <h2 data-magellan-destination="2023">2023</h2>
 <a name="2023"></a>
+
+{% include publication authors="Gomez F, Fisk B, McMichael JF, Mosior M, Foltz JA, Skidmore ZL, Duncavage EJ, Miller CA, Abel H, Li YS, Russler-Germain DA, Krysiak K, Watkins MP, Ramirez CA, Schmidt A, Martins Rodrigues F, Trani L, Khanna A, Wagner JA, Fulton RS, Fronick CC, O'Laughlin MD, Schappe T, Cashen AF, Mehta-Shah N, Kahl BS, Walker J, Bartlett NL, Griffith M, Fehniger TA, Griffith OL" title="Ultra-Deep Sequencing Reveals the Mutational Landscape of Classical Hodgkin Lymphoma" journal="Cancer Res Commun. 2023 Nov" doi="10.1158/2767-9764.CRC-23-0140" pmid="37910143"%}
+
+{% include publication authors="Cannon M, Stevenson J, Kuzma K, Kiwala S, Warner JL, Griffith OL, Griffith M, Wagner AH" title="Normalization of drug and therapeutic concepts with Thera-Py" journal="JAMIA Open. 2023 Nov" doi="10.1093/jamiaopen/ooad093" pmid="37954974"%}
+
+{% include publication authors="Singhal K, Watkins MP, Fehniger TA, Griffith M, Griffith OL, Kahl BS, Russler-Germain DA" title="Donor-Derived Follicular Lymphoma After Kidney Transplantation: A Case Report" journal="JCO Precis Oncol. 2023 Sep" doi="10.1200/PO.23.00177" pmid="37824796"%}
+
+{% include publication authors="Russler-Germain DA, Krysiak K, Ramirez C, Mosior M, Watkins MP, Gomez F, Skidmore ZL, Trani L, Gao F, Geyer S, Cashen AF, Mehta-Shah N, Kahl BS, Bartlett NL, Alderuccio JP, Lossos IS, Ondrejka SL, Hsi ED, Martin P, Leonard JP, Griffith M, Griffith OL, Fehniger TA" title="Mutations associated with progression in follicular lymphoma predict inferior outcomes at diagnosis: Alliance A151303" journal="Blood Adv. 2023 Sep" doi="10.1182/bloodadvances.2023010779" pmid="37493986"%}
+
+{% include publication authors="Freshour SL, Chen TH, Fisk B, Shen H, Mosior M, Skidmore ZL, Fronick C, Bolzenius JK, Griffith OL, Arora VK, Griffith M" title="Endothelial cells are a key target of IFN-g during response to combined PD-1/CTLA-4 ICB treatment in a mouse model of bladder cancer" journal="iScience. 2023 Sep" doi="10.1016/j.isci.2023.107937" pmid="37810214"%}
+
+{% include publication authors="Rodney AR, Skidmore ZL, Grenier JK, Griffith OL, Miller AD, Chu S, Ahmed F, Bryan JN, Peralta S, Warren WC" title="Genomic landscape and gene expression profiles of feline oral squamous cell carcinoma" journal="Front Vet Sci. 2023 May" doi="10.3389/fvets.2023.1079019" pmid="37266381"%}
 
 {% include publication authors="Xia H, McMichael J, Becker-Hapak M, Onyeador OC, Buchli R, McClain E, Pence P, Supabphol S, Richters MM, Basu A, Ramirez CA, Puig-Saus C, Cotto KC, Freshour SL, Hundal J, Kiwala S, Goedegebuure SP, Johanns TM, Dunn GP, Ribas A, Miller CA, Gillanders WE, Fehniger TA, Griffith OL, Griffith M" title="Computational prediction of MHC anchor locations guides neoantigen identification and prioritization" journal="Science Immunology. 2023 Apr" doi="10.1126/sciimmunol.abg2200" pmid="37027480"%}
 
