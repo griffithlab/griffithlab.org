@@ -84,6 +84,8 @@ header:
 
 {% include team_member member_name="Johnny" full_name="Johnny Yang" bio='Johnny is a class of 2025 undergraduate student in Chemistry. He joined the lab as an ASPIRE summer scholar student in 2024 summer. He is currently working on a pVACtools project in the lab.' image='/assets/img/team/johnny_yang.png' role='Intern' %}
 
+{% include team_member member_name="Binghan" full_name="Binghan Yan" bio='Binghan is a class of 2027 undergraduate student in Computational Biology. He is working on comparing tools that try to predict neoantigen-TCR interactions.' image='/assets/img/team/binghan_yan.jpg' role='Intern' %}
+
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
