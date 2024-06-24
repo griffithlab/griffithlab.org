@@ -11,7 +11,7 @@ While most dizygotic twins have a dichorionic placenta, rare cases of dizygotic 
 
 <div class="row">
     <div class="small-12 columns">
-        <img src="/assets/img/news/twins_Yoon.jpg">
+        <img src="/assets/img/news/twins_Yoon.jpeg">
     </div>
 </div>
 
