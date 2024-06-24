@@ -28,6 +28,10 @@ header:
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
 
+{% include publication authors="Yoon CJ, Nam CH, Kim T, Lee JS, Kim R, Yi K, Koh JY, Kim J, Won H, Oh JW, Griffith OL, Griffith M, Sung J, Kim TY, Cho D, Choi JS, Ju YS" title="Whole-genome sequences reveal zygotic composition in chimeric twins" journal="HGG Adv. 2024 May" doi="10.1016/j.xhgg.2024.100301" pmid="38773773"%}
+
+{% include publication authors="Hoang MH, Skidmore ZL, Rindt H, Chu S, Fisk B, Foltz JA, Fronick C, Fulton R, Zhou M, Bivens NJ, Reinero CN, Fehniger TA, Griffith M, Bryan JN, Griffith OL" title="Single-cell T-cell receptor repertoire profiling in dogs" journal="Commun Biol. 2024 Apr" doi="10.1038/s42003-024-06174-w" pmid="38649520"%}
+
 {% include publication authors="Ramirez CA, Becker-Hapak M, Singhal K, Russler-Germain DA, Frenkel F, Barnell EK, McClain E, Desai S, Schappe T, Onyeador OC, Kudryashova O, Belousov V, Bagaev A, Ocheredko E, Kiwala S, Hundal J, Skidmore ZL, Watkins MP, Mooney TB, Walker J, Krysiak K, Gomez F, Fronick CC, Fulton RS, Schreiber RD, Mehta-Shah N, Cashen AF, Kahl BS, Ataullakhanov R, Bartlett NL, Griffith M, Griffith OL, Fehniger TA" title="Neoantigen Landscape Supports Feasibility of Personalized Cancer Vaccine for Follicular Lymphoma" journal="Blood Adv. 2024 May" doi="10.1182/bloodadvances.2022007792" pmid="38713894"%}
 
 {% include publication authors="Cannon M, Stevenson J, Stahl K, Basu R, Coffman A, Kiwala S, McMichael JF, Kuzma K, Morrissey D, Cotto K, Mardis ER, Griffith OL, Griffith M, Wagner AH" title="DGIdb 5.0: rebuilding the drug-gene interaction database for precision medicine and drug discovery platforms" journal="Nucleic Acids Res. 2024 Jan" doi="10.1093/nar/gkad1040" pmid="37953380"%}
