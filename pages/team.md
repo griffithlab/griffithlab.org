@@ -54,6 +54,8 @@ header:
 
 {% include team_member member_name="Kartik" full_name="Kartik Singhal, BSc" bio='Kartik is a graduate student in the Molecular Genetics and Genomics program at Washington University in St. Louis. He graduated from University of California, Davis in 2018 with a degree in Biotechnology. He is interested in using single cell genomic and transcriptomic techniques to better understand the immune response to tumors.' image="/assets/img/team/kartik_singhal.jpg" role="Graduate Student" %}
 
+{% include team_member member_name="Jennie" full_name="Jennie Yao, MSc" bio='Jennie is a PhD student in Molecular Genetics and Genomics. She earned her undergraduate degree in Health & Disease and Statistics from the University of Toronto, followed by an M.Sc. in Biostatistics from Johns Hopkins University.' image="/assets/img/team/jennie_yao.jpg" role="Graduate Student" %}
+
 <h2 data-magellan-destination="Staff">Staff</h2>
 <a name="Staff"></a>
 
