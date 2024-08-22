@@ -28,5 +28,5 @@ docker build -t griffithlab/griffithlabdev:0.0.2 ./
 docker run -p 4000:4000 -v ~/git/griffithlab.org/:/opt/git/griffithlab.org -it griffithlab/griffithlabdev:0.0.2
 
 #Once satistfied, push the image to dockerhub
-docker push griffithlab/rnabiodev:0.0.2
+docker push griffithlab/griffithlabdev:0.0.2
 

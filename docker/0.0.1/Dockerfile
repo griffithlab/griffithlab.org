@@ -16,7 +16,7 @@ RUN wget https://raw.githubusercontent.com/griffithlab/griffithlab.org/master/Ge
     gem install bundler &&\
     bundle install
 WORKDIR /usr/local/bin
-RUN echo "#!/bin/bash\nbundle exec jekyll serve --config _config.yml,_config_dev.yml --watch" > start_jekyll.sh &&\
+RUN echo "#!/bin/bash\nbundle exec jekyll serve --host 0.0.0.0 --config _config.yml,_config_dev.yml --watch" > start_jekyll.sh &&\
     chmod +x start_jekyll.sh &&\
     mkdir -p /opt/git/griffithlab.org &&\
     rm -rf /tmp/griffithlab.org
