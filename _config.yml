@@ -222,6 +222,11 @@ sass:
     sass_dir: _sass
     style: :compressed
 
+# Silence warnings caused by jekyll-sass-converter-3.0.0 until Jekyll is updated
+# For details: https://github.com/jekyll/minima/issues/709
+sass:
+  quiet_deps: true
+
 
 #       ___                __      __  _
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
