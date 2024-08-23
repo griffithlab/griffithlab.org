@@ -20,7 +20,7 @@ header:
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
-    <li data-magellan-arrival="2015"><a href="#2015">2015</a></li>
+    <li data-magellan-arrival="Older"><a href="#Older">Older</a></li>
     <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
@@ -213,13 +213,6 @@ header:
 
 {% include publication authors="Krysiak K, Christopher MJ, Skidmore ZL, Demeter RT, Magrini V, Kunisaki J, O'Laughlin M, Duncavage EJ, Miller CA, Ozenberger BA, Griffith M, Wartman LD+, Griffith OL+" title="A genomic analysis of Philadelphia chromosome-negative AML arising in patients with CML" journal="Blood Cancer Journal. 2016 Apr 8;6:e413" doi="10.1038/bcj.2016.18" pmid="27058228" %}
 
-<hr>
-
-<h2 data-magellan-destination="2015">2015</h2>
-<a name="2015"></a>
-
-{% include publication authors="Ma CX, Luo J, Naughton M, Ademuyiwa FO, Suresh R, Griffith M, Griffith OL, Skidmore Z, Spies NC, Ramu A, Trani L, Pluard T, Nagaraj G, Thomas SN, Guo Z, Hoog J, Han J, Mardis ER, Lockhart AC, Ellis MJ" title="A phase 1 trial of BKM120 (Buparlisib) in combination with fulvestrant in postmenopausal women with estrogen receptor positive metastatic breast cancer" journal="Clinical Cancer Research. 2015 Nov 12. pii: clincanres.1745.2015" doi="10.1158/1078-0432.CCR-15-1745" pmid="26563128" %}
-
 {% include publication authors="Griffith OL*+, Griffith M*, Krysiak K*, Magrini V, Ramu A, Skidmore ZL, Kunisaki J, Austin R, McGrath S, Zhang J, Demeter R, Graves T, Eldred JM, Walker J, Larson DE, Maher CA, Lin Y, Chapman W, Mahadevan A, Miksad R, Nasser I, Hanto DW, Mardis ER" title="A genomic case study of mixed fibrolamellar hepatocellular carcinoma" journal="Annals of Oncology. 2016 Mar 30. pii: mdw135" doi="10.1093/annonc/mdw135" pmid="27029710" %}
 
 {% include publication authors="Hundal J, Carreno BM, Petti AA, Linette GP, Griffith OL, Mardis ER, Griffith M" title="pVAC-Seq: A genome-guided in silico approach to identifying tumor neoantigens" journal="Genome Medicine. 2016 Jan 29;8(1):11" doi="10.1186/s13073-016-0264-5" pmid="26825632" %}
@@ -230,13 +223,28 @@ header:
 
 {% include publication authors="Lu C, Riedell P, Miller CA, Hagemann IS, Westervelt P, Ozenberger BA, OLaughlin M, Magrini V, Demeter RT, Duncavage EJ, Griffith M, Griffith OL, Wartman LD" title="A common founding clone with TP53 and PTEN mutations gives rise to a concurrent germ cell tumor and acute megakaryoblastic leukemia" journal="Cold Spring Harbor Molecular Case Studies. 2016 Jan;2(1):a000687" doi="10.1101/mcs.a000687" pmid="27148581" %}
 
+<hr>
+
+<h2 data-magellan-destination="Older">Older</h2>
+<a name="Older"></a>
+
+{% include publication authors="Juric D, Castel P, Griffith M, Griffith OL, Won HH, Ellis H, Ebbesen SH, Ainscough BJ, Ramu A, Iyer G, Shah RH, Huynh T, Mino-Kenudson M, Sgroi D, Isakoff S, Thabet A, Elamine L, Solit DB, Lowe SW, Quadt C, Peters M, Derti A, Schegel R, Huang A, Mardis ER, Berger MF, Baselga J, Scaltriti M." title="Convergent loss of PTEN leads to clinical resistance to a PI(3)Kα inhibitor." journal="Nature. 2015 Feb" doi="10.1038/nature13948" pmid="25409150" %}
+
+{% include publication authors="Kumar RD, Searleman AC, Swamidass SJ, Griffith OL, Bose R" title="Statistically identifying tumor suppressors and oncogenes from pan-cancer genome-sequencing data" journal="Bioinformatics. 2015 Nov" doi="10.1093/bioinformatics/btv430" pmid="26209800" %}
+
+{% include publication authors="Ma CX, Luo J, Naughton M, Ademuyiwa FO, Suresh R, Griffith M, Griffith OL, Skidmore Z, Spies NC, Ramu A, Trani L, Pluard T, Nagaraj G, Thomas SN, Guo Z, Hoog J, Han J, Mardis ER, Lockhart AC, Ellis MJ" title="A phase 1 trial of BKM120 (Buparlisib) in combination with fulvestrant in postmenopausal women with estrogen receptor positive metastatic breast cancer" journal="Clinical Cancer Research. 2015 Nov 12. pii: clincanres.1745.2015" doi="10.1158/1078-0432.CCR-15-1745" pmid="26563128" %}
+
 {% include publication authors="Griffith M*, Miller CA*, Griffith OL, Krysiak KC, Skidmore ZL, Ramu A, Walker JR, Dang H, Trani L, Larson DE, Demeter RT, Wendl MC, McMichael JF, Austin R, Magrini V, McGrath S, Ly A, Kulkarni S, Cordes M, Fronick CC, Fulton RS, Maher CA, Ding L, Klco JM, Mardis ER, Ley TJ, Wilson RK" title="Optimizing cancer genome sequencing and analysis" journal=" Cell Systems. 2015 Sep 23;1(3):210-223" doi="10.1016/j.cels.2015.08.015" pmid="26645048" %}
 
 {% include publication authors="Klco JM, Miller CA, Griffith M, Petti A, Spencer DH, Ketkar-Kulkarni S, Wartman LD, Christopher M, Lamprecht TL, Helton NM, Duncavage EJ, Payton JE, Baty J, Heath SE, Griffith OL, Shen D, Hundal J, Chang GS, Fulton R, O'Laughlin M, Fronick C, Magrini V, Demeter RT, Larson DE, Kulkarni S, Ozenberger BA, Welch JS, Walter MJ, Graubert TA, Westervelt P, Radich JP, Link DC, Mardis ER, DiPersio JF, Wilson RK, Ley TJ" title="Association Between Mutation Clearance After Induction Therapy and Outcomes in Acute Myeloid Leukemia" journal="Journal of the American Medical Association (JAMA). 2015 Aug 25;314(8):811-22" doi="10.1001/jama.2015.9643" pmid="26305651" %}
 
 {% include publication authors="Griffith M, Walker JR, Spies NC, Ainscough BJ, Griffith OL" title="Informatics for RNA Sequencing: A Web Resource for Analysis on the Cloud" journal="PLoS Computational Biology. 2015 Aug 6;11(8):e1004393" doi="10.1371/journal.pcbi.1004393" pmid="26248053" %}
 
-{% include publication authors=" Griffith M*, Griffith OL*, Smith SM*, Ramu A, Callaway MB, Brummett AM, Kiwala MJ, Coffman AC, Regier AA, Oberkfell BJ, Sanderson GE, Mooney TP, Nutter NG, Belter EA, Du F, Long RL, Abbott TE, Ferguson IT, Morton DL, Burnett MM, Weible JV, Peck JB, Dukes A, McMichael JF, Lolofie JT, Derickson BR, Hundal J, Skidmore ZL, Ainscough BJ, Dees ND, Schierding WS, Kandoth C, Kim KH, Lu C, Harris CC, Maher N, Maher CA, Magrini VJ, Abbott BS, Chen K, Clark E, Das I, Fan X, Hawkins AE, Hepler TG, Wylie TN, Leonard SM, Schroeder WE, Shi X, Carmichael LK, Weil MR, Wohlstadter RW, Stiehr G, McLellan MD, Pohl CS, Miller CA, Koboldt DC, Walker JR, Eldred JM, Larson DE, Dooling DJ, Ding L, Mardis ER, Wilson RK" title="Genome Modeling System: A Knowledge Management Platform for Genomics" journal="PLoS Computational Biology. 2015 Jul 9;11(7):e1004274" doi="10.1371/journal.pcbi.1004274" pmid="26158448" %}
+{% include publication authors="Griffith M*, Griffith OL*, Smith SM*, Ramu A, Callaway MB, Brummett AM, Kiwala MJ, Coffman AC, Regier AA, Oberkfell BJ, Sanderson GE, Mooney TP, Nutter NG, Belter EA, Du F, Long RL, Abbott TE, Ferguson IT, Morton DL, Burnett MM, Weible JV, Peck JB, Dukes A, McMichael JF, Lolofie JT, Derickson BR, Hundal J, Skidmore ZL, Ainscough BJ, Dees ND, Schierding WS, Kandoth C, Kim KH, Lu C, Harris CC, Maher N, Maher CA, Magrini VJ, Abbott BS, Chen K, Clark E, Das I, Fan X, Hawkins AE, Hepler TG, Wylie TN, Leonard SM, Schroeder WE, Shi X, Carmichael LK, Weil MR, Wohlstadter RW, Stiehr G, McLellan MD, Pohl CS, Miller CA, Koboldt DC, Walker JR, Eldred JM, Larson DE, Dooling DJ, Ding L, Mardis ER, Wilson RK" title="Genome Modeling System: A Knowledge Management Platform for Genomics" journal="PLoS Computational Biology. 2015 Jul 9;11(7):e1004274" doi="10.1371/journal.pcbi.1004274" pmid="26158448" %}
+
+{% include publication authors="Good BM, Ainscough BJ, McMichael JF, Su AI, Griffith OL" title="Organizing knowledge to enable personalization of medicine in cancer" journal="Genome Biol. 2014 Aug" doi="10.1186/s13059-014-0438-7" pmid="25222080" %}
+
+{% include publication authors="Griffith M, Griffith OL, Coffman AC, Weible JV, McMichael JF, Spies NC, Koval J, Das I, Callaway MB, Eldred JM, Miller CA, Subramanian J, Govindan R, Kumar RD, Bose R, Ding L, Walker JR, Larson DE, Dooling DJ, Smith SM, Ley TJ, Mardis ER, Wilson RK" title="DGIdb: mining the druggable genome" journal="Nat Methods. 2013 Dec" doi="10.1038/nmeth.2689" pmid="24122041" %}
 
 <hr>
 
