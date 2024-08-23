@@ -219,6 +219,8 @@ header:
 
 {% include publication authors="Lu C, Riedell P, Miller CA, Hagemann IS, Westervelt P, Ozenberger BA, OLaughlin M, Magrini V, Demeter RT, Duncavage EJ, Griffith M, Griffith OL, Wartman LD" title="A common founding clone with TP53 and PTEN mutations gives rise to a concurrent germ cell tumor and acute megakaryoblastic leukemia" journal="Cold Spring Harbor Molecular Case Studies. 2016 Jan;2(1):a000687" doi="10.1101/mcs.a000687" pmid="27148581" %}
 
+{% include publication authors="Hundal J, Miller CA, Griffith M, Griffith OL, Walker J, Kiwala S, Graubert A, McMichael J, Coffman A, Mardis ER" title="Cancer Immunogenomics: Computational Neoantigen Identification and Vaccine Design" journal="Cold Spring Harb Symp Quant Biol. 2016" doi="10.1101/sqb.2016.81.030726" pmid="28389595" %}
+
 <hr>
 
 <h2 data-magellan-destination="Older">Older</h2>
