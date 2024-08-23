@@ -203,8 +203,6 @@ header:
 
 {% include publication authors="Xin J, Mark A, Afrasiabi1 C, Tsueng G, Juchler M, Gopal N, Stupp GS, Putman TE, Ainscough BJ, Griffith OL, Torkamani A, Whetzel PL, Mungall CJ, Mooney SD, Su AI, Wu C" title="MyGene.info and MyVariant.info: Gene and Variant Annotation Query Services" journal="Genome Biology. 2016 17(1):91" doi="10.1186/s13059-016-0953-9" pmid="27154141" %}
 
-{% include publication authors="Turpin J, Ling C, Crosby EJ, Hartman ZC, Simond AM, Chodosh LA, Rennhack JP, Andrechek ER, Ozcelik J, Hallett M, Mills GB, Cardiff RD, Gray JW, Griffith OL, Muller WJ" title="The ErbB2ΔEx16 splice variant is a major oncogenic driver in breast cancer that promotes a pro-metastatic tumor microenvironment" journal="Oncogene. 2016 35(47):6053-6064" doi="10.1038/onc.2016.129" pmid="27157621" %}
-
 {% include publication authors="Ainscough BJ, Griffith M+, Coffman AC, Wagner AH, Kunisaki J, Choudhary MN, McMichael JF, Fulton RS, Wilson RK, Griffith OL+, Mardis ER" title="DoCM: a database of curated mutations in cancer" journal=" Nature Methods. 2016 Sep 29;13(10):806-7" doi="10.1038/nmeth.4000" pmid="27684579" %}
 
 {% include publication authors="Griffith OL*, Chan SR*, Griffith M, Krysiak K, Skidmore ZL, Hundal J, Allen JA, Arthur CD, Runci D, Bugatti M, Miceli AP, Schmidt H, Trani L, Kanchi KL, Miller CA, Larson DE, Fulton RS, Vermi W, Wilson RK, Schreiber RD+, Mardis ER+" title="Truncating Prolactin Receptor Mutations Promote Tumor Growth in Murine Estrogen Receptor-Alpha Mammary Carcinomas" journal="Cell Reports. 2016 Sep 27;17(1):249-60" doi="10.1016/j.celrep.2016.08.076" pmid="27681435" %}
