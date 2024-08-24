@@ -32,7 +32,7 @@ header:
 
 {% include publication authors="Hoang MH, Skidmore ZL, Rindt H, Chu S, Fisk B, Foltz JA, Fronick C, Fulton R, Zhou M, Bivens NJ, Reinero CN, Fehniger TA, Griffith M, Bryan JN, Griffith OL" title="Single-cell T-cell receptor repertoire profiling in dogs" journal="Commun Biol. 2024 Apr" doi="10.1038/s42003-024-06174-w" pmid="38649520"%}
 
-{% include publication authors="Xia H, Hoang M, Schmidt E, Kiwala S, McMichael J, Skidmore ZL, Fisk B, Song JJ, Hundal J, Mooney T, Walker JR, Peter Goedegebuure S, Miller CA, Gillanders WE, Griffith OL, Griffith M" title="pVACview: an interactive visualization tool for efficient neoantigen prioritization and selection" journal="ArXiv [Preprint]. 2024 Jun 11:arXiv:2406.06985v1." doi="10.48550/arXiv.2406.06985" pmid="38947921"%}
+{% include publication authors="Xia H, Hoang M, Schmidt E, Kiwala S, McMichael J, Skidmore ZL, Fisk B, Song JJ, Hundal J, Mooney T, Walker JR, Peter Goedegebuure S, Miller CA, Gillanders WE, Griffith OL, Griffith M" title="pVACview: an interactive visualization tool for efficient neoantigen prioritization and selection" journal="ArXiv [Preprint]. 2024 Jun 11:arXiv:2406.06985v1" doi="10.48550/arXiv.2406.06985" pmid="38947921"%}
 
 {% include publication authors="Ramirez CA, Becker-Hapak M, Singhal K, Russler-Germain DA, Frenkel F, Barnell EK, McClain E, Desai S, Schappe T, Onyeador OC, Kudryashova O, Belousov V, Bagaev A, Ocheredko E, Kiwala S, Hundal J, Skidmore ZL, Watkins MP, Mooney TB, Walker J, Krysiak K, Gomez F, Fronick CC, Fulton RS, Schreiber RD, Mehta-Shah N, Cashen AF, Kahl BS, Ataullakhanov R, Bartlett NL, Griffith M, Griffith OL, Fehniger TA" title="Neoantigen Landscape Supports Feasibility of Personalized Cancer Vaccine for Follicular Lymphoma" journal="Blood Adv. 2024 May" doi="10.1182/bloodadvances.2022007792" pmid="38713894"%}
 
@@ -66,7 +66,7 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
-{% include publication authors="Yoon CJ, Kim SY, Nam CH, Lee J, Park JW, Mun J, Park S, Lee S, Yi B, Min KI, Wiley B, Bolton KL, Lee JH, Kim E, Yoo HJ, Jun JK, Choi JS, Griffith M, Griffith OL, Ju YS." title="Estimation of intrafamilial DNA contamination in family trio genome sequencing using deviation from Mendelian inheritance" journal="Genome Research. 2022 Dec" doi="10.1101/gr.276794.122" pmid="36617634"%}
+{% include publication authors="Yoon CJ, Kim SY, Nam CH, Lee J, Park JW, Mun J, Park S, Lee S, Yi B, Min KI, Wiley B, Bolton KL, Lee JH, Kim E, Yoo HJ, Jun JK, Choi JS, Griffith M, Griffith OL, Ju YS" title="Estimation of intrafamilial DNA contamination in family trio genome sequencing using deviation from Mendelian inheritance" journal="Genome Research. 2022 Dec" doi="10.1101/gr.276794.122" pmid="36617634"%}
 
 {% include publication authors="Barnell EK, Fisk B, Skidmore ZL, Cotto KC, Spies NC, Basu A, Anand A, Richters MM, Luo J, Fronick C, Anurag M, Fulton R, Ellis MJ, Griffith OL, Griffith M, Ademuyiwa FO" title="Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer" journal="Scientific Reports. 2022 Oct" doi="10.1038/s41598-022-20928-8" pmid="36273232"%}
 
@@ -76,7 +76,7 @@ header:
 
 {% include publication authors="Skidmore ZL, Kunisaki J, Lin Y, Cotto KC, Barnell EK, Hundal J, Krysiak K, Magrini V, Trani L, Walker JR, Fulton R, Brunt EM, Miller CA, Wilson RK, Mardis ER, Griffith M, Chapman W, Griffith OL" title="Genomic and transcriptomic somatic alterations of hepatocellular carcinoma in non-cirrhotic livers" journal="Cancer Genetics. 2022 Jun" doi="10.1016/j.cancergen.2022.04.002" pmid="35568002"%}
 
-{% include publication authors="Chiorean A, Farncombe KM, Delong S, Andric V, Ansar S, Chan C, Clark K, Danos AM, Gao Y, Giles RH, Goldenberg A, Jani P, Krysiak K, Kujan L, Macpherson S, Maher ER, McCoy LG, Salama Y, Saliba J, Sheta L, Griffith M, Griffith OL, Erdman L, Ramani A, Kim RH." title="Large scale genotype- and phenotype-driven machine learning in Von Hippel-Lindau disease" journal="Human Mutation. 2022 Apr" doi="10.1002/humu.24392" pmid="35475554"%}
+{% include publication authors="Chiorean A, Farncombe KM, Delong S, Andric V, Ansar S, Chan C, Clark K, Danos AM, Gao Y, Giles RH, Goldenberg A, Jani P, Krysiak K, Kujan L, Macpherson S, Maher ER, McCoy LG, Salama Y, Saliba J, Sheta L, Griffith M, Griffith OL, Erdman L, Ramani A, Kim RH" title="Large scale genotype- and phenotype-driven machine learning in Von Hippel-Lindau disease" journal="Human Mutation. 2022 Apr" doi="10.1002/humu.24392" pmid="35475554"%}
 
 {% include publication authors="Horak P, Griffith M, Danos AM, Pitel BA, Madhavan S, Liu X, Chow C, Williams H, Carmody L, Barrow-Laing L, Rieke D, Kreutzfeldt S, Stenzinger A, Tambrero D, Benary M, Rajagopal PS, Ida CM, Lesmana H, Satgunaseelan L, Merker JD, Tolstorukov MY, Campregher PV, Warner JL, Rao S, Natesan M, Shen H, Venstrom J, Roy S, Tao K, Kanagal-Shamanna R, Xu X, Ritter DI, Pagel K, Krysiak K, Dubuc A, Akkari YM, Li XS, Lee J, King I, Raca G, Wagner AH, Li MM, Plon SE, Kulkarni S, Griffith OL, Chakravarty D, Sonkin D" title="Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): Joint recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC)" journal="Genetics in Medicine. 2022 Jan" doi="10.1016/j.gim.2022.01.001" pmid="35101336"%}
 
@@ -89,7 +89,7 @@ header:
 
 {% include publication authors="Rockwell NC, Yang W, Warrington NM, Staller MV, Griffith M, Griffith OL, Gurnett CA, Cohen BA, Baldridge D, Rubin JB" title="Sex-and Mutation-Specific p53 Gain-of-Function Activity in Gliomagenesis" journal="Cancer Research Communications. 2021 Dec" doi="10.1158/2767-9764.CRC-21-0026" pmid="34957471"%}
 
-{% include publication authors="Wagner AH, Babb L, Alterovitz G, Baudis M, Brush M, Cameron DL, Cline M, Griffith M, Griffith OL, Hunt SE, Kreda D, Lee JM, Li S, Lopez J, Moyer E, Nelson T, Patel RY, Riehle K, Robinson PN, Rynearson S, Schuilenburg H, Tsukanov K, Walsh B, Konopko M, Rehm HL, Yates AD, Freimuth RR, Hart RK." title="The GA4GH Variation Representation Specification: A computational framework for variation representation and federated identification" journal="Cell Genom. 2021 Nov" doi="10.1016/j.xgen.2021.100027" pmid="35311178"%}
+{% include publication authors="Wagner AH, Babb L, Alterovitz G, Baudis M, Brush M, Cameron DL, Cline M, Griffith M, Griffith OL, Hunt SE, Kreda D, Lee JM, Li S, Lopez J, Moyer E, Nelson T, Patel RY, Riehle K, Robinson PN, Rynearson S, Schuilenburg H, Tsukanov K, Walsh B, Konopko M, Rehm HL, Yates AD, Freimuth RR, Hart RK" title="The GA4GH Variation Representation Specification: A computational framework for variation representation and federated identification" journal="Cell Genom. 2021 Nov" doi="10.1016/j.xgen.2021.100027" pmid="35311178"%}
 
 {% include publication authors="Rehm HL, Page AJH, Smith L, Adams JB, Alterovitz G, Babb LJ, Barkley MP, Baudis M, Beauvais MJS, Beck T, Beckmann JS, Beltran S, Bernick D, Bernier A, Bonfield JK, Boughtwood TF, Bourque G, Bowers SR, Brookes AJ, Brudno M, Brush MH, Bujold D, Burdett T, Buske OJ, Cabili MN, Cameron DL, Carroll RJ, Casas-Silva E, Chakravarty D, Chaudhari BP, Chen SH, Cherry JM, Chung J, Cline M, Clissold HL, Cook-Deegan RM, Courtot M, Cunningham F, Cupak M, Davies RM, Denisko D, Doerr MJ, Dolman LI, Dove ES, Dursi LJ, Dyke SOM, Eddy JA, Eilbeck K, Ellrott KP, Fairley S, Fakhro KA, Firth HV, Fitzsimons MS, Fiume M, Flicek P, Fore IM, Freeberg MA, Freimuth RR, Fromont LA, Fuerth J, Gaff CL, Gan W, Ghanaim EM, Glazer D, Green RC, Griffith M, Griffith OL, Grossman RL, Groza T, Auvil JMG, Guigó R, Gupta D, Haendel MA, Hamosh A, Hansen DP, Hart RK, Hartley DM, Haussler D, Hendricks-Sturrup RM, Ho CWL, Hobb AE, Hoffman MM, Hofmann OM, Holub P, Hsu JS, Hubaux JP, Hunt SE, Husami A, Jacobsen JO, Jamuar SS, Janes EL, Jeanson F, Jené A, Johns AL, Joly Y, Jones SJM, Kanitz A, Kato K, Keane TM, Kekesi-Lafrance K, Kelleher J, Kerry G, Khor SS, Knoppers BM, Konopko MA, Kosaki K, Kuba M, Lawson J, Leinonen .." title="GA4GH: International policies and standards for data sharing across genomic research and healthcare" journal="Cell Genom. 2021 Nov" doi="10.1016/j.xgen.2021.100029" pmid="35072136"%}
 
@@ -116,11 +116,11 @@ header:
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
 
-{% include publication authors="Uppaluri R, Campbell KM, Egloff AM, Zolkind P, Skidmore ZL, Nussenbaum B, Paniello RC, Rich JT, Jackson R, Pipkorn P, Michel LS, Ley J, Oppelt P, Dunn GP, Barnell EK, Spies NC, Lin T, Li T, Mulder D, Hanna Y, Cirlan I, Pugh TJ, Mudianto T, Riley R, Zhou L, Jo VY, Stachler MD, Hanna GJ, Kass JI, Haddad RI, Schoenfeld JD, Gjini E, Lako A, Thorstad WL, Gay HA, Daly M, Rodig S, Hagemann IS, Kallogjeri D, Piccirillo JF, Chernock RD, Griffith M, Griffith OL, Adkins DR" title="Neoadjuvant and Adjuvant Pembrolizumab in Resectable Locally Advanced, Human Papillomavirus-Unrelated Head and Neck Cancer: A Multicenter, Phase 2 Trial" journal="Clinical Cancer Research. 2020 Jul 14." doi="10.1158/1078-0432.CCR-20-1695" pmid="32665297" %}
+{% include publication authors="Uppaluri R, Campbell KM, Egloff AM, Zolkind P, Skidmore ZL, Nussenbaum B, Paniello RC, Rich JT, Jackson R, Pipkorn P, Michel LS, Ley J, Oppelt P, Dunn GP, Barnell EK, Spies NC, Lin T, Li T, Mulder D, Hanna Y, Cirlan I, Pugh TJ, Mudianto T, Riley R, Zhou L, Jo VY, Stachler MD, Hanna GJ, Kass JI, Haddad RI, Schoenfeld JD, Gjini E, Lako A, Thorstad WL, Gay HA, Daly M, Rodig S, Hagemann IS, Kallogjeri D, Piccirillo JF, Chernock RD, Griffith M, Griffith OL, Adkins DR" title="Neoadjuvant and Adjuvant Pembrolizumab in Resectable Locally Advanced, Human Papillomavirus-Unrelated Head and Neck Cancer: A Multicenter, Phase 2 Trial" journal="Clinical Cancer Research. 2020 Jul 14" doi="10.1158/1078-0432.CCR-20-1695" pmid="32665297" %}
 
 {% include publication authors="Rao S, Pitel B, Wagner AH, Boca SM, McCoy M, King I, Gupta S, Park BH, Warner JL, Chen J, Rogan PK, Chakravarty D, Griffith M, Griffith OL, Madhavan S" title="Collaborative, Multidisciplinary Evaluation of Cancer Variants Through Virtual Molecular Tumor Boards Informs Local Clinical Practices" journal="JCO Clinical Cancer Informatics. 2020 Jul;4:602-613" doi="10.1200/CCI.19.00169" pmid="32644817" %}
 
-{% include publication authors="De Mattos-Arruda L, Vazquez M, Finotello F, Lepore R, Porta E, Hundal J, Amengual-Rigo P, Ng CKY, Valencia A, Carrillo J, Chan TA, Guallar V, McGranahan N, Blanco J, Griffith M" title="Neoantigen prediction and computational perspectives towards clinical benefit: Recommendations from the ESMO Precision Medicine Working Group" journal="Annals of Oncology. 2020 Aug;31(8):978-990." doi="10.1016/j.annonc.2020.05.008" pmid="32610166" %}
+{% include publication authors="De Mattos-Arruda L, Vazquez M, Finotello F, Lepore R, Porta E, Hundal J, Amengual-Rigo P, Ng CKY, Valencia A, Carrillo J, Chan TA, Guallar V, McGranahan N, Blanco J, Griffith M" title="Neoantigen prediction and computational perspectives towards clinical benefit: Recommendations from the ESMO Precision Medicine Working Group" journal="Annals of Oncology. 2020 Aug;31(8):978-990" doi="10.1016/j.annonc.2020.05.008" pmid="32610166" %}
 
 {% include publication authors="Wagner AH, Walsh B, Mayfield G, Tamborero D, Sonkin D, Krysiak K, Deu-Pons J, Duren RP, Gao J, McMurry J, Patterson S, Del Vecchio Fitz C, Pitel BA, Sezerman OU, Ellrott K, Warner JL, Rieke DT, Aittokallio T, Cerami E, Ritter DI, Schriml LM, Freimuth RR, Haendel M, Raca G, Madhavan S, Baudis M, Beckmann JS, Dienstmann R, Chakravarty D, Li XS, Mockus S, Elemento O, Schultz N, Lopez-Bigas N, Lawler M, Goecks J, Griffith M+, Griffith OL+, Margolin AA; Variant Interpretation for Cancer Consortium" title="A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer" journal="Nature Genetics. 2020 Apr;52(4):448-457" doi="10.1038/s41588-020-0603-8" pmid="32246132" %}
 
@@ -128,7 +128,7 @@ header:
 
 {% include publication authors="Hundal J, Kiwala S, McMichael J, Miller CA, Xia H, Wollam AT, Liu CJ, Zhao S, Feng YY, Graubert AP, Wollam AZ, Neichin J, Neveau M, Walker J, Gillanders WE, Mardis ER, Griffith OL+, Griffith M+" title="pVACtools: A Computational Toolkit to Identify and Visualize Cancer Neoantigens" journal="Cancer Immunol Research. 2020 Mar;8(3):409-420" doi="10.1158/2326-6066.CIR-19-0401" pmid="31907209" %}
 
-{% include publication authors="Chu S, Wylie TN, Wylie KM, Johnson GC, Skidmore ZL, Fleer M, Griffith OL, Bryan JN" title="A virome sequencing approach to feline oral squamous cell carcinoma to evaluate viral causative factors" journal="Veterinary Microbiology. 2020 Jan;240:108491." doi="10.1016/j.vetmic.2019.108491" pmid="31902496" %}
+{% include publication authors="Chu S, Wylie TN, Wylie KM, Johnson GC, Skidmore ZL, Fleer M, Griffith OL, Bryan JN" title="A virome sequencing approach to feline oral squamous cell carcinoma to evaluate viral causative factors" journal="Veterinary Microbiology. 2020 Jan;240:108491" doi="10.1016/j.vetmic.2019.108491" pmid="31902496" %}
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
@@ -190,8 +190,6 @@ header:
 
 {% include publication authors="Krysiak K, Gomez F, White BS, Matlock M, Miller CA, Trani L, Fronick CC, Fulton RS, Kreisel F, Cashen AF, Carson KR, Berrien-Elliott MM, Bartlett NL, Griffith M+, Griffith OL+, Fehniger TA+" title="Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma" journal="Blood. 2017 Jan 26;129(4):473-483" doi="10.1182/blood-2016-07-729954" pmid="28064239" %}
 
-<hr>
-
 <h2 data-magellan-destination="2016">2016</h2>
 <a name="2016"></a>
 
@@ -221,12 +219,10 @@ header:
 
 {% include publication authors="Hundal J, Miller CA, Griffith M, Griffith OL, Walker J, Kiwala S, Graubert A, McMichael J, Coffman A, Mardis ER" title="Cancer Immunogenomics: Computational Neoantigen Identification and Vaccine Design" journal="Cold Spring Harb Symp Quant Biol. 2016" doi="10.1101/sqb.2016.81.030726" pmid="28389595" %}
 
-<hr>
-
 <h2 data-magellan-destination="Older">Older</h2>
 <a name="Older"></a>
 
-{% include publication authors="Juric D, Castel P, Griffith M, Griffith OL, Won HH, Ellis H, Ebbesen SH, Ainscough BJ, Ramu A, Iyer G, Shah RH, Huynh T, Mino-Kenudson M, Sgroi D, Isakoff S, Thabet A, Elamine L, Solit DB, Lowe SW, Quadt C, Peters M, Derti A, Schegel R, Huang A, Mardis ER, Berger MF, Baselga J, Scaltriti M." title="Convergent loss of PTEN leads to clinical resistance to a PI(3)Kα inhibitor." journal="Nature. 2015 Feb" doi="10.1038/nature13948" pmid="25409150" %}
+{% include publication authors="Juric D, Castel P, Griffith M, Griffith OL, Won HH, Ellis H, Ebbesen SH, Ainscough BJ, Ramu A, Iyer G, Shah RH, Huynh T, Mino-Kenudson M, Sgroi D, Isakoff S, Thabet A, Elamine L, Solit DB, Lowe SW, Quadt C, Peters M, Derti A, Schegel R, Huang A, Mardis ER, Berger MF, Baselga J, Scaltriti M" title="Convergent loss of PTEN leads to clinical resistance to a PI(3)Kα inhibitor" journal="Nature. 2015 Feb" doi="10.1038/nature13948" pmid="25409150" %}
 
 {% include publication authors="Kumar RD, Searleman AC, Swamidass SJ, Griffith OL, Bose R" title="Statistically identifying tumor suppressors and oncogenes from pan-cancer genome-sequencing data" journal="Bioinformatics. 2015 Nov" doi="10.1093/bioinformatics/btv430" pmid="26209800" %}
 
@@ -243,8 +239,6 @@ header:
 {% include publication authors="Good BM, Ainscough BJ, McMichael JF, Su AI, Griffith OL" title="Organizing knowledge to enable personalization of medicine in cancer" journal="Genome Biol. 2014 Aug" doi="10.1186/s13059-014-0438-7" pmid="25222080" %}
 
 {% include publication authors="Griffith M, Griffith OL, Coffman AC, Weible JV, McMichael JF, Spies NC, Koval J, Das I, Callaway MB, Eldred JM, Miller CA, Subramanian J, Govindan R, Kumar RD, Bose R, Ding L, Walker JR, Larson DE, Dooling DJ, Smith SM, Ley TJ, Mardis ER, Wilson RK" title="DGIdb: mining the druggable genome" journal="Nat Methods. 2013 Dec" doi="10.1038/nmeth.2689" pmid="24122041" %}
-
-<hr>
 
 <h2 data-magellan-destination="All">Complete Bibliography (PubMed)</h2>
 <a name="All"></a>

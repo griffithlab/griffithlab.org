@@ -13,17 +13,18 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 
 ### Upcoming Workshops
 
-1. Canadian Bioinformatics Workshops - [RNA-seq Analysis, July 17-19, 2023](https://bioinformatics.ca/workshops-all/2023-rna-seq-analysis/)
-2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 6-19, 2023](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=23)
+1. Canadian Bioinformatics Workshops - [RNA-seq Analysis, Dates TBD, 2025](https://bioinformatics.ca/workshops/current-workshops/)
+2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 10-23, 2024](https://meetings.cshl.edu/courses.aspx?course=c-seqtec&year=24)
 
 ### Past Workshops
-The following are hosted in different locations and times every year or two. Registration and other details of each course can be found on the website of each course organizer (linked below).
+
 1. RNA-seq analysis and cloud computing ([CBW](https://bioinformatics.ca/workshops/), Toronto)
 2. Advanced Sequencing Technologies and Applications ([CSHL](https://meetings.cshl.edu/courseshome.aspx), New York)
-3. Genomic Data Visualization/Interpretation ([Physalia Courses](https://www.physalia-courses.org/), Berlin)
-4. Precision Medicine Bioinformatics ([PR Informatics](https://www.prinformatics.com/), Glasgow)
-5. High-Throughput Biology: From Sequence to Networks ([CSHL](https://meetings.cshl.edu/courseshome.aspx) / [CBW](https://bioinformatics.ca/workshops/), New York)
-6. Workshop on Genomics ([Evomics](http://evomics.org/workshops/), Český Krumlov)
+3. Cancer Research Institute Bioinformatics Bootcamp ([CRI](https://crigrants.github.io/CRI_bioinformatics_workshop/course.html), Orlando) 
+4. Genomic Data Visualization/Interpretation ([Physalia Courses](https://www.physalia-courses.org/), Berlin)
+5. Precision Medicine Bioinformatics ([PR Informatics](https://www.prinformatics.com/), Glasgow)
+6. High-Throughput Biology: From Sequence to Networks ([CSHL](https://meetings.cshl.edu/courseshome.aspx) / [CBW](https://bioinformatics.ca/workshops/), New York)
+7. Workshop on Genomics ([Evomics](http://evomics.org/workshops/), Český Krumlov)
 
 ### Online Courses
 1. [rnabio.org](http://rnabio.org) - Informatics for RNA-seq: A web resource for analysis on the cloud. <br> Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.
