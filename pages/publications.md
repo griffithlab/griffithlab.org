@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2025"><a href="#2025">2025</a></li>
     <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
@@ -25,8 +26,21 @@ header:
   </ul>
 </div>
 
+<h2 data-magellan-destination="2025">2025</h2>
+<a name="2025"></a>
+
+{% include publication authors="Rauch DA, Ramos PV, Khanfar M, Harding J, Joseph A, Fahad A, Simonson P, Risch I, Griffith O, Griffith M, Ratner L" title="Single-Cell Transcriptomic Analysis of Kaposi Sarcoma" journal="PLoS Pathogens" doi="10.1371/journal.ppat.1012233" pmid="40168402"%}
+
+{% include publication authors="Chen H, Ferguson CJ, Mitchell DC, Risch I, Titus A, Paulo JA, Hwang A, Beck LK, Lin TH, Gu W, Song SK, Yuede CM, Yano H, Griffith OL, Griffith M, Gygi SP, Bonni A, Kim AH" title="The Hao-Fountain syndrome protein USP7 regulates neuronal connectivity in the brain via a novel p53-independent ubiquitin signaling pathway" journal="Cell Reports" doi="10.1016/j.celrep.2025.115231" pmid="39862434"%}
+
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
+
+{% include publication authors="Zhang X, Goedegebuure SP, Chen MY, Mishra R, Zhang F, Yu YY, Singhal K, Li L, Gao F, Myers NB, Vickery T, Hundal J, McLellan MD, Sturmoski MA, Kim SW, Chen I, Davidson JT 4th, Sankpal NV, Myles S, Suresh R, Ma CX, Foluso A, Wang-Gillam A, Davies S, Hagemann IS, Mardis ER, Griffith O, Griffith M, Miller CA, Hansen TH, Fleming TP, Schreiber RD, Gillanders WE" title="Neoantigen DNA vaccines are safe, feasible, and induce neoantigen-specific immune responses in triple-negative breast cancer patients" journal="Genome Medicine" doi="10.1186/s13073-024-01388-3" pmid="39538331"%}
+
+{% include publication authors="Xia H, Hoang MH, Schmidt E, Kiwala S, McMichael J, Skidmore ZL, Fisk B, Song JJ, Hundal J, Mooney T, Walker JR, Goedegebuure SP, Miller CA, Gillanders WE, Griffith OL, Griffith M" title="pVACview: an interactive visualization tool for efficient neoantigen prioritization and selection" journal="Genome Medicine" doi="10.1186/s13073-024-01384-7" pmid="39538339"%}
+
+{% include publication authors="Gomez F, Danos AM, Del Fiol G, Madabhushi A, Tiwari P, McMichael JF, Bakas S, Bian J, Davatzikos C, Fertig EJ, Kalpathy-Cramer J, Kenney J, Savova GK, Yetisgen M, Van Allen EM, Warner JL, Prior F, Griffith M, Griffith OL" title="A New Era of Data-Driven Cancer Research and Care: Opportunities and Challenges" journal="Cancer Discovery" doi="10.1158/2159-8290.cd-24-1130" pmid="39363742"%}
 
 {% include publication authors="Yoon CJ, Nam CH, Kim T, Lee JS, Kim R, Yi K, Koh JY, Kim J, Won H, Oh JW, Griffith OL, Griffith M, Sung J, Kim TY, Cho D, Choi JS, Ju YS" title="Whole-genome sequences reveal zygotic composition in chimeric twins" journal="HGG Adv. 2024 May" doi="10.1016/j.xhgg.2024.100301" pmid="38773773"%}
 
