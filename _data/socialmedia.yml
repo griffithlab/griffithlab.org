@@ -67,6 +67,10 @@
       url: http://malachigriffith.org
       class: fa-solid fa-link
       title: "Personal Website"
+    - name: Bluesky
+      url: https://bsky.app/profile/malachigriffith.bsky.social
+      class: fa-brands fa-bluesky
+      title: "Professional Bluesky account"
 
 - member_name: Obi
   social:
