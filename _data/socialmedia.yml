@@ -69,7 +69,7 @@
       title: "Personal Website"
     - name: Bluesky
       url: https://bsky.app/profile/malachigriffith.bsky.social
-      class: fa-brands fa-bluesky
+      class: fa-solid fa-cloud
       title: "Professional Bluesky account"
 
 - member_name: Obi
