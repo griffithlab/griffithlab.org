@@ -11,6 +11,6 @@ We are pleased to announce that Adam Coffman, a software developer in the Griffi
 
 <div class="row">
     <div class="small-12 columns">
-        <img src="/assets/img/team/jennie_yao.jpg">
+        <img src="/assets/img/team/adam_coffman.jpg">
     </div>
 </div>
