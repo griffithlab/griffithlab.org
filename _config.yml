@@ -25,13 +25,13 @@ author: Ish Jain, Samson Kempiak
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://rpiways.github.io'
-#baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
+url: 'https://wayslab.github.io'
+# No baseurl: this is an organization site served from the domain root.
 
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/wayslab/rpiways.github.io/edit/master/
+improve_content: https://github.com/wayslab/wayslab.github.io/edit/master/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -39,15 +39,14 @@ improve_content: https://github.com/wayslab/rpiways.github.io/edit/master/
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://rpiways.github.io/images/'
+urlimg: 'https://wayslab.github.io/images/'
 
 
 # Logo size is 600x80 pixels
 logo: "Site_Logo4.png"
 
-# Gems
-gems:
-    - jekyll-asciidoc
+# Plugins ('gems' was renamed to 'plugins' in Jekyll 3.0)
+plugins:
     - jekyll-gist
     - jekyll-paginate
 
