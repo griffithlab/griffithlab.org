@@ -8,30 +8,30 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Griffith Lab'
+title: 'WAYS Lab'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'This is the website for the academic lab of Malachi and Obi Griffith'
+description: 'This is the website for the academic lab of Ish Jain'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: Obi Griffith, Malachi Griffith
+author: Ish Jain, Samson Kempiak
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://griffithlab.org'
+url: 'https://rpiways.github.io'
 #baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
 
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/griffithlab/griffithlab.github.io/edit/master/
+improve_content: https://github.com/wayslab/rpiways.github.io/edit/master/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -39,7 +39,7 @@ improve_content: https://github.com/griffithlab/griffithlab.github.io/edit/maste
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://griffithlab.org/images/'
+urlimg: 'http://rpiways.github.io/images/'
 
 
 # Logo size is 600x80 pixels
