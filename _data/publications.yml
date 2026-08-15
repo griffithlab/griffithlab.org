@@ -1,0 +1,179 @@
+- title: "Densify & Conquer: Densified, smaller base-stations can conquer the increasing carbon footprint problem in nextG wireless"
+  paper:  https://arxiv.org/abs/2403.13611
+  authors: Agrim Gupta, Adel Heidari, Jiaming Jin, Dinesh Bharadia
+  conference:
+    url: https://arxiv.org/abs/2403.13611
+    display:  "[Arxiv 2024]"
+  image: 
+  github:
+
+- title: "R-fiducial: Millimeter Wave Radar Fiducials for Sensing Traffic Infrastructure"
+  paper:  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10199374
+  authors: Kshitiz Bansal, Manideep Dunna, Sanjeev Ganesh, Eamon Patmasing, Dinesh Bharadia
+  conference:
+    url: https://events.vtsociety.org/vtc2023-spring/
+    display:  "[VTC-spring 2023]"
+  image: 
+  github:
+- title: "mmFlexible: Flexible Directional Frequency Multiplexing for Multi-user mmWave Networks"
+  paper:  files/mmflexible.pdf
+  authors: Ish Kumar Jain, Rohith Reddy Vennam, Raghav Subbaraman, Dinesh Bharadia
+  conference:
+    url: https://infocom2023.ieee-infocom.org/program
+    display:  "[Infocom 2023]"
+  image: dpa.png
+  github:
+- title: "mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array"
+  paper: files/mmspoof.pdf
+  authors: Rohith Reddy Vennam, Ish Kumar Jain, Kshitiz Bansal, Joshua Orozco, Puja Shukla, Aanjhan Ranganathan, Dinesh Bharadia
+  conference:
+    url: https://www.ieee-security.org/TC/SP2023/program-papers.html
+    display:  "[IEEE SnP 2023]"
+  image: mmspoof.png
+  github:
+- title: "WiROS: WiFi sensing toolbox for robotics"
+  paper:
+  authors: William Hunter, Aditya Arun, Dinesh Bharadia
+  conference:
+    url: https://wcsng.ucsd.edu/wiros/
+    display:  "[IPSN Demo 2023]"
+  image: wiros.jpg
+  github:
+    url: https://github.com/ucsdwcsng/WiROS
+    display:  "[GitHub]"
+- title: "Users are Closer than they Appear: Protecting User's Location from WiFi APs"
+  paper: files/mirage-paper.pdf
+  authors: Roshan Ayyalasomayajula, Wei Sun, Aditya Arun, Dinesh Bharadia
+  conference:
+    url: https://hotmobile.org/2023/index.php?id=program
+    display:  "[HotMobile2023]"
+  image: mirage.png
+  github:
+    url: https://github.com/ucsdwcsng/WiROS
+    display:  "[GitHub]"
+- title: "BSMA: scalable LoRa networks using full duplex gateways"
+  paper: https://github.com/ucsdwcsng/bsma_lora/blob/09b998355498d6268ab0c1e940b395ec62a026a0/docs/full_paper_3495243.3560544.pdf
+  authors: Raghav Subbaraman, Yeswanth Guntupalli, Shruti Jain, Rohit Kumar, Krishna Chintalapudi, Dinesh Bharadia
+- title: "ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM"
+  paper: https://arxiv.org/pdf/2209.08091.pdf
+  authors: Aditya Arun, William Hunter, Roshan Ayyalasomayajula, Dinesh Bharadia
+- title: "VRProj: Delivering 360-degree Video With Viewport-Adaptive Truncation"
+  paper: files/vrproj.pdf
+  authors: Tian Qiu, Ish Kumar Jain, Raini Wu, Dinesh Bharadia, Pamela Cosman
+- title: "High-Resolution Spectral Analysis and Signal Segregation Using the Polyphase Channelizer"
+  paper: https://wcsng.ucsd.edu/channogram/
+  authors: Richard Bell, Radhika Mathuria, Fred Harris, Peter Gerstoft, Dinesh Bharadia
+- title: "P2SLAM: Bearing based WiFi SLAM for Indoor Robots"
+  paper: files/p2slam.pdf
+  authors: Aditya Arun, Roshan Ayyalasomayajula, William Hunter, Dinesh Bharadia
+- title: "Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices"
+  paper: files/sp22_paper.pdf
+  authors: Hadi Givehchian, Nishant Bhaskar, Eliana Rodriguez Herrera, Héctor Rodrigo López Soto, Christian Dameff, Dinesh Bharadia, Aaron Schulman 
+- title: "ULoc: a cm-accurate, low-latency and power-efficient UWB tag localization system"
+  paper: files/uloc.pdf
+  authors: Minghui Zhao, Tyler Chang, Aditya Arun, Roshan Ayyalasomayajula, Chi Zhang, Dinesh Bharadia
+- title: "Sslide: Sound source localization for indoors based on deep learning"
+  paper: https://arxiv.org/pdf/2010.14420.pdf
+  authors: Yifan Wu, Roshan Ayyalasomayajula, Michael J. Bianco, Dinesh Bharadia, Peter Gerstoft
+- title: "Sound source localization based on multi-task learning and image translation network"
+  paper:  https://www.researchgate.net/profile/Yifan-Wu-9/publication/355947556_Sound_source_localization_based_on_multi-task_learning_and_image_translation_network/links/61f43f6f4393577abef7a74a/Sound-source-localization-based-on-multi-task-learning-and-image-translation-network.pdf
+  authors: Yifan Wu, Roshan Ayyalasomayajula, Michael J. Bianco, Dinesh Bharadia, Peter Gerstoft
+- title: "Two beams are better than one: Towards Reliable and High Throughput mmWave Links"
+  paper: files/mmreliable.pdf
+  authors: Ish Kumar Jain, Raghav Subbaraman, Dinesh Bharadia
+- title: "SyncScatter: Enabling WiFi like synchronization and range for WiFi backscatter Communication"
+  paper: files/syncscatter.pdf
+  authors: Manideep Dunna, Miao Meng, Po-Han Wang, Chi Zhang, Patrick Mercier, Dinesh Bharadia
+- title: "WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum"
+  paper: https://wcsng.ucsd.edu/force_sensing/
+  authors: Agrim Gupta, Cédric Girerd, Manideep Dunna, Qiming Zhang, Raghav Subbaraman, Tania Morimoto, Dinesh Bharadia
+- title: "DroneScale: Drone Load Estimation Via Remote Passive RF Sensing"
+  paper: http://mnslab.org/tamvu/paper/2020%20DroneScale_Phuc.pdf
+  authors: Phuc Nguyen, Vimal Kakaraparthi, Nam Bui, Nikshep Umamahesh, Nhat Pham, Hoang Truong, Yeswanth Guddeti, Dinesh Bharadia, Eric Frew, Richard Han, Daniel Massey, Tam Vu
+- title: "Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars"
+  paper: files/Pointillism_paper.pdf
+  authors: Kshitiz Bansal, Keshav Rungta, Siyuan Zhu, Dinesh Bharadia
+- title: "mMobile: Building a mmWave testbed to evaluate and address mobility effects"
+  paper: files/mmobile.pdf
+  authors: Ish Kumar Jain, Raghav Subbaraman, Tejas Harekrishna Sadarahalli, Xiangwei Shao, Hou-Wei Lin, Dinesh Bharadia
+- title: "S3Net: Semantic-Aware Self-supervised Depth Estimation with Monocular Videos and Synthetic Data"
+  paper: https://arxiv.org/pdf/2007.14511.pdf
+  authors: Bin Cheng, Inderjot Singh Saggu, Raunak Shah, Gaurav Bansal, Dinesh Bharadia
+- title: "A 28μW IoT Tag That Can Communicate with Commodity WiFi Transceivers via a Single-Side-Band QPSK Backscatter Communication Technique"
+  paper: files/ISSCC-talk.pdf
+  authors: Po-Han Peter Wang, Chi Zhang, Hongsen Yang, Dinesh Bharadia, Patrick P. Mercier
+- title: "ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces"
+  paper: files/scattermimo.pdf
+  authors: Manideep Dunna, Chi Zhang, Daniel Sievenpiper, Dinesh Bharadia
+- title: "Deep Learning based Wireless Localization for Indoor Navigation"
+  paper: files/dloc.pdf
+  authors: Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi, Deepak Vasisht, Dinesh Bharadia
+- title: "LocAP: Accurate Localization of Existing WiFi Infrastructure"
+  paper: files/LocAP_paper.pdf
+  authors: Shrivatsan Rajagopalan, Shreya Ganesaraman, Aravind Seetharaman, Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Dinesh Bharadia
+- title: "Capttery: Scalable Battery-like Room-level Wireless Power"
+  paper: https://dl.acm.org/citation.cfm?id=3326077
+  authors: Chi Zhang, Siddharth Kumar, Dinesh Bharadia
+- title: "SparSDR: Sparsity-proportional Backhaul and Compute for SDRs"
+  paper: http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf
+  authors: Moein Khazraee, Yeswanth Guddeti, Sam Crow, Alex C. Snoeren,	Kirill Levchenko, Dinesh Bharadia, Aaron Schulman
+- title: "SweepSense: Sensing 5 GHz in 5 Milliseconds with Low-cost Radios"
+  paper: https://www.usenix.org/conference/nsdi19/presentation/guddeti
+  authors: Yeswanth Guddeti, Raghav Subbaraman, Moein Khazraee, Aaron Schulman, Dinesh Bharadia
+- title: "SIGNet: Semantic Instance Aided Unsupervised 3D Geometry Perception"
+  paper: http://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html
+  authors: Yue Meng, Yongxi Lu, Aman Raj, Samuel Sunarjo, Rui Guo, Tara Javidi, Gaurav Bansal, Dinesh Bharadia
+- title: "BLoc: CSI-based accurate localization for BLE tags"
+  paper: files/bloc_paper.pdf
+  authors: Roshan Ayyalasomayajula, Deepak Vasisht, Dinesh Bharadia
+- title: "FreeRider: Backscatter Communication Using Commodity Radios"
+  paper: files/freerider.pdf
+  authors: Pengyu Zhang, Colleen Josephson, Dinesh Bharadia, Sachin Katti
+- title: "Enabling high-quality untethered virtual reality"
+  paper: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari
+  authors: Omid Abari, Dinesh Bharadia, Austin Duffield, Dina Katabi
+- title: "Hitchhike: Practical backscatter using commodity wifi"
+  paper: https://dl.acm.org/citation.cfm?id=2994565
+  authors: Pengyu Zhang, Dinesh Bharadia, Kiran Joshi, Sachin Katti
+- title: "Cutting the cord in virtual reality"
+  paper: https://dl.acm.org/citation.cfm?id=3005770
+  authors: Omid Abari, Dinesh Bharadia, Austin Duffield, Dina Katabi
+- title: "Numfabric: Fast and flexible bandwidth allocation in datacenters"
+  paper: https://dl.acm.org/citation.cfm?id=2934890
+  authors: Kanthi Nagaraj, Dinesh Bharadia, Hongzi Mao, Sandeep Chinchali, Mohammad Alizadeh, Sachin Katti
+- title: "Enabling backscatter communication among commodity wifi radios"
+  paper: https://dl.acm.org/citation.cfm?id=2959072
+  authors: Pengyu Zhang, Dinesh Bharadia, Kiran Joshi, Sachin Katti
+- title: "Backfi: High throughput wifi backscatter"
+  paper: https://dl.acm.org/citation.cfm?id=2787490
+  authors: Dinesh Bharadia, Kiran Raj Joshi, Manikanta Kotaru, Sachin Katti
+- title: "Spotfi: Decimeter level localization using wifi"
+  paper: files/sigcomm15-spotfi.pdf
+  authors: Manikanta Kotaru, Kiran Joshi, Dinesh Bharadia, Sachin Katti
+- title: "Fastforward: Fast and constructive full duplex relays"
+  paper: files/fastforward.pdf
+  authors: Dinesh Bharadia, Sachin Katti
+- title: "WiDeo: Fine-grained Device-free Motion Tracing using {RF} Backscatter"
+  paper: https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi
+  authors: Kiran Joshi, Dinesh Bharadia, Manikanta Kotaru, Sachin Katti
+- title: "Spoton: Indoor localization using commercial off-the-shelf wifi nics"
+  paper: https://www.microsoft.com/en-us/research/wp-content/uploads/2014/10/ipsn_kotaru.pdf
+  authors: Manikanta Kotaru, Kiran Joshi, Dinesh Bharadia, Sachin Katti
+- title: "Robust full duplex radio link"
+  paper: files/robustFullDuplex.pdf
+  authors: Dinesh Bharadia, Kiran Joshi, Sachin Katti
+- title: "Full Duplex {MIMO} Radios"
+  paper: https://www.usenix.org/conference/nsdi14/technical-sessions/bharadia
+  authors: Dinesh Bharadia, Sachin Katti
+- title: "QualComp: a new lossy compressor for quality scores based on rate distortion theory"
+  paper: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-187
+  authors: Idoia Ochoa, Himanshu Asnani, Dinesh Bharadia, Mainak Chowdhury, Tsachy Weissman, Golan Yona
+- title: "Full duplex backscatter"
+  paper: https://dl.acm.org/citation.cfm?id=2535785
+  authors: Dinesh Bharadia, Kiran Raj Joshi, Sachin Katti
+- title: "Full duplex radios"
+  paper: https://dl.acm.org/citation.cfm?id=2486033
+  authors: Dinesh Bharadia, Emily McMilin, Sachin Katti
+- title: "Practical, real-time, full duplex wireless"
+  paper: https://dl.acm.org/citation.cfm?id=2030647
+  authors: Mayank Jain, Jung Il Choi, Taemin Kim, Dinesh Bharadia, Siddharth Seth, Kannan Srinivasan, Philip Levis, Sachin Katti, Prasun Sinha

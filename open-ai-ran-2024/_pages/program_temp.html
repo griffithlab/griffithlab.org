@@ -1,0 +1,59 @@
+<section id="schedule" class="section schedule" style="display: none;">
+    
+    <!-- <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">PROGRAM</h3>
+            </div>
+        </div> -->
+       
+<!--         {% assign sorted_program = site.data.program | sort:order %}
+        {% for schedule_hash in sorted_program %}
+        {% assign schedule = schedule_hash[1] %}
+            <h2>{{ schedule.date }}</h2>
+            <div class="wsite-spacer" style="height:10px;"></div>
+            <div class="list-group">
+                {% for item in schedule.details %}
+                    {% if item.type == "keynote" %}
+                        <a class="list-group-item" style="background-color:
+                        {% if item.color == "green" %}#00cc66
+                        {% elsif item.color == "orange" %}#f8c8a6
+                        {% endif %};"><font size="4px"><b>{{ item.time_slot }} {{ item.description }} <span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('assets/files/{{item.slides}}')">[Slides]</span></b><br/>Speaker: <span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('{{ item.link }}')">{{ item.author }}</span></font>
+                                                      <br/><br/><img src="assets/images/{{item.pic}}" width="125" align="left" style="margin-right:20px"><p>{{item.bio}}</p></a>
+                    {% elsif item.type == "main" %}
+                        <a class="list-group-item" style="background-color:
+                        {% if item.color == "green" %}#00cc66
+                        {% elsif item.color == "orange" %}#f8c8a6
+                        {% endif %};"><font size="4px"><b>{{ item.time_slot }} {{ item.description }}</b></font></a>
+                    {% elsif item.type == "panel" %}
+                      <a class="list-group-item" style="background-color:
+                      {% if item.color == "green" %}#00cc66
+                      {% elsif item.color == "orange" %}#f8c8a6
+                      {% endif %};"><font size="4px"><b>{{ item.time_slot }} {{ item.description }}</b></font><br/><br/>
+                      <img src="assets/images/{{item.pic1}}" height="125" hspace="30"><img src="assets/images/{{item.pic2}}" height="125" hspace="60"><img src="assets/images/{{item.pic3}}" height="125" hspace="40"> <img src="assets/images/{{item.pic4}}" height="125" hspace="50">
+                      <br/>
+                      <span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('{{ item.link1 }}')">{{ item.panel1 }}</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('{{ item.link2 }}')">{{ item.panel2 }}</span>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('{{ item.link3 }}')">{{ item.panel3 }}</span>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('{{ item.link4 }}')">{{ item.panel4 }}</span>
+                      </a>
+                    {% else %}
+                        <a class="list-group-item" style="background-color:#33ccff"><font size="4px"><b>{{ item.time_slot }} {{ item.title }}</b></font></a>
+                        {% if item.papers %}
+                        <a class="list-group-item" style="background-color:#ffffff"><font size="4px">
+                            <br>
+						{% for paper in item.papers %}
+                            <b>{{ paper.title }}</b> <span class="pseudolink" onclick="window.open('about:blank')"></span>
+                            <br/>
+                            {{ paper.authors }}
+                            <br>
+                            <br>
+                        {% endfor %}
+						{% endif %}
+                    </font></a>
+                    {% endif %}
+                {% endfor %}
+            </div> 
+        <div class="wsite-spacer" style="height:50px;"></div>
+        {% endfor %} -->
+	<!-- TBD
+      </div> -->
+</section>
+

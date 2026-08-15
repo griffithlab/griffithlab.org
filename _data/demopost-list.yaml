@@ -1,0 +1,92 @@
+- title: "Poster: Towards CSI enabled Closed-loop WiFi based SLAM"
+  image: poster-mirage-hotmobile-23.jpg
+  description: ""
+  authors: Roshan Ayyalasomayajula, Wei Sun, Aditya Arun, and Dinesh Bharadia
+  link:
+    url: https://hotmobile.org/2023/index.php?id=demo
+    display:  "[HotMobile'23]"
+  highlight: 1
+  tag1: wireless-sensing
+  tag2: 
+  news1: 
+  website: 
+    url: 
+    display:
+  paper: 
+    url: files/poster-mirage-hotmobile-23.pdf
+    display: "[Poster]"
+
+- title: "Poster: Towards CSI enabled Closed-loop WiFi based SLAM"
+  image: poster-p2slam-icra-22.jpg
+  description: ""
+  authors: Aditya Arun, William Hunter, Roshan Ayyalasomayajula,, and Dinesh Bharadia
+  link:
+    url: https://www.icra2022.org/program/program-overview
+    display:  "[ICRA'22]"
+  highlight: 1
+  tag1: wireless-sensing
+  tag2: 
+  news1: 
+  website: 
+    url: 
+    display:
+  paper: 
+    url: files/poster-p2slam-icra-22.pdf
+    display: "[Poster]"
+
+
+- title: "Demo: Real-Time Low-Latency Tracking for UWB tags"
+  image: demo-uloc-mobisys-22.jpg
+  description: ""
+  authors: Aditya Arun, Tyler Chang, Yizheng Yu, Roshan Ayyalasomayajula, Dinesh Bharadia
+  link:
+    url: https://www.sigmobile.org/mobisys/2022/accepted-demos.html
+    display:  "[MobiSys'22]"
+  highlight: 1
+  tag1: wireless-sensing
+  tag2: 
+  news1: 
+  website: 
+    url: 
+    display:
+  paper: 
+    url: files/demo-uloc-mobisys-22.pdf
+    display: "[Poster]"
+
+
+- title: "Demo: Towards CSI enabled Closed-loop WiFi based SLAM"
+  image: demo-wifislam-nsdi-20.jpg
+  description: ""
+  authors: Aditya Arun, Chenfeng Wu, Roshan Ayyalasomayajula, Ish Kumar Jain, and Dinesh Bharadia
+  link:
+    url: https://www.usenix.org/conference/nsdi20/poster-session
+    display:  "[NSDI'20]"
+  highlight: 1
+  tag1: wireless-sensing
+  tag2: 
+  news1: 
+  website: 
+    url: 
+    display:
+  paper: 
+    url: files/demo-wifislam-nsdi-20.pdf
+    display: "[Poster]"
+
+
+- title: "Poster: BluBLE, space-time social distance to monitor the spread of COVID-19"
+  image: poster-bluble-sensys-22.png
+  description: ""
+  authors: Aditya Arun, Agrim Gupta, Shivani Bhakta, Saikiran Komatineni, Dinesh Bharadia
+  link:
+    url: http://sensys.acm.org/2022/demos/
+    display:  "[SenSys'22]"
+  highlight: 1
+  tag1: wireless-sensing
+  tag2: 
+  news1: 
+  website: 
+    url: https://wcsng.ucsd.edu/bluble
+    display: "[Webpage]"
+  paper: 
+    url: aarun/assets/files/Bluble-paper.pdf
+    display: "[Poster Abstract]"

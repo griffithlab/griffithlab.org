@@ -1,0 +1,64 @@
+<header class="header header--dark" style="background: linear-gradient(180deg, #E31B23 0%, #D6001C 100%); width: 100%; position: fixed; top: 0; left: 0; z-index: 1050; padding: 6px 0; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.28); border-bottom: 2px solid #A30010;">
+  <div class="main" style="max-width: 1200px; margin: 0 auto; padding: 2px 10px;">
+    <div class="header__title" style="display: flex; justify-content: space-between; align-items: center;">
+      <div class="header__brand" style="flex-shrink: 0; display: flex; align-items: center;">
+        {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root -%}
+        {%- include snippets/get-nav-url.html path=_paths_root -%}
+        <a href="{{ __return }}" title="Home" style="display: inline-flex; align-items: center;">
+          <img src="{{ '/assets/images/wayslab_logo_ish.png' | relative_url }}" alt="{{ site.title }}" style="height: 72px; width: auto; display: block;">
+        </a>
+        <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}" style="color: white; margin-left: 10px; font-weight: 600; font-size: 22px; letter-spacing: 0.4px;">WAYS Lab @ RPI</a>
+      </div>
+      <button class="nav-bar-toggle button" onclick="document.getElementsByClassName('navigation')[0].classList.toggle('collapsed')" style="margin-left: 5px;">
+          <span class="icon">{%- include svg/icon/menu.svg -%}</span>
+      </button>
+      
+    </div>
+    {%- if site.data.navigation.header -%}
+    <nav class="navigation collapsed" style="margin-top: 2px;">
+      <ul style="display: flex; justify-content: flex-start; flex-wrap: nowrap; margin: 0; padding: 0; list-style: none; font-size: 16px;">
+        {%- for _item in site.data.navigation.header -%}
+        {%- include snippets/get-nav-url.html path=_item.url -%}
+        {%- assign _nav_url = __return -%}
+        {%- include snippets/get-nav-url.html path=page.url -%}
+        {%- assign _page_url = __return -%}
+        {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
+        {%- if _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
+        {%- if _item.subfolderitems -%}
+        <li class="navigation__item navigation__folder" style="margin: 0 6px;">
+          <a onclick="this.parentElement.classList.toggle('hovered')" style="color: white;">
+            {%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}
+            <span class="navigation__caret">&#9662;</span>
+          </a>
+          <ul class="navigation__dropdown">
+            {%- for entry in _item.subfolderitems -%}
+            <li><a href="{{ entry.url }}">{{ entry.name }}</a></li>
+            {%- endfor -%}
+          </ul>
+        </li>
+        {%- else -%}
+        <li class="navigation__item navigation__item--active" style="margin: 0 6px;"><a href="{{ _nav_url }}" style="color: white;">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
+        {%- endif -%}
+        {%- else -%}
+        {%- if _item.subfolderitems -%}
+        <li class="navigation__item navigation__folder" style="margin: 0 6px;">
+          <a onclick="this.parentElement.classList.toggle('hovered')" style="color: white;">
+            {%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}
+            <span class="navigation__caret">&#9662;</span>
+          </a>
+          <ul class="navigation__dropdown">
+            {%- for entry in _item.subfolderitems -%}
+            <li><a href="{{ entry.url }}">{{ entry.name }}</a></li>
+            {%- endfor -%}
+          </ul>
+        </li>
+        {%- else -%}
+        <li class="navigation__item" style="margin: 0 6px;"><a href="{{ _nav_url }}" style="color: white;">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
+        {%- endif -%}
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </nav>
+    {%- endif -%}
+  </div>
+</header>

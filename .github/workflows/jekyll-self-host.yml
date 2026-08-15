@@ -1,0 +1,54 @@
+name: Build and Deploy Jekyll Site
+
+# Requires an online self-hosted runner for this repo/org. If no runner is available,
+# jobs stay "Queued" until one connects — that is not a branch or YAML error.
+on:
+  push:
+    branches: ["master", "main"]
+  workflow_dispatch:
+
+jobs:
+  # Build job 
+  build:
+    runs-on: self-hosted
+    steps:
+
+      # - name: Finding secret
+      #   run: echo "${{ secrets.RSYNC_WCSNG }}" > /home/wcsng-18/secret.txt
+
+      - name: Print Environment Variables (Before Proxy Test)
+        run: env | sort
+
+      # **PROXY TESTING** 
+      - name: Set https_proxy (Test)
+        run: echo "https_proxy=http://webproxy.ucsd.edu:3128" >> $GITHUB_ENV
+
+      - name: Print Environment Variables (After Proxy Test)
+        run: env | sort
+        
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t my-jekyll-app .
+
+      - name: Run Jekyll build
+        run: docker run --rm -v "${GITHUB_WORKSPACE}:/ucsdwcsng.github.io" my-jekyll-app sh -c "JEKYLL_ENV=production bundle exec jekyll build"
+
+      - name: Verify static subsites in _site
+        run: |
+          set -e
+          for path in s3 s3-workshop open-ai-ran-2024 open-ai-ran-2026; do
+            if [ -d "$path" ]; then
+              test -d "_site/${path}" || { echo "Missing _site/${path} — Jekyll did not copy source folder."; exit 1; }
+              test -f "_site/${path}/index.html" || { echo "Missing _site/${path}/index.html"; exit 1; }
+              echo "OK: _site/${path}/"
+            fi
+          done
+
+      - name: Deploy to self hosted website
+        run: |
+          docker run --rm -v "${GITHUB_WORKSPACE}:/ucsdwcsng.github.io" my-jekyll-app sh -c "${{ secrets.RSYNC_WCSNG }}"
+
+
+

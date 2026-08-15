@@ -1,45 +1,143 @@
-- title: Home
-  url: "/"
-  side: left
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       Research
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+      fr      : &FR       À propos
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR       Hakkında
+      # @end locale config
+    subfolderitems:
+      - name: "Wireless Sensing"
+        url: /wireless-sensing.html
+      - name: "Towards 6G"
+        url: /communication.html
+      - name: "Ubiquitous IoT"
+        url: /ubiquitousIoT.html
+      - name: "Spectrum Sensing"
+        url: /spectrum_sensing.html
+      - name: "Autonomous Vehicles"
+        url: /vehicular.html
+      - name: "Security and Privacy"
+        url: /privacy.html
 
-- title: "Research"
-  url: "/research/"
-  side: left
+  - titles:
+      # @start locale config
+      en      : &EN       Team
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+      fr      : &FR       À propos
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR       Hakkında
+      # @end locale config
+    url: /team/
 
-- title: Software
-  url: "/software/"
-  side: left
+  - titles:
+      # @start locale config
+      en      : &EN       Publications
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+      fr      : &FR       Archives
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR       Arşivdekiler
+      # @end locale config
+    url: /publications/
 
-- title: Publications
-  url: "/publications/"
-  side: left
+  - titles:
+      # @start locale config
+      en      : &EN       Open Source
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+      fr      : &FR       À propos
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR       Hakkında
+      # @end locale config
+    url: /code/
 
-- title: Team
-  url: "/team/"
-  side: left
-
-- title: Join
-  url: "/join/"
-  side: left
-  dropdown:
-    - title: "Positions"
-      url: "/join/positions/"
-
-- title: Teaching
-  url: "/teaching/"
-  side: left
-
-- title: Funding
-  url: "/funding/"
-  side: left
-
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
-
-- title: Contact
-  url: "/contact/"
-  side: right
+  - titles:
+      en : &EN Hosted Events
+    subfolderitems:
+      - name: Mobicom'26 Open-AI RAN
+        url: https://wcsng.ucsd.edu/open-ai-ran-2026/
+      - name: Mobicom'25 Open-AI RAN
+        url: https://wcsng.ucsd.edu/open-ai-ran-2025/
+      - name: Mobicom'24 Open-AI RAN
+        url: https://wcsng.ucsd.edu/open-ai-ran-2024/
+      - name: Mobicom'23 mmNets
+        url: https://wcsng.ucsd.edu/mmNets2023/
+      - name: Mobicom'23 S<sup>3</sup>
+        url: https://wcsng.ucsd.edu/s3/
+      - name: CVPR'22 WAIP
+        url: https://wcsng.ucsd.edu/waip/
+      - name: BluBLE
+        url: https://wcsng.ucsd.edu/bluble/
+  - titles:
+      en : &EN Life@WCSNG
+    subfolderitems:
+      - name: Docs
+        url: https://wcsng.ucsd.edu/docs/
+      - name: Pics!
+        url: /pictures
+      - name: Join Us!
+        url: https://wcsng.ucsd.edu/vacancies.html

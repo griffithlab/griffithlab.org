@@ -1,0 +1,747 @@
+---
+layout: base
+aside:
+toc: true
+sidebar:
+nav: layouts
+---
+<!-- <i> {{ page.authors }} </i>
+
+{% if page.extra %}
+  <div class="row"><h4>{{ page.extra }}</h4></div>
+{% endif %}
+
+<div class="row">
+    <a href="{{ page.paper }}">[Paper]</a>
+    {% if page.poster %} <a href="{{ page.poster }}">[Poster]</a> {% endif %}
+    {% if page.github %} <a href="{{ page.github }}">[Code]</a> {% endif %}
+    {% if page.slides %} <a href="{{ page.slides }}">[Slides]</a> {% endif %}
+    {% if page.dataset %} <a href="{{ page.dataset }}">[Dataset]</a> {% endif %}
+    {% if page.other %} <a href="{{ page.other.url }}">{{ page.other.display }}</a> {% endif %}
+ </div>
+
+<h2>Abstract</h2>
+{{ content }}
+
+{% if page.video %}
+  <h2>Video</h2>
+  <iframe width="560" height="315" src="{{ page.video }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {% if page.video2 %}
+    <iframe width="560" height="315" src="{{ page.video2 }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {% endif %}
+{% endif %}
+
+{% if page.press %}
+  <h2>Press Coverage</h2>
+  <div class="row">
+    {{ page.press.date }}: <a href="{{ page.press.url }}">{{ page.press.headline }}</a>
+    {% if page.press2 %} <div class="row">{{ page.press2.date }}: <a href="{{ page.press2.url }}">{{ page.press2.headline }}</a></div> {% endif %}
+    {% if page.press3 %} <div class="row">{{ page.press3.date }}: <a href="{{ page.press3.url }}">{{ page.press3.headline }}</a></div> {% endif %}
+    {% if page.press4 %} <div class="row">{{ page.press4.date }}: <a href="{{ page.press4.url }}">{{ page.press4.headline }}</a></div> {% endif %}
+  </div>
+{% endif %}
+ -->
+
+<!DOCTYPE html>
+<html>
+{%- assign _page_mode = page.mode | default: layout.mode | default: site.data.variables.default.page.mode -%}
+{%- assign _page_type = page.type | default: layout.type | default: site.data.variables.default.page.type -%}
+{%- assign _article_header_type = page.article_header.type | default: layout.article_header.type -%}
+
+{%- include snippets/assign.html
+target=layout.header source0=page.header -%}
+{%- assign _header = __return -%}
+
+{%- include snippets/assign.html
+target=layout.footer source0=page.footer -%}
+{%- assign _footer = __return -%}
+
+{%- include snippets/assign.html
+target=layout.lightbox source0=page.lightbox -%}
+{%- assign _lightbox = __return -%}
+
+{%- include snippets/assign.html
+target = site.data.variables.default.page.full_width
+source0=layout.full_width source1=page.full_width -%}
+{%- assign _full_width = __return -%}
+
+{%- include snippets/assign.html
+target = site.data.variables.default.page.comment
+source0=layout.comment source1=page.comment -%}
+{%- assign _comment = __return -%}
+
+
+
+
+<head>
+  <title>{{page.title}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:image" content="Path to my teaser.png" />
+  <!-- Facebook automatically scrapes this. Go to https://developers.facebook.com/tools/debug/ if you update and want to force Facebook to rescrape. -->
+  <meta property="og:title" content="Creative and Descriptive Paper Title." />
+  <meta property="og:description" content="Paper description." />
+
+  <!-- DO YOU SHARE A DATASET? IF YES INSERT THE CODE FROM https://developers.google.com/search/docs/data-types/dataset -->
+  <!-- DATASET CODE START -->
+
+  <!-- DATASET CODE END -->
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="./resources/style.css" rel="stylesheet">
+
+  <!-- Get from Google Analytics -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- HERE YOU CAN ADD YOUR OWN GOOGLE ANALYTICS SCRIPT
+  <script async src=""></script> 
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '');
+  </script>
+  -->
+</head>
+
+<body>
+  {%- if page.sidebar -%}
+  <div class="layout--page layout--page--sidebar clearfix js-page-root">
+    <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+    <div class="page__viewport">
+      <div class="page__actions d-print-none">
+        <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+          <i class="fas fa-bars icon--show"></i>
+        </div>
+      </div>
+
+      <div class="grid page__grid">
+
+        <div class="page__sidebar d-print-none">
+          {%- include sidebar/toc.html -%}
+        </div>
+
+        {%- else -%}
+        <div class="layout--page js-page-root">
+          {%- endif -%}
+
+
+          {%- assign _page_main_class = 'page__main js-page-main' -%}
+          {%- if _page_mode == 'immersive' -%}
+          {%- assign _page_main_class = _page_main_class | append: ' page__main--immersive' -%}
+          {%- endif -%}
+          {%- unless page.sidebar -%}
+          {%- assign _page_main_class = _page_main_class | append: ' page__viewport' -%}
+          {%- endunless -%}
+          {%- if _footer == false -%}
+          {%- assign _page_main_class = _page_main_class | append: ' hide-footer' -%}
+          {%- endif -%}
+          {%- if page.aside -%}
+          {%- assign _page_main_class = _page_main_class | append: ' has-aside' -%}
+          {%- elsif _full_width -%}
+          {%- assign _page_main_class = _page_main_class | append: ' full-width' -%}
+          {%- endif -%}
+
+          {%- if _header != false -%}
+          <div class="page__header d-print-none">
+            {%- assign _header_theme = page.header.theme | default: layout.header.theme -%}
+            {%- if _header_theme == 'dark'-%}
+            {%- include header.html theme='dark' background=page.header.background -%}
+            {%- elsif _header_theme == 'light' -%}
+            {%- include header.html theme='light' background=page.header.background -%}
+            {%- else -%}
+            {%- include header.html -%}
+            {%- endif -%}
+          </div>
+          {%- endif -%}
+
+          <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+          <html>
+
+          <!-- ======================================================================= -->
+          <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+          <script type="text/javascript">google.load("jquery", "1.3.2");</script>
+          <style type="text/css">
+            body {
+              font-family: "Titillium Web", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+              font-weight: 300;
+              font-size: 18px;
+              margin-left: auto;
+              margin-right: auto;
+              width: 100%;
+              text-align: justify;
+              text-justify: inter-word;
+            }
+
+            h1 {
+              font-weight: 300;
+              max-width: 100%;
+            }
+
+            div {
+              max-width: 95%;
+              margin: auto;
+              padding: 10px;
+            }
+
+            .table-like {
+              display: flex;
+              flex-wrap: wrap;
+              flex-flow: row wrap;
+              justify-content: center;
+            }
+
+            .disclaimerbox {
+              background-color: #eee;
+              border: 1px solid #eeeeee;
+              border-radius: 10px;
+              -moz-border-radius: 10px;
+              -webkit-border-radius: 10px;
+              padding: 20px;
+            }
+
+            video.header-vid {
+              height: 140px;
+              border: 1px solid black;
+              border-radius: 10px;
+              -moz-border-radius: 10px;
+              -webkit-border-radius: 10px;
+            }
+
+            img {
+              padding: 0;
+              display: block;
+              margin: 0 auto;
+              max-height: 100%;
+              max-width: 100%;
+            }
+
+            table {
+              padding: 0;
+              display: block;
+              margin: 0 auto;
+              max-height: 100%;
+              max-width: 100%;
+            }
+
+            iframe {
+              max-width: 100%;
+            }
+
+            img.header-img {
+              height: 140px;
+              border: 1px solid black;
+              border-radius: 10px;
+              -moz-border-radius: 10px;
+              -webkit-border-radius: 10px;
+            }
+
+            img.rounded {
+              border: 1px solid #eeeeee;
+              border-radius: 10px;
+              -moz-border-radius: 10px;
+              -webkit-border-radius: 10px;
+            }
+
+            a:link,
+            a:visited {
+              color: #1367a7;
+              text-decoration: none;
+            }
+
+            a:hover {
+              color: #208799;
+            }
+
+            td.dl-link {
+              height: 160px;
+              text-align: center;
+              font-size: 22px;
+            }
+
+            .layered-paper-big {
+              /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+              box-shadow:
+                0px 0px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The top layer shadow */
+                5px 5px 0 0px #fff,
+                /* The second layer */
+                5px 5px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The second layer shadow */
+                10px 10px 0 0px #fff,
+                /* The third layer */
+                10px 10px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The third layer shadow */
+                15px 15px 0 0px #fff,
+                /* The fourth layer */
+                15px 15px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The fourth layer shadow */
+                20px 20px 0 0px #fff,
+                /* The fifth layer */
+                20px 20px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The fifth layer shadow */
+                25px 25px 0 0px #fff,
+                /* The fifth layer */
+                25px 25px 1px 1px rgba(0, 0, 0, 0.35);
+              /* The fifth layer shadow */
+              margin-left: 10px;
+              margin-right: 45px;
+            }
+
+
+            .layered-paper {
+              /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+              box-shadow:
+                0px 0px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The top layer shadow */
+                5px 5px 0 0px #fff,
+                /* The second layer */
+                5px 5px 1px 1px rgba(0, 0, 0, 0.35),
+                /* The second layer shadow */
+                10px 10px 0 0px #fff,
+                /* The third layer */
+                10px 10px 1px 1px rgba(0, 0, 0, 0.35);
+              /* The third layer shadow */
+              margin-top: 5px;
+              margin-left: 10px;
+              margin-right: 30px;
+              margin-bottom: 5px;
+            }
+
+            .vert-cent {
+              position: relative;
+              top: 50%;
+              transform: translateY(-50%);
+            }
+
+            hr {
+              border: 0;
+              height: 1px;
+              max-width: 1100px;
+              background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+            }
+
+            #authors td {
+              padding-bottom: 5px;
+              padding-top: 30px;
+            }
+          </style>
+          <!-- ======================================================================= -->
+
+          <!-- Start : Google Analytics Code -->
+          <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64069893-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-64069893-4');
+</script> -->
+          <!-- End : Google Analytics Code -->
+
+          <script type="text/javascript" src="resources/hidebib.js"></script>
+          <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic'
+            rel='stylesheet' type='text/css'>
+
+          <head>
+            <script xml:space="preserve" language="JavaScript">
+              hideallbibs();
+            </script>
+            <div max-width=100%>
+              <meta charset="utf-8" />
+              <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+              <link rel="icon" type="image/png" href="resources/seal_icon.png" />
+              <title>Planning to Explore via Self-Supervised World Models</title>
+              <meta name="HandheldFriendly" content="True" />
+              <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+              <link rel="canonical" href="https://ramanans1.github.io/plan2explore/" />
+              <meta name="referrer" content="no-referrer-when-downgrade" />
+
+              <meta property="og:site_name" content="Planning to Explore" />
+              <meta property="og:type" content="video.other" />
+              <meta property="og:title" content="Planning to Explore via Self-Supervised World Models" />
+              <meta property="og:description"
+                content="Sekar, Rybkin, Daniilidis, Abbeel, Hafner, Pathak. Planning to Explore via Self-Supervised World Models. ICML 2020." />
+              <meta property="og:url" content="https://ramanans1.github.io/plan2explore/" />
+              <meta property="og:image" content="https://ramanans1.github.io/plan2explore/resources/setting.png" />
+              <meta property="og:video" content="https://www.youtube.com/v/GftqnPWsCWw" />
+
+              <meta property="article:publisher" content="https://github.com/ramanans1" />
+              <meta name="twitter:card" content="summary_large_image" />
+              <meta name="twitter:title" content="Planning to Explore via Self-Supervised World Models" />
+              <meta name="twitter:description"
+                content="Sekar, Rybkin, Daniilidis, Abbeel, Hafner, Pathak. Planning to Explore via Self-Supervised World Models. ICML 2020." />
+              <meta name="twitter:url" content="https://ramanans1.github.io/plan2explore/" />
+              <meta name="twitter:image" content="https://ramanans1.github.io/plan2explore/resources/setting.png" />
+              <!-- <meta name="twitter:label1" content="Written by" />
+  <meta name="twitter:data1" content="Deepak Pathak" /> -->
+              <!-- <meta name="twitter:label2" content="Filed under" />
+  <meta name="twitter:data2" content="" /> -->
+              <meta name="twitter:site" content="@pathak2206" />
+              <meta property="og:image:width" content="1600" />
+              <meta property="og:image:height" content="900" />
+
+              <script src="https://www.youtube.com/iframe_api"></script>
+              <meta name="twitter:card" content="player" />
+              <meta name="twitter:image" content="https://ramanans1.github.io/plan2explore/resources/setting.png" />
+              <meta name="twitter:player" content="https://www.youtube.com/embed/GftqnPWsCWw?rel=0&showinfo=0" />
+              <meta name="twitter:player:width" content="640" />
+              <meta name="twitter:player:height" content="360" />
+          </head>
+
+          <body>
+            <br>
+            <center><span style="font-size:44px;font-weight:bold;">{{page.title}}</span></center><br />
+            <div class="table-like" style="justify-content:space-evenly;max-width:1400px;margin:auto;">
+              {% for author in page.author_list %}
+              <!-- <li>{{ author.name }} - {{ author.email }}</li> -->
+              {% if author.url == blank %}
+              <div>
+                <center><span style="font-size:18px; color:#1367a7; font-weight: bold">{{author.name}}</span></center>
+                {% else %}
+                <div>
+                  <center><span style="font-size:18px"><a href={{author.url}} target="_blank">{{author.name}}</a></span>
+                  </center>
+                  {% endif %}
+
+                  <center><span style="font-size:18px">{{author.email}}</span></center>
+                </div>
+                {% endfor %}
+              </div>
+              {% if page.eqcon %}
+              <table align=center width=600px style="padding-top:0px;padding-bottom:0px">
+                <tr>
+                  <td align=center width=600px>
+                    <center><span style="font-size:15px">* equal contribution</span></center>
+                  </td>
+                  <tr />
+              </table>
+              {% endif %}
+
+              {% if page.conference_site == blank %}
+              <center><span style="font-size:20px;  color:#1367a7; font-weight: bold">{{page.conference}}</span>
+              </center>
+              {% else %}
+              <center><span style="font-size:20px;  color:#1367a7; font-weight: bold"><a
+                    href='{{page.conference_site}}'>{{page.conference}}</a></span></center>
+              {% endif %}
+
+              <div class="table-like" style="justify-content:space-evenly;max-width:1000px;margin:auto;padding:5px">
+                {% if page.paper != blank %}
+                <div>
+                  <center><span style="font-size:28px"><a href="{{page.paper}}" target="_blank">[Paper]</a></span>
+                  </center>
+                </div>
+                {% endif %}
+                {% if page.slides!= blank %}
+                <div>
+                  <center><span style="font-size:28px"><a href='{{page.slides}}' target="_blank">[Slides]</a></span>
+                  </center>
+                </div>
+                {% endif %}
+                {% if page.github!= blank %}
+                <div>
+                  <center><span style="font-size:28px"><a href='{{page.github}}' target="_blank">[GitHub]</a></span></center>
+                </div>
+                {% endif %}
+                {% if page.video!= blank %}
+                {% if page.video_str!= blank %}
+                <div>
+                  <center><span style="font-size:28px"><a href='{{page.video}}'
+                        target="_blank">[{{page.video_str}}]</a></span></center>
+                </div>
+                {% else %}
+                <div>
+                  <center><span style="font-size:28px"><a href='{{page.video}}' target="_blank">[Video]</a></span>
+                  </center>
+                </div>
+                {% endif %}
+                {% endif %}
+                {% for misc in page.miscs %}
+                <div>
+                  <center><span style="font-size:28px"><a href='{{misc.content_url}}'
+                        target="_blank">[{{misc.content_type}}]</a></span></center>
+                </div>
+                {% endfor %}
+              </div>
+
+
+              <!-- Conditional Banner Below Conference Information -->
+              {% if page.banner %}
+              <div style="margin-top: 10px; margin-bottom: 30px; padding: 10px 20px; background-color: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 5px; text-align: center; font-weight: bold; color: #007BFF;">
+                {{ page.banner }}
+              </div>
+              {% endif %}
+
+              {% if page.video_matrix != blank %}
+                <!-- HTML code for video matrix here -->
+                <!-- Overview -->
+                <center>
+                  <span style="font-size:23px; font-weight: bold">Overview</span>
+                </center>
+                <div style="width:1000px; margin:0 auto; text-align: justified;">{{page.video_matrix.overview.text}}</div>
+                 <br>
+                <center>
+                  <hr>
+                </center>
+                <!-- Title for video matrix -->
+                <center>
+                  <span style="font-size:23px; font-weight: bold; text-align: center">{{ page.video_matrix.title }}</span>
+                </center>
+                <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 5px; margin-bottom: 40px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 20px; border-radius: 8px;">
+                  <!-- Video Rows -->
+                  {% for case in page.video_matrix.examples %}
+                    <!-- Header Row for text -->
+                    <div style="flex: 1 1 100%; text-align: center; font-weight: bold; font-size: 18px; padding: 2px;"> {{ case.case }} </div>
+                    <!-- Text description -->
+                    <div style="flex: 1 1 100%; text-align: justified; font-size: 20px; padding: 2px;">
+                      {{ case.text }}
+                    </div>
+                    <!-- Hard-coded to 3 input types -->
+                      {% for column_index in (0..2) %}
+                        <div style="flex: 1 1 calc(33.333% - 20px); padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
+                          <!-- Short caption -->
+                          <p style="text-align: center; margin-top: 10px; font-size: 16px; font-weight: bold;">Input: {{ case.videos[column_index].description }}</p>
+                          <!-- Inserting video here -->
+                          <img 
+                            src="{{ case.videos[column_index].link }}" 
+                            style="width: 100%; height: auto; border-radius: 8px;" 
+                            alt="{{ case.videos[column_index].description }}">
+                        </div>                
+                    {% endfor %}
+                  {% endfor %}
+                </div>
+                <center>
+                  <hr>
+                </center>
+                <!-- End of code for video matrix here -->
+              {% endif %}
+
+              {% if page.video!= blank %}
+              <center>
+                <iframe width="768" height="432" max-width="100%" src="{{page.video}}" frameborder="1"
+                  allowfullscreen></iframe>
+              </center>
+              <br>
+              <center>
+                <hr>
+              </center>
+              {% elsif page.cover!= blank %}
+                {% if page.disp_cover != blank %}
+                  {% if page.disp_cover == "False" %}
+                    <!-- Don't add the image to website -->
+                  {% endif %}
+                {% else %}
+                  <center>
+                    <img width="768" height="432" max-width="100%" src="{{page.cover}}" frameborder="0"
+                    allowfullscreen></iframe>
+                    {% if page.cover_caption %}
+                    <p class="cover-caption">{{ page.cover_caption }}</p>
+                    {% endif %}
+                  </center>
+                  <br>
+                  <center>
+                    <hr>
+                  </center>
+                {% endif %}
+              {% endif %}
+
+              {% for desc in page.description %}
+
+              {% if desc.title!= blank %}
+              <center>
+                <span style="font-size:23px; font-weight: bold">{{desc.title}}</span>
+              </center>
+              {% endif %}
+              {% if desc.text!= blank %}
+              <div style="width:1000px; margin:0 auto; text-align=justified;">
+                {{desc.text}}
+              </div>
+              {% endif %}
+              {% if desc.image!= blank %}
+              {% if desc.image_width!= blank %}
+              <center><a href="{{desc.image}}"><img src="{{desc.image}}" width="{{desc.image_width}}px"></img></a><br>
+              </center>
+              {% else %}
+              <center><a href="{{desc.image}}"><img src="{{desc.image}}" width="600px"></img></a><br></center>
+              {% endif %}
+              {% endif %}
+              <br>
+              <center>
+                <hr>
+              </center>
+              {% endfor %}
+
+              <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+                {% for video in page.driving_video %}
+                  <div style="flex: 1 1 calc(50% - 20px); background-color: #f9f9f9; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+                    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+                      <iframe 
+                        src="{{ video.video_link }}" 
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;" 
+                        allowfullscreen>
+                      </iframe>
+                    </div>
+                    <p style="font-size: 14px; color: #555; text-align: center; margin-top: 10px;">
+                      {{ video.desc }}
+                    </p>
+                  </div>
+                {% endfor %}
+              </div>              
+
+              <!-- <center><h1>Planning to Explore</h1></center>
+      <div style="width:800px; margin:0 auto; text-align=right">
+        The agent first leverages planning to explore in self-supervised manner, without task-specific rewards, to learn a global world model. After the exploration phase, it receives reward functions to adapt to multiple tasks, such as standing, walking, running, and using either zero or few tasks-specific interactions.
+      </div>
+      <center><a href="resources/setting.png"><img src = "resources/setting.png" width="600px" ></img></a><br></center>
+      <hr>
+
+
+      <center><h1>Overview of the Algorithm</h1></center><br/>
+      <center><a href="resources/method.png"><img src = "resources/method.png" width="800px"></img></a><br></center>
+      <br/><hr>
+
+ -->
+              <!-- <center id="sourceCode"><h1>Source Code</h1></center>
+            <div style="width:650px; margin:0 auto; text-align=right">
+            We have released our implementation in Tensorflow on the github page. Try our code!
+            </div>
+            <table align=center width=600px>
+              <tr>
+                 <p style="margin-top:4px;"></p> 
+                <td width=600px align=center>
+                  <center><span style="font-size:28px"><a href='https://github.com/ramanans1/plan2explore'>[GitHub]</a></span></center>
+                </td>
+              </tr>
+            </table>
+            <br><hr> -->
+              {% if page.medias!= blank %}
+              <center>
+                <span style="font-size:23px; font-weight: bold">In The Media</span>
+              </center>
+              <div class="table-like" style="justify-content:space-evenly;max-width:900px;margin:auto;padding:5px">
+                {% for media in page.medias %}
+                <div>
+                  <center><span style="font-size:24px"><a href="{{media.url}}">{{media.type}}</a></span></center>
+                </div>
+                {% endfor %}
+              </div>
+              <br>
+              <center>
+                <hr>
+              </center>
+              {% endif %}
+
+              {% if page.citation!= blank %}
+              {% for cit in page.citation %}
+              <center>
+                <span style="font-size:23px; font-weight: bold">Citation and Bibtex</span>
+              </center>
+              <table align=center width=850px>
+                <tr>
+                  {% if cit.thumbnail!= blank %}
+                  <td width="30%" align=left>
+                    <!-- <a href="{{cit.biburl}}"> -->
+                    <img style="height:200px" src="{{cit.thumbnail}}" />
+                    <!-- </a> -->
+                    <!-- <p style="margin-top:4px;"></p> -->
+
+                    <center>
+                      {% for citlink in cit.links %}
+                      <span style="font-size:20pt"><a href="{{citlink.url}}">[{{citlink.type}}]</a>
+                        {% endfor %}
+                    </center>
+                  </td>
+                  <td width="6%" align=center>
+                  </td>
+                  <td width="62%" align=left>
+                    <!-- <p style="margin-top:4px;"></p> -->
+                    <p style="text-align:justify;"><span style="font-size:6px;">&nbsp;<br /></span> <span
+                        style="font-size:15pt">{{cit.text}}</span></p>
+                    <!-- <p style="margin-top:20px;"></p> -->
+
+                    <span style="font-size:20pt"><a shape="rect" onclick="togglebib()">[Bibtex]</a></span>
+                  </td>
+                </tr>
+                {% else %}
+                <td width="80%" align=center>
+                  <!-- <p style="margin-top:4px;"></p> -->
+                  <p style="text-align:justify;"><span style="font-size:6px;">&nbsp;<br /></span> <span
+                      style="font-size:15pt">{{cit.text}}</span></p>
+                  <!-- <p style="margin-top:20px;"></p> -->
+                  <span style="font-size:20pt"><a shape="rect" onclick="togglebib()">[Bibtex]</a></span>
+                </td>
+                </tr>
+                {% endif %}
+              </table>
+              <!-- <table align=center width=850px> -->
+              {% if cit.bibtex!= blank %}
+              <tr>
+                <td width="30%" align=left>
+                </td>
+                <td width="6%" align=center>
+                </td>
+                <!-- <center> -->
+                <td width="62%" align=left>
+                  <div class="paper" id="bibDIV" style="display: none">
+                    <pre class="htmlcode">
+                  {{cit.bibtex}}
+                </pre>
+                    </pre>
+                  </div>
+                </td>
+              </tr>
+              <!-- </table> -->
+              <!-- </center> -->
+
+              {% endif %}
+
+              <br>
+              <center>
+                <hr>
+              </center>
+              </table>
+              {% endfor %}
+              {% endif %}
+
+
+              <script>
+                // from: http://www.robots.ox.ac.uk/~vedaldi/assets/hidebib.js
+
+                function togglebib() {
+                  var paper = document.getElementById("bibDIV");
+
+                  if (paper.style.display == 'none') {
+                    paper.style.display = 'block';
+                  } else {
+                    paper.style.display = 'none';
+                  }
+
+                }
+              </script>
+            </div>
+          </body>
+
+          </html>
+
+          <!-- <footer class="footer"> -->
+
+          <!-- <div class="content has-text-centered"> -->
+          <center>
+            <!-- <p> -->
+            Website Template Originally made by <a href="http://web.mit.edu/phillipi/">Phillip Isola</a> and <a
+              href="http://richzhang.github.io/">Richard Zhang</a> for <a
+              href="http://richzhang.github.io/colorization/">colorful</a> ECCV project; the code can be found <a
+              href="https://github.com/richzhang/webpage-template">here</a>.
+            <!-- </p> -->
+          </center>
+          <!-- </div> -->
+
+          <!-- </footer> -->
+
+          {%- if _footer != false -%}
+          <div class="page__footer d-print-none">{%- include footer.html -%}</div>
+          {%- endif -%}
+</body>
+
+</html>
