@@ -1,0 +1,122 @@
+date: 
+order: 0
+
+details:
+    - type: main
+      time_slot: 8:00 - 9:00
+      description: Registration
+      color: green
+
+    - type: main
+      time_slot: 9:00 - 9:05
+      description: Opening Note
+      color: white
+      
+    - type: keynote
+      time_slot: 9:05 - 10:00
+      description: "Keynote 1: Toward Hybridized Cyber Physical Systems (H-CPS)"
+      author: Falko Dressler (TU Berlin)
+      link: https://www.tkn.tu-berlin.de/team/dressler/
+      bio: "Falko Dressler is full professor and Chair for Telecommunication Networks at the School of Electrical Engineering and Computer Science, TU Berlin. He received his M.Sc. and Ph.D. degrees from the Dept. of Computer Science, University of Erlangen in 1998 and 2003, respectively. He is an IEEE Fellow as well as an ACM Distinguished Member. His research objectives include adaptive wireless networking (sub-6GHz, mmWave, visible light, molecular communication) and wireless-based sensing with applications in ad hoc and sensor networks, the Internet of Things, and Cyber-Physical Systems."
+      pic: falko.jpg
+      color: orange
+      slides: "keynote_dressler.pdf"
+
+    - type: main
+      time_slot: 10:00 - 10:30
+      description: Break
+      color: green
+    
+    - type: panel
+      time_slot: 10:30 - 11:30
+      description: "Panel 1: Future of conferences: In-person? Virtual? Hybrid?"
+      color: orange
+      panel1: Prof. Falko Dressler
+      link1: https://www.tkn.tu-berlin.de/team/dressler/
+      panel2: Dr. Kanchana Thilakarathna
+      link2: https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kanchana-thilakarathna.html
+      panel3:  Prof. Wen Hu
+      link3: https://github.com/wenh77/Website/wiki/
+      panel4:  A.Prof. Dinesh Bharadia
+      link4: https://dineshb-ucsd.github.io/
+      pic1: falko.jpg
+      pic2: kanchana.png
+      pic3: wen.jpg 
+      pic4: dinesh.jpg
+    - type: session
+      time_slot: 11:30 - 12:00
+      title: 3 Minute Thesis Competition
+      #papers:
+      #    - title: Replay-resilient Authentication for IoT
+      #      authors: Ge Wang (Xi'an Jiaotong University); Chen Qian (University of California, Santa Cruz); Haofan Cai (University of California, Santa Cruz); Jinsong Han (Zhejiang University); Jizhong Zhao (Xi'an Jiaotong University)
+      #      link: 278_283_mcbride.pdf
+
+      #    - title: "Frame Aggregation in 802.11ac: Need for Modified Block ACK"
+      #      authors: Muhammad Inamullah (IIT Bombay); Bhaskaran Raman (IIT Bombay)
+      #      link: 258_263_cetinkaya.pdf
+
+       #   - title: Context Aware Data Collection Framework for Critical Infrastructure Monitoring System
+       #     authors: Anirban Das (Indian Institute of Information Technology, Guwahati); Suchetana Chakraborty (Indian Institute of Information Technology, Guwahati)
+       #     link: 264_269_peyrard.pdf
+
+
+    
+    - type: main
+      time_slot: 12:00 - 1:30
+      description: Lunch
+      color: green
+      
+    
+    - type: keynote
+      time_slot: 1:30 - 2:30
+      description: "Keynote 2: AI-driven Networks across Earth and Space"
+      author: Deepak Vasisht (University of Illinois Urbana-Champaign)
+      link: https://deepakv.web.illinois.edu
+      pic: deepak.png
+      bio: "Deepak Vasisht is an Assistant Professor in Computer Science at UIUC. He works on wireless networks and Internet-of-Things. His current research focuses on next generation networking systems such as satellite networks, 5G, and in-body networks. He recently graduated with a Ph.D. from MIT, advised by Prof. Dina Katabi. He was also the inaugural Industry Research Fellow at Microsoft, where he worked on FarmBeats among other things."
+      color: orange
+      slides: "keynote_vasisht.pdf"
+
+    - type: session
+      time_slot: 2:30 - 3:00
+      title: Paper Session
+      papers:
+          - title: "BloomXNOR-Net: Privacy-Preserving Machine Learning in IoT"
+            authors: Zakia Zaman (UNSW); Wanli Xue (UNSW); Praveen Gauravaram (TCS Australia); Wen Hu (UNSW); Sanjay Jha (UNSW)
+            link: 270_275_yan.pdf
+
+          - title: "ViWatch: Harness Vibrations for Finger Interactions with Commodity Smartwatches"
+            authors: Wenqiang Chen (University of Virginia); John Stankovic (University of Virginia)
+            link: 290_295_sciancalepore.pdf
+
+          - title: "Demo: NextG-UP: A Longitudinal and Cross-Sectional Study of Uplink Performance of 5G Networks"
+            authors: Moinak Ghoshal (Northeastern University); Imran Khan (Northeastern University); Qiang Xu (Purdue University); Z. Jonny Kong (Purdue University); Y. Charlie Hu (Purdue University); Dimitrios Koutsonikolas (Northeastern University)
+            link: 252_257_kasinathan.pdf
+
+
+    - type: main
+      time_slot: 3:00 - 3:30
+      description: Break
+      color: green
+
+    - type: panel
+      time_slot: 3:30 - 4:30
+      description: "Panel 2: Academia vs Industry as a career choice"
+      color: orange
+      panel1: Prof. Deepak Vasisht
+      link1: https://deepakv.web.illinois.edu
+      panel2: Prof. Dimitrios Koutsonikolas
+      link2: https://ece.northeastern.edu/fac-ece/dkoutsonikolas/
+      panel3: Dr. Jiajun Liu
+      link3: https://people.csiro.au/L/J/ryan-liu/
+      panel4: Dr. Victor Bahl
+      link4: https://www.microsoft.com/en-us/research/people/bahl/
+      pic1: deepak.png
+      pic2: dimitrios.jpg
+      pic3: jiajun.jpg
+      pic4: victor.jpg
+      
+    - type: main
+      time_slot: 4:30 - 4:45
+      description: Closing Remarks and Awards
+      color: white

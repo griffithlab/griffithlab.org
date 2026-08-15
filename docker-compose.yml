@@ -1,0 +1,27 @@
+version: '3.8'
+services:
+  local:
+    build: .
+    command: bundle exec jekyll serve --watch --force_polling --host=0.0.0.0
+    volumes:
+      - .:/ucsdwcsng.github.io
+    ports:
+      - "4000:4000"
+
+  remote:
+    build: .
+    environment:
+      - JEKYLL_ENV=production
+    command: bundle exec jekyll build
+    volumes:
+      - .:/ucsdwcsng.github.io
+    ports:
+      - "4000:4000"
+
+  cleanup:
+    build: .
+    command: rm -rf _site .sass-cache
+    volumes:
+      - .:/ucsdwcsng.github.io
+    ports:
+      - "4000:4000"

@@ -1,0 +1,19 @@
+<div class="news">
+  <a class="news-close-link"
+    onclick="document.getElementsByClassName('col-aside')[0].classList.toggle('visible');document.getElementsByClassName('news-sidebar-link')[0].hidden=false">
+    Close
+  </a>
+
+  <h2 class="news__title">News</h2>
+
+  <ul class="news__list">
+    {% for article in site.data.news.news limit:9 %}
+    <li class="news__item">
+      <span class="news__date">{{ article.date }}</span>
+      <p class="news__headline">{{ article.headline }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <a class="news__more" href="/allnews.html">More news&nbsp;&rarr;</a>
+</div>

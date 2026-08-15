@@ -1,0 +1,16 @@
+FROM ruby:3.3-alpine
+
+# Install dependencies (Alpine uses apk)
+RUN apk add --no-cache \
+    openssh rsync sshpass build-base
+
+WORKDIR /ucsdwcsng.github.io
+
+COPY Gemfile Gemfile.lock* ./
+RUN gem install bundler -v 2.4.22 && bundle install
+
+COPY . .
+
+EXPOSE 4000
+
+RUN JEKYLL_ENV=production bundle exec jekyll build

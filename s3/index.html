@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <title>ACM S3 2023 | ACM MobiCom 2023</title>
+
+    <!-- css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+        <div class="container">
+            <div class="navbar-header">
+
+                <!-- logo -->
+                <div class="site-branding">
+                    <a class="logo" href="index.html">ACM S<sup>3</sup> 2023</a>
+                </div>
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div><!-- /.navbar-header -->
+
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="nav navbar-nav navbar-right">
+
+                    <!-- navigation menu -->
+                    <li><a data-scroll onclick="hidealldivs('alarm'); about.style.display='block';" href="index.html#">About</a></li>
+                    <li><a data-scroll onclick="hidealldivs('faq'); faq.style.display='block';" href="index.html#">Committee</a></li>
+                    <li><a data-scroll onclick="hidealldivs('speakers'); speakers.style.display='block';" href="index.html#">Call for Papers</a></li>                  
+                    <!--<li><a data-scroll onclick="hidealldivs('registration'); registration.style.display='block';" href="#">Submission</a></li> -->
+                    <li><a data-scroll onclick="hidealldivs('schedule'); schedule.style.display='block';" href="index.html#">Program</a></li>
+                    <li><a data-scroll onclick="hidealldivs('demo'); demo.style.display='block';" href="index.html#">Sponsors</a></li>    
+                    <li><a data-scroll onclick="hidealldivs('keynote'); keynote.style.display='block';" href="index.html#">Registration</a></li>           
+                    <li><a data-scroll onclick="hidealldivs('awards'); awards.style.display='block';" href="index.html#">Awards</a></li>
+                    <li><a data-scroll onclick="hidealldivs('past_events'); past_events.style.display='block';" href="index.html#">Past Events</a></li>
+                
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </nav>
+
+    <header id="site-header" class="site-header valign-center">
+        <div class="intro">
+
+            <h2>October 6, 2023 / Madrid, Spain</h2>
+            
+            <h1>ACM S<sup>3</sup> 2023 Workshop</h1>
+            
+            <p>in conjunction with</p>
+            
+            <a target="_blank" class="btn btn-white" href="https://www.sigmobile.org/mobicom/2023/">MobiCom 2023</a>
+        
+        </div>
+    </header>
+ 
+    <section id="about" class="section about" style="display: block;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+
+                <h3 class="section-title">The 14<sup>th</sup> ACM Wireless of the Students, by the Students, and for the Students Workshop</h3>
+
+                <p align="justify">
+                The S<sup>3</sup> workshop provides a unique venue for graduate students around the world to discuss research ideas for mobile and wireless systems. The workshop is organized by a student-run TPC. S<sup>3</sup> aims to foster early-career development among students, expose them to the workings of an academic life, and encourage student leadership and participation in the research community. We anticipate a vibrant event where students can freely interact with a broad peer group,
+                and share their research opinions.
+                </p>
+                <br/>
+                <h3 class="section-title multiple-title">SPONSORS</h3>
+                <img src="assets/images/sigmobile.jpg" style="width:100px">
+                <img src="assets/images/acm.jpg" style="width:100px">
+                
+                
+
+            </div><!-- /.col-sm-6 -->
+
+            <div class="col-sm-6">
+              <h3 class="section-title multiple-title">Updates</h3>
+              
+              <ul class="list-arrow-right">
+				<!-- <li>Awards announced! Please check the Awards page.</li>
+				<li>Keynote slides available now on the Program page.</li>
+                <li>Early Registation Deadline: September 7th, 2023 (<a href="https://www.sigmobile.org/mobicom/2023/registration.html" target="_blank">Link</a>)</li>
+                <li>Student Travel Grant Deadline: August 25th, 2023 (<a href="https://www.sigmobile.org/mobicom/2023/grants.html" target="_blank">Link</a>)</li> -->
+                <li>Link to <a href="https://s3-2023.hotcrp.com/" style="color:blue">S<sup>3</sup> 2023 submission website</a></li>
+                <li>Link to <a data-scroll onclick="hidealldivs('speakers'); speakers.style.display='block';" href="index.html#">Call for Papers</a></li>
+                <!-- <li>Flyer: <a href="assets/files/s3_flyer.pdf">PDF</a></li> -->
+                <li>S3 workshop announced.</li>
+              </ul>
+              <br/>
+
+                <h3 class="section-title multiple-title">IMPORTANT DATES</h3>
+
+                <ul class="list-arrow-right">
+    <li>Paper Submission:   <s>July 10<sup>th</sup>, 2023</s>  July 28<sup>th</sup>, 2023</li>
+<!--     <s>June 19<sup>th</sup>, 2023</s> <s>June 30<sup>th</sup>, 2023</s> -->
+<!--     <li>Reviews Released to Authors:  July 21<sup>th</sup>, 2023
+    <li>Rebuttals Due:  July 28<sup>th</sup>, 2023 -->
+    <li>Paper Acceptance Notification:  August 5<sup>th</sup>, 2023
+    <li>Paper Camera Ready: August 10<sup>th</sup>, 2023
+    <br>
+    Poster/Demo/3MT Submission: <em>same as paper submission dealines</em>
+   <!--  <li>Poster/Demo/3MT Submission: June 19<sup>th</sup>, 2023</li>
+    <li>Poster/Demo/3MT Acceptance Notification: July 19<sup>th</sup>, 2023
+    <li>Poster/Demo/3MT Camera Ready: August 1<sup>st</sup>, 2023 -->
+</ul>
+
+                
+                <!--<br/>
+                <b>Follow the latest news about S<sup>3</sup> 2023 on:</b>
+                <a href="https://twitter.com/acm_s3" target="_blank"><img src="assets/images/Twitter_Logo_Blue.png" style="width:40px"></a>
+                <a href="https://facebook.com/ACM-S3-408080826322258/" target="_blank"><img src="assets/images/FB-f-Logo__blue_1024.png" style="width:35px"></a>-->
+            </div><!-- /.col-sm-6 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+
+
+    <section id="speakers" class="section speakers" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+                <h3 class="section-title">CALL FOR PAPERS</h3>
+                            
+            </div>
+        </div>
+
+        <p align="justify">The Wireless of the Students, by the Students, and for the Students Workshop provides a
+          unique venue for graduate students around the world to present, discuss, and exchange ideas
+          on cross-cutting research on mobile wireless networks. As its name suggests, the workshop
+          is organized by students, and the technical sessions are given by student presenters.
+          The workshop aims at fostering early--career development among students and exposing them to
+          the workings of an academic life. It provides a venue for students to learn about each
+          other's work and discover opportunities for collaboration.
+
+          <p align="justify">The workshop invites students to submit papers, posters, demos and participate in elevator 
+          pitch sessions. Students are also welcome to submit their ongoing work directly to the TPC
+          committee. All submissions will be peer-reviewed by the student TPC. Topics of interest include,
+          but are not limited to:</p>
+
+		<ul>
+            <li> Battery-free Networks and Services for RFID, NFC, and backscatter. </li>
+            <li> Low-power, Long-range Networks</li>
+            <li> Satellites Communication and networks </li>
+            <li> Architectures, protocols, and algorithms in wireless networks.</li>
+            <li> Pricing of mobile and wireless networks and services.</li>
+            <li> Ad-hoc, vehicular, and wireless sensor networks.</li>
+            <li> Security and privacy of mobile and wireless systems.</li>
+            <li> Measurements of mobile and network ecosystems. </li>
+            <li> Mobile data science & analysis. </li>
+            <li> Sensing using mobile phones, wearables, robots, quad-copters, crowd-sourcing etc.</li>
+            <li> Operating system and middle-ware support for mobile computing and networking.</li>
+            <li> Modeling, measurement and simulation of mobile networks.</li>
+            <li> Applications of machine learning to mobile/wireless research.</li>
+            <li> Millimeter wave and terahertz communications.</li>
+            <li> Mobile web, video, AR/VR/Immersive reality, and other applications.</li>
+            <li> Experimental test-beds for mobile/wireless networks.</li>
+            <li> Systems for location and context sensing and awareness.</li>
+            <li> User interfaces, experience, and usability for mobile applications and systems.</li>
+            <li> Data management for mobile and wireless systems.</li>
+          </ul>
+            <br/>        
+          <h5>Please email TPC co-chairs <a href="https://ishjain.github.io/">Ish Kumar Jain</a>, <a href="https://akarsh-prabhakara.github.io/">Akarsh Prabhakara</a>, or <a href="https://www.media.mit.edu/people/tarab/overview/">Tara Boroushaki</a> (ikjain@eng.ucsd.edu, akarsh@cmu.edu, tarab@mit.edu) if you would like to participate or have any questions.</h5> 
+        <br/>
+      
+        All paper submissions will be handled electronically at the S<sup>3</sup> 2023 submission website (details at the end of this page). All submitted papers will be evaluated through a double-blind reviewing process, with the identities of the authors withheld from the reviewers.
+        Before final submission, you are expected to make sure that your paper complies with the following requirements. Please do not violate these requirements with the aim of including additional material: submissions that violate the formatting requirements may not be reviewed. 
+<!--You can visually inspect a page-by-page report of your paper format using the same tool as the submission system via a separate ​online form. After the submission deadline, we will use the same tool to check the conformance of papers. The format checking tool uses heuristics and can make mistakes. The PC chairs will manually inspect and possibly reject those papers with evident format violations. However, no paper will be rejected due to format violations without being manually checked. -->
+
+        Any papers that do not adhere to the following guidelines may be immediately rejected:
+
+		<br/>
+        
+		<ul>
+          <li>Page limit: 3 pages, including all references.</li>
+	<li>Font size no smaller than 10 points. The camera-ready papers can have font size of 9 points</li>
+          <li>Double column format with each column having dimensions 9.25 inches x 3.33 inches, a space of 0.33 inches between the two columns, and with no more than 55 lines of text per column.</li>
+          <li>Fit properly on US letter-sized paper (8.5 inches by 11 inches).</li>
+          <li>Submissions must be in PDF (Portable Document Format) authors should ensure that they are compatible with Adobe Acrobat (English version). Any other formats, including Postscript and MS-Word, will not be accepted.</li>
+          <li>Authors' names must not appear anywhere in the paper or in the PDF file. The PDF file must also not contain any embedded hyperlinks, as these may compromise reviewer anonymity.</li>
+          <li>Limit the file size to less than 15 MB: contact the PC chairs if you have a file larger than this limit.</li>
+          <li>You may find these <a href="https://www.acm.org/publications/proceedings-templat" style="color:blue" target="_blank">templates</a> useful in complying with the above requirements. For Latex users, please use <i>\documentclass[sigconf,10pt]{acmart}</i>. As an author, you bear the final responsibility to verify that your submission is format-compliant.</li>
+        </ul>
+
+		<br/>
+
+        <h3 class="section-title multiple-title">Poster/Demo</h3>
+        <p align="justify">You can also present a poster or demo of your work. Demos and poster submissions should consist of a one-page abstract in the same format describing the demonstration plan or the outline of the poster content. <b>We encourage students with a paper, poster, or demo at ACM MobiCom to present their work at S<sup>3</sup> as well</b>. We will be awarding prizes for the best poster/demo.</p>
+        <ul>
+		<li>The title of these papers must bear a "Poster:"/"Demo:" prefix.</li>
+	    	<li>Page limit: 1 page including references, with 10 points font</li>
+	</ul>
+        <h3 class="section-title multiple-title">Three Minute Thesis (3MT) Competition</h3>
+        <p align="justify">3MT is developed by The University of Queensland for showcasing research done by PhD reseachers. 3MT cultivates students’ academic, presentation, and research communication skills.
+          The competition supports their capacity to effectively explain their research in three minutes, in a language appropriate to a non-specialist audience. Participating in 3MT develops academic, presentation and research communication skills, while developing research candidates’ ability to effectively explain their research in language appropriate to a non-specialist audience. Plus, it comes with the opportunity to win prizes!.</p>
+          <p align="justify">
+		The title of these papers must bear a "3MT:" prefix and should be a one-page abstract with the same format for paper submission.
+          
+          Contestants should prepare a one-slide presentation of the topic they plan to present for maximum of 3 minutes during the ACM S3 3MT competition. You should adhere to the standard 3MT competition rules listed
+          <a href="https://threeminutethesis.uq.edu.au/resources/competition-rules" style="color:blue" target="_blank">here</a>.
+
+          We will be using the standard judging criteria for 3MT competition at ACM S3 which can be accessed <a href="https://threeminutethesis.uq.edu.au/resources/judging-criteria-and-panel" style="color:blue" target="_blank">here. Awards will be announced at the end of the event.</a> 
+        </p>
+	    <ul>
+		<li>The title of these papers must bear a "3MT:" prefix.</li>
+	    	<li>Page limit: 1 page with roughly 350-400 words (that can be spoken in 3 minutes)</li>
+	</ul>
+
+        <h3 class="section-title multiple-title">Panel discussions</h3>
+        <p align="justify">Our panel discussions' format focuses on the Q&A style that we encourage more questions asked
+          from the student audience. There will be a shortlist of curated questions from the moderator, and most importantly, we
+          aim to allocate most of the time to the student audiences' questions. Please email chairs if you are interested to join as a panelist.</p>
+          <!-- <ul>Virtual vs in-person conferences from a student perspective: </ul> -->
+          <ul>Academia or industry: what to consider while making the decision </ul>
+          <ul>Importance of Artifacts and re-producibility of research </ul>
+          <ul>How to use AI-chat tools in research and teaching </ul>
+          <br>
+
+
+        <p align="justify"><i>TPC members are also invited to propose potential talks. While the program committee and presentors will be restricted to current graduate students, we encourage all members of the wireless/mobile computing community to attend and participate.</i></p>
+        <h3 class="section-title multiple-title">Important Dates</h3>
+        
+        <ul class="list-arrow-right">
+    <li>Paper Submission:   <s>July 10<sup>th</sup>, 2023</s>  July 28<sup>th</sup>, 2023</li>
+<!--     <s>June 19<sup>th</sup>, 2023</s> <s>June 30<sup>th</sup>, 2023</s> -->
+<!--     <li>Reviews Released to Authors:  July 21<sup>th</sup>, 2023
+    <li>Rebuttals Due:  July 28<sup>th</sup>, 2023 -->
+    <li>Paper Acceptance Notification:  August 5<sup>th</sup>, 2023
+    <li>Paper Camera Ready: August 10<sup>th</sup>, 2023
+    <br>
+    Poster/Demo/3MT Submission: <em>same as paper submission dealines</em>
+   <!--  <li>Poster/Demo/3MT Submission: June 19<sup>th</sup>, 2023</li>
+    <li>Poster/Demo/3MT Acceptance Notification: July 19<sup>th</sup>, 2023
+    <li>Poster/Demo/3MT Camera Ready: August 1<sup>st</sup>, 2023 -->
+</ul>
+
+
+          <br/>
+			<h3 class="section-title multiple-title">Submission</h3>
+          <p align="justify">
+          All paper/poster/3MT submissions will be handled electronically at the <a href="https://s3-2023.hotcrp.com/" style="color:blue">S<sup>3</sup> 2023 submission website</a>. Authors should prepare a PDF version of their papers. You may use these <a href="https://www.acm.org/publications/proceedings-template">templates</a> helpful in complying with the requirements.
+          Paper submissions should be no longer than 3 pages in font size no smaller than 10 points, including figures and references, in standard ACM conference format. Demos and poster submissions should consist of a one-page abstract in the same format describing the demonstration plan or the outline of the poster content. <b>We encourage students with a paper, poster, or demo at ACM MobiCom main conference to present their work at this workshop as well.</b>
+          <!--For more information regarding submission, you may like to visit <a href="https://www.sigmobile.org/mobicom/2023/cfp.html">this</a>.-->
+          </p>
+  
+      </div>
+
+    </div>
+</section>
+
+
+    <section id="faq" class="section faq" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">ORGANIZERS</h3>
+            </div>
+        </div>
+
+ 
+
+        <h3>Student Program Committee</h3>
+        <table style="width:100%">
+            <tr>
+          <td>&nbsp;<b>TPC Co-Chairs</b></td>
+          <td><a href="https://ishjain.github.io/">Ish Kumar Jain</a></td>
+          <td>UC San Diego</td>
+          </tr>
+          <tr>
+          <td>&nbsp;<b> </b></td>
+          <td><a href="https://akarsh-prabhakara.github.io/">Akarsh Prabhakara</a></td>
+          <td>Carnegie Mellon University</td>
+          </tr>
+          <tr>
+          <td>&nbsp;<b> </b></td>
+          <td><a href="https://www.media.mit.edu/people/tarab/overview/">Tara Boroushaki</a></td>
+          <td>Massachusetts Institute of Technology</td>
+          </tr>
+
+          <tr>
+          <td><br/>&nbsp;<b>TPC</b></td>
+              <td><br/>Abhishek Adhikari</td>
+              <td><br/>Columbia University</td>
+          </tr>
+            
+          <tr>
+          <td><br/>&nbsp;<b>TPC</b></td>
+              <td><br/>Aristide Tanyi-Jong Akem</td>
+              <td><br/>IMDEA Networks Institute</td>
+          </tr>
+            
+          <tr>
+          <td>&nbsp;<b> </b></td>
+              <td> 	Arushi Arora</td>
+              <td> 	Purdue University</td>
+          </tr>
+
+
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Ashutosh Srivastava </td>
+            <td>New York University</td>
+        </tr>
+
+            <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Bangya Liu </td>
+            <td>University of Wisconsin Madison</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Bei Ouyang  </td>
+            <td>IMDEA Networks and UC3M</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Changhan Ge  </td>
+            <td>The University of Texas at Austin</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Federico Cifuentes-Urtubey  </td>
+            <td>University of Illinois at Urbana-Champaign</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Gwendoline Hochet Derévianckine </td>
+            <td>Semtech - INSA Lyon CITI lab - INRIA Lyon</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Harshvardhan Takawale </td>
+            <td>University of Maryland, College Park</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Laura Dodds </td>
+            <td>Massachusetts Institute of Technology</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Maisy Lam </td>
+            <td>Massachusetts Institute of Technology</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Maleeha Masood  </td>
+            <td>University of Illinois Urbana- Champaign</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Michail Dalgitsis  </td>
+            <td>Nearby Computing</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Milind Kumar Vaddiraju </td>
+            <td>University of Illinois Urbana- Champaign</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Nakul Garg  </td>
+            <td>University of Maryland College Park</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Prerna Khanna  </td>
+            <td>Stony Brook University</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Raghav Subbaraman </td>
+            <td>University of California San Diego</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Ruichun Ma  </td>
+            <td>Yale University</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Sigrid Dimce  </td>
+            <td>TKN TU Berlin</td></td>
+        </tr>
+
+        
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td>Venkata Siva Santosh Ganji </td>
+            <td>Texas A&M University</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Xumiao Zhang  </td>
+            <td>University of Michigan</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Zhihe Zhao </td>
+            <td>The Chinese University of Hong Kong</td></td>
+        </tr>
+
+        <tr>
+        <td>&nbsp;<b> </b></td>
+            <td> 	Zhiyi Zhang </td>
+            <td>Univ Lyon, INSA Lyon, Inria, CITI</td></td>
+        </tr>
+
+       
+            
+
+
+        </table> 
+
+        <h3>Steering Committee</h3>
+        <table style="width:100%">
+        <tr>
+        <td>&nbsp;</td>
+        <td>Carlee Joe-Wong</td>
+          <td>Carnegie Mellon University</td>
+          </tr>
+          <tr>
+          <td>&nbsp;</td>
+          <td>Marco Fiore</td>
+          <td>IMDEA Networks Institute</td>
+          </tr>
+          <tr>
+          <td>&nbsp;</td>
+          <td>Yasaman Ghasempour</td>
+          <td>Princeton University</td>
+          </tr>
+        </table>
+</section>
+
+
+    <section id="registration" class="section registration" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">SUBMISSION</h3>
+            </div>
+        </div>
+        <p align="justify">
+        All paper submissions will be handled electronically at the <a href="https://s3-2023.hotcrp.com/" style="color:blue">S<sup>3</sup> 2023 submission website</a>. Authors should prepare a PDF version of their papers. You may use these <a href="https://www.acm.org/publications/proceedings-template">templates</a> helpful in complying with the requirements.
+        Paper submissions should be no longer than 3 pages in font size no smaller than 10 points, including figures and references, in standard ACM conference format. Demos and poster submissions should consist of a one-page abstract in the same format describing the demonstration plan or the outline of the poster content. We encourage students with a paper, poster, or demo at ACM MobiCom main conference to present their work at this workshop as well.
+        
+        </p>
+
+        <h3 class="section-title multiple-title">Important Dates</h3>
+
+        <ul class="list-arrow-right">
+    <li>Paper Submission:   <s>July 10<sup>th</sup>, 2023</s>  July 28<sup>th</sup>, 2023</li>
+<!--     <s>June 19<sup>th</sup>, 2023</s> <s>June 30<sup>th</sup>, 2023</s> -->
+<!--     <li>Reviews Released to Authors:  July 21<sup>th</sup>, 2023
+    <li>Rebuttals Due:  July 28<sup>th</sup>, 2023 -->
+    <li>Paper Acceptance Notification:  August 5<sup>th</sup>, 2023
+    <li>Paper Camera Ready: August 10<sup>th</sup>, 2023
+    <br>
+    Poster/Demo/3MT Submission: <em>same as paper submission dealines</em>
+   <!--  <li>Poster/Demo/3MT Submission: June 19<sup>th</sup>, 2023</li>
+    <li>Poster/Demo/3MT Acceptance Notification: July 19<sup>th</sup>, 2023
+    <li>Poster/Demo/3MT Camera Ready: August 1<sup>st</sup>, 2023 -->
+</ul>
+
+        
+    </div>
+</section>
+
+
+    <section id="demo" class="section demo" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">CALL FOR SPONSORS</h3>
+            </div>
+        </div>
+
+        
+
+        <h3> Workshop Objectives </h3>
+        <p align="justify">
+        The S<sup>3</sup> Workshop provides a <b>unique venue for graduate students around the world to plan, manage, and experience a vibrant workshop focused on research in all aspects of mobile wireless networks</b>. It encompasses both theory and systems research, exposing participants to the full breadth of research in networking. As its name suggests, the workshop is organized by students, and the technical sessions are given by student presenters. It aims to <b>foster early career development among students</b> and <b>expose them to the workings of an academic life</b>. It encourages students to actively participate in the networking research community and offers unique networking opportunities.
+        </p>
+    <h3> Why sponsor the S<sup>3</sup> workshop</h3>
+        <p align="justify">
+        Sponsoring S<sup>3</sup> will give your organization increased visibility within the computer networking and mobile computing community, especially among talented PhD students. Supporting this student-organized workshop will <b>benefit the community of student researchers</b>. This focused venue will be a great opportunity for companies to attract the future researchers to them. We will acknowledge all supporters during the conference opening remarks and prominently display company names
+        and logos on the S<sup>3</sup> website. You can also <b>direct your funds to name specific awards</b> such as <b>Travel Grants</b> (which will encourage huge participations), <b>Best Papers</b>, <b>Best Posters</b>, <b>Best Presentation</b>, <b>Best Questions</b>, <b>Best Demos</b> etc. With your sponsorship, S<sup>3</sup> will give financial awards to the student attendees and TPC members, who otherwise may not be able to attend due to financial constraints.
+      </p>
+    <h3>Previous Workshops</h3>
+    <p align="justify">
+    S<sup>3</sup> has been held in conjunction with <b>ACM MobiCom</b>, one of the most prestigious conferences in mobile networking, for the past 13 out of 14 years. Previous workshops have attracted over 60 participants, including several ACM MobiCom attendees. Traditionally, the workshop has been sponsored by ACM SIGMOBILE and industry partners. <br> <br> Links to workshop homepages can be found below: <br> <br>
+
+        <a href="https://www.cse.unsw.edu.au/~acms32022/">ACM S<sup>3</sup> 2022</a> in Sydney, Australia, with ACM MobiCom 2022.<br>
+        <a href="http://www.people.vcu.edu/~barahoueipash/S3/S3.html">ACM S<sup>3</sup> 2021</a> in New Orleans, USA with ACM MobiCom 2021.<br>
+        <a href="https://s32019.blogs.rice.edu/">ACM S<sup>3</sup> 2019</a> in Los Cabos, Mexico with ACM MobiCom 2019.<br>
+        <a href="https://ubwins.cse.buffalo.edu/s32018/">ACM S<sup>3</sup> 2018</a> in New Delhi, India with ACM MobiCom 2018.<br>
+         <a href="http://mnslab.org/s3/">ACM S<sup>3</sup> 2017</a> in Snowbird, Utah, USA with ACM MobiCom 2017<br>
+         <a href="http://winlab.rutgers.edu/s3/">ACM S<sup>3</sup> 2016</a> in New York, USA with ACM MobiCom 2016<br>
+         <a href="http://synrg.csl.illinois.edu/s3/">ACM S<sup>3</sup> 2015</a> in Paris, France with ACM MobiCom 2015<br>
+         <a href="http://mars.cse.ohio-state.edu/s3/index.html">ACM S<sup>3</sup> 2014</a> in Maui, Hawaii with ACM MobiCom 2014<br>
+         <a href="http://nms.csail.mit.edu/s3/2013/index.html">ACM S<sup>3</sup>  2013</a> in Miami, Florida with ACM MobiCom 2013<br>
+         <a href="http://www.cs.umd.edu/conference/s3_2012/">ACM S<sup>3</sup>  2012</a> in Istanbul, Turkey with ACM MobiCom 2012<br>
+         <a href="http://synrg.ee.duke.edu/mobicom11_s3/index.htm">ACM S<sup>3</sup>  2011</a> in Las Vegas, Nevada with ACM MobiCom 2011<br>
+         <a href="http://sensorlab.cs.dartmouth.edu/s32010/previous.htm">ACM S<sup>3</sup>  2010</a> in Chicago, Illinois with ACM MobiCom/MobiHoc 2010<br>
+         <a href="http://synrg.ee.duke.edu/mobihoc09_s3/index.htm">ACM S<sup>3</sup>  2009</a> in New Orleans, Louisiana with ACM MobiHoc 2009.
+
+    </p>
+
+    </div>
+
+</section>
+
+
+    <section id="schedule" class="section schedule" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">WORKSHOP PROGRAM</h3>
+               
+            </div>
+        </div>
+
+             
+            <table border="0" cellspacing="10" valign="top">
+               <tr>
+                    <th style="vertical-align:text-top; white-space:nowrap; padding-left:10px; padding-right:10px;">9:00 - 16:00 </th>
+                    <th style="vertical-align:text-top;">
+                        <ul>
+                            <h3>Workshop</h3>
+                             <p><b>Room: Plaza Mayor</b></p>
+                        </ul>
+                    </th>
+               </tr>
+<!--                <tr>
+                    <td style="vertical-align:text-top; white-space:nowrap; padding-left:10px; padding-right:10px;">13:00 - 17:05 </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h3>Workshop<br>
+                            </h3><br>
+                        </ul>
+                    </td>
+               </tr> -->
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="vertical-align:text-top;">9:00 - 9:05 &nbsp; &nbsp; </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Opening Remarks</h4><br>
+                            <br>
+                        </ul>
+                    </td>
+                </tr>
+          
+<!--                 ##### -->
+                <tr>
+                    <td style="vertical-align:text-top;">9:05 - 10:00 &nbsp; &nbsp; </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Keynote 1: Designing the internet of sustainable things </h4>
+
+                            <figure style="float: left; margin: 10px; text-align: center;" >  
+                                    <img src="assets/images/vikram.jpg" class="img-responsive" align="center" width="150px">
+                                    <figcaption style="text-align: center"><b><a href="https://homes.cs.washington.edu/~vsiyer/">Vikram Iyer </a><br> <font size="2">(University of Washington - Seattle)</font></b></figcaption>
+                                </figure>
+                            
+<!--                             <img src="assets/images/vikram.jpg" class="img-responsive" align="left" width="150px">
+                            <h5><a href="https://homes.cs.washington.edu/~vsiyer/">Vikram Iyer</a> <br>(University of Washington - Seattle)<br></h5> -->
+                            <font size="2"><b>Abstract:</b> Sensor networks and miniaturized internet of things (IoT) devices have the potential to be transformative for advancing environmental sustainability by monitoring temperature, energy use, emissions, and even tracking wildlife for conservation; however the vision of producing and deploying billions of sensors also raises significant embedded carbon and e-waste concerns, particularly from the use of batteries. This talk explores how we can design battery-free origami robots that can change shape in mid-air for automated sensor deployment, miniaturized battery-free robotic sensors that can move on the ground, and how we can start using biodegradable and repeatedly recyclable materials to build these systems.</font><br>
+                            <font size="2"><b>Bio:</b> Vikram Iyer is an Assistant Professor in the Paul G. Allen School of Computer Science and Engineering at the University of Washington.  Vikram’s research takes an interdisciplinary approach spanning computer science and engineering, biology, and materials science to push the boundaries of technology. This includes building insect-scale wireless robots, cameras and sensors small enough to ride on the back of live insects like beetles, bumblebees and “murder” hornets, as well as biodegradable and recyclable circuits. Vikram’s work has been recognized by a Microsoft Research Fellowship, the Marconi Society Paul Baran Young Scholar award, the Sigmobile Dissertation Award, and best paper awards at Sensys and Sigcomm.
+</font><br>
+                                
+                            
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                   
+                </tr>
+<!--                 ########### -->
+                <tr>
+                    <td style="vertical-align:text-top;">10:00 - 10:30 </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Break</h4>
+                        </ul>
+                    </td>
+               </tr>
+               <tr>
+                    <td>&nbsp;</td>
+                   
+                </tr>
+<!--                 ############## -->
+                <tr>
+                    <td style="vertical-align:text-top;">10:30 - 11:30 &nbsp; &nbsp; </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Keynote 2: Novel PHY-Layer Architectures for Next-Gen Wireless Communications &amp Sensing </h4>
+                            <figure style="float: left; margin: 10px; text-align: center;" >  
+                                    <img src="assets/images/yasaman.jpg" class="img-responsive" align="center" width="150px">
+                                    <figcaption style="text-align: center"><b><a href="https://ghasempour.princeton.edu/">Yasaman Ghasempour </a><br> <font size="2">(Princeton University)</font></b></figcaption>
+                                </figure>
+<!--                             <img src="assets/images/yasaman.jpg" class="img-responsive" align="left" width="150px">
+                             <h5><a href="https://ghasempour.princeton.edu/">Yasaman Ghasempour</a> <br>(Princeton University)<br></h5> -->
+                            <font size="2"><b>Abstract:</b> The spectrum above 100 GHz offers plentiful bandwidth for ultra-high-speed communication and high-resolution sensing, thereby providing a promising foundation for realizing unprecedented capabilities in next-generation wireless networks. In this talk, I will begin by presenting emerging transceiver architecture that can enable directional sub-THz steering without traditional multi-antenna arrays. I will discuss how to exploit the key characteristics of sub-THz signals and the proposed architecture for high-resolution localization. Such sensing modalities can then be exploited to enable highly directional, high-data rate links that are robust to client and environmental mobility. I will address one of the main concerns with sub-THz networking which is high power consumption by introducing the first ultra-wideband retro-directive backscatter above 100 GHz.  Finally, I will briefly cover some of our recent work on metasurfaces and their use cases. </font><br>
+                            <font size="2"><b>Bio:</b> Yasaman Ghasempour joined Princeton University as an Assistant Professor of Electrical and Computer Engineering in January 2021. She received her Ph.D. and master’s degree from Rice University and her bachelor's degree from the Sharif University of Technology. Yasaman is the recipient of the NSF CAREER Award (2022), the 2020 Marconi Young Scholar Award, and the Excellence in Teaching Award (Princeton SEAS). Yasaman is listed as one of 10 stars worldwide in Computer Networking and Communications in 2022. Her group received the best paper award in USENIX NSDI 2023. Her research is focused on next-generation wireless networks and sensing systems, including novel devices and protocols for millimeter-wave and terahertz WLANs. </font><br>
+                                
+                            
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                  
+                </tr>
+<!--                 %%%%%%%%%%% -->
+                <tr>
+                    <td style="vertical-align:text-top;">11:30 - 12:30 &nbsp; &nbsp; </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Panel: First Steps to Future Success: A Panel for New Grad Students  </h4><br><br>
+                            <p>This panel aims to provide guidance and support to early-year graduate students embarking on their research journey. We have Ph.D. graduates and senior Ph.D. student panelists sharing their experiences, challenges, and tips for success in graduate school. Their journey and insights can inspire and assist those just starting their graduate studies.</p>
+                                   <figure style="float: left; margin: 10px; text-align: center;">       
+                                  <img src="assets/images/jon.png" height="125" hspace="30">
+                                        <figcaption><a href="https://j0lama.github.io/">Jon Larrea</a><br> <font size="2">(University of Edinburgh)</font></figcaption>
+                                   </figure>
+                                 <figure style="float: left; margin: 10px; text-align: center;">  
+                                    <img src="assets/images/prerna.jpg" height="125" hspace="60">
+                                    <figcaption><a href="https://sites.google.com/view/prerna-khanna">Prerna Khanna</a><br> <font size="2">(Stony Brook University)</font></figcaption>
+                                </figure>
+                                <figure style="float: left; margin: 10px; text-align: center;">  
+                                     <img src="assets/images/raghav.png" height="125" hspace="40">
+                                    <figcaption><a href="https://rsubbaraman.github.io/">Raghav Subbaraman</a><br> <font size="2">(UC San Diego)</font></figcaption>
+                                </figure>
+                                <figure style="float: left; margin: 10px; text-align: center;">  
+                                     <img src="assets/images/saad.jpg" height="125" hspace="50"> 
+                                    <figcaption><a href="https://signal-kinetics.media.mit.edu/people/sayed-saad-afzal/">Sayed Saad Afzal</a><br> <font size="2">(MIT)</font></figcaption>
+                                </figure>
+                                 <figure style="float: left; margin: 10px; text-align: center;">  
+                                    <img src="assets/images/atul.png" height="125" hspace="50">
+                                    <figcaption><a href="https://atul-bansal.github.io/">Atul Bansal</a><br> <font size="2">(Carnegie Mellon University)</font></figcaption>
+                                </figure>
+                                <figure style="float: left; margin: 10px; text-align: center;">  
+                                    <img src="assets/images/junfeng.jpg" height="125" hspace="50">
+                                    <figcaption><a href="https://jguan.page/">Junfeng Guan</a><br> <font size="2">(EPFL)</font></figcaption>
+                                </figure>
+                              
+                           
+                      <br/>
+                    </ul>
+<!--                       <span class="pseudolink" style="color:blue;cursor:pointer" onclick="window.open('#')">Jon Larrea </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -->
+                                
+                            
+                        
+                        
+                    </td>
+                </tr>
+              
+                <!--                 %%%%%%%%%%%% -->
+
+                <tr>
+                    <td style="vertical-align:text-top;"> </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                             
+                      <figure style="float: left; margin: 10px; text-align: center;" >  
+                                    <img src="assets/images/tanya.jpg" height="125" hspace="50">
+                                    <figcaption style="text-align: center"><a href="https://tanyashreedhar.github.io/">Tanya Shreedhar </a><br> <font size="2">(University of Edinburgh)</font><br><b>Moderator</b></figcaption>
+                                </figure>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+              
+                </tr>
+             
+<!--                 %%%%%%%%%%%%% done -->
+<!--                 %%%%%%%%%%% -->
+                <tr>
+                    <td style="vertical-align:text-top;">12:30 - 14:00 &nbsp; &nbsp; </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Break - Lunch </h4>
+        
+                        </ul>
+                    </td>
+                </tr>
+                 <tr>
+                    <td>&nbsp;</td>
+                   
+                </tr>
+<!--                 %%%%%%%%%%%% -->
+                 <tr>
+                    <td style="vertical-align:text-top;">14:00 - 15:00 &nbsp; &nbsp; </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Technical Session - Talks </h4>
+        
+                        </ul>
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td style="vertical-align:text-top;">14:00 - 14:10 &nbsp; &nbsp; </td>
+                    <td>
+                        <ul>
+                            <b><a href="https://dl.acm.org/doi/10.1145/3615591.3615676">Configurable LoRa testbed for reproducible PHY and MAC research</a> <p style="color:red;">-Best Demo Award</p></b><br>
+                            <font size="2">Raghav Subbaraman, Dinesh Bharadia (University of California San Diego) </font><br>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="vertical-align:text-top;">14:10 - 14:20 &nbsp; &nbsp; </td>
+                    <td>
+                        <ul>
+                            <b><a href="https://dl.acm.org/doi/10.1145/3615591.3615675">Passive Device Identification with Packet Timing Analysis</a></b><br>
+                            <font size="2">Federico Cifuentes-Urtubey, Deepak Vasisht, Robin Kravets (University of Illinois at Urbana-Champaign)</font><br>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="vertical-align:text-top;">14:20 - 14:30 &nbsp; &nbsp; </td>
+                    <td>
+                        <ul>
+                            <b><a href="https://dl.acm.org/doi/10.1145/3570361.3614087">A Compact and Real-Time Millimeter-wave Experiment Framework with True Mobility Capabilities</a></b><br>
+                            <font size="2">Ish Kumar Jain, Suriyaa MM, Dinesh Bharadia (University of California San Diego) </font><br>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="vertical-align:text-top;">14:30 - 14:40 &nbsp; &nbsp; </td>
+                    <td>
+                        <ul>
+                            <b><a href="https://dl.acm.org/doi/abs/10.1145/3570361.3592494">Wireless Actuation for Soft Electronics-free Robots</a> <p style="color:red;">-Best Poster Award</p></b><br>
+                            <font size="2">Jingxian Wang (Microsoft Research),
+Yiwen Song,
+Mason Zadan,
+Yuyi Shen,
+Vanessa Chen,
+Carmel Majidi,
+Swarun Kumar (Carnegie Mellon University)</font><br>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+<tr>
+                    <td style="vertical-align:text-top;">14:40 - 14:50 &nbsp; &nbsp; </td>
+                    <td>
+                        <ul>
+                            <b><a href="https://dl.acm.org/doi/10.1145/3615591.3615678">Seeing the Unseen: The REVEAL Protocol to Catch the Wireless Man-in-the-Middle</a></b><br>
+                            <font size="2">Venkata Siva Santosh Ganji,
+P R Kumar (Texas A&M University)  </font><br>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="vertical-align:text-top;">14:50 - 15:00 &nbsp; &nbsp; </td>
+                    <td>
+                        <ul>
+                            <b><a href="https://dl.acm.org/doi/10.1145/3570361.3615747">COPSEC: Compliance-Oriented IoT Security and Privacy Evaluation Framework</a></b><br>
+                            <font size="2">Gianluca Anselmi,
+Anna Maria Mandalari (University College London),
+Sara Lazzaro,
+Vincenzo De Angelis (Mediterranean University of Reggio Calabria)</font><br>
+                        </ul>
+                    </td>
+                </tr>
+
+                
+                
+                <tr>
+                    <td>&nbsp;</td>
+                  
+                </tr>
+<!--                 %%%%%%%%%%%% -->
+
+                <tr>
+                    <td style="vertical-align:text-top;">15:00 - 15:05 </td>
+                    <td style="vertical-align:text-top;">
+                        <ul>
+                            <h4>Closing Remarks</h4>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+<!--                 %%%%%%%%%%%%% done -->
+                
+<!-- %%%%%%% -->
+            </table>
+     </div>
+</section>
+
+
+    <section id="keynote" class="section keynote" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">REGISTRATION</h3>
+            </div>
+        </div>
+        
+        For detailed MobiCom registration information, <a href="https://sigmobile.org/mobicom/2023/registration.html" target="_blank" style="color:blue">click here</a><br/>
+        For general MobiCom travel grant information, <a href="https://www.sigmobile.org/mobicom/2023/grants.html" target="_blank" style="color:blue">click here</a><br/>
+        <br/>
+        
+<!--         <h4>Workshop Registration Rates (Single Day)</h4>
+        <br/>
+        
+        <table style="width:100%" border=1>
+          <tr>
+            <th>Registration Type</th>
+            <th>ACM/SIGMOBILE Member</th>
+            <th>Non Member (includes complimentary 1 year SIGMOBILE membership</th>
+            <th>Student ACM/SIGMOBILE Member</th>
+            <th>Student (includes complimentary 1 year SIGMOBILE membership)</th>
+          </tr>
+          <tr>
+            <td><b>Early-Bird</b> (Ends Oct 5th)</td>
+            <td>$300</td>
+            <td>$400</td>
+            <td>$250</td>
+            <td>$275</td>
+          </tr>
+          <tr>
+            <td><b>Late</b> (Ends Oct 21st)</td>
+            <td>$350</td>
+            <td>$450</td>
+            <td>$300</td>
+            <td>$325</td>
+          </tr>
+          <tr>
+            <td><b>On-Site</b> (Begins Oct 22nd)</td>
+            <td>$350</td>
+            <td>$450</td>
+            <td>$300</td>
+            <td>$325</td>
+          </tr>
+        </table>
+        <br/>
+        Click <a href="https://www.regonline.com/registration/Checkin.aspx?EventID=2528333" target="_blank" style="color:blue">here</a> to register.<br/>
+        <br/>
+        <p><b>Registration covers:</b>
+          <ul>
+            <li>Admission to the workshop program</li>
+            <li>Breakfasts, Lunches, and coffee breaks (on workshop day only)</li>
+          </ul>
+        </p> -->
+            
+</section>
+
+
+    <section id="awards" class="section faq" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">AWARDS</h3>
+            </div>
+        </div>
+<!-- 
+        <p align="justify">Coming Soon!</p>
+        <p align="justify">Best Paper Award: TBD</p>
+        <p align="justify">Best Poster/Demo Award: TBD</p>
+        <p align="justify">Best 3MT Award: TBD</p> -->
+	    
+        <p align="justify"><b>Best Demo Award:</b> <i>Configurable LoRa testbed for reproducible PHY and MAC research</i>, Raghav Subbaraman, Dinesh Bharadia (University of California San Diego) </p>
+	    <p align="justify"><b>Best Demo Runner-up:</b> <i>A Compact and Real-Time Millimeter-wave Experiment Framework with True Mobility Capabilities</i>, Ish Kumar Jain, Suriyaa MM, Dinesh Bharadia (University of California San Diego) </p> <br><br>
+	    
+        <p align="justify"><b>Best Poster Award:</b> <i>Wireless Actuation for Soft Electronics-free Robots</i>, Jingxian Wang (Microsoft Research), Yiwen Song, Mason Zadan, Yuyi Shen, Vanessa Chen, Carmel Majidi, Swarun Kumar (Carnegie Mellon University)</p>
+	    <p align="justify"><b>Best Poster Runner-up:</b> <i>COPSEC: Compliance-Oriented IoT Security and Privacy Evaluation Framework</i>, Gianluca Anselmi, Anna Maria Mandalari (University College London), Sara Lazzaro, Vincenzo De Angelis (Mediterranean University of Reggio Calabria)</p>
+	    <p align="justify"><b>Best Poster Runner-up:</b> <i>Passive Device Identification with Packet Timing Analysis</i>, Federico Cifuentes-Urtubey, Deepak Vasisht, Robin Kravets (University of Illinois at Urbana-Champaign)</p>
+
+	    
+	    <p align="justify">Congratulations to the winners!</p>	
+</section>
+
+    
+    <section id="past_events" class="section schedule" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">PAST EVENTS</h3>
+            </div>
+        </div>
+
+        <p>
+        <a href="https://www.cse.unsw.edu.au/~acms32022/">ACM S<sup>3</sup> 2022</a> in Sydney, Australia, with ACM MobiCom 2022.<br>
+        <a href="http://www.people.vcu.edu/~barahoueipash/S3/S3.html">ACM S<sup>3</sup> 2021</a> in New Orleans, USA with ACM MobiCom 2021.<br>
+        <a href="https://s32019.blogs.rice.edu/">ACM S<sup>3</sup> 2019</a> in Los Cabos, Mexico with ACM MobiCom 2019.<br>
+        <a href="https://ubwins.cse.buffalo.edu/s32018/">ACM S<sup>3</sup> 2018</a> in New Delhi, India with ACM MobiCom 2018.<br>
+        <a href="http://mnslab.org/s3/">ACM S<sup>3</sup> 2017</a> in Snowbird, Utah, USA with ACM MobiCom 2017.<br>
+        <a href="http://winlab.rutgers.edu/s3/">ACM S<sup>3</sup> 2016</a> in New York, USA with ACM MobiCom 2016.<br>
+        <a href="http://synrg.csl.illinois.edu/s3/">ACM S<sup>3</sup> 2015</a> in Paris, France with ACM MobiCom 2015.<br>
+        <a href="http://mars.cse.ohio-state.edu/s3/index.html">ACM S<sup>3</sup> 2014</a> in Maui, Hawaii with ACM MobiCom 2014.<br>
+        <a href="http://nms.csail.mit.edu/s3/2013/index.html">ACM S<sup>3</sup>  2013</a> in Miami, Florida with ACM MobiCom 2013.<br>
+        <a href="http://www.cs.umd.edu/conference/s3_2012/">ACM S<sup>3</sup>  2012</a> in Istanbul, Turkey with ACM MobiCom 2012.<br>
+        <a href="http://synrg.ee.duke.edu/mobicom11_s3/index.htm">ACM S<sup>3</sup>  2011</a> in Las Vegas, Nevada with ACM MobiCom 2011.<br>
+        <a href="http://sensorlab.cs.dartmouth.edu/s32010/previous.htm">ACM S<sup>3</sup>  2010</a> in Chicago, Illinois with ACM MobiCom/MobiHoc 2010.<br>
+        <a href="http://synrg.ee.duke.edu/mobihoc09_s3/index.htm">ACM S<sup>3</sup>  2009</a> in New Orleans, Louisiana with ACM MobiHoc 2009.
+
+        </p>
+        
+</section>
+
+
+    <hr>
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <p>Copyright &copy; ACM S<sup>3</sup> 2023. Follow on <a href="https://twitter.com/S3Acm">twitter</a></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+    <!-- script -->
+    <script type="text/javascript">
+    
+    window.onload = function() {
+      if (window.location.hash) {
+        var hash = window.location.hash.substring(1);
+        if (hash == 'program') {
+          hidealldivs('schedule')
+          schedule.style.display='block'
+        }
+      }
+    }
+    
+    var backArr = [];
+    
+    window.onpopstate = function() {
+      if(backArr.length>0) {
+        section_name = backArr.pop()
+        about.style.display = 'none';
+      	speakers.style.display='none';
+      	registration.style.display='none';
+      	schedule.style.display='none';
+      	faq.style.display='none';
+      	demo.style.display='none';
+      	keynote.style.display='none';
+        awards.style.display='none';
+        past_events.style.display='none';
+        document.getElementById(section_name).style.display='block';
+      }
+    }
+    
+    function hidealldivs (current_section){
+      var sections = document.getElementsByTagName("section");
+      var i = 0;
+      for( i = 0; i < sections.length; i++) {
+        if (current_section == sections[i].id) {
+          break;
+        }
+        if (sections[i].style.display == 'block') {
+          backArr.push(sections[i].id);
+          break;
+        }
+      }
+      about.style.display = 'none';
+    	speakers.style.display='none';
+    	registration.style.display='none';
+    	schedule.style.display='none';
+    	faq.style.display='none';
+    	demo.style.display='none';
+    	keynote.style.display='none';
+      awards.style.display='none';
+      past_events.style.display='none';
+    }
+    
+    </script>
+    
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

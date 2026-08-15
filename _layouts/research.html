@@ -1,0 +1,111 @@
+---
+layout: page
+---
+{% if page.highlights %}
+  {% assign _highlights = 1 %}
+{% else %}
+  {% assign _highlights = 0 %}
+{% endif %}
+
+{% assign publications = "" | split: ',' %}
+{% assign full_list = "" | split: ',' %}
+
+{% for article in site.posts %}
+  {% if article.tags contains page.pubtag %}
+    {% assign full_list = full_list | push: article %}
+
+    {% if _highlights == 1 and article.highlight %}
+      {% assign publications = publications | push: article %}
+    {% else if _highlights == 0 %}
+      {% if publications.size == 5 %}
+        {% continue %}
+      {% endif %}
+      {% assign publications = publications | push: article %}
+    {% endif %}
+
+  {% endif %}
+{% endfor %}
+
+{% include researchbar.html %}
+<h1>{{ page.heading }}</h1>
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+<h3>Overview</h3>
+{{ content }}
+<h3>Publications</h3>
+<div class="layout--archive js-all">
+  <div class="js-result layout--archive__result d-none">
+    {%- include article-list.html articles=publications type='brief' show_cover=true cover_size = 'lg' show_authors=true reverse=false -%}
+  </div>
+  <a href="/publications/">Show More</a>
+</div>
+<script>
+  {%- include scripts/archieve.js -%}
+</script>
+
+<h3>Open Source Code and Datasets</h3>
+<ul>
+{% for article in full_list %}
+  {% if article.github %}
+    <li> <a href="{{ article.github }}">[ {{ article.title }} Code ]</a> </li>
+  {% endif %}
+  {% if article.dataset %}
+    <li> <a href="{{ article.dataset }}">[ {{article.title }} Dataset ]</a></li>
+  {% endif %}
+{% endfor %}
+
+{% if page.sponsors %}
+  <h3>Sponsors</h3>
+  <div class="article-list grid grid--sm grid--p-3">
+    {% for sponsor in page.sponsors %}
+      <div class="cell cell--12 cell--md-4 cell--lg-3">
+        <div class="card card--flat">
+          <div class="card__image">
+            <img class="image" src="{{ sponsor.picture }}" />
+              <div class="overlay overlay--bottom">
+                <header>
+                  <p>{{ sponsor.name }}</p>
+                </header>
+              </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<h3>Team</h3>
+
+{% assign people_list = "" | split: "" %}
+
+{% if site.data.people %}
+  {% assign people_list = people_list | concat: site.data.people %}
+{% endif %}
+
+{% if site.data.alumni %}
+  {% assign people_list = people_list | concat: site.data.alumni %}
+{% endif %}
+
+<div class="article-list grid grid--sm grid--p-3">
+    {% for people in people_list %}
+      {% if page.people contains people.name %}
+       <div class="cell cell--12 cell--md-4 cell--lg-3">
+          <div class="card card--flat">
+            <div class="card__image">
+              <img class="image" src="{{ people.picture }}" />
+                <div class="overlay overlay--bottom">
+                  <header>
+                    {% if people.website %}
+                      <p><a href="{{ people.website }}">{{ people.name }}</a></p>
+                    {% else %}
+                      <p>{{ people.name }}</p>
+                    {% endif %}
+                    <p><i style="color: #dddddd">{{ people.role }}</i></p>
+                  </header>
+                </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+</div>

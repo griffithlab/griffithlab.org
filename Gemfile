@@ -1,13 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "jekyll", ">= 3.7"
+gem "jekyll-feed"
+gem "jekyll-paginate", "~> 1.1.0"
+gem "jekyll-sitemap", "~> 1.4"
+gem "jemoji"
 
-group :jekyll_plugins do
-  gem 'jekyll-gist'
-  gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
-end
+gem "kramdown-parser-gfm"
 
-gem 'asciidoctor', '~> 1.5.4'
-gem 'coderay', '1.1.1'
 
+gem "webrick", "~> 1.8"

@@ -1,0 +1,19 @@
+- title: "Remote access setup"
+  image: remote_access.jpg
+  description: With everyone working from home, it is important to understand certain good practices as well as usefulness of various methods to allow secure and functional remote access.
+  authors: Raghav Subbaraman
+  link:
+    url: https://wcsng.ucsd.edu/remote_access/
+    display:  Remote Access
+  highlight: 1
+  news2:
+
+- title: "WCSNG Slides template and Logo design"
+  image: logo_black.png
+  description: Please use the following slide template [download from here]({{ site.url }}{{ site.baseurl }}/files/template.pptx) and logos for WCSNG across all platforms for publicity. The logos are available in png format in both black as well as white fonts. PDF version is also available.
+  authors: Ish Jain, Rohit Kumar
+  link:
+    url: https://wcsng.ucsd.edu/logo/
+    display:  logo
+  highlight: 1
+  news2:

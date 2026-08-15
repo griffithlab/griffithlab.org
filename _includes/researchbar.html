@@ -1,0 +1,26 @@
+<header style="background: #D6001C; border-radius: 15px;">
+  <div class="main">
+    <nav id="research-bar" class="collapsed">
+      <button class="research-bar-toggle button" onclick="document.getElementById('research-bar').classList.toggle('collapsed')">
+        <span class="icon">{%- include svg/icon/menu.svg -%}</span>
+        <span>Research</span>
+      </button>
+      <ul class="research-bar navigation">
+        {%- for _item in site.data.navigation.header -%}
+          {%- include snippets/get-nav-url.html path=_item.url -%}
+          {%- assign _nav_url = __return -%}
+          {%- include snippets/get-nav-url.html path=page.url -%}
+          {%- assign _page_url = __return -%}
+          {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
+          {%- if _item.subfolderitems -%}
+            {%- if _item.titles.en == "Research" -%}
+              {%- for entry in _item.subfolderitems -%}
+                <li class="navigation__item" style="font-size: small;"><a href="{{ entry.url }}">{{ entry.name }}</a></li>
+              {% endfor %}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<style>
+  .content-area {
+    max-width: 1200px; /* Consistent maximum width for the content */
+    margin: auto; /* Centers the content within the viewport */
+    padding: 20px; /* Provides spacing around the content */
+    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+  }
+
+  /* Article list styles */
+  .layout--articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .article-item {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  /* Grid and Brief specific styles */
+  @media (min-width: 768px) {
+    .article-item.grid {
+      flex: 1 1 50%; /* Each takes up half the width on medium screens */
+    }
+    .article-item.brief {
+      flex: 1 1 100%; /* Full width for brief articles */
+    }
+  }
+
+  @media (min-width: 992px) {
+    .article-item.grid {
+      flex: 1 1 33.33%; /* Each takes up a third of the width on large screens */
+    }
+  }
+</style>
+
+<div class="content-area">
+  {% assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source %}
+  {% if _page_articles_data_source %}
+    {% assign _keys = _page_articles_data_source | split: '.' %}
+    {% assign _articles = nil %}
+    {% for _key in _keys %}
+      {% if forloop.first %}
+        {% case _key %}
+          {% when 'site' %} {% assign _articles = site %}
+          {% when 'page' %} {% assign _articles = page %}
+          {% when 'layout' %} {% assign _articles = layout %}
+          {% when 'paginator' %} {% assign _articles = paginator %}
+          {% else %} {% assign _articles = site[_key] %}
+        {% endcase %}
+      {% else %}
+        {% assign _articles = _articles[_key] %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if _articles %}
+    <div class="layout--articles">
+      {% assign _type = page.articles.type | default: layout.articles.type %}
+      {% case _type %}
+        {% when 'grid' %}
+          {% include article-list.html articles=_articles type='grid' %}
+        
+        {% when 'brief' %}
+          {% include article-list.html articles=_articles type='brief' show_info=site.data.variables.default.page.articles.show_info %}
+        
+        {% else %}
+          {% include article-list.html articles=_articles type=page.articles.type %}
+      {% endcase %}
+    </div>
+  {% endif %}
+</div>
+
+{{ content }}

@@ -1,0 +1,43 @@
+# Masters Students
+- name: Kishore Rajendran
+  role: MS
+  year: "2026"
+  now: 
+  col: 1
+
+
+- name: William Hunter
+  role: MS
+  year: "2024"
+  now: 
+  col: 1
+
+
+# - name: Test # Use as a test subject
+#   role: MS
+#   year: "2024"
+#   now: 
+#   col: 2
+
+
+# Undergrad
+
+- name: Maiyun Zhang
+  role: BS
+  year: "2027"
+  now: 
+  col: 1
+- name: Luke Wilson
+  role: BS
+  year: "2026"
+  now: 
+  col: 1
+
+- name: Yichen Yu
+  role: BS
+  year: "2026"
+  now: 
+  col: 1
+
+
+

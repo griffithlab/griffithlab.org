@@ -1,0 +1,303 @@
+.header {
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  background: $header-background;
+  a {
+    font-weight: map-get($base, font-weight);
+    text-decoration: none !important;
+    @include link-colors($header-text-color, $main-color-1);
+  }
+  .main {
+    @include flexbox();
+    @include media-breakpoint-down(mdplus) {
+      @include flex-direction(column);
+      padding: map-get($spacers, 2);
+    }
+  }
+}
+
+.header--dark {
+  @extend .text--dark;
+  background: rgba(#182B49, .15);
+  .navigation__item--active {
+    &::after {
+      @include split-line(bottom, 4px, $text-color-theme-dark);
+    }
+  }
+}
+
+.header--light {
+  @extend .text--light;
+  background: rgba(#fff, .15);
+  .navigation__item--active {
+    &::after {
+      @include split-line(bottom, 4px, $text-color-theme-light);
+    }
+  }
+}
+
+.header__title {
+  @include menu(3, 0);
+  @include align-items(center);
+  @include flex-wrap(nowrap);
+  @include flex(1);
+  height: map-get($layout, header-height);
+  margin-right: map-get($spacers, 3);
+  white-space: nowrap;
+  @include media-breakpoint-down(md) {
+    height: auto;
+    margin-right: 0;
+  }
+  & > .header__brand {
+    @include flex(1);
+    @include media-breakpoint-down(md) {
+      height: map-get($layout, header-height-sm);
+    }
+  }
+  & > .search-button {
+    display: none;
+    margin-left: map-get($spacers, 2);
+    @include media-breakpoint-down(md) {
+      @include flexbox();
+    }
+  }
+}
+
+.header__brand {
+  @include flexbox();
+  @include align-items(center);
+  & > svg {
+    overflow: visible;
+    width: map-get($base, font-size-h4) * 1.6;
+    height: map-get($base, font-size-h4) * 1.6;
+    margin-right: map-get($spacers, 3);
+    vertical-align: middle;
+    @include media-breakpoint-down(md) {
+      width: map-get($base, font-size-h4) * 1.2;
+      height: map-get($base, font-size-h4) * 1.2;
+    }
+  }
+  & > a {
+    display: inline-block;
+    font-size: map-get($base, font-size-h4);
+    @include media-breakpoint-down(md) {
+      font-size: map-get($base, font-size-h4-small);
+    }
+  }
+}
+
+.navigation {
+  @include overflow(auto, "x");
+
+  &.collapsed {
+    @include media-breakpoint-down(mdplus) {
+      display: none;
+    }
+  }
+
+  & > ul {
+    height: map-get($layout, header-height);
+    padding-bottom: 0;
+    margin: 0;
+
+    @include media-breakpoint-down(mdplus) {
+      padding-bottom: 4px;
+      margin: -4px 0 0 0;
+    }
+
+    @include menu(3, 2, nowrap);
+    @include align-items(center);
+
+    @include media-breakpoint-down(mdplus) {
+      height: auto;
+      @include menu(0, 2, nowrap);
+      @include menu-direction("vertical");
+    }
+
+    .search-button {
+      @include media-breakpoint-down(md) {
+        display: none;
+      }
+    }
+  }
+}
+
+.navigation__item {
+  &::after {
+    display: block;
+    margin-bottom: -4px;
+    content: "";
+    @include split-line(bottom, 4px, transparent);
+  }
+}
+.navigation__item--active {
+  a {
+    @include link-colors($main-color-1, $main-color-1);
+  }
+  &::after {
+    @include split-line(bottom, 4px, $main-color-1);
+  }
+}
+
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li {
+  display: inline-block;
+}
+
+.navigation li a {
+  color: white;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* top-level tabs (Research, Team, Publications, …) get a bubbly hover */
+.navigation > ul > li > a {
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  transform-origin: center;
+  transition: background-color 0.16s ease, transform 0.16s ease, box-shadow 0.16s ease;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.16);
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+  }
+}
+
+/* refined active-tab accent: a gold pill instead of the default underline */
+.navigation > ul > li.navigation__item--active > a {
+  background-color: rgba(255, 205, 0, 0.18);
+  box-shadow: inset 0 0 0 1px rgba(255, 205, 0, 0.55);
+}
+.navigation__item--active::after {
+  display: none;
+}
+
+/* caret on tabs that have a dropdown */
+.navigation__caret {
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 0.7em;
+  line-height: 1;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+}
+
+/* flip the caret while the bubble is open */
+.navigation li:hover > a .navigation__caret,
+.navigation li.hovered > a .navigation__caret {
+  transform: rotate(180deg);
+}
+
+/* ===== Dropdown "bubble" menus ===== */
+.navigation ul ul {
+  list-style: none;
+  margin: 0;
+
+  /* desktop: rounded white "bubble" that pops in on hover.
+     NOTE: no top/left override — keep the natural position right under the tab. */
+  @include media-breakpoint-up(mdplus) {
+    position: absolute;
+    margin-top: 8px;
+    min-width: 230px;
+    padding: 8px;
+    background: #D6001C;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 14px;
+    box-shadow: 0 16px 40px rgba(24, 43, 73, 0.45);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px) scale(0.98);
+    transform-origin: top left;
+    transition: opacity 0.16s ease,
+                transform 0.2s cubic-bezier(0.2, 0.85, 0.3, 1.2),
+                visibility 0.16s ease;
+    z-index: 1100;
+
+    /* transparent bridge so hover survives the small gap to the bubble */
+    &::before {
+      content: "";
+      position: absolute;
+      bottom: 100%;
+      left: 0;
+      right: 0;
+      height: 10px;
+    }
+  }
+
+  @include media-breakpoint-down(mdplus) {
+    display: none;
+  }
+}
+
+.navigation ul ul li {
+  display: block;
+}
+
+.navigation ul ul li a {
+  display: block;
+  white-space: nowrap;
+  padding: 9px 14px;
+  border-radius: 9px;
+  color: #fff !important;            /* always visible on the navy bubble */
+  transform-origin: left center;
+  transition: transform 0.15s ease;
+
+  &:hover {
+    color: #fff !important;          /* stay white — no yellow */
+    transform: scale(1.08);          /* just get bigger */
+  }
+}
+
+/* reveal the bubble: hover (desktop) + click-toggle (.hovered) */
+.navigation li:hover > ul,
+.navigation li.hovered > ul {
+  @include media-breakpoint-up(mdplus) {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.navigation li.hovered > ul {
+  @include media-breakpoint-down(mdplus) {
+    display: block;
+    overflow: visible;
+    background-color: #2b4d85;
+    border-radius: 10px;
+    padding: 4px;
+    z-index: 1;
+  }
+}
+
+.navigation ul li a span {
+  margin-left: map-get($spacers, 2);
+  font-size: map-get($base, font-size-h6);
+}
+
+.nav-bar-toggle {
+  display: block;
+  color: #fff;
+
+  margin: auto auto auto 0;
+
+  @include flexbox();
+
+  &>span>svg {
+    color: #fff;
+    scale: 1.5;
+  }
+
+  @include media-breakpoint-up(mdplus) {
+    display: none;
+  }
+}
