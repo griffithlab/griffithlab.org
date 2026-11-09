@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2026"><a href="#2026">2026</a></li>
     <li data-magellan-arrival="2025"><a href="#2025">2025</a></li>
     <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
@@ -26,8 +27,34 @@ header:
   </ul>
 </div>
 
+
+<h2 data-magellan-destination="2026">2026</h2>
+<a name="2026"></a>
+
+{% include publication authors="Devarakonda S, Hoang M, Sankararaman S, Skidmore ZL, Herzog BH, Pepin K, McMichael J, Ward JP, Morgensztern D, Waqar SN, Brinker A, Oliver TG, Griffith M, Griffith OL, Govindan R" title="Genomic and transcriptomic features of relapsed small cell lung cancer" journal="Journal of Thoracic Oncology" doi="10.1016/j.jtho.2026.104201" pmid="42749049"%}
+
+{% include publication authors="Zhang Perkins F, Zhang X, Yu YYL, Yang Y, Cullinan D, Singhal K, Parra-Lopez CA, Miller CA, Yan B, Angkeow JW, Li J, Myers NB, Vickery T, Herndon J, Mishra R, Myles S, Sanford D, Jaffee EM, Laheru DA, Wang-Gillam A, Ruzinova MB, Hagemann IS, Davies SR, Fleming TP, Namen S, DeSelm CJ, Li L, Panni RZ, Gao F, Lim KH, Griffith OL, Griffith M, Schreiber RD, Goedegebuure SP, Hawkins WG, Gillanders WE" title="Synthetic long peptide and DNA personalized cancer vaccines induce robust neoantigen-specific T cell responses in pancreatic cancer" journal="Science Advances" doi="10.1126/sciadv.aei1190" pmid="42696575"%}
+
+{% include publication authors="Schimmelpfennig L, Cannon M, Cody Q, McMichael J, Coffman AC, Kiwala S, Krysiak K, Wagner AH, Griffith M, Griffith OL" title="Searching the druggable genome using large language models" journal="Bioinformatics" doi="10.1093/bioinformatics/btag632" pmid="42631692"%}
+
+{% include publication authors="Schimmelpfennig L, Cody Q, McMichael JF, Coffman AC, Khanfar M, Li J, Yao JX, Saliba J, Danos A, Kiwala S, Wagner A, Sanz-Cruzado J, Lever J, Griffith M, Griffith OL" title="CIViC MCP: integrating large language models with the Clinical Interpretations of Variants in Cancer" journal="Bioinformatics Advances" doi="10.1093/bioadv/vbag209" pmid="42592377"%}
+
+{% include publication authors="Garfinkle EAR, Perales-Linares R, Gimple RC, Livingstone AJ, Roberts KF, Butt OH, Goedegebuure SP, McLellan MD, Chang GS, Hundal J, Yan J, Navarro JB, Paxton SA, Chattopadhyay S, Cooch N, Perales-Puchalt A, Stavroulaki K, Rochestie S, Peters J, Junker B, Campian JL, Chheda MG, Chicoine MR, Kim AH, Willie JT, Zipfel GJ, Dowling JL, Miller CA, Griffith OL, Griffith M, Gillanders WE, Miller KE, Mardis ER, Sardesai NY, Dunn GP, Johanns TM" title="Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial" journal="Nature Cancer" doi="10.1038/s43018-026-01163-w" pmid="42120910"%}
+
+{% include publication authors="Roberts K, Valiño Ramos P, Jindal S, Prasad V, Lee YS, Khanfar M, Griffith OL, Griffith M, Jiang J, Cesarman E, Rauch D, Simonson P, Odeny T, Ratner L" title="Case Report: Synchronous Manifestations of Kaposi Sarcoma Herpesvirus-Associated Disorders" journal="Cancer Reports (Hoboken)" doi="10.1002/cnr2.70589" pmid="42225084"%}
+
+{% include publication authors="Butt OH, Singhal K, Luo J, Rettig MP, Foltz JA, Huang J, Zhou AY, Tao Y, Griffith OL, Griffith M, Johanns TM, Ansstas G, Zhang C, Tang J, Christ S, Ferrando-Martinez S, Lee BH, DiPersio JF, Chheda MG, Fehniger TA, Campian JL" title="NT-I7, a long-acting interleukin-7, increases lymphocyte counts and induces CD8+ T cell clonotype expansion in patients with newly diagnosed high-grade gliomas" journal="Clinical Cancer Research" doi="10.1158/1078-0432.ccr-25-2953" pmid="41880597"%}
+
+{% include publication authors="Gomez F, Shea L, Sharavanan SA, Russler-Germain D, Mosior M, Krysiak K, Matlock M, Skidmore ZL, Lee YS, Duncavage EJ, O'Laughlin M, Fronick C, Fulton RS, Bartlett NL, Cashen AF, Griffith M, Fehniger TA, Griffith OL, Wartman LD" title="Exome sequencing of Hodgkin and non-Hodgkin composite lymphomas identifies shared somatic mutations indicative of common founding precursors" journal="Cancer Genetics" doi="10.1016/j.cancergen.2026.02.007" pmid="41791303"%}
+
+{% include publication authors="Chu S, Skidmore ZL, Warren W, Fisk B, Kim DY, Peralta S, Rodney A, Bryant J, Fronick C, Skinner O, Bell C, Gruber A, Bartl-Wilson L, Neiberg S, Bilyk G, Coffman J, Wischmann K, Beckemen T, Fischer C, Flaum A, Crouch W, Montrose D, Hoernig K, Griffith M, Bryan JN, Griffith OL" title="Whole Exome Sequencing of Feline Oral Squamous Cell Carcinoma Reveals Genomic Parallels With Human Head and Neck Squamous Cell Carcinoma" journal="Veterinary and Comparative Oncology" doi="https://doi.org/10.1111/vco.70054" pmid="41725028"%}
+
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
+
+{% include publication authors="Schimmelpfennig LE, Bhattarai K, Oh IY, Lever J, Griffith OL, Griffith M, Lai AM, Abrams ZB" title="CeRTS: certainty retrieval token search in large language model clinical information extraction" journal="Journal of Biomedical Informatics" doi="10.1016/j.jbi.2025.104900" pmid="40854447"%}
+
+{% include publication authors="Li X, Singhal K, Deng Q, Chihara D, Russler-Germain D, Harkins RA, Henderson J, Arita K, Kizhakeyil A, Sun R, Lakra P, Hussein U, Foltz JA, Wilson A, Schmidt E, Nizamuddin I, Dinh T, Kesaraju A, Hamilton MP, Allen C, Gandhi MK, Tobin J, Jiang A, Hilton L, Scott DW, Vega F, Flowers CR, Westin JR, Griffith OL, Fehniger TA, Griffith M, Green MR" title="Large B cell lymphoma microenvironment archetype profiles" journal="Cancer Cell" doi="10.1016/j.ccell.2025.06.002" pmid="40920660"%}
 
 {% include publication authors="Rauch DA, Ramos PV, Khanfar M, Harding J, Joseph A, Fahad A, Simonson P, Risch I, Griffith O, Griffith M, Ratner L" title="Single-Cell Transcriptomic Analysis of Kaposi Sarcoma" journal="PLoS Pathogens" doi="10.1371/journal.ppat.1012233" pmid="40168402"%}
 
