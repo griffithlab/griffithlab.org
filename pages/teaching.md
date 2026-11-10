@@ -9,21 +9,22 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-Drs Griffith guest lecture regularly for a number of traditional courses at Washington University School of Medicine. Drs Griffith also coordinate the Cancer Informatics Journal Club and Dr Obi Griffith is course master for a Genomics in Medicine course. The Griffith Lab is deeply committed to providing open source educational resources to aid the bioinformatics community. To this end we maintain several online courses and tutorials. We also deliver periodic workshops based on these materials (see below). To date we have led 34 workshops held in 7 cities and 5 countries. Furthermore, we and many members of the lab are actively engaged in community forums such as [BioStars](https://www.biostars.org/).
+Drs Griffith guest lecture regularly for a number of traditional courses at Washington University School of Medicine. Drs Griffith also coordinate the Cancer Informatics Journal Club and Dr Obi Griffith is course master for a Genomics in Medicine course. The Griffith Lab is deeply committed to providing open source educational resources to aid the bioinformatics community. To this end we maintain several online courses and tutorials. We also deliver periodic workshops based on these materials (see below). To date we have led more than 40 workshops held in 7 cities and 5 countries. Furthermore, we and many members of the lab are actively engaged in community forums such as [BioStars](https://www.biostars.org/).
 
 ### Upcoming Workshops
 
-1. Canadian Bioinformatics Workshops - [RNA-seq Analysis, Dates TBD, 2025](https://bioinformatics.ca/workshops/current-workshops/)
-2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 10-23, 2024](https://meetings.cshl.edu/courses.aspx?course=c-seqtec&year=24)
+1. Canadian Bioinformatics Workshops - [RNA-seq Analysis, Toronto, June 7-9, 2027](https://hub.bioinformatics.ca/en/workshops/cbw/2027-rna-seq-analysis-toronto-on-2027)
+2. Cold Spring Harbor Laboratory - [Advanced Sequencing Technologies & Bioinformatics Analysis, November 8-21, 2026](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC)
+3. Cancer Research Institute - CRI Bioinformatics Workshop, May 15-20, 2027
 
 ### Past Workshops
 
-1. RNA-seq analysis and cloud computing ([CBW](https://bioinformatics.ca/workshops/), Toronto)
-2. Advanced Sequencing Technologies and Applications ([CSHL](https://meetings.cshl.edu/courseshome.aspx), New York)
-3. Cancer Research Institute Bioinformatics Bootcamp ([CRI](https://crigrants.github.io/CRI_bioinformatics_workshop/course.html), Orlando) 
+1. RNA-seq analysis and cloud computing ([CBW](https://hub.bioinformatics.ca/en/workshops/cbw), Toronto)
+2. Advanced Sequencing Technologies and Applications ([CSHL](https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC), New York)
+3. Cancer Research Institute Bioinformatics Bootcamp ([CRI](https://cancer-research-institute.github.io/CRI_bioinformatics_workshop/), Orlando) 
 4. Genomic Data Visualization/Interpretation ([Physalia Courses](https://www.physalia-courses.org/), Berlin)
-5. Precision Medicine Bioinformatics ([PR Informatics](https://www.prinformatics.com/), Glasgow)
-6. High-Throughput Biology: From Sequence to Networks ([CSHL](https://meetings.cshl.edu/courseshome.aspx) / [CBW](https://bioinformatics.ca/workshops/), New York)
+5. Precision Medicine Bioinformatics (PR Informatics, Glasgow)
+6. High-Throughput Biology: From Sequence to Networks ([CSHL](https://meetings.cshl.edu/courseshome.aspx) / [CBW](https://bioinformatics.ca/training/cbw/), New York)
 7. Workshop on Genomics ([Evomics](http://evomics.org/workshops/), Český Krumlov)
 
 ### Online Courses
@@ -32,7 +33,7 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 3. [pmbio.org](http://pmbio.org/) - Precision Medicine Bioinformatics. <br>An end-to-end precision medicine analysis of real human genome (WGS and Exome) and transcriptome (RNA-seq) data for a hypothetical patient. The goal of the analysis is to identify personalized therapeutic options for this patient as well as identifying any prognostic or diagnostic implications in the data. 
 
 ### Online tutorials (Selected)
-* [Introduction to AWS Cloud Computing](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)
+* [Introduction to AWS Cloud Computing](https://rnabio.org/module-00-setup/0000/06/01/Intro_to_AWS/)
 * [Creating Heatmaps in R](https://www.biostars.org/p/18211/)
 * [Converting Genome Coordinates From One Genome Version To Another (Ucsc Liftover, Ncbi Remap, Ensembl Api)](https://www.biostars.org/p/65558/)
 * [How to Download Raw Sequence Data from GEO/SRA](https://www.biostars.org/p/111040/)
@@ -53,10 +54,15 @@ Drs Griffith guest lecture regularly for a number of traditional courses at Wash
 
 ### Washington University Courses
 <ul> 
-  <li>Special Topics in Molecular Genetics: Molecular Basis of Cancer (BIO5288)</li>
-  <li>Genetics and Genomics of Disease (BIO5487)</li>
+  <li>Special Topics in Molecular Genetics: Molecular Basis of Cancer (BIOL5288)</li>
+  <li>Genetics and Genomics of Disease (BIOL5487)</li>
   <li>Human Linkage and Association (M21-5483/L41-5483)</li>
-  <li>Genomics in Medicine I/II (M17-532/533)</li>
+  <li>Genomics in Medicine (M17-533)</li>
+  <li>Cancer Biology Advanced Topics (BIOL5940)</li>
+  <li>Current Topics in Human and Mammalian Genetics (BIOL5285)</li>
+  <li>Foundations in Cancer Biology (BIOL5920)</li>
+  <li>Experimental Cancer Biology (BIOL5929)</li>
+  <li>Precision Medicine: Incorporating Genomics into Cutting-Edge Patient Care Keystone-Integrated Science Course (KISC) (M81-755)</li>
   <li>Cancer Informatics Journal Club (L41-BIOL5499)</li> 
 </ul>
 
