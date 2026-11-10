@@ -17,7 +17,7 @@ header:
 <a name="cvc"></a>
 ### Cancer Variant Curator
 
-We are currently seeking to hire a Cancer Variant Curator. If you are interested to learn more please contact us for details or follow the [Application Link](https://jobs.wustl.edu/psc/APPLHRMS/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&REL_ACTION=Yes&SiteId=1&HRS_JO_PST_TYPE=E&HRS_JOB_OPENING_ID=45240&HRS_JO_PST_SEQ=1)
+We are currently seeking to hire a Cancer Variant Curator. If you are interested to learn more please contact us for details.
 
 The position’s primary task will be assisting in the editorial maintenance and evolution of the Clinical Interpretations of Variants in Cancer knowledgebase (civicdb.org). The position will involve review of genomic findings to assist in the curation of the biomedical literature and use of basic bioinformatics skills and resources. Initially, most effort will involve mining the literature and creating summaries of known clinically actionable genomic alterations. The applicant will ultimately be expected to help produce educational materials and training of other CIViC curators as part of their role on the project. Individuals in this role will be expected to support planned Hackathon and Curation Workshops (at national and international venues), providing training and organizational / planning support alongside other CIViC team members. Prior events can be found [here](https://civicdb.org/meetings). Collaboration with developers, clinicians and researchers is a routine portion of this position.
 

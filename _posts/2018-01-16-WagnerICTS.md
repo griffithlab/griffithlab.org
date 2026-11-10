@@ -7,7 +7,7 @@ header:
 breadcrumb: true
 ---
 
-Alex Wagner (left) was selected from more than 75 applicants to present his abstract "Coordinating Variant Interpretation Knowledgebases Improves Clinical Interpretation of Genomic Variants in Cancers" to Eric Green (right), the director of the National Human Genome Research Institute (NHGRI), at the [1st Annual ICTS Symposium](http://icts.wustl.edu/icts-researchers/news-events/2245). Eric Green presented the keynote address at the symposium.
+Alex Wagner (left) was selected from more than 75 applicants to present his abstract "Coordinating Variant Interpretation Knowledgebases Improves Clinical Interpretation of Genomic Variants in Cancers" to Eric Green (right), the director of the National Human Genome Research Institute (NHGRI), at the 1st Annual ICTS Symposium. Eric Green presented the keynote address at the symposium.
 <div class="row">
     <div class="small-12 columns">
         <img src="/assets/img/news/AlexWagner_ICTS_EricGreen.png">

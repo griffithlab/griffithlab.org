@@ -47,7 +47,7 @@ header:
 
 {% include publication authors="Gomez F, Shea L, Sharavanan SA, Russler-Germain D, Mosior M, Krysiak K, Matlock M, Skidmore ZL, Lee YS, Duncavage EJ, O'Laughlin M, Fronick C, Fulton RS, Bartlett NL, Cashen AF, Griffith M, Fehniger TA, Griffith OL, Wartman LD" title="Exome sequencing of Hodgkin and non-Hodgkin composite lymphomas identifies shared somatic mutations indicative of common founding precursors" journal="Cancer Genetics" doi="10.1016/j.cancergen.2026.02.007" pmid="41791303"%}
 
-{% include publication authors="Chu S, Skidmore ZL, Warren W, Fisk B, Kim DY, Peralta S, Rodney A, Bryant J, Fronick C, Skinner O, Bell C, Gruber A, Bartl-Wilson L, Neiberg S, Bilyk G, Coffman J, Wischmann K, Beckemen T, Fischer C, Flaum A, Crouch W, Montrose D, Hoernig K, Griffith M, Bryan JN, Griffith OL" title="Whole Exome Sequencing of Feline Oral Squamous Cell Carcinoma Reveals Genomic Parallels With Human Head and Neck Squamous Cell Carcinoma" journal="Veterinary and Comparative Oncology" doi="https://doi.org/10.1111/vco.70054" pmid="41725028"%}
+{% include publication authors="Chu S, Skidmore ZL, Warren W, Fisk B, Kim DY, Peralta S, Rodney A, Bryant J, Fronick C, Skinner O, Bell C, Gruber A, Bartl-Wilson L, Neiberg S, Bilyk G, Coffman J, Wischmann K, Beckemen T, Fischer C, Flaum A, Crouch W, Montrose D, Hoernig K, Griffith M, Bryan JN, Griffith OL" title="Whole Exome Sequencing of Feline Oral Squamous Cell Carcinoma Reveals Genomic Parallels With Human Head and Neck Squamous Cell Carcinoma" journal="Veterinary and Comparative Oncology" doi="10.1111/vco.70054" pmid="41725028"%}
 
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
