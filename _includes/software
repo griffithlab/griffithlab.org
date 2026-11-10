@@ -46,6 +46,18 @@
           {% if include.citation3 %}
           <br>3. <a href="{{ include.citation_link3 }}">{{ include.citation3 }}</a>
           {% endif %}
+
+          {% if include.citation4 %}
+          <br>4. <a href="{{ include.citation_link4 }}">{{ include.citation4 }}</a>
+          {% endif %}
+
+          {% if include.citation5 %}
+          <br>5. <a href="{{ include.citation_link5 }}">{{ include.citation5 }}</a>
+          {% endif %}
+
+          {% if include.citation6 %}
+          <br>6. <a href="{{ include.citation_link6 }}">{{ include.citation6 }}</a>
+          {% endif %}
  
     </div>
 </div>
