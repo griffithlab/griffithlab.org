@@ -391,3 +391,11 @@
       url: https://www.linkedin.com/in/jace-webster-a34541122
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+
+- member_name: Morteza
+  social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/morteza-seifi-173b5b254/
+      class: fa-brands fa-linkedin-in
+      title: "Professional LinkedIn account"
+
